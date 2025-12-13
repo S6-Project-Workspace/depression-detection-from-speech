@@ -1,6 +1,9 @@
 # Depression Detection in Dravidian Speech - Requirements
 # DravidianLangTech @ ACL 2026 Shared Task
 
+# Streamlit App
+streamlit>=1.28.0
+
 # Core Deep Learning
 torch>=2.0.0
 torchaudio>=2.0.0
