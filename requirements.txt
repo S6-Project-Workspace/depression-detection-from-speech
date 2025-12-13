@@ -1,0 +1,44 @@
+# Depression Detection in Dravidian Speech - Requirements
+# DravidianLangTech @ ACL 2026 Shared Task
+
+# Core Deep Learning
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Transformers and Pretrained Models
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+resampy>=0.4.0
+
+# Voice Activity Detection (optional, falls back to energy-based)
+webrtcvad>=2.0.10
+
+# Audio Augmentation
+audiomentations>=0.31.0
+torch-audiomentations>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Progress and Logging
+tqdm>=4.65.0
+
+# Configuration
+omegaconf>=2.3.0
+
+# Visualization (optional, for analysis)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development
+ipython>=8.0.0
+
+# Optional: Weights & Biases for experiment tracking
+# wandb>=0.15.0
