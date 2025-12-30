@@ -1,10 +1,9 @@
 # Depression Detection from Speech
-
-🎯 **DravidianLangTech @ ACL 2026 Shared Task** - Speech-based Depression Detection for Tamil and Malayalam
+**DravidianLangTech @ ACL 2026 Shared Task** - Speech-based Depression Detection for Tamil and Malayalam
 
 A deep learning system for detecting depression markers in speech using a two-stream architecture combining **ECAPA-TDNN** and **Wav2Vec2 SSL** models.
 
-## 🏆 Performance
+## Performance
 
 | Model | Macro-F1 Score |
 |-------|----------------|
@@ -12,7 +11,7 @@ A deep learning system for detecting depression markers in speech using a two-st
 | SSL (Wav2Vec2) | 77.42% |
 | Ensemble | ~95% |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the Repository
 ```bash
@@ -34,14 +33,14 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501`
 
-## 🎤 Features
+## Features
 
 - **Real-time Voice Recording**: Record your voice directly in the browser
 - **Audio File Upload**: Support for WAV, MP3, FLAC, M4A, OGG
 - **Multiple Models**: Choose between ECAPA-TDNN, SSL, or Ensemble prediction
 - **Visual Results**: Confidence scores and chunk-level analysis
 
-## 🏗️ Architecture
+## Architecture
 
 ### Two-Stream Fusion Architecture
 
@@ -87,7 +86,7 @@ The app will open at `http://localhost:8501`
 - **Features**: 768-dimensional contextualized representations
 - **Pooling**: Mean pooling over time
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── app.py                 # Streamlit web application
@@ -109,7 +108,7 @@ The app will open at `http://localhost:8501`
             └── ssl_fold_0/best_model.pt
 ```
 
-## 🔧 Training (Optional)
+## Training (Optional)
 
 If you have access to the dataset:
 
@@ -124,7 +123,7 @@ python train.py --language combined --epochs 10 --folds 3
 - **Scheduler**: Cosine annealing with warmup
 - **Audio**: 5-second chunks at 16kHz
 
-## 📊 Dataset
+## Dataset
 
 **DravidianLangTech Depression Dataset**
 - Languages: Tamil, Malayalam
@@ -133,7 +132,7 @@ python train.py --language combined --epochs 10 --folds 3
 
 > Note: Dataset not included due to size. Contact organizers for access.
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Audio Preprocessing
 - Resampling to 16kHz (Sinc interpolation with Hann window)
@@ -147,24 +146,7 @@ python train.py --language combined --epochs 10 --folds 3
 - Early stopping with patience
 - Macro-F1 based threshold optimization
 
-## 📝 Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{depression-detection-2026,
-  title={Two-Stream Fusion Architecture for Depression Detection in Dravidian Languages},
-  author={Your Name},
-  booktitle={DravidianLangTech @ ACL 2026},
-  year={2026}
-}
-```
-
-## 📄 License
-
-MIT License
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - DravidianLangTech organizers for the shared task
 - Hugging Face for Wav2Vec2 pretrained models
