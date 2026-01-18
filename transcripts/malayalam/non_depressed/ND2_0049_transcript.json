@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0049.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அது கொண்டு, நமக்கு ஒரு பாடு, காதகல் கேட்டு வளரா அல்லை மக்கலே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:01:34.428560",
+  "segments": [
+    {
+      "text": "அது கொண்டு, நமக்கு ஒரு பாடு, காதகல் கேட்டு வளரா",
+      "start_time": 0,
+      "end_time": 3.1,
+      "confidence": 1.0
+    },
+    {
+      "text": "அல்லை மக்கலே",
+      "start_time": 3.1,
+      "end_time": 4.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அது கொண்டு, நமக்கு ஒரு பாடு, காதகல் கேட்டு வளரா அல்லை மக்கலே",
+  "morphemes": []
+}

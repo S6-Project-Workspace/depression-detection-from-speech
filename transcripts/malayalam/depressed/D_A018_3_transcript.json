@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A018_3.wav",
+  "speaker_id": "A018",
+  "language": "malayalam",
+  "transcript": "என்ன பிராட்டுங்கள் அறுகைக் காணா, அறுங்கைக் காணில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:34:20.985441",
+  "segments": [
+    {
+      "text": "என்ன பிராட்டுங்கள் அறுகைக் காணா, அறுங்கைக் காணில்லாம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன பிராட்டுங்கள் அறுகைக் காணா, அறுங்கைக் காணில்லாம்.",
+  "morphemes": []
+}

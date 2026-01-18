@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0123.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "வேதனையில் புடன் என்றால் வேண்டும் என்று விலைத்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:06:44.789376",
+  "segments": [
+    {
+      "text": "வேதனையில் புடன் என்றால் வேண்டும் என்று விலைத்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வேதனையில் புடன் என்றால் வேண்டும் என்று விலைத்துவிட்டு.",
+  "morphemes": []
+}

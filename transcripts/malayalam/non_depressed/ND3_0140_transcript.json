@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0140.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "நான் அது தெரித்துதான் அமையில் பரங்யும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:41:34.492953",
+  "segments": [
+    {
+      "text": "நான் அது தெரித்துதான் அமையில் பரங்யும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் அது தெரித்துதான் அமையில் பரங்யும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0007.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "கேட்டை விராமல் இருப்பதில் பெருமல் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:08.166348",
+  "segments": [
+    {
+      "text": "கேட்டை விராமல் இருப்பதில் பெருமல் இல்லை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கேட்டை விராமல் இருப்பதில் பெருமல் இல்லை.",
+  "morphemes": []
+}

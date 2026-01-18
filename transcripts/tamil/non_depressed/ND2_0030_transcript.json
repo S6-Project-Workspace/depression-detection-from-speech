@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0030.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "முயலும் விள்ளும் அமையம் விள்ளும் ஆனால் முயலாமே விள்ளாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:40.213825",
+  "segments": [
+    {
+      "text": "முயலும் விள்ளும் அமையம் விள்ளும் ஆனால் முயலாமே விள்ளாது.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "முயலும் விள்ளும் அமையம் விள்ளும் ஆனால் முயலாமே விள்ளாது.",
+  "morphemes": []
+}

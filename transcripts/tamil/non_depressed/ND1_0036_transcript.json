@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0036.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "ஒருவருக்குப் பயன்படும் பொருளை அவள்கள்கள்கள் சிரந்ததாககும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:33:35.698581",
+  "segments": [
+    {
+      "text": "ஒருவருக்குப் பயன்படும் பொருளை அவள்கள்கள்கள் சிரந்ததாககும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருவருக்குப் பயன்படும் பொருளை அவள்கள்கள்கள் சிரந்ததாககும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2004_c.wav",
+  "speaker_id": "F2004",
+  "language": "tamil",
+  "transcript": "ஏதோ பிரச்சன் நடக்கப் போட மாறிப்பயமாயிருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:16.338457",
+  "segments": [
+    {
+      "text": "ஏதோ பிரச்சன் நடக்கப் போட மாறிப்பயமாயிருக்கிறது.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஏதோ பிரச்சன் நடக்கப் போட மாறிப்பயமாயிருக்கிறது.",
+  "morphemes": []
+}

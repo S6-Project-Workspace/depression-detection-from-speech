@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND5_0070.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அப்போல அகுரிவே பெருண்ணும். நங்கள் குரிவேகளைக் கூட்டில் இருந்து பாடாரில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:28:49.844890",
+  "segments": [
+    {
+      "text": "அப்போல அகுரிவே பெருண்ணும்.",
+      "start_time": 0,
+      "end_time": 1.4,
+      "confidence": 1.0
+    },
+    {
+      "text": "நங்கள் குரிவேகளைக் கூட்டில் இருந்து பாடாரில்லை.",
+      "start_time": 1.4,
+      "end_time": 3.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போல அகுரிவே பெருண்ணும். நங்கள் குரிவேகளைக் கூட்டில் இருந்து பாடாரில்லை.",
+  "morphemes": []
+}

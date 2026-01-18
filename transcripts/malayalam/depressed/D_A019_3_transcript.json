@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A019_3.wav",
+  "speaker_id": "A019",
+  "language": "malayalam",
+  "transcript": "என்னைக்குச் சவை ஒரு திருமான எடுக்காம் போலுங்கள் கடித்தில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:34:33.868647",
+  "segments": [
+    {
+      "text": "என்னைக்குச் சவை ஒரு திருமான எடுக்காம் போலுங்கள் கடித்தில்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னைக்குச் சவை ஒரு திருமான எடுக்காம் போலுங்கள் கடித்தில்லை.",
+  "morphemes": []
+}

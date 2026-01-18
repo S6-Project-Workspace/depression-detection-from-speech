@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_18_1.wav",
+  "speaker_id": "F001_18",
+  "language": "malayalam",
+  "transcript": "என்னிக்கு இந்தச் செய்வில்லத்து ஒருளைக்சியும் காண்ணில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:03:59.770469",
+  "segments": [
+    {
+      "text": "என்னிக்கு இந்தச் செய்வில்லத்து ஒருளைக்சியும் காண்ணில்லாம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னிக்கு இந்தச் செய்வில்லத்து ஒருளைக்சியும் காண்ணில்லாம்.",
+  "morphemes": []
+}

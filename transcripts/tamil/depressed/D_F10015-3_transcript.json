@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10015-3.wav",
+  "speaker_id": "F10015",
+  "language": "tamil",
+  "transcript": "என்ன தன்னால் செய்யவில் யார்மியில் காப்பத்து மாத்தங்களா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:42:17.067624",
+  "segments": [
+    {
+      "text": "என்ன தன்னால் செய்யவில் யார்மியில் காப்பத்து மாத்தங்களா",
+      "start_time": 0,
+      "end_time": 5.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன தன்னால் செய்யவில் யார்மியில் காப்பத்து மாத்தங்களா",
+  "morphemes": []
+}

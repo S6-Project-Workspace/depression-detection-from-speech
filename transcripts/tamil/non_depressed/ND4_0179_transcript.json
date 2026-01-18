@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0179.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "பயன்றைப் போருட்கள் விருப்பனைக்கு வைக்கப் படாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:13:45.053863",
+  "segments": [
+    {
+      "text": "பயன்றைப் போருட்கள் விருப்பனைக்கு வைக்கப் படாது.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பயன்றைப் போருட்கள் விருப்பனைக்கு வைக்கப் படாது.",
+  "morphemes": []
+}

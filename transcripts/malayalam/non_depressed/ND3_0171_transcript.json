@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0171.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "இன்ன அதிந்தத்தானத் தேர் என்று பெல்லாக இருந்த வைத்துவே எந்தரம் வந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:45:56.411179",
+  "segments": [
+    {
+      "text": "இன்ன அதிந்தத்தானத் தேர் என்று பெல்லாக இருந்த வைத்துவே எந்தரம் வந்து",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இன்ன அதிந்தத்தானத் தேர் என்று பெல்லாக இருந்த வைத்துவே எந்தரம் வந்து",
+  "morphemes": []
+}

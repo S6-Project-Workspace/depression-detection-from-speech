@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A033_1.wav",
+  "speaker_id": "A033",
+  "language": "malayalam",
+  "transcript": "என்னுடையும் என்னுடையும் என்னுடையும் போலும் கழியும் இல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:44:29.754345",
+  "segments": [
+    {
+      "text": "என்னுடையும் என்னுடையும் என்னுடையும் போலும் கழியும் இல்லையா?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுடையும் என்னுடையும் என்னுடையும் போலும் கழியும் இல்லையா?",
+  "morphemes": []
+}

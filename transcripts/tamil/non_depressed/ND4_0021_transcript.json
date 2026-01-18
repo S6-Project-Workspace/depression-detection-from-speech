@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0021.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "கோபம் என்பது தற்காலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:51.767904",
+  "segments": [
+    {
+      "text": "கோபம் என்பது தற்காலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கோபம் என்பது தற்காலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "morphemes": []
+}

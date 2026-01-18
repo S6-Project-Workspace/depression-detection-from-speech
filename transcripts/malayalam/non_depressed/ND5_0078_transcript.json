@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0078.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "உடன் தென்றே அதுப் பாரண்ணத்தை என் மாவில் போயிருக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:29:33.385954",
+  "segments": [
+    {
+      "text": "உடன் தென்றே அதுப் பாரண்ணத்தை என் மாவில் போயிருக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உடன் தென்றே அதுப் பாரண்ணத்தை என் மாவில் போயிருக்கவேண்டும்.",
+  "morphemes": []
+}

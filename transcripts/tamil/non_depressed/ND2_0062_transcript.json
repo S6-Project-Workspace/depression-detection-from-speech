@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0062.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கண்ணிந்த படம் தானே விரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:22.416915",
+  "segments": [
+    {
+      "text": "கண்ணிந்த படம் தானே விரும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கண்ணிந்த படம் தானே விரும்",
+  "morphemes": []
+}

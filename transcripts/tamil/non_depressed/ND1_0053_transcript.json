@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0053.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "எதித்தவனேல் என்றால் கோபம் சந்தாலும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:35:45.159694",
+  "segments": [
+    {
+      "text": "எதித்தவனேல் என்றால் கோபம் சந்தாலும்",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எதித்தவனேல் என்றால் கோபம் சந்தாலும்",
+  "morphemes": []
+}

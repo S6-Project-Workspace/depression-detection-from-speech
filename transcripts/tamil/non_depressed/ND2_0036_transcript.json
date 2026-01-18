@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0036.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒரு விருக்குப் பயன்புடன் பொருளை அவருக்கு சிரந்ததாககும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:57.433891",
+  "segments": [
+    {
+      "text": "ஒரு விருக்குப் பயன்புடன் பொருளை அவருக்கு சிரந்ததாககும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு விருக்குப் பயன்புடன் பொருளை அவருக்கு சிரந்ததாககும்.",
+  "morphemes": []
+}

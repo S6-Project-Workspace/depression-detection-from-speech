@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0121.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "விட்டுக்க செல்வம் மாடு தோட்டை செல்வம் முருங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:05.640451",
+  "segments": [
+    {
+      "text": "விட்டுக்க செல்வம் மாடு தோட்டை செல்வம் முருங்கள்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விட்டுக்க செல்வம் மாடு தோட்டை செல்வம் முருங்கள்.",
+  "morphemes": []
+}

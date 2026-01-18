@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0059.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "பயங்கிரமாயிற்சினம் காரணம் அகுள் கிடந்து ராஜா ஒருங்கிப் போய்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:36:28.589811",
+  "segments": [
+    {
+      "text": "பயங்கிரமாயிற்சினம் காரணம் அகுள் கிடந்து ராஜா ஒருங்கிப் போய்",
+      "start_time": 0,
+      "end_time": 3.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பயங்கிரமாயிற்சினம் காரணம் அகுள் கிடந்து ராஜா ஒருங்கிப் போய்",
+  "morphemes": []
+}

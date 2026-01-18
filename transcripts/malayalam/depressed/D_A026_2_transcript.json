@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A026_2.wav",
+  "speaker_id": "A026",
+  "language": "malayalam",
+  "transcript": "இத்தவில் ஒரு கிலும் சமாடான அண்டு எப்பிக்கில்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:39:29.252864",
+  "segments": [
+    {
+      "text": "இத்தவில் ஒரு கிலும் சமாடான அண்டு எப்பிக்கில்லையா?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இத்தவில் ஒரு கிலும் சமாடான அண்டு எப்பிக்கில்லையா?",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0065.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "கவலை உடியும் இருக்கு கண்ணிருக்கம் வராது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:49.453635",
+  "segments": [
+    {
+      "text": "கவலை உடியும் இருக்கு கண்ணிருக்கம் வராது.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கவலை உடியும் இருக்கு கண்ணிருக்கம் வராது.",
+  "morphemes": []
+}

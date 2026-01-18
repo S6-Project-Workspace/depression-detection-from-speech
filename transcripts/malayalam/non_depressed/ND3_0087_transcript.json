@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0087.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அவர்கள் வெள்ளத்தில் வேறு ஒரு நாயா, அவர்கள் வாயில் ஒரு வெளியே இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:34:04.512639",
+  "segments": [
+    {
+      "text": "அவர்கள் வெள்ளத்தில் வேறு ஒரு நாயா, அவர்கள் வாயில் ஒரு வெளியே இல்லை.",
+      "start_time": 0,
+      "end_time": 4.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவர்கள் வெள்ளத்தில் வேறு ஒரு நாயா, அவர்கள் வாயில் ஒரு வெளியே இல்லை.",
+  "morphemes": []
+}

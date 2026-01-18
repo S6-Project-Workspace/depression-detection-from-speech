@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-17T22:43:19.676253",
+  "statistics": {
+    "tamil": {
+      "depressed": {
+        "total": 454,
+        "processed": 452,
+        "skipped": 2,
+        "errors": 0
+      },
+      "non_depressed": {
+        "total": 920,
+        "processed": 918,
+        "skipped": 2,
+        "errors": 0
+      }
+    },
+    "malayalam": {
+      "depressed": {
+        "total": 788,
+        "processed": 788,
+        "skipped": 0,
+        "errors": 0
+      },
+      "non_depressed": {
+        "total": 900,
+        "processed": 900,
+        "skipped": 0,
+        "errors": 0
+      }
+    }
+  },
+  "summary": {
+    "total_processed": 3058,
+    "total_errors": 0
+  }
+}

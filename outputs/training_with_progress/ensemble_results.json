@@ -1,0 +1,29 @@
+{
+  "mean_macro_f1": 0.7815771986700275,
+  "std_macro_f1": 0.3060465073734506,
+  "optimal_ssl_weight": 0.55,
+  "optimal_threshold": 0.11,
+  "fold_results": [
+    {
+      "macro_f1": 0.9987451540501939,
+      "f1_depressed": 0.9986737400530504,
+      "f1_non_depressed": 0.9988165680473373,
+      "optimal_weight": 0.8,
+      "optimal_threshold": 0.21
+    },
+    {
+      "macro_f1": 0.3487629688747007,
+      "f1_depressed": 0.0,
+      "f1_non_depressed": 0.6975259377494014,
+      "optimal_weight": 0.0,
+      "optimal_threshold": 0.01
+    },
+    {
+      "macro_f1": 0.9972234730851881,
+      "f1_depressed": 0.9980657640232108,
+      "f1_non_depressed": 0.9963811821471653,
+      "optimal_weight": 0.8500000000000001,
+      "optimal_threshold": 0.11
+    }
+  ]
+}

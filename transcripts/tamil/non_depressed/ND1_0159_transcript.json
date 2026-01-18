@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0159.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "மிஞ்சியிரைக் கொண்டு மேர்க்கைப் போகுத்தையிலாகாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:27.458488",
+  "segments": [
+    {
+      "text": "மிஞ்சியிரைக் கொண்டு மேர்க்கைப் போகுத்தையிலாகாது.",
+      "start_time": 0,
+      "end_time": 2.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மிஞ்சியிரைக் கொண்டு மேர்க்கைப் போகுத்தையிலாகாது.",
+  "morphemes": []
+}

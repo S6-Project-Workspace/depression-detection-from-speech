@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0015_c.wav",
+  "speaker_id": "S0015",
+  "language": "malayalam",
+  "transcript": "நான் இத் தெட்டலேண்டி நான் இன்றால் சைக்கின் அவிருக்கிறார்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:44:36.758438",
+  "segments": [
+    {
+      "text": "நான் இத் தெட்டலேண்டி நான் இன்றால் சைக்கின் அவிருக்கிறார்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இத் தெட்டலேண்டி நான் இன்றால் சைக்கின் அவிருக்கிறார்.",
+  "morphemes": []
+}

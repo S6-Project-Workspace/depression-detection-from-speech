@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A037_1.wav",
+  "speaker_id": "A037",
+  "language": "malayalam",
+  "transcript": "நீங்கள் காருக்கும் இத்த வேறே, என்ன மனதிலக்கும் காயினிட்டில்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:46:25.194169",
+  "segments": [
+    {
+      "text": "நீங்கள் காருக்கும் இத்த வேறே, என்ன மனதிலக்கும் காயினிட்டில்லையா?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் காருக்கும் இத்த வேறே, என்ன மனதிலக்கும் காயினிட்டில்லையா?",
+  "morphemes": []
+}

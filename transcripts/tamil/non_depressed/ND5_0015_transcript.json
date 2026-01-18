@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0015.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "எப்பொழுதும் நம்பிக்கியுடன் இருக்க வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:15:00.484398",
+  "segments": [
+    {
+      "text": "எப்பொழுதும் நம்பிக்கியுடன் இருக்க வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எப்பொழுதும் நம்பிக்கியுடன் இருக்க வேண்டும்.",
+  "morphemes": []
+}

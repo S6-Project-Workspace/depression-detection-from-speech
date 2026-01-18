@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0150.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "நல்ல மாட்டிருக்கும் ஒரு சூடியும் நல்ல மனிதனுக்கும் ஒரு வாத்தை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:08.064760",
+  "segments": [
+    {
+      "text": "நல்ல மாட்டிருக்கும் ஒரு சூடியும் நல்ல மனிதனுக்கும் ஒரு வாத்தை",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நல்ல மாட்டிருக்கும் ஒரு சூடியும் நல்ல மனிதனுக்கும் ஒரு வாத்தை",
+  "morphemes": []
+}

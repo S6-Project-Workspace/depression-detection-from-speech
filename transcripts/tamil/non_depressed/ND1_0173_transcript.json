@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0173.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "விலையும் பயிர் முலையிலே தெரியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:56.546056",
+  "segments": [
+    {
+      "text": "விலையும் பயிர் முலையிலே தெரியும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விலையும் பயிர் முலையிலே தெரியும்.",
+  "morphemes": []
+}

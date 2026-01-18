@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_68_1.wav",
+  "speaker_id": "F001_68",
+  "language": "malayalam",
+  "transcript": "ஒருவாக்கு ஒரு சிங்தையும் என்னை மனைச்சினைக் கூட்டல் தகர்க்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:35:01.218549",
+  "segments": [
+    {
+      "text": "ஒருவாக்கு ஒரு சிங்தையும் என்னை மனைச்சினைக் கூட்டல் தகர்க்கும்",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒருவாக்கு ஒரு சிங்தையும் என்னை மனைச்சினைக் கூட்டல் தகர்க்கும்",
+  "morphemes": []
+}

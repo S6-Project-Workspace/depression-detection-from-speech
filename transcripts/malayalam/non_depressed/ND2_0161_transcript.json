@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0161.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "இது கேட்ட பாடே தத்த பறந்து நடந்து காட்டில் எல்லாமுறகுங்களுடும் இவிஷேஷம் பறந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:17:20.953856",
+  "segments": [
+    {
+      "text": "இது கேட்ட பாடே தத்த பறந்து நடந்து",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    },
+    {
+      "text": "காட்டில் எல்லாமுறகுங்களுடும் இவிஷேஷம் பறந்து",
+      "start_time": 2.7,
+      "end_time": 5.9,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இது கேட்ட பாடே தத்த பறந்து நடந்து காட்டில் எல்லாமுறகுங்களுடும் இவிஷேஷம் பறந்து",
+  "morphemes": []
+}

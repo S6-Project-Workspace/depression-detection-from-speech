@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0111.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அய்ந்தில் வலையாதுதான் அய்மப்பதில் வலையாது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:26.768770",
+  "segments": [
+    {
+      "text": "அய்ந்தில் வலையாதுதான் அய்மப்பதில் வலையாது",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அய்ந்தில் வலையாதுதான் அய்மப்பதில் வலையாது",
+  "morphemes": []
+}

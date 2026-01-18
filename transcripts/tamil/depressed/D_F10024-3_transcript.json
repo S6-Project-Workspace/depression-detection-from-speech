@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10024-3.wav",
+  "speaker_id": "F10024",
+  "language": "tamil",
+  "transcript": "என்ன செல்லுங்கள் என்ன பார்த்து செல்லுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:46:47.744415",
+  "segments": [
+    {
+      "text": "என்ன செல்லுங்கள் என்ன பார்த்து செல்லுங்கள்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன செல்லுங்கள் என்ன பார்த்து செல்லுங்கள்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0097.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "தவளையில் தன் வாயர்க்கிடும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:29.050862",
+  "segments": [
+    {
+      "text": "தவளையில் தன் வாயர்க்கிடும்.",
+      "start_time": 0,
+      "end_time": 1.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தவளையில் தன் வாயர்க்கிடும்.",
+  "morphemes": []
+}

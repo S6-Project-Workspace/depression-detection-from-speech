@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A046_1.wav",
+  "speaker_id": "A046",
+  "language": "malayalam",
+  "transcript": "இண்ணு முன்னொடுக்கும் என்னுட்டுப் பரையிருது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:49:58.680740",
+  "segments": [
+    {
+      "text": "இண்ணு முன்னொடுக்கும் என்னுட்டுப் பரையிருது",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இண்ணு முன்னொடுக்கும் என்னுட்டுப் பரையிருது",
+  "morphemes": []
+}

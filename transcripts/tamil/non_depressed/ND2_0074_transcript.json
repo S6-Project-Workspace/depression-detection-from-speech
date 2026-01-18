@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0074.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "பாம்மின் கால் பாம்பரியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:49.332664",
+  "segments": [
+    {
+      "text": "பாம்மின் கால் பாம்பரியும்.",
+      "start_time": 0,
+      "end_time": 1.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாம்மின் கால் பாம்பரியும்.",
+  "morphemes": []
+}

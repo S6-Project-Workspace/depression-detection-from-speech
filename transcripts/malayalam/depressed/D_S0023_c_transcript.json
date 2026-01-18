@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_S0023_c.wav",
+  "speaker_id": "S0023",
+  "language": "malayalam",
+  "transcript": "நான் அரி மிஷ்டுப் பெடானு அடும் என்னிஷ்டுப் பெடானு யோக்கின் அல்லவு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:50:38.077766",
+  "segments": [
+    {
+      "text": "நான் அரி மிஷ்டுப் பெடானு",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "அடும் என்னிஷ்டுப் பெடானு",
+      "start_time": 4.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "யோக்கின் அல்லவு",
+      "start_time": 6.0,
+      "end_time": 8.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் அரி மிஷ்டுப் பெடானு அடும் என்னிஷ்டுப் பெடானு யோக்கின் அல்லவு",
+  "morphemes": []
+}

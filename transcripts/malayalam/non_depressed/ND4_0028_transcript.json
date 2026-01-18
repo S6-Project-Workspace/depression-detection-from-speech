@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0028.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "கூடாதைப் பரித்தைக் காரில்லை என்று கடம் வாங்கேது உண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:51:10.271079",
+  "segments": [
+    {
+      "text": "கூடாதைப் பரித்தைக் காரில்லை என்று கடம் வாங்கேது உண்டு.",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கூடாதைப் பரித்தைக் காரில்லை என்று கடம் வாங்கேது உண்டு.",
+  "morphemes": []
+}

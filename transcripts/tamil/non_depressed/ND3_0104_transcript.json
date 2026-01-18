@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0104.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "படிக்கிறது தெருவாய் முடி, இடிக்கிறது பெருமால் கோய்ல.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:12.140809",
+  "segments": [
+    {
+      "text": "படிக்கிறது தெருவாய் முடி, இடிக்கிறது பெருமால் கோய்ல.",
+      "start_time": 0,
+      "end_time": 2.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "படிக்கிறது தெருவாய் முடி, இடிக்கிறது பெருமால் கோய்ல.",
+  "morphemes": []
+}

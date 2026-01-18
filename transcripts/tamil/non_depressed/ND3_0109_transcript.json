@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0109.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "புமியே இப்போல புரமே வீண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:21.821540",
+  "segments": [
+    {
+      "text": "புமியே இப்போல புரமே வீண்டு.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புமியே இப்போல புரமே வீண்டு.",
+  "morphemes": []
+}

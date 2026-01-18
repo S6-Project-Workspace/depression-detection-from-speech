@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0102.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "நம்முடைக் கூட்டுக்காடிலில் நான் மற்றுள்ளவர் நம்மே அழக்கும்தாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:03:56.285080",
+  "segments": [
+    {
+      "text": "நம்முடைக் கூட்டுக்காடிலில் நான் மற்றுள்ளவர் நம்மே அழக்கும்தாது.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நம்முடைக் கூட்டுக்காடிலில் நான் மற்றுள்ளவர் நம்மே அழக்கும்தாது.",
+  "morphemes": []
+}

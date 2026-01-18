@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_62_1.wav",
+  "speaker_id": "F001_62",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு விஷ்டுரமம் நேடானாகத்தான் ஒரு நிமிஷயம் போலுமில்ல.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:31:37.245744",
+  "segments": [
+    {
+      "text": "என்னுக்கு விஷ்டுரமம் நேடானாகத்தான் ஒரு நிமிஷயம் போலுமில்ல.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு விஷ்டுரமம் நேடானாகத்தான் ஒரு நிமிஷயம் போலுமில்ல.",
+  "morphemes": []
+}

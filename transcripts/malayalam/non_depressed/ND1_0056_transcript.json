@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0056.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "குறைக் காலம் கடின்னும் பயங்கிருமாயும் இந்த முன்னும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:35:56.265649",
+  "segments": [
+    {
+      "text": "குறைக் காலம் கடின்னும் பயங்கிருமாயும் இந்த முன்னும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குறைக் காலம் கடின்னும் பயங்கிருமாயும் இந்த முன்னும்",
+  "morphemes": []
+}

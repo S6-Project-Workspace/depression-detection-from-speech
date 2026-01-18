@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0086.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "சவாமி வரம் கொடுத்தாலும் பூசாரியிடங்கொடுக்க மாட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:42:29.394049",
+  "segments": [
+    {
+      "text": "சவாமி வரம் கொடுத்தாலும் பூசாரியிடங்கொடுக்க மாட்டான்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சவாமி வரம் கொடுத்தாலும் பூசாரியிடங்கொடுக்க மாட்டான்.",
+  "morphemes": []
+}

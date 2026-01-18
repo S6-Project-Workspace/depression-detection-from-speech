@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0149.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "پுவங்கள் ருதாயிட்டந்து மாய்யங்கள் பக்கிச்சை ஒருங்கள் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:12:53.001906",
+  "segments": [
+    {
+      "text": "پுவங்கள் ருதாயிட்டந்து மாய்யங்கள் பக்கிச்சை ஒருங்கள் இல்லை.",
+      "start_time": 0,
+      "end_time": 2.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "پுவங்கள் ருதாயிட்டந்து மாய்யங்கள் பக்கிச்சை ஒருங்கள் இல்லை.",
+  "morphemes": []
+}

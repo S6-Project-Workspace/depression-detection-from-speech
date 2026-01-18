@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_44_1.wav",
+  "speaker_id": "F001_44",
+  "language": "malayalam",
+  "transcript": "எல்லாயில் புரும் என்னுடைய பராஜயமில் மாத்தரம் காண்ணும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:20:00.827382",
+  "segments": [
+    {
+      "text": "எல்லாயில் புரும் என்னுடைய பராஜயமில் மாத்தரம் காண்ணும்.",
+      "start_time": 0,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எல்லாயில் புரும் என்னுடைய பராஜயமில் மாத்தரம் காண்ணும்.",
+  "morphemes": []
+}

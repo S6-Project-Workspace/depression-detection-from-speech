@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_55_1.wav",
+  "speaker_id": "F001_55",
+  "language": "malayalam",
+  "transcript": "நான் நிச்சிரமாயபோமில் இரியும்தான் ஒருத்துவாளையான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:26:26.553827",
+  "segments": [
+    {
+      "text": "நான் நிச்சிரமாயபோமில் இரியும்தான் ஒருத்துவாளையான்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் நிச்சிரமாயபோமில் இரியும்தான் ஒருத்துவாளையான்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0003.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "கடினமுடையும் கண்டிப் பாக ஒரு நாள் பலன் தெரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:05:58.261124",
+  "segments": [
+    {
+      "text": "கடினமுடையும் கண்டிப் பாக ஒரு நாள் பலன் தெரும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கடினமுடையும் கண்டிப் பாக ஒரு நாள் பலன் தெரும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0038.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "வீண் சண்டையென்றும் இழுத்தரவ்பினருக்கும் திமையாக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:12.186512",
+  "segments": [
+    {
+      "text": "வீண் சண்டையென்றும் இழுத்தரவ்பினருக்கும் திமையாக்கும்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீண் சண்டையென்றும் இழுத்தரவ்பினருக்கும் திமையாக்கும்",
+  "morphemes": []
+}

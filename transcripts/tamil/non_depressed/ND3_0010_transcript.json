@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0010.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "அரிவு ஒன்றுதான் நாட்சத்தை முறிக்கும் மரியம் இருந்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:57:12.221554",
+  "segments": [
+    {
+      "text": "அரிவு ஒன்றுதான் நாட்சத்தை முறிக்கும் மரியம் இருந்து.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அரிவு ஒன்றுதான் நாட்சத்தை முறிக்கும் மரியம் இருந்து.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A013_2.wav",
+  "speaker_id": "A013",
+  "language": "malayalam",
+  "transcript": "பில்லும் பாக்குங்கள் இனிக்கு எதிராயும் பதேசிங்களாலும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:48.382180",
+  "segments": [
+    {
+      "text": "பில்லும் பாக்குங்கள் இனிக்கு எதிராயும் பதேசிங்களாலும்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "பில்லும் பாக்குங்கள் இனிக்கு எதிராயும் பதேசிங்களாலும்",
+  "morphemes": []
+}

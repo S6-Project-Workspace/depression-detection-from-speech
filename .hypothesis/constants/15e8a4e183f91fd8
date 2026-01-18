@@ -1,0 +1,4 @@
+# file: /Users/keerthivasan/NLP/multimodal_trainer.py
+# hypothesis_version: 6.150.2
+
+[0.0, ' | ', '-', '=', 'Audio-Only', 'Confusion Matrix:', 'Evaluating', 'Evaluation Results', 'F1(Dep)', 'F1(Non-Dep)', 'Macro-F1', 'Missing f1_depressed', 'Missing macro_f1', 'Model', 'Multimodal', 'Per-Class Metrics:', 'Precision', 'Recall', 'Text-Only', '__main__', 'attention_mask', 'audio_attention_mask', 'audio_input', 'best_val_f1', 'confusion_matrix', 'cuda', 'f1_depressed', 'f1_non_depressed', 'final_epoch', 'final_evaluation', 'input_ids', 'label', 'labels', 'loss', 'lr', 'macro', 'macro_f1', 'macro_precision', 'macro_recall', 'mel_spectrogram', 'precision', 'precision_depressed', 'predictions', 'probabilities', 'recall', 'recall_depressed', 'recall_non_depressed', 'text_attention_mask', 'text_input_ids', 'training_history', 'w', 'waveform']

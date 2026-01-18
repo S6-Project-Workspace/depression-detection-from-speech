@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0050_c.wav",
+  "speaker_id": "S0050",
+  "language": "malayalam",
+  "transcript": "இன்னிக்கினே, இந்த பரத்திக்கிக் கேடுவில்லாது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:11:30.132884",
+  "segments": [
+    {
+      "text": "இன்னிக்கினே, இந்த பரத்திக்கிக் கேடுவில்லாது",
+      "start_time": 0,
+      "end_time": 5.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னிக்கினே, இந்த பரத்திக்கிக் கேடுவில்லாது",
+  "morphemes": []
+}

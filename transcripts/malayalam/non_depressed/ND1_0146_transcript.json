@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0146.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "எந்தில்லைம் நஷ்டைப்பட்டும் என்று தோனியால் பின்னைப் பரயானும் உப்புக்கில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:49:09.670049",
+  "segments": [
+    {
+      "text": "எந்தில்லைம் நஷ்டைப்பட்டும் என்று தோனியால்",
+      "start_time": 0,
+      "end_time": 1.92,
+      "confidence": 1.0
+    },
+    {
+      "text": "பின்னைப் பரயானும் உப்புக்கில்லை.",
+      "start_time": 1.92,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எந்தில்லைம் நஷ்டைப்பட்டும் என்று தோனியால் பின்னைப் பரயானும் உப்புக்கில்லை.",
+  "morphemes": []
+}

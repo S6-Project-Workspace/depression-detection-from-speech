@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0126.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அரச்சனிலாதனாடு அத்தில் அதைத்தேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:11:30.118171",
+  "segments": [
+    {
+      "text": "அரச்சனிலாதனாடு அத்தில் அதைத்தேன்.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அரச்சனிலாதனாடு அத்தில் அதைத்தேன்.",
+  "morphemes": []
+}

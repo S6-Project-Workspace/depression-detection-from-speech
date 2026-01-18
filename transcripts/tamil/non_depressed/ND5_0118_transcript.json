@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0118.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "அறிபுடை யாரை அரச்சனும் விரும்புவான",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:59.174581",
+  "segments": [
+    {
+      "text": "அறிபுடை யாரை அரச்சனும் விரும்புவான",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அறிபுடை யாரை அரச்சனும் விரும்புவான",
+  "morphemes": []
+}

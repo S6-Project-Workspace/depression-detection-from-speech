@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0015.wav",
+  "speaker_id": "S0015",
+  "language": "malayalam",
+  "transcript": "நான் இதென்றி நான் தெல்லாம் சாயிக்கின்னது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:44:28.669491",
+  "segments": [
+    {
+      "text": "நான் இதென்றி நான் தெல்லாம் சாயிக்கின்னது",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இதென்றி நான் தெல்லாம் சாயிக்கின்னது",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A005_1.wav",
+  "speaker_id": "A005",
+  "language": "malayalam",
+  "transcript": "ஆன் எந்த தெருமான மட்டத்தாலும் அதெல்லாம்ப் பேட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:24:58.552375",
+  "segments": [
+    {
+      "text": "ஆன் எந்த தெருமான மட்டத்தாலும் அதெல்லாம்ப் பேட்டான்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஆன் எந்த தெருமான மட்டத்தாலும் அதெல்லாம்ப் பேட்டான்.",
+  "morphemes": []
+}

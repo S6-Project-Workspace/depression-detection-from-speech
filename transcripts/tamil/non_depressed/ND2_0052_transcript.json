@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0052.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஏத்திருக்கையால் காக்கையுட்டாதவன் பித்தைக் கொடுப்பானா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:49:59.433200",
+  "segments": [
+    {
+      "text": "ஏத்திருக்கையால் காக்கையுட்டாதவன் பித்தைக் கொடுப்பானா?",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஏத்திருக்கையால் காக்கையுட்டாதவன் பித்தைக் கொடுப்பானா?",
+  "morphemes": []
+}

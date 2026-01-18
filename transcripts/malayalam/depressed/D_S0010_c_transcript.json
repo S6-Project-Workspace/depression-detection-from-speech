@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0010_c.wav",
+  "speaker_id": "S0010",
+  "language": "malayalam",
+  "transcript": "நண்ணத்தான் தாட்டிவிடுத்தான்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:40:25.526306",
+  "segments": [
+    {
+      "text": "நண்ணத்தான் தாட்டிவிடுத்தான்",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நண்ணத்தான் தாட்டிவிடுத்தான்",
+  "morphemes": []
+}

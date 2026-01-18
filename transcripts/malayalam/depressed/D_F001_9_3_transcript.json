@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_9_3.wav",
+  "speaker_id": "F001_9",
+  "language": "malayalam",
+  "transcript": "நிறந்திரம் பயமானம் எந்தச் செய்யில்லாம் எந்த உள்ளுக்கு வரில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:39:50.244259",
+  "segments": [
+    {
+      "text": "நிறந்திரம் பயமானம் எந்தச் செய்யில்லாம் எந்த உள்ளுக்கு வரில்லை.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நிறந்திரம் பயமானம் எந்தச் செய்யில்லாம் எந்த உள்ளுக்கு வரில்லை.",
+  "morphemes": []
+}

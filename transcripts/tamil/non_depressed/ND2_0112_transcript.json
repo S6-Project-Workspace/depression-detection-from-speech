@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0112.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மின்சாரம் இல்லாமல் ஏதிரம் ஏங்காது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:02.600472",
+  "segments": [
+    {
+      "text": "மின்சாரம் இல்லாமல் ஏதிரம் ஏங்காது.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மின்சாரம் இல்லாமல் ஏதிரம் ஏங்காது.",
+  "morphemes": []
+}

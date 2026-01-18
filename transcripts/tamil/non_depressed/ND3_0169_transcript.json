@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0169.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "வாயில் பிளைப்படிக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:05:11.332028",
+  "segments": [
+    {
+      "text": "வாயில் பிளைப்படிக்கும்.",
+      "start_time": 0,
+      "end_time": 1.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வாயில் பிளைப்படிக்கும்.",
+  "morphemes": []
+}

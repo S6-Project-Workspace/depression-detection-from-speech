@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0140.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "அன்பன் அந்தத் தின் வழில் எங்கு வதே உயிருள்ள வடலாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:56.839836",
+  "segments": [
+    {
+      "text": "அன்பன் அந்தத் தின் வழில் எங்கு வதே உயிருள்ள வடலாகும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அன்பன் அந்தத் தின் வழில் எங்கு வதே உயிருள்ள வடலாகும்.",
+  "morphemes": []
+}

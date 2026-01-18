@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2007_a.wav",
+  "speaker_id": "F2007",
+  "language": "tamil",
+  "transcript": "எனக்கு இந்த வாழ்கையும் ஒன்ன புரியல்லை. நான் தவறா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:50.568367",
+  "segments": [
+    {
+      "text": "எனக்கு இந்த வாழ்கையும் ஒன்ன புரியல்லை. நான் தவறா.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு இந்த வாழ்கையும் ஒன்ன புரியல்லை. நான் தவறா.",
+  "morphemes": []
+}

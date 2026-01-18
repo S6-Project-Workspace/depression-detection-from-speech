@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A042_4.wav",
+  "speaker_id": "A042",
+  "language": "malayalam",
+  "transcript": "எங்கள் சுப்புங்கள் எல்லாம் இப்பொழும்பாது தார்மாக ரயபோல் என்று",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:48:13.281093",
+  "segments": [
+    {
+      "text": "எங்கள் சுப்புங்கள் எல்லாம் இப்பொழும்பாது தார்மாக ரயபோல் என்று",
+      "start_time": 0,
+      "end_time": 4.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எங்கள் சுப்புங்கள் எல்லாம் இப்பொழும்பாது தார்மாக ரயபோல் என்று",
+  "morphemes": []
+}

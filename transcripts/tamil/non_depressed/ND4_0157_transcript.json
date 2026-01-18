@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0157.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "மண்ணு இரை தண்ணி இருப்போல் நேர்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:53.994482",
+  "segments": [
+    {
+      "text": "மண்ணு இரை தண்ணி இருப்போல் நேர்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மண்ணு இரை தண்ணி இருப்போல் நேர்.",
+  "morphemes": []
+}

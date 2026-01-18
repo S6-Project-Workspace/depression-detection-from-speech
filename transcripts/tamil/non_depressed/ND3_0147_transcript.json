@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0147.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கொண்டுகளைக்கு கையில் வாழி இருந்தும் பாய் என்றில்லை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:04:22.072243",
+  "segments": [
+    {
+      "text": "கொண்டுகளைக்கு கையில் வாழி இருந்தும் பாய் என்றில்லை",
+      "start_time": 0,
+      "end_time": 2.14,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொண்டுகளைக்கு கையில் வாழி இருந்தும் பாய் என்றில்லை",
+  "morphemes": []
+}

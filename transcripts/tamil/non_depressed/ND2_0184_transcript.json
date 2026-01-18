@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0184.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒவ்வொரு வினைக்கும் எதிர்வினை நிச்சயமுண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:45.932407",
+  "segments": [
+    {
+      "text": "ஒவ்வொரு வினைக்கும் எதிர்வினை நிச்சயமுண்டு.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒவ்வொரு வினைக்கும் எதிர்வினை நிச்சயமுண்டு.",
+  "morphemes": []
+}

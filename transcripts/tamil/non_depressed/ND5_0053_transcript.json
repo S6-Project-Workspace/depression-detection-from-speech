@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0053.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "எதிர்த்தவன் ஏழை என்றால் கோபம் சந்தாலம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:47.286646",
+  "segments": [
+    {
+      "text": "எதிர்த்தவன் ஏழை என்றால் கோபம் சந்தாலம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எதிர்த்தவன் ஏழை என்றால் கோபம் சந்தாலம்.",
+  "morphemes": []
+}

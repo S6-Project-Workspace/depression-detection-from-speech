@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0066.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "காசுக்கொரு குதிரையும் வேண்டும் கட்டி போல பரக்காவும் வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:17.084289",
+  "segments": [
+    {
+      "text": "காசுக்கொரு குதிரையும் வேண்டும் கட்டி போல பரக்காவும் வேண்டும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காசுக்கொரு குதிரையும் வேண்டும் கட்டி போல பரக்காவும் வேண்டும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0142.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "உங்களுக்கு விஷயமாமும் சங்கடமும் வராந்துவிடங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:37:39.842552",
+  "segments": [
+    {
+      "text": "உங்களுக்கு விஷயமாமும் சங்கடமும் வராந்துவிடங்கள்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உங்களுக்கு விஷயமாமும் சங்கடமும் வராந்துவிடங்கள்.",
+  "morphemes": []
+}

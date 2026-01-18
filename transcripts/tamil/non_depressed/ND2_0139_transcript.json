@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0139.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அண்பு பிரிடிடம் விருப்பமுடைய வராக வாழும் தன்மையைத் தரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:54:12.662238",
+  "segments": [
+    {
+      "text": "அண்பு பிரிடிடம் விருப்பமுடைய வராக வாழும் தன்மையைத் தரும்.",
+      "start_time": 0,
+      "end_time": 3.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அண்பு பிரிடிடம் விருப்பமுடைய வராக வாழும் தன்மையைத் தரும்.",
+  "morphemes": []
+}

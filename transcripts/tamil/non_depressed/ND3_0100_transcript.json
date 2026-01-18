@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0100.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "நடிக்குக் கொண்டாட்டம் நண்டிக்குத் தீர்நாட்டம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:02.932710",
+  "segments": [
+    {
+      "text": "நடிக்குக் கொண்டாட்டம் நண்டிக்குத் தீர்நாட்டம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நடிக்குக் கொண்டாட்டம் நண்டிக்குத் தீர்நாட்டம்.",
+  "morphemes": []
+}

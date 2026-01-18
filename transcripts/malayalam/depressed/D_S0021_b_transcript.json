@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0021_b.wav",
+  "speaker_id": "S0021",
+  "language": "malayalam",
+  "transcript": "आवारको संदोद्यों आद्यों आद्यों आद्यों आद्यों आद्यों",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:49:07.637376",
+  "segments": [
+    {
+      "text": "आवारको संदोद्यों आद्यों आद्यों आद्यों आद्यों आद्यों",
+      "start_time": 0,
+      "end_time": 5.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "आवारको संदोद्यों आद्यों आद्यों आद्यों आद्यों आद्यों",
+  "morphemes": []
+}

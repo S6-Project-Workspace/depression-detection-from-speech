@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0031.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "பெட்டன்றுதான் நாட்டுக்காக ஏ விலைத்துக்கொண்டு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:22:23.721031",
+  "segments": [
+    {
+      "text": "பெட்டன்றுதான் நாட்டுக்காக ஏ விலைத்துக்கொண்டு",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பெட்டன்றுதான் நாட்டுக்காக ஏ விலைத்துக்கொண்டு",
+  "morphemes": []
+}

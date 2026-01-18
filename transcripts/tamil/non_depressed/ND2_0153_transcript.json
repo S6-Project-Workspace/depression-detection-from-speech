@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0153.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மனம் முன்னால் வழியுண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:11.519166",
+  "segments": [
+    {
+      "text": "மனம் முன்னால் வழியுண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மனம் முன்னால் வழியுண்டும்.",
+  "morphemes": []
+}

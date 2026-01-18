@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0046.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "வேறு ஒரு கதையை வீண்டும் வரா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:01:24.942914",
+  "segments": [
+    {
+      "text": "வேறு ஒரு கதையை வீண்டும் வரா.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வேறு ஒரு கதையை வீண்டும் வரா.",
+  "morphemes": []
+}

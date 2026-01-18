@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND4_0058.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "யாஜாவினே என்னுடையும் சத்திருக்கல் எல்லாயிடம் நடக்கவேண்டும் நடக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:55:38.241104",
+  "segments": [
+    {
+      "text": "யாஜாவினே என்னுடையும் சத்திருக்கல்",
+      "start_time": 0,
+      "end_time": 1.72,
+      "confidence": 1.0
+    },
+    {
+      "text": "எல்லாயிடம் நடக்கவேண்டும் நடக்கவேண்டும்.",
+      "start_time": 1.72,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "யாஜாவினே என்னுடையும் சத்திருக்கல் எல்லாயிடம் நடக்கவேண்டும் நடக்கவேண்டும்.",
+  "morphemes": []
+}

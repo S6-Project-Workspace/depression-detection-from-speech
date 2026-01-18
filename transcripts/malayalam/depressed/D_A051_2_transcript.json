@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A051_2.wav",
+  "speaker_id": "A051",
+  "language": "malayalam",
+  "transcript": "じ்போ, நான் உன்னும்தென்றை எல்லாம் யார் போட்டிரு ஒரு தோன்றில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:53:18.446164",
+  "segments": [
+    {
+      "text": "じ்போ, நான் உன்னும்தென்றை எல்லாம் யார் போட்டிரு ஒரு தோன்றில்லை.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "じ்போ, நான் உன்னும்தென்றை எல்லாம் யார் போட்டிரு ஒரு தோன்றில்லை.",
+  "morphemes": []
+}

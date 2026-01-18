@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0113.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "பாவமுரம்பு அவளைத் துள்ளி வடப்பம் அறுவிலையைக்கு வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:11:35.717139",
+  "segments": [
+    {
+      "text": "பாவமுரம்பு அவளைத் துள்ளி வடப்பம் அறுவிலையைக்கு வேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாவமுரம்பு அவளைத் துள்ளி வடப்பம் அறுவிலையைக்கு வேண்டும்.",
+  "morphemes": []
+}

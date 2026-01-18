@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S004_b.wav",
+  "speaker_id": "S004",
+  "language": "malayalam",
+  "transcript": "என்ன கேண்டும் என்ன தோன்னில் ஒன்றும் எனக்காக இருந்தில்ல?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:10:54.146376",
+  "segments": [
+    {
+      "text": "என்ன கேண்டும் என்ன தோன்னில் ஒன்றும் எனக்காக இருந்தில்ல?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன கேண்டும் என்ன தோன்னில் ஒன்றும் எனக்காக இருந்தில்ல?",
+  "morphemes": []
+}

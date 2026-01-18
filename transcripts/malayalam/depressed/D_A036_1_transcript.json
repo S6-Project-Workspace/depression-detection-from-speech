@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A036_1.wav",
+  "speaker_id": "A036",
+  "language": "malayalam",
+  "transcript": "எந்தியும் செல்லும் நீங்களைத் தமாஞ்சைக் காணத்து என்னுடன்ற?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:45:52.815937",
+  "segments": [
+    {
+      "text": "எந்தியும் செல்லும் நீங்களைத் தமாஞ்சைக் காணத்து என்னுடன்ற?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எந்தியும் செல்லும் நீங்களைத் தமாஞ்சைக் காணத்து என்னுடன்ற?",
+  "morphemes": []
+}

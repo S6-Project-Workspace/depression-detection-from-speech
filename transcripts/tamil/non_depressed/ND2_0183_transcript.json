@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0183.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "உள்ளியில்லையில் சட்டுக்கு வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:43.450962",
+  "segments": [
+    {
+      "text": "உள்ளியில்லையில் சட்டுக்கு வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உள்ளியில்லையில் சட்டுக்கு வேண்டும்.",
+  "morphemes": []
+}

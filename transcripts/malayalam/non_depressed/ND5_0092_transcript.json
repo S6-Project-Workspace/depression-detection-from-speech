@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0092.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அதினாய் கருதா ஒரு திவசம் கரிஷிக்காரண்டைக் கூடன் எல்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:31:10.210569",
+  "segments": [
+    {
+      "text": "அதினாய் கருதா ஒரு திவசம் கரிஷிக்காரண்டைக் கூடன் எல்லாம்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதினாய் கருதா ஒரு திவசம் கரிஷிக்காரண்டைக் கூடன் எல்லாம்.",
+  "morphemes": []
+}

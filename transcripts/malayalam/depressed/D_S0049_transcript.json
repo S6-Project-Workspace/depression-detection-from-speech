@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0049.wav",
+  "speaker_id": "S0049",
+  "language": "malayalam",
+  "transcript": "கண்டதிரும் கண்ணல் புடி மாத்திரமேனிக்கொள்ளவில்லும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:10:40.751750",
+  "segments": [
+    {
+      "text": "கண்டதிரும் கண்ணல் புடி மாத்திரமேனிக்கொள்ளவில்லும்",
+      "start_time": 0,
+      "end_time": 4.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "கண்டதிரும் கண்ணல் புடி மாத்திரமேனிக்கொள்ளவில்லும்",
+  "morphemes": []
+}

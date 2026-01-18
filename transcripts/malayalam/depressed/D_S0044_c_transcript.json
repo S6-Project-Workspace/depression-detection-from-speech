@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0044_c.wav",
+  "speaker_id": "S0044",
+  "language": "malayalam",
+  "transcript": "En disangadam. Aru varu nillu.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:07:29.617425",
+  "segments": [
+    {
+      "text": "En disangadam.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "Aru varu nillu.",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "En disangadam. Aru varu nillu.",
+  "morphemes": []
+}

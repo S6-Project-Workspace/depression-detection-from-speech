@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A001_2.wav",
+  "speaker_id": "A001",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு நல்லிருக்கிறது நல்லிக்காம் கரியில்லாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:10.946133",
+  "segments": [
+    {
+      "text": "என்னுக்கு நல்லிருக்கிறது நல்லிக்காம் கரியில்லாம்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு நல்லிருக்கிறது நல்லிக்காம் கரியில்லாம்",
+  "morphemes": []
+}

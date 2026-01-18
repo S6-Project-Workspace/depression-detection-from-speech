@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0010.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அதின் ஒருது வசித்தைக்கே நால் நான் வாடகையும் சம்மதித்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:56:30.072628",
+  "segments": [
+    {
+      "text": "அதின் ஒருது வசித்தைக்கே நால் நான் வாடகையும் சம்மதித்து",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதின் ஒருது வசித்தைக்கே நால் நான் வாடகையும் சம்மதித்து",
+  "morphemes": []
+}

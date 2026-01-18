@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0093.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "தண்ணிரிலே விளைந்த வுப்பத் தண்ணிரிலே கரைய வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:18:42.364311",
+  "segments": [
+    {
+      "text": "தண்ணிரிலே விளைந்த வுப்பத் தண்ணிரிலே கரைய வேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தண்ணிரிலே விளைந்த வுப்பத் தண்ணிரிலே கரைய வேண்டும்.",
+  "morphemes": []
+}

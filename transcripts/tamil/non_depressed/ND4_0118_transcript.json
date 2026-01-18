@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0118.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அரிவுடைய அரச்சனம் விரும்முவான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:11:12.224552",
+  "segments": [
+    {
+      "text": "அரிவுடைய அரச்சனம் விரும்முவான்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அரிவுடைய அரச்சனம் விரும்முவான்.",
+  "morphemes": []
+}

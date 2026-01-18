@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_49_4.wav",
+  "speaker_id": "F001_49",
+  "language": "malayalam",
+  "transcript": "ان்டு பயம் என்னுடையும் பகர்த்துவிட்டுக்குவோம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:03.773915",
+  "segments": [
+    {
+      "text": "ان்டு பயம் என்னுடையும் பகர்த்துவிட்டுக்குவோம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ان்டு பயம் என்னுடையும் பகர்த்துவிட்டுக்குவோம்.",
+  "morphemes": []
+}

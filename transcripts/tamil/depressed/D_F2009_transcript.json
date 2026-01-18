@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2009.wav",
+  "speaker_id": "F2009",
+  "language": "tamil",
+  "transcript": "எனக்கு எதுக்கும் தயவில்லை. எப்படி மாறுத்து?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:52:11.006771",
+  "segments": [
+    {
+      "text": "எனக்கு எதுக்கும் தயவில்லை. எப்படி மாறுத்து?",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு எதுக்கும் தயவில்லை. எப்படி மாறுத்து?",
+  "morphemes": []
+}

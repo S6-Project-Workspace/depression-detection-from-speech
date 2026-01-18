@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10017-4.wav",
+  "speaker_id": "F10017",
+  "language": "tamil",
+  "transcript": "ஐயா, என்ன விட்டு போல வருகிறுக்கு?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:43:05.410260",
+  "segments": [
+    {
+      "text": "ஐயா, என்ன விட்டு போல வருகிறுக்கு?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஐயா, என்ன விட்டு போல வருகிறுக்கு?",
+  "morphemes": []
+}

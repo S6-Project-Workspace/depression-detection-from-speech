@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0041_a.wav",
+  "speaker_id": "S0041",
+  "language": "malayalam",
+  "transcript": "இன்னிக்கியும் ஒடன் நிமிஷயம்போல சந்தோஷயம் தொல்லும் நில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:06:01.049364",
+  "segments": [
+    {
+      "text": "இன்னிக்கியும் ஒடன் நிமிஷயம்போல சந்தோஷயம் தொல்லும் நில்லை.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னிக்கியும் ஒடன் நிமிஷயம்போல சந்தோஷயம் தொல்லும் நில்லை.",
+  "morphemes": []
+}

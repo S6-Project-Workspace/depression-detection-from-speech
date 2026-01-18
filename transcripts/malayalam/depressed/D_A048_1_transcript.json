@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A048_1.wav",
+  "speaker_id": "A048",
+  "language": "malayalam",
+  "transcript": "எனக்கு மாற்றிருந்த அல்லவு, இத்திரும் மோசிமைத்து நடக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:50:49.796606",
+  "segments": [
+    {
+      "text": "எனக்கு மாற்றிருந்த அல்லவு, இத்திரும் மோசிமைத்து நடக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு மாற்றிருந்த அல்லவு, இத்திரும் மோசிமைத்து நடக்கவேண்டும்.",
+  "morphemes": []
+}

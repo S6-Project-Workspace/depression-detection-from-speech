@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0026.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அதிகம் சொர்ணுமாயி வேருந்தத் தங்காத்தான் அமாவாசி இருண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:24:30.252944",
+  "segments": [
+    {
+      "text": "அதிகம் சொர்ணுமாயி வேருந்தத் தங்காத்தான் அமாவாசி இருண்டு.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதிகம் சொர்ணுமாயி வேருந்தத் தங்காத்தான் அமாவாசி இருண்டு.",
+  "morphemes": []
+}

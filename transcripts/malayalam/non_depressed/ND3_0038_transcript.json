@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0038.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அம்மா வாசி அதிச் செரியானும் தாலகுளிக்கு சம்மதிச் சொல்ல.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:25:57.917120",
+  "segments": [
+    {
+      "text": "அம்மா வாசி அதிச் செரியானும் தாலகுளிக்கு சம்மதிச் சொல்ல.",
+      "start_time": 0,
+      "end_time": 2.68,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அம்மா வாசி அதிச் செரியானும் தாலகுளிக்கு சம்மதிச் சொல்ல.",
+  "morphemes": []
+}

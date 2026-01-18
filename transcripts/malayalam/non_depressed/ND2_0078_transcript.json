@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0078.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "உடன்தன் என்றை அதுப் பாரண்டும் தேன்மாவில் போயிருண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:05:58.710299",
+  "segments": [
+    {
+      "text": "உடன்தன் என்றை அதுப் பாரண்டும் தேன்மாவில் போயிருண்டும்.",
+      "start_time": 0,
+      "end_time": 2.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உடன்தன் என்றை அதுப் பாரண்டும் தேன்மாவில் போயிருண்டும்.",
+  "morphemes": []
+}

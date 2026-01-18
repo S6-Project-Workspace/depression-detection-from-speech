@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0007.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கேடை விலாமல் இருப்பதில் பெருமாயில் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:47:06.039825",
+  "segments": [
+    {
+      "text": "கேடை விலாமல் இருப்பதில் பெருமாயில் இல்லை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கேடை விலாமல் இருப்பதில் பெருமாயில் இல்லை.",
+  "morphemes": []
+}

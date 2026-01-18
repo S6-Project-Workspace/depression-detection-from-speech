@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A006_4.wav",
+  "speaker_id": "A006",
+  "language": "malayalam",
+  "transcript": "என்று யார் தேங்களும் சாஷாய் என் சோதுகியம் போலும் நிதைருக்கிறாயா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:19.095210",
+  "segments": [
+    {
+      "text": "என்று யார் தேங்களும் சாஷாய் என் சோதுகியம் போலும் நிதைருக்கிறாயா?",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்று யார் தேங்களும் சாஷாய் என் சோதுகியம் போலும் நிதைருக்கிறாயா?",
+  "morphemes": []
+}

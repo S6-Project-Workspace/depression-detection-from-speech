@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0055_b.wav",
+  "speaker_id": "S0055",
+  "language": "malayalam",
+  "transcript": "நான் மருந்த போக்கன் சிரமைக்கின்னும் பக்ஷே ஓர்மாககள் குற்றி கொள்ளும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:15:18.945340",
+  "segments": [
+    {
+      "text": "நான் மருந்த போக்கன் சிரமைக்கின்னும்",
+      "start_time": 0,
+      "end_time": 3.12,
+      "confidence": 1.0
+    },
+    {
+      "text": "பக்ஷே ஓர்மாககள் குற்றி கொள்ளும்",
+      "start_time": 3.12,
+      "end_time": 6.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் மருந்த போக்கன் சிரமைக்கின்னும் பக்ஷே ஓர்மாககள் குற்றி கொள்ளும்",
+  "morphemes": []
+}

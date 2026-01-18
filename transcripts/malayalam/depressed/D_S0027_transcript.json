@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0027.wav",
+  "speaker_id": "S0027",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு எவ்வளுங்களுக்கும் போயும் நமாறங்கள் போயும் போயும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:53:09.586981",
+  "segments": [
+    {
+      "text": "என்னுக்கு எவ்வளுங்களுக்கும் போயும் நமாறங்கள் போயும் போயும்",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு எவ்வளுங்களுக்கும் போயும் நமாறங்கள் போயும் போயும்",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0032_c.wav",
+  "speaker_id": "S0032",
+  "language": "malayalam",
+  "transcript": "Enikini, oi, pradikshu illa Enikini, aari, mischusikhanu, aawilla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:58:37.252820",
+  "segments": [
+    {
+      "text": "Enikini, oi, pradikshu illa",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    },
+    {
+      "text": "Enikini, aari, mischusikhanu, aawilla",
+      "start_time": 2.6,
+      "end_time": 5.82,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Enikini, oi, pradikshu illa Enikini, aari, mischusikhanu, aawilla",
+  "morphemes": []
+}

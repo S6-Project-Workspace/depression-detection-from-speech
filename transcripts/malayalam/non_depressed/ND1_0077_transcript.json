@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0077.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "இது கேட்டைக் கல்ஷ்கன் குன்னிப்புக்கிறுவே மோஷயப் பிச்சுப்பு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:39:24.506614",
+  "segments": [
+    {
+      "text": "இது கேட்டைக் கல்ஷ்கன் குன்னிப்புக்கிறுவே மோஷயப் பிச்சுப்பு",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இது கேட்டைக் கல்ஷ்கன் குன்னிப்புக்கிறுவே மோஷயப் பிச்சுப்பு",
+  "morphemes": []
+}

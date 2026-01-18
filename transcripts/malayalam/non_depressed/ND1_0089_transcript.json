@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0089.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "இந்த நில் புதியோடு கடுதைக் குடைவாங்கள் கிருஷுக்காடன் தெருமானித்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:40:57.367616",
+  "segments": [
+    {
+      "text": "இந்த நில் புதியோடு கடுதைக் குடைவாங்கள் கிருஷுக்காடன் தெருமானித்து",
+      "start_time": 0,
+      "end_time": 4.06,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இந்த நில் புதியோடு கடுதைக் குடைவாங்கள் கிருஷுக்காடன் தெருமானித்து",
+  "morphemes": []
+}

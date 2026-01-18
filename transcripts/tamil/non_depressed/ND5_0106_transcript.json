@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0106.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "பண்டிக்கு முந்து படைக்குப் பெண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:34.664897",
+  "segments": [
+    {
+      "text": "பண்டிக்கு முந்து படைக்குப் பெண்டு.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பண்டிக்கு முந்து படைக்குப் பெண்டு.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0150.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "நல்ல மாட்டுக்கு ஒரு சூடே, நல்ல மனிதனைக்கு ஒரு வார்த்தை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:25.069124",
+  "segments": [
+    {
+      "text": "நல்ல மாட்டுக்கு ஒரு சூடே, நல்ல மனிதனைக்கு ஒரு வார்த்தை.",
+      "start_time": 0,
+      "end_time": 3.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நல்ல மாட்டுக்கு ஒரு சூடே, நல்ல மனிதனைக்கு ஒரு வார்த்தை.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0063.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "கரயான پுட்டு பாம்முக்கும் தவெகிராதே.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:09.402771",
+  "segments": [
+    {
+      "text": "கரயான پுட்டு பாம்முக்கும் தவெகிராதே.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கரயான پுட்டு பாம்முக்கும் தவெகிராதே.",
+  "morphemes": []
+}

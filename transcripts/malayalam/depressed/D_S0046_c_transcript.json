@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0046_c.wav",
+  "speaker_id": "S0046",
+  "language": "malayalam",
+  "transcript": "अगानारिं परूनिला पेशार वेने सेगूनिला",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:08:31.991871",
+  "segments": [
+    {
+      "text": "अगानारिं परूनिला पेशार वेने सेगूनिला",
+      "start_time": 0,
+      "end_time": 5.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "अगानारिं परूनिला पेशार वेने सेगूनिला",
+  "morphemes": []
+}

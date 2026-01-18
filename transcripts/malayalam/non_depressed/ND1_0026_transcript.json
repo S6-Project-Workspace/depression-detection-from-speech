@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0026.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "நினைத்தும் அதிகம் சொர்ணுமை வருந்தும் காத்தால் அம்மாவாசி இருணும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:31:35.781227",
+  "segments": [
+    {
+      "text": "நினைத்தும் அதிகம் சொர்ணுமை வருந்தும் காத்தால் அம்மாவாசி இருணும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நினைத்தும் அதிகம் சொர்ணுமை வருந்தும் காத்தால் அம்மாவாசி இருணும்.",
+  "morphemes": []
+}

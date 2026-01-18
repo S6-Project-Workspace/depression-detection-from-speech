@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0094.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "தம்பி உடையான படைக்கு அஞ்சான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:42:47.796948",
+  "segments": [
+    {
+      "text": "தம்பி உடையான படைக்கு அஞ்சான்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தம்பி உடையான படைக்கு அஞ்சான்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A008_1.wav",
+  "speaker_id": "A008",
+  "language": "malayalam",
+  "transcript": "எல்லாவிடம் இப்போது வரிக்கல் தெரியுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:54.942516",
+  "segments": [
+    {
+      "text": "எல்லாவிடம் இப்போது வரிக்கல் தெரியுங்கள்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எல்லாவிடம் இப்போது வரிக்கல் தெரியுங்கள்.",
+  "morphemes": []
+}

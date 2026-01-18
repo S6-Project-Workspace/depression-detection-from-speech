@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0041_c.wav",
+  "speaker_id": "S0041",
+  "language": "malayalam",
+  "transcript": "Eniki, oreni me shampoosan do shantu uno nila",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:06:25.730149",
+  "segments": [
+    {
+      "text": "Eniki, oreni me shampoosan do shantu uno nila",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Eniki, oreni me shampoosan do shantu uno nila",
+  "morphemes": []
+}

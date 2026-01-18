@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0033_c.wav",
+  "speaker_id": "S0033",
+  "language": "malayalam",
+  "transcript": "நான் இன்று உள்ளடைத் தோலாம் என்றுக்கு வேட்டுமாற்று என்றால் உள்ளும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:58:48.581024",
+  "segments": [
+    {
+      "text": "நான் இன்று உள்ளடைத் தோலாம் என்றுக்கு வேட்டுமாற்று என்றால் உள்ளும்",
+      "start_time": 0,
+      "end_time": 5.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இன்று உள்ளடைத் தோலாம் என்றுக்கு வேட்டுமாற்று என்றால் உள்ளும்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10013-3.wav",
+  "speaker_id": "F10013",
+  "language": "tamil",
+  "transcript": "இங்கேயும் இங்கே சந்திக்கக்கொள்ளே முழியாதம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:51.684392",
+  "segments": [
+    {
+      "text": "இங்கேயும் இங்கே சந்திக்கக்கொள்ளே முழியாதம்",
+      "start_time": 0,
+      "end_time": 5.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்கேயும் இங்கே சந்திக்கக்கொள்ளே முழியாதம்",
+  "morphemes": []
+}

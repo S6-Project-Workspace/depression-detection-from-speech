@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0176.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "دوشہ கண்டதம் சண்டைக் காரன் சோதித்துவிட்டத்து முனே மங்கிஷா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:53:45.037946",
+  "segments": [
+    {
+      "text": "دوشہ கண்டதம் சண்டைக் காரன் சோதித்துவிட்டத்து",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "முனே மங்கிஷா",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "دوشہ கண்டதம் சண்டைக் காரன் சோதித்துவிட்டத்து முனே மங்கிஷா",
+  "morphemes": []
+}

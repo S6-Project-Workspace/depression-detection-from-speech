@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0010.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அறிவு ஒன்றுதான் அச்சத்தை மிரிக்கும் அறிய மிரிந்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:17.023490",
+  "segments": [
+    {
+      "text": "அறிவு ஒன்றுதான் அச்சத்தை மிரிக்கும் அறிய மிரிந்து.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அறிவு ஒன்றுதான் அச்சத்தை மிரிக்கும் அறிய மிரிந்து.",
+  "morphemes": []
+}

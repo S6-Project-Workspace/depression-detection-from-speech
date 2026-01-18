@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0049_b.wav",
+  "speaker_id": "S0049",
+  "language": "malayalam",
+  "transcript": "கண்ணிருப் கணல் புடியும் மாத்த மேண்டுக்கிறிவிட்டு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:10:45.937341",
+  "segments": [
+    {
+      "text": "கண்ணிருப் கணல் புடியும் மாத்த மேண்டுக்கிறிவிட்டு",
+      "start_time": 0,
+      "end_time": 4.9,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "கண்ணிருப் கணல் புடியும் மாத்த மேண்டுக்கிறிவிட்டு",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_51_2.wav",
+  "speaker_id": "F001_51",
+  "language": "malayalam",
+  "transcript": "நான் எந்தத்திருக்கிறில் புரிமேயில்லைக்குமும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:56.261845",
+  "segments": [
+    {
+      "text": "நான் எந்தத்திருக்கிறில் புரிமேயில்லைக்குமும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் எந்தத்திருக்கிறில் புரிமேயில்லைக்குமும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A013_3.wav",
+  "speaker_id": "A013",
+  "language": "malayalam",
+  "transcript": "உங்கள்வாக் குங்களை இனக்கு எதிராயும் பதேசிங்களால்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:50.917931",
+  "segments": [
+    {
+      "text": "உங்கள்வாக் குங்களை இனக்கு எதிராயும் பதேசிங்களால்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "உங்கள்வாக் குங்களை இனக்கு எதிராயும் பதேசிங்களால்",
+  "morphemes": []
+}

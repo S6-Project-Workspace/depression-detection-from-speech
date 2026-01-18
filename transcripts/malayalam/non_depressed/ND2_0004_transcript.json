@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0004.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "பலப்போகும் போப்பெட்ட விரில் என்று போலும் அமிதமாயி வாடகையினத்தில் மாட்டும் 1 bardo paanam ayaal iida ki iru mumsu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:55:42.426611",
+  "segments": [
+    {
+      "text": "பலப்போகும் போப்பெட்ட விரில் என்று போலும் அமிதமாயி வாடகையினத்தில் மாட்டும்",
+      "start_time": 0,
+      "end_time": 4.66,
+      "confidence": 1.0
+    },
+    {
+      "text": "1 bardo paanam ayaal iida ki iru mumsu",
+      "start_time": 4.66,
+      "end_time": 6.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பலப்போகும் போப்பெட்ட விரில் என்று போலும் அமிதமாயி வாடகையினத்தில் மாட்டும் 1 bardo paanam ayaal iida ki iru mumsu",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0092.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அதினாய் கழுதா, ஒருது வசம் கிரிஷிக்காண்டைக் கோடன்றை நில்காணா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:02:44.020177",
+  "segments": [
+    {
+      "text": "அதினாய் கழுதா, ஒருது வசம் கிரிஷிக்காண்டைக் கோடன்றை நில்காணா.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதினாய் கழுதா, ஒருது வசம் கிரிஷிக்காண்டைக் கோடன்றை நில்காணா.",
+  "morphemes": []
+}

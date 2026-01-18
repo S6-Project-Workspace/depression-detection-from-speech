@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0180.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "பணமரம் சேந்து நின்றால்தான் அதைத்தமல் தோப்பேன் பாருங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:35.990083",
+  "segments": [
+    {
+      "text": "பணமரம் சேந்து நின்றால்தான் அதைத்தமல் தோப்பேன் பாருங்கள்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பணமரம் சேந்து நின்றால்தான் அதைத்தமல் தோப்பேன் பாருங்கள்.",
+  "morphemes": []
+}

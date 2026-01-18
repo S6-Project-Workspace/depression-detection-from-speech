@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_40_3.wav",
+  "speaker_id": "F001_40",
+  "language": "malayalam",
+  "transcript": "நான் வாய் பெடா்டும் ஒரு நிமிஷயம் போலும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:18:31.953333",
+  "segments": [
+    {
+      "text": "நான் வாய் பெடா்டும் ஒரு நிமிஷயம் போலும் இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் வாய் பெடா்டும் ஒரு நிமிஷயம் போலும் இல்லை.",
+  "morphemes": []
+}

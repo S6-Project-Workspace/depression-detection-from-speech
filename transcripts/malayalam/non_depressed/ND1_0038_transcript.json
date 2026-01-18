@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0038.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அம்மா வாசியாடு செரியாணணு தாயில குழுக்கிச் சம்முதுவிட்டி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:34:05.100250",
+  "segments": [
+    {
+      "text": "அம்மா வாசியாடு செரியாணணு தாயில குழுக்கிச் சம்முதுவிட்டி.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அம்மா வாசியாடு செரியாணணு தாயில குழுக்கிச் சம்முதுவிட்டி.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A050_1.wav",
+  "speaker_id": "A050",
+  "language": "malayalam",
+  "transcript": "جیبுத்தமென்று காய்விட்டாவச் சென்றின்னின்னுக்குப் போ.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:52:18.644332",
+  "segments": [
+    {
+      "text": "جیبுத்தமென்று காய்விட்டாவச் சென்றின்னின்னுக்குப் போ.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "جیبுத்தமென்று காய்விட்டாவச் சென்றின்னின்னுக்குப் போ.",
+  "morphemes": []
+}

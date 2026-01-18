@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0183.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "உலரந்தையிலையைத்திருக்கு என்று வருப்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:03.950855",
+  "segments": [
+    {
+      "text": "உலரந்தையிலையைத்திருக்கு என்று வருப்பு.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உலரந்தையிலையைத்திருக்கு என்று வருப்பு.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0073.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கட்சுத்துக்கை மன்னல்ல வேண்டும் கள்ளாதுத்து உளக்கலவு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:00:16.813254",
+  "segments": [
+    {
+      "text": "கட்சுத்துக்கை மன்னல்ல வேண்டும் கள்ளாதுத்து உளக்கலவு",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கட்சுத்துக்கை மன்னல்ல வேண்டும் கள்ளாதுத்து உளக்கலவு",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0112.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மின்சாரம் மில்லாமல் என்றிரம்யங்காடு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:46.606750",
+  "segments": [
+    {
+      "text": "மின்சாரம் மில்லாமல் என்றிரம்யங்காடு.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மின்சாரம் மில்லாமல் என்றிரம்யங்காடு.",
+  "morphemes": []
+}

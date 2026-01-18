@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0161.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "மேச் சொல்லி கட்டவனம் இல்லை போய் சொல்லி வாழ்ந்த வேண்டும் இல்லை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:13:04.796514",
+  "segments": [
+    {
+      "text": "மேச் சொல்லி கட்டவனம் இல்லை போய் சொல்லி வாழ்ந்த வேண்டும் இல்லை",
+      "start_time": 0,
+      "end_time": 2.88,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மேச் சொல்லி கட்டவனம் இல்லை போய் சொல்லி வாழ்ந்த வேண்டும் இல்லை",
+  "morphemes": []
+}

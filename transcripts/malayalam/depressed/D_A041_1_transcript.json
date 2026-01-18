@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A041_1.wav",
+  "speaker_id": "A041",
+  "language": "malayalam",
+  "transcript": "எந்து உள்ளில்லைந்த நடக்கவேண்டும் நீங்கள் காகக்கமான் சலவில்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:47:49.332813",
+  "segments": [
+    {
+      "text": "எந்து உள்ளில்லைந்த நடக்கவேண்டும் நீங்கள் காகக்கமான் சலவில்லையா?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எந்து உள்ளில்லைந்த நடக்கவேண்டும் நீங்கள் காகக்கமான் சலவில்லையா?",
+  "morphemes": []
+}

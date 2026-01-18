@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0087.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "சுவரை வைத்துதான் சிறம் வரைய வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:09:41.741887",
+  "segments": [
+    {
+      "text": "சுவரை வைத்துதான் சிறம் வரைய வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சுவரை வைத்துதான் சிறம் வரைய வேண்டும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0108.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "பரக்கப் பரக்கப் பாலும் பிளிக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:10:52.344302",
+  "segments": [
+    {
+      "text": "பரக்கப் பரக்கப் பாலும் பிளிக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பரக்கப் பரக்கப் பாலும் பிளிக்கும்.",
+  "morphemes": []
+}

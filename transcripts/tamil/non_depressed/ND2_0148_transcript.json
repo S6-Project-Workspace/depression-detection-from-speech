@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0148.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அவையில் பேசிட அஞ்சு ஒரு பலன் நுள் கட்டும் பயன் இல்லையுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:00.381759",
+  "segments": [
+    {
+      "text": "அவையில் பேசிட அஞ்சு ஒரு பலன் நுள் கட்டும் பயன் இல்லையுங்கள்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவையில் பேசிட அஞ்சு ஒரு பலன் நுள் கட்டும் பயன் இல்லையுங்கள்.",
+  "morphemes": []
+}

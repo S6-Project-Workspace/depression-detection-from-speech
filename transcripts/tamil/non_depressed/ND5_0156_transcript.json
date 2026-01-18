@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0156.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மன்னன் எப்படியும் மன்னுகிறார் படி",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:36.990821",
+  "segments": [
+    {
+      "text": "மன்னன் எப்படியும் மன்னுகிறார் படி",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மன்னன் எப்படியும் மன்னுகிறார் படி",
+  "morphemes": []
+}

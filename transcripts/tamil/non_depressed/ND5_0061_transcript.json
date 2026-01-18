@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0061.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "கடவுளை நம்பினோர் கைவிடப் படார்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:05.501429",
+  "segments": [
+    {
+      "text": "கடவுளை நம்பினோர் கைவிடப் படார்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கடவுளை நம்பினோர் கைவிடப் படார்.",
+  "morphemes": []
+}

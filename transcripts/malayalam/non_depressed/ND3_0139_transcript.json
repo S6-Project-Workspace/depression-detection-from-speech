@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND3_0139.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அப்போல நீங்கள் வாலும் கூட வைத்தால் நல்ல பங்கியோ தராமோ",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:41:32.186316",
+  "segments": [
+    {
+      "text": "அப்போல நீங்கள் வாலும் கூட வைத்தால் நல்ல பங்கியோ",
+      "start_time": 0,
+      "end_time": 2.66,
+      "confidence": 1.0
+    },
+    {
+      "text": "தராமோ",
+      "start_time": 2.66,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போல நீங்கள் வாலும் கூட வைத்தால் நல்ல பங்கியோ தராமோ",
+  "morphemes": []
+}

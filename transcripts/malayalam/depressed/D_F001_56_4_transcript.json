@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_56_4.wav",
+  "speaker_id": "F001_56",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு எவ்வளவு உக்கியாலும் அந்ததானரமாலும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:27:27.052891",
+  "segments": [
+    {
+      "text": "என்னுக்கு எவ்வளவு உக்கியாலும் அந்ததானரமாலும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு எவ்வளவு உக்கியாலும் அந்ததானரமாலும்",
+  "morphemes": []
+}

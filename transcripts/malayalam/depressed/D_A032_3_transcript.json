@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A032_3.wav",
+  "speaker_id": "A032",
+  "language": "malayalam",
+  "transcript": "யான இந்த திருமான ہட்டால் அதை நில் தெட்டைத் தெடு வேறுங்கு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:44:24.399277",
+  "segments": [
+    {
+      "text": "யான இந்த திருமான ہட்டால் அதை நில் தெட்டைத் தெடு வேறுங்கு.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "யான இந்த திருமான ہட்டால் அதை நில் தெட்டைத் தெடு வேறுங்கு.",
+  "morphemes": []
+}

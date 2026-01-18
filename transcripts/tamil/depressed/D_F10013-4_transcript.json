@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10013-4.wav",
+  "speaker_id": "F10013",
+  "language": "tamil",
+  "transcript": "இக்கமுரியும் இத்தையென்னால் சாரிக்கக்குள்ளமுரியாதா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:54.499637",
+  "segments": [
+    {
+      "text": "இக்கமுரியும் இத்தையென்னால் சாரிக்கக்குள்ளமுரியாதா.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இக்கமுரியும் இத்தையென்னால் சாரிக்கக்குள்ளமுரியாதா.",
+  "morphemes": []
+}

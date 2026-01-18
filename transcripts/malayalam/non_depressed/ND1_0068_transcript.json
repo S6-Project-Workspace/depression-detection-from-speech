@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0068.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "பக்ஷே ஒரு தலுஸம் கரஷagana ஒரு துருப்புத்து தோனி ஆயால் குருவே கேண்டி வைத்துப் பிடித்தோம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:38:34.114948",
+  "segments": [
+    {
+      "text": "பக்ஷே ஒரு தலுஸம் கரஷagana ஒரு துருப்புத்து தோனி",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஆயால் குருவே கேண்டி வைத்துப் பிடித்தோம்",
+      "start_time": 3.26,
+      "end_time": 5.86,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பக்ஷே ஒரு தலுஸம் கரஷagana ஒரு துருப்புத்து தோனி ஆயால் குருவே கேண்டி வைத்துப் பிடித்தோம்",
+  "morphemes": []
+}

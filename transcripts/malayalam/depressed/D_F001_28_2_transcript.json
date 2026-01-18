@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_28_2.wav",
+  "speaker_id": "F001_28",
+  "language": "malayalam",
+  "transcript": "எல்லாம் திவசும் ஒரு கடினமாய் போரிட்டாமால்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:11:59.230972",
+  "segments": [
+    {
+      "text": "எல்லாம் திவசும் ஒரு கடினமாய் போரிட்டாமால்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எல்லாம் திவசும் ஒரு கடினமாய் போரிட்டாமால்",
+  "morphemes": []
+}

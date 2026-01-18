@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0104.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "படிக்கிருத்து திருவாயம் முளியிடிக்கிருத்து பெருமால் கோய்ல.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:13.197461",
+  "segments": [
+    {
+      "text": "படிக்கிருத்து திருவாயம் முளியிடிக்கிருத்து பெருமால் கோய்ல.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "படிக்கிருத்து திருவாயம் முளியிடிக்கிருத்து பெருமால் கோய்ல.",
+  "morphemes": []
+}

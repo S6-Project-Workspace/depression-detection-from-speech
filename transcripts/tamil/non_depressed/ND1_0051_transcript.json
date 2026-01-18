@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0051.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "இல்லை மையில் சும்மல் முதுமையில் வருட்டாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:35:39.994713",
+  "segments": [
+    {
+      "text": "இல்லை மையில் சும்மல் முதுமையில் வருட்டாம்.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இல்லை மையில் சும்மல் முதுமையில் வருட்டாம்.",
+  "morphemes": []
+}

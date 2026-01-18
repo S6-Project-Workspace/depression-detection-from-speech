@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0038.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அம்மா வாசி அது செய்டியானும் தலைக்குளிக்கிச் சம்மதித்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:00:13.255172",
+  "segments": [
+    {
+      "text": "அம்மா வாசி அது செய்டியானும் தலைக்குளிக்கிச் சம்மதித்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அம்மா வாசி அது செய்டியானும் தலைக்குளிக்கிச் சம்மதித்துவிட்டு.",
+  "morphemes": []
+}

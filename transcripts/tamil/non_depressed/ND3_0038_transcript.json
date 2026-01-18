@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0038.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "வீன் சண்டை என்றும் யிரித்தில் பெண்டிருக்கும் தீர்மையாகக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:57.063419",
+  "segments": [
+    {
+      "text": "வீன் சண்டை என்றும் யிரித்தில் பெண்டிருக்கும் தீர்மையாகக்கும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீன் சண்டை என்றும் யிரித்தில் பெண்டிருக்கும் தீர்மையாகக்கும்.",
+  "morphemes": []
+}

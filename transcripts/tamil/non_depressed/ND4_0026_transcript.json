@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0026.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "மிகவும் மாசைப் படிந்த நகரம் புதுதில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:07:07.817742",
+  "segments": [
+    {
+      "text": "மிகவும் மாசைப் படிந்த நகரம் புதுதில்லை.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மிகவும் மாசைப் படிந்த நகரம் புதுதில்லை.",
+  "morphemes": []
+}

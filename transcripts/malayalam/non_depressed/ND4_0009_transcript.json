@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0009.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "கேண்டேன் ஒரு திவசம் அமாவாசியிடு ஒரு கைக்கோட்டு கடம்மைவானே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:48:20.240507",
+  "segments": [
+    {
+      "text": "கேண்டேன் ஒரு திவசம் அமாவாசியிடு ஒரு கைக்கோட்டு கடம்மைவானே",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கேண்டேன் ஒரு திவசம் அமாவாசியிடு ஒரு கைக்கோட்டு கடம்மைவானே",
+  "morphemes": []
+}

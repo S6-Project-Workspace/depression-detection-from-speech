@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A009_1.wav",
+  "speaker_id": "A009",
+  "language": "malayalam",
+  "transcript": "அவர் என்று வேடுக்கு சம் சரிகியம் போல தால் புரிப்படும் இல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:26:50.360423",
+  "segments": [
+    {
+      "text": "அவர் என்று வேடுக்கு சம் சரிகியம் போல தால் புரிப்படும் இல்லையா?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "அவர் என்று வேடுக்கு சம் சரிகியம் போல தால் புரிப்படும் இல்லையா?",
+  "morphemes": []
+}

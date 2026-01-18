@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0166.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "யானே வரும் பின்னே, மனியோசே வரும் முன்னே.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:22:01.089285",
+  "segments": [
+    {
+      "text": "யானே வரும் பின்னே, மனியோசே வரும் முன்னே.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "யானே வரும் பின்னே, மனியோசே வரும் முன்னே.",
+  "morphemes": []
+}

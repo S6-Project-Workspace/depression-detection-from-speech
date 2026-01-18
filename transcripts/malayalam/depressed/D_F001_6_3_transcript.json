@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_F001_6_3.wav",
+  "speaker_id": "F001_6",
+  "language": "malayalam",
+  "transcript": "ettamanasal nirantara negettav chendukul veru ng ettki samadhana biya",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:35:50.711661",
+  "segments": [
+    {
+      "text": "ettamanasal nirantara negettav chendukul veru ng",
+      "start_time": 0,
+      "end_time": 3.9,
+      "confidence": 1.0
+    },
+    {
+      "text": "ettki samadhana biya",
+      "start_time": 3.9,
+      "end_time": 5.9,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ettamanasal nirantara negettav chendukul veru ng ettki samadhana biya",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0144.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "கொடிக்கும் ஒருக்காம் துவுங்கள் அவேலில் தண்ணி இருந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:12:33.894253",
+  "segments": [
+    {
+      "text": "கொடிக்கும் ஒருக்காம் துவுங்கள் அவேலில் தண்ணி இருந்து",
+      "start_time": 0,
+      "end_time": 3.38,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொடிக்கும் ஒருக்காம் துவுங்கள் அவேலில் தண்ணி இருந்து",
+  "morphemes": []
+}

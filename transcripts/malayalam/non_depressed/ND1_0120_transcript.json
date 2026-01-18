@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0120.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "இந்த செய்யும் அலுதித்து நில்லாம் நேரமில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:45:28.660545",
+  "segments": [
+    {
+      "text": "இந்த செய்யும் அலுதித்து நில்லாம் நேரமில்லை.",
+      "start_time": 0,
+      "end_time": 2.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இந்த செய்யும் அலுதித்து நில்லாம் நேரமில்லை.",
+  "morphemes": []
+}

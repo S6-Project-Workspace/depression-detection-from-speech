@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0112.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "இந்த வந்த வந்த ஒரு காட்டில் இல்லையும் இல்லையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:44:38.618344",
+  "segments": [
+    {
+      "text": "இந்த வந்த வந்த ஒரு காட்டில் இல்லையும் இல்லையும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இந்த வந்த வந்த ஒரு காட்டில் இல்லையும் இல்லையும்",
+  "morphemes": []
+}

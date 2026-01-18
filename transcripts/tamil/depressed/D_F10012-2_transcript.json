@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10012-2.wav",
+  "speaker_id": "F10012",
+  "language": "tamil",
+  "transcript": "இந்த வாழ்கையில் புரியில் நாத்தான் வருகிறாய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:36.930441",
+  "segments": [
+    {
+      "text": "இந்த வாழ்கையில் புரியில் நாத்தான் வருகிறாய்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த வாழ்கையில் புரியில் நாத்தான் வருகிறாய்.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0048_c.wav",
+  "speaker_id": "S0048",
+  "language": "malayalam",
+  "transcript": "अने के अन्वरात्रे? अन्वरे पागले? எல்லும் ஒரு மருமிப்பு முழையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:10:38.237272",
+  "segments": [
+    {
+      "text": "अने के अन्वरात्रे? अन्वरे पागले?",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    },
+    {
+      "text": "எல்லும் ஒரு மருமிப்பு முழையா?",
+      "start_time": 3.5,
+      "end_time": 5.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "अने के अन्वरात्रे? अन्वरे पागले? எல்லும் ஒரு மருமிப்பு முழையா?",
+  "morphemes": []
+}

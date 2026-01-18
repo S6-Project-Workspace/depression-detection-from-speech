@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0152.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "மடியில் கணமிரந்தால் தான் வலியில் பயமிருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:12.657870",
+  "segments": [
+    {
+      "text": "மடியில் கணமிரந்தால் தான் வலியில் பயமிருக்கும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மடியில் கணமிரந்தால் தான் வலியில் பயமிருக்கும்.",
+  "morphemes": []
+}

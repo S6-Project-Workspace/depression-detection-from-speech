@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_A045_3.wav",
+  "speaker_id": "A045",
+  "language": "malayalam",
+  "transcript": "விவிடுத்தில் என்னுக்குப் பாwhadhi ஆரி மாஸ்ரைக் கேனுக்கியா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:49:52.600591",
+  "segments": [
+    {
+      "text": "விவிடுத்தில் என்னுக்குப் பாwhadhi",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஆரி மாஸ்ரைக் கேனுக்கியா",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "விவிடுத்தில் என்னுக்குப் பாwhadhi ஆரி மாஸ்ரைக் கேனுக்கியா",
+  "morphemes": []
+}

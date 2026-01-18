@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0133.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "மிக்கும் ஒருதிவிடன் காக்கப்படவேண்டியது அடக்கமாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:03:17.881780",
+  "segments": [
+    {
+      "text": "மிக்கும் ஒருதிவிடன் காக்கப்படவேண்டியது அடக்கமாகும்.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மிக்கும் ஒருதிவிடன் காக்கப்படவேண்டியது அடக்கமாகும்.",
+  "morphemes": []
+}

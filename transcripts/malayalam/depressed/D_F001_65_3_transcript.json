@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_65_3.wav",
+  "speaker_id": "F001_65",
+  "language": "malayalam",
+  "transcript": "என்ன பயம் எல்லாம் வேண்டும் நம்மல்லும் தவறுத்திருக்கிறது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:34:09.279735",
+  "segments": [
+    {
+      "text": "என்ன பயம் எல்லாம் வேண்டும் நம்மல்லும் தவறுத்திருக்கிறது",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன பயம் எல்லாம் வேண்டும் நம்மல்லும் தவறுத்திருக்கிறது",
+  "morphemes": []
+}

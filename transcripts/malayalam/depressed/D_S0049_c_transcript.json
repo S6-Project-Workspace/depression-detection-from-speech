@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0049_c.wav",
+  "speaker_id": "S0049",
+  "language": "malayalam",
+  "transcript": "கண்ணை நீடு, கணல் படிகு மாத்ரமே நிக்குள்ளு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:10:48.133151",
+  "segments": [
+    {
+      "text": "கண்ணை நீடு, கணல் படிகு மாத்ரமே நிக்குள்ளு.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "கண்ணை நீடு, கணல் படிகு மாத்ரமே நிக்குள்ளு.",
+  "morphemes": []
+}

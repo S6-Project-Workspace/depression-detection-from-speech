@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0124.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அத்திப் பலத்தைப் பிட்டுப் பார்த்தால் அத்தனையும் புள்ளுக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:56.199966",
+  "segments": [
+    {
+      "text": "அத்திப் பலத்தைப் பிட்டுப் பார்த்தால் அத்தனையும் புள்ளுக்கும்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அத்திப் பலத்தைப் பிட்டுப் பார்த்தால் அத்தனையும் புள்ளுக்கும்.",
+  "morphemes": []
+}

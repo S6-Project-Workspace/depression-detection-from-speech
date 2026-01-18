@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0031.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "நேசிப்பவர்கள் எல்லாம் நம்மோட்டு நிலைத்து இருக்க முடியாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:15:53.429133",
+  "segments": [
+    {
+      "text": "நேசிப்பவர்கள் எல்லாம் நம்மோட்டு நிலைத்து இருக்க முடியாது.",
+      "start_time": 0,
+      "end_time": 3.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நேசிப்பவர்கள் எல்லாம் நம்மோட்டு நிலைத்து இருக்க முடியாது.",
+  "morphemes": []
+}

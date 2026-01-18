@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0141.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அதின் அப்பரம் போக இருத்த புவன் கொள்ளுப்பார்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:48:29.534267",
+  "segments": [
+    {
+      "text": "அதின் அப்பரம் போக இருத்த புவன் கொள்ளுப்பார்கள்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதின் அப்பரம் போக இருத்த புவன் கொள்ளுப்பார்கள்.",
+  "morphemes": []
+}

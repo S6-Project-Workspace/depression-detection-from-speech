@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0142.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "உங்களுக்கு விஷ்மும் சங்கடும் நிறந்துடையுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:48:32.180299",
+  "segments": [
+    {
+      "text": "உங்களுக்கு விஷ்மும் சங்கடும் நிறந்துடையுங்கள்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உங்களுக்கு விஷ்மும் சங்கடும் நிறந்துடையுங்கள்.",
+  "morphemes": []
+}

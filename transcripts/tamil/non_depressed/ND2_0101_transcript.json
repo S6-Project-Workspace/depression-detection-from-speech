@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0101.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "நாய் கண்டால் கல்லிக்கானும் கல்லிக்கண்டால் நாய்கானும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:39.925546",
+  "segments": [
+    {
+      "text": "நாய் கண்டால் கல்லிக்கானும் கல்லிக்கண்டால் நாய்கானும்",
+      "start_time": 0,
+      "end_time": 2.88,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நாய் கண்டால் கல்லிக்கானும் கல்லிக்கண்டால் நாய்கானும்",
+  "morphemes": []
+}

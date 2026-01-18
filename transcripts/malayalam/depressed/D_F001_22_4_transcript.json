@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_22_4.wav",
+  "speaker_id": "F001_22",
+  "language": "malayalam",
+  "transcript": "என்ன அடுத்தில் அடுத்தம் என்ன என்றுச் சோதுக்குக்கொண்டில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:08:06.637871",
+  "segments": [
+    {
+      "text": "என்ன அடுத்தில் அடுத்தம் என்ன என்றுச் சோதுக்குக்கொண்டில்லாம்.",
+      "start_time": 0,
+      "end_time": 4.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன அடுத்தில் அடுத்தம் என்ன என்றுச் சோதுக்குக்கொண்டில்லாம்.",
+  "morphemes": []
+}

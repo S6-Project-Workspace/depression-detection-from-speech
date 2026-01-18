@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0139.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அந்து பிரரிடம் விருப்பு முடைய விராக வாளும் தன்மையைத் தரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:44:36.207267",
+  "segments": [
+    {
+      "text": "அந்து பிரரிடம் விருப்பு முடைய விராக வாளும் தன்மையைத் தரும்.",
+      "start_time": 0,
+      "end_time": 3.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அந்து பிரரிடம் விருப்பு முடைய விராக வாளும் தன்மையைத் தரும்.",
+  "morphemes": []
+}

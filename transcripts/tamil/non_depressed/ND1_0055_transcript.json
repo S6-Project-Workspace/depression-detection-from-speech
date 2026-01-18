@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0055.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "ஏற்கிருதைப் பிடிங்கினால் கொதிக்கிருத்தான் அடங்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:35:51.190070",
+  "segments": [
+    {
+      "text": "ஏற்கிருதைப் பிடிங்கினால் கொதிக்கிருத்தான் அடங்கும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஏற்கிருதைப் பிடிங்கினால் கொதிக்கிருத்தான் அடங்கும்",
+  "morphemes": []
+}

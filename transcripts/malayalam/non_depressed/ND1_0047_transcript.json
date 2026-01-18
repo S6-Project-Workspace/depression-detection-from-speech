@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0047.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அதைகள் கேட்ட வழை இருந்த வரை, கலங்கம் நீங்களை வழை இருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:35:01.165553",
+  "segments": [
+    {
+      "text": "அதைகள் கேட்ட வழை இருந்த வரை, கலங்கம் நீங்களை வழை இருக்கிறது.",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதைகள் கேட்ட வழை இருந்த வரை, கலங்கம் நீங்களை வழை இருக்கிறது.",
+  "morphemes": []
+}

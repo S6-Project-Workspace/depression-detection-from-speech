@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0053.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "குறை நேரம் ஆளோஷிச்சயம் போல அதுத்தன் தோன்றி அஞ்சிவி ஏத்தே ஆனான் என்ற",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:02:08.077042",
+  "segments": [
+    {
+      "text": "குறை நேரம் ஆளோஷிச்சயம் போல அதுத்தன் தோன்றி அஞ்சிவி ஏத்தே ஆனான் என்ற",
+      "start_time": 0,
+      "end_time": 4.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குறை நேரம் ஆளோஷிச்சயம் போல அதுத்தன் தோன்றி அஞ்சிவி ஏத்தே ஆனான் என்ற",
+  "morphemes": []
+}

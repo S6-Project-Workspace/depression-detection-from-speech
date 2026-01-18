@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0144.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அவர் அவர செய்யம் சேல் வேறு பாடுகளால் மட்டுமே பெருமே வரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:44:51.125821",
+  "segments": [
+    {
+      "text": "அவர் அவர செய்யம் சேல் வேறு பாடுகளால் மட்டுமே பெருமே வரும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவர் அவர செய்யம் சேல் வேறு பாடுகளால் மட்டுமே பெருமே வரும்.",
+  "morphemes": []
+}

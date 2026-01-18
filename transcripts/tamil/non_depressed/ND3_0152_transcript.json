@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0152.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "மடியிலே கணமிருந்தால் தான் வடியிலே பயமிருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:04:34.548585",
+  "segments": [
+    {
+      "text": "மடியிலே கணமிருந்தால் தான் வடியிலே பயமிருக்கும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மடியிலே கணமிருந்தால் தான் வடியிலே பயமிருக்கும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0140.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "நான் தெடித்துத் தேரா, மயில் பார்க்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:48:26.986454",
+  "segments": [
+    {
+      "text": "நான் தெடித்துத் தேரா, மயில் பார்க்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் தெடித்துத் தேரா, மயில் பார்க்கும்.",
+  "morphemes": []
+}

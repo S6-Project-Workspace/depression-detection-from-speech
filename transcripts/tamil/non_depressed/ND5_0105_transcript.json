@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0105.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "பதிராத காரியம் சிதராது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:32.630121",
+  "segments": [
+    {
+      "text": "பதிராத காரியம் சிதராது",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பதிராத காரியம் சிதராது",
+  "morphemes": []
+}

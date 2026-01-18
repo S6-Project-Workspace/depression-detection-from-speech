@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0038.wav",
+  "speaker_id": "S0038",
+  "language": "malayalam",
+  "transcript": "i nukeni aare mena karmena aare parikadikkyu milla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:03:07.868459",
+  "segments": [
+    {
+      "text": "i nukeni aare mena karmena aare parikadikkyu milla",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i nukeni aare mena karmena aare parikadikkyu milla",
+  "morphemes": []
+}

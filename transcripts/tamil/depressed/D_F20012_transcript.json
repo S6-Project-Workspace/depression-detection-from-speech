@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F20012.wav",
+  "speaker_id": "F20012",
+  "language": "tamil",
+  "transcript": "என் மனைத்து என்ன வெட்டப் போனமாக இருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:49:46.823456",
+  "segments": [
+    {
+      "text": "என் மனைத்து என்ன வெட்டப் போனமாக இருக்கும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என் மனைத்து என்ன வெட்டப் போனமாக இருக்கும்.",
+  "morphemes": []
+}

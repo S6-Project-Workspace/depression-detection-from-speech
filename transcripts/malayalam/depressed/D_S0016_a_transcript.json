@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0016_a.wav",
+  "speaker_id": "S0016",
+  "language": "malayalam",
+  "transcript": "இங்கே, எல்லாம் தாலர் போயே, இங்கே உடிக்காட்டத்தில் மற்றினில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:44:43.706545",
+  "segments": [
+    {
+      "text": "இங்கே, எல்லாம் தாலர் போயே, இங்கே உடிக்காட்டத்தில் மற்றினில்லாம்.",
+      "start_time": 0,
+      "end_time": 8.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்கே, எல்லாம் தாலர் போயே, இங்கே உடிக்காட்டத்தில் மற்றினில்லாம்.",
+  "morphemes": []
+}

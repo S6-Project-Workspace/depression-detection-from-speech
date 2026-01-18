@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_9_4.wav",
+  "speaker_id": "F001_9",
+  "language": "malayalam",
+  "transcript": "Menas, நிறந்திரம் பாய்வாலும் எந்தச்சையில்லாம் எந்த உள்ள வரியில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:39:53.716887",
+  "segments": [
+    {
+      "text": "Menas, நிறந்திரம் பாய்வாலும் எந்தச்சையில்லாம் எந்த உள்ள வரியில்லை.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Menas, நிறந்திரம் பாய்வாலும் எந்தச்சையில்லாம் எந்த உள்ள வரியில்லை.",
+  "morphemes": []
+}

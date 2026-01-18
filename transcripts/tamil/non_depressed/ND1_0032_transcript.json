@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0032.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "நீ செய்மும் சாதனியே உன் பேருக்கு பெரிமைத் தெடித் தரும்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:33:24.969590",
+  "segments": [
+    {
+      "text": "நீ செய்மும் சாதனியே உன் பேருக்கு பெரிமைத் தெடித் தரும்பு.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நீ செய்மும் சாதனியே உன் பேருக்கு பெரிமைத் தெடித் தரும்பு.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0047.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "ஆனிக்கு ஒரு காலம் பூனிக்கு ஒரு காலம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:19.503764",
+  "segments": [
+    {
+      "text": "ஆனிக்கு ஒரு காலம் பூனிக்கு ஒரு காலம்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆனிக்கு ஒரு காலம் பூனிக்கு ஒரு காலம்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_45_1.wav",
+  "speaker_id": "F001_45",
+  "language": "malayalam",
+  "transcript": "என்ன உள்ளையா வெளிய சாப்தம் என்ன ஒரு பாடுப் பயப்படுத்துவோம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:20:15.495760",
+  "segments": [
+    {
+      "text": "என்ன உள்ளையா வெளிய சாப்தம் என்ன ஒரு பாடுப் பயப்படுத்துவோம்.",
+      "start_time": 0,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன உள்ளையா வெளிய சாப்தம் என்ன ஒரு பாடுப் பயப்படுத்துவோம்.",
+  "morphemes": []
+}

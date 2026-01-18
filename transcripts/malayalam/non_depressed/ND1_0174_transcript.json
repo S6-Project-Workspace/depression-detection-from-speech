@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0174.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஆ என்ன புரட்டு அமுமா குறைத்தோஞ்டாக்கு வைத்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:52:53.684951",
+  "segments": [
+    {
+      "text": "ஆ என்ன புரட்டு அமுமா குறைத்தோஞ்டாக்கு வைத்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆ என்ன புரட்டு அமுமா குறைத்தோஞ்டாக்கு வைத்துவிட்டு.",
+  "morphemes": []
+}

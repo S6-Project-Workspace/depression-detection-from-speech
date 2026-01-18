@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_20_2.wav",
+  "speaker_id": "F001_20",
+  "language": "malayalam",
+  "transcript": "என்னுடையும் என்னுடையும் தெண்டுப் பிரவிக்கிறான் அஷ்டமாக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:05:28.520115",
+  "segments": [
+    {
+      "text": "என்னுடையும் என்னுடையும் தெண்டுப் பிரவிக்கிறான் அஷ்டமாக்கும்",
+      "start_time": 0,
+      "end_time": 4.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுடையும் என்னுடையும் தெண்டுப் பிரவிக்கிறான் அஷ்டமாக்கும்",
+  "morphemes": []
+}

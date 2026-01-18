@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0055.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அவر آرہ جیتے ایچھے گلے ملوے لیں کنڈوں",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:28:26.013212",
+  "segments": [
+    {
+      "text": "அவر آرہ جیتے ایچھے گلے ملوے لیں کنڈوں",
+      "start_time": 0,
+      "end_time": 2.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவر آرہ جیتے ایچھے گلے ملوے لیں کنڈوں",
+  "morphemes": []
+}

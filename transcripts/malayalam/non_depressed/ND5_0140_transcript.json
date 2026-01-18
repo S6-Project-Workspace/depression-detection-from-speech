@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0140.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "நான் தோது திடித்துக்கிறால் மயில் பாருங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:37:34.096024",
+  "segments": [
+    {
+      "text": "நான் தோது திடித்துக்கிறால் மயில் பாருங்கள்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் தோது திடித்துக்கிறால் மயில் பாருங்கள்.",
+  "morphemes": []
+}

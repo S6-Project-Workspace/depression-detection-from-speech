@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0176.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "பெட்டு ஒன்று தொண்டி இரண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:05:26.382687",
+  "segments": [
+    {
+      "text": "பெட்டு ஒன்று தொண்டி இரண்டு.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பெட்டு ஒன்று தொண்டி இரண்டு.",
+  "morphemes": []
+}

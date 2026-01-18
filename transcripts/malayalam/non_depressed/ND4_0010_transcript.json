@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0010.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அதின் ஒருதி வசைத்தைக்கு நாள் அன் வாடகையின் சம்மதைத்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:48:23.662387",
+  "segments": [
+    {
+      "text": "அதின் ஒருதி வசைத்தைக்கு நாள் அன் வாடகையின் சம்மதைத்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதின் ஒருதி வசைத்தைக்கு நாள் அன் வாடகையின் சம்மதைத்துவிட்டு.",
+  "morphemes": []
+}

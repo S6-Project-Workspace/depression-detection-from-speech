@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0102.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "நோயிட்டு வாழ்வி குரியிட்டு செல்வும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:42.007036",
+  "segments": [
+    {
+      "text": "நோயிட்டு வாழ்வி குரியிட்டு செல்வும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நோயிட்டு வாழ்வி குரியிட்டு செல்வும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0166.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "என்னை வரம் இன்னை மனி ஓசை வரம் உண்ணி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:40.440176",
+  "segments": [
+    {
+      "text": "என்னை வரம் இன்னை மனி ஓசை வரம் உண்ணி.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "என்னை வரம் இன்னை மனி ஓசை வரம் உண்ணி.",
+  "morphemes": []
+}

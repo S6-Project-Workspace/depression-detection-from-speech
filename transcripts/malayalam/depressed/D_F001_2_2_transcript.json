@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_2_2.wav",
+  "speaker_id": "F001_2",
+  "language": "malayalam",
+  "transcript": "என்ன செய்தாலும் இப்போது என்னைக்கு மாறமில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:13:01.458027",
+  "segments": [
+    {
+      "text": "என்ன செய்தாலும் இப்போது என்னைக்கு மாறமில்லாம்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன செய்தாலும் இப்போது என்னைக்கு மாறமில்லாம்.",
+  "morphemes": []
+}

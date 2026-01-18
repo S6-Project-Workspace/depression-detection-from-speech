@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0051.wav",
+  "speaker_id": "S0051",
+  "language": "malayalam",
+  "transcript": "enikini ori ke le sandoshikke na abilla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:11:31.188858",
+  "segments": [
+    {
+      "text": "enikini ori ke le sandoshikke na abilla",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "enikini ori ke le sandoshikke na abilla",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0133.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "மிக்க வுருத்தியுடன் காப்பட வேண்டியது அடக்கமாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:11:49.151220",
+  "segments": [
+    {
+      "text": "மிக்க வுருத்தியுடன் காப்பட வேண்டியது அடக்கமாகும்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மிக்க வுருத்தியுடன் காப்பட வேண்டியது அடக்கமாகும்.",
+  "morphemes": []
+}

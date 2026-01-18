@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A054_4.wav",
+  "speaker_id": "A054",
+  "language": "malayalam",
+  "transcript": "இன்னின்னுக்கு மாற்றிுண்டாம் என்று தீரு பரதிக்ஸ் இல்லா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:54:33.526681",
+  "segments": [
+    {
+      "text": "இன்னின்னுக்கு மாற்றிுண்டாம் என்று தீரு பரதிக்ஸ் இல்லா",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னின்னுக்கு மாற்றிுண்டாம் என்று தீரு பரதிக்ஸ் இல்லா",
+  "morphemes": []
+}

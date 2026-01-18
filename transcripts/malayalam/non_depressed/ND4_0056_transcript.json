@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0056.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "குரே காலங்கள் என்னுக்குப் பயங்கிரமாயையுட்டும் மன்னு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:55:29.337930",
+  "segments": [
+    {
+      "text": "குரே காலங்கள் என்னுக்குப் பயங்கிரமாயையுட்டும் மன்னு.",
+      "start_time": 0,
+      "end_time": 2.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குரே காலங்கள் என்னுக்குப் பயங்கிரமாயையுட்டும் மன்னு.",
+  "morphemes": []
+}

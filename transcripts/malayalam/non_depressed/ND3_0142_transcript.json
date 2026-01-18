@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0142.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "புவன் கொழுக்கு வேஷமும் சங்கடும் வேலான் தொடுங்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:41:40.140407",
+  "segments": [
+    {
+      "text": "புவன் கொழுக்கு வேஷமும் சங்கடும் வேலான் தொடுங்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புவன் கொழுக்கு வேஷமும் சங்கடும் வேலான் தொடுங்கிறேன்.",
+  "morphemes": []
+}

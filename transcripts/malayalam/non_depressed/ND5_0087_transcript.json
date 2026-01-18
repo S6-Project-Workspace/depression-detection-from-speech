@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0087.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அம்பட வெள்ளத்தில் வேறு ஒரு நாயா, அவன் வாயிலும் ஒன்று வழியே இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:30:51.524154",
+  "segments": [
+    {
+      "text": "அம்பட வெள்ளத்தில் வேறு ஒரு நாயா, அவன் வாயிலும் ஒன்று வழியே இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அம்பட வெள்ளத்தில் வேறு ஒரு நாயா, அவன் வாயிலும் ஒன்று வழியே இல்லை.",
+  "morphemes": []
+}

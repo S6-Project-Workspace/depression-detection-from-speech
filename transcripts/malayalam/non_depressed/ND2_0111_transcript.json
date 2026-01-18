@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0111.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அர்த்தியுடை, அவனால் அழுத்துள்ளின்னுடையான, அழைலைக்குக் கையரி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:11:29.671051",
+  "segments": [
+    {
+      "text": "அர்த்தியுடை, அவனால் அழுத்துள்ளின்னுடையான, அழைலைக்குக் கையரி.",
+      "start_time": 0,
+      "end_time": 3.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அர்த்தியுடை, அவனால் அழுத்துள்ளின்னுடையான, அழைலைக்குக் கையரி.",
+  "morphemes": []
+}

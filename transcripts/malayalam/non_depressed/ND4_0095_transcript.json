@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0095.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அலسن்கள் அடுதாக குறை மாறி ஒரு பணியம்து ஏதான் நில் கொண்டாயிருந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:02:56.527869",
+  "segments": [
+    {
+      "text": "அலسن்கள் அடுதாக குறை மாறி ஒரு பணியம்து ஏதான் நில் கொண்டாயிருந்து",
+      "start_time": 0,
+      "end_time": 3.38,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அலسن்கள் அடுதாக குறை மாறி ஒரு பணியம்து ஏதான் நில் கொண்டாயிருந்து",
+  "morphemes": []
+}

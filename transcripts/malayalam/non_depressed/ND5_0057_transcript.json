@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND5_0057.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அதே ہம் பேடித்தோடுத்தான் திராத்திந்த அதிர்த்தில்லும் ஒரு guhayel kairi odichu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:26:48.665462",
+  "segments": [
+    {
+      "text": "அதே ہம் பேடித்தோடுத்தான் திராத்திந்த அதிர்த்தில்லும் ஒரு",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    },
+    {
+      "text": "guhayel kairi odichu",
+      "start_time": 2.8,
+      "end_time": 4.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதே ہம் பேடித்தோடுத்தான் திராத்திந்த அதிர்த்தில்லும் ஒரு guhayel kairi odichu",
+  "morphemes": []
+}

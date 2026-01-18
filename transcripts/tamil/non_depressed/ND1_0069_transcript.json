@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0069.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "கையிக் கட்டின்று வாய்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:37:49.251899",
+  "segments": [
+    {
+      "text": "கையிக் கட்டின்று வாய்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கையிக் கட்டின்று வாய்கிறேன்.",
+  "morphemes": []
+}

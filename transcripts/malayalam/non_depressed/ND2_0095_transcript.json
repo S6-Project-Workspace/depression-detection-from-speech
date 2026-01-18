@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0095.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அلسن் கடுதா குறை மாறி ஒரு பணியம் செய்யாதை நில் கொண்டாயிரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:08:32.901924",
+  "segments": [
+    {
+      "text": "அلسن் கடுதா குறை மாறி ஒரு பணியம் செய்யாதை நில் கொண்டாயிரும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அلسن் கடுதா குறை மாறி ஒரு பணியம் செய்யாதை நில் கொண்டாயிரும்",
+  "morphemes": []
+}

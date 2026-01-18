@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2004_a.wav",
+  "speaker_id": "F2004",
+  "language": "tamil",
+  "transcript": "இது பெருசன் நடக்கப் போக மாறு பாய்மாக இருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:11.574194",
+  "segments": [
+    {
+      "text": "இது பெருசன் நடக்கப் போக மாறு பாய்மாக இருக்கிறது.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இது பெருசன் நடக்கப் போக மாறு பாய்மாக இருக்கிறது.",
+  "morphemes": []
+}

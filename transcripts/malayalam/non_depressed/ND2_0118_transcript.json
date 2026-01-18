@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0118.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "ஒரு வேண்டும் தண்டை அம்பா உண்ணும் விக்கினும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:12:15.699647",
+  "segments": [
+    {
+      "text": "ஒரு வேண்டும் தண்டை அம்பா உண்ணும் விக்கினும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு வேண்டும் தண்டை அம்பா உண்ணும் விக்கினும்.",
+  "morphemes": []
+}

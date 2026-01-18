@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0138.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "வாலுண்டுண்டும் இல்லைந்தம் பறையா ஒன்றன ஒரு அவச்சையை இருந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:15:23.580500",
+  "segments": [
+    {
+      "text": "வாலுண்டுண்டும் இல்லைந்தம் பறையா ஒன்றன ஒரு அவச்சையை இருந்து",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வாலுண்டுண்டும் இல்லைந்தம் பறையா ஒன்றன ஒரு அவச்சையை இருந்து",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0006.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கஷ்டங்கள் இல்லை என்றால் போராடும் என்னையில்லாமல் போய்விடும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:57:00.966162",
+  "segments": [
+    {
+      "text": "கஷ்டங்கள் இல்லை என்றால் போராடும் என்னையில்லாமல் போய்விடும்.",
+      "start_time": 0,
+      "end_time": 2.92,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கஷ்டங்கள் இல்லை என்றால் போராடும் என்னையில்லாமல் போய்விடும்.",
+  "morphemes": []
+}

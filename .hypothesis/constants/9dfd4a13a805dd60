@@ -1,0 +1,4 @@
+# file: /Users/keerthivasan/NLP/enhanced_multimodal_trainer.py
+# hypothesis_version: 6.150.2
+
+[0.0, 0.0001, 0.05, 0.1, 0.3, 0.4, 0.5, 0.73, 0.74, 0.75, 0.76, 0.77, 0.8, '=', '__main__', 'attention_mask', 'audio', 'audio_attention_mask', 'audio_input', 'baseline', 'baseline_results', 'best_val_f1', 'bimodal_', 'bimodal_audio_text', 'bimodal_performance', 'confusion_matrix', 'cuda', 'enhanced', 'enhanced_results', 'f1_depressed', 'f1_non_depressed', 'final_epoch', 'final_evaluation', 'inf', 'input_ids', 'label', 'labels', 'linguistic', 'linguistic_features', 'loss', 'lr', 'macro_f1', 'mel_spectrogram', 'precision', 'predictions', 'probabilities', 'progressive_training', 'recall', 'text', 'text_attention_mask', 'text_input_ids', 'text_raw', 'training_history', 'training_phase', 'trimodal', 'trimodal_performance', 'unimodal_', 'unimodal_audio', 'unimodal_linguistic', 'unimodal_performance', 'unimodal_text', 'waveform']

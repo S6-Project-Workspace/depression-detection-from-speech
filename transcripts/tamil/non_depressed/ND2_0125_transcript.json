@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0125.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அந்தி மடை அல்லதாலும் விடாதுப் போகிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:31.762825",
+  "segments": [
+    {
+      "text": "அந்தி மடை அல்லதாலும் விடாதுப் போகிறேன்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அந்தி மடை அல்லதாலும் விடாதுப் போகிறேன்.",
+  "morphemes": []
+}

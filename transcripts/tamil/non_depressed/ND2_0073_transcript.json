@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0073.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கட்டுதிக்கை மன்னலவு கலாதுத்து உளைக்கலவு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:47.693409",
+  "segments": [
+    {
+      "text": "கட்டுதிக்கை மன்னலவு கலாதுத்து உளைக்கலவு",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கட்டுதிக்கை மன்னலவு கலாதுத்து உளைக்கலவு",
+  "morphemes": []
+}

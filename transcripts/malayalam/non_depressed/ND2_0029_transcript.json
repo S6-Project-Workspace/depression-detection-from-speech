@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0029.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "பக்ஞ்சி, கொண்டுபோய்சு வருணம் மாத்திரமில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:59:16.414394",
+  "segments": [
+    {
+      "text": "பக்ஞ்சி, கொண்டுபோய்சு வருணம் மாத்திரமில்லை.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பக்ஞ்சி, கொண்டுபோய்சு வருணம் மாத்திரமில்லை.",
+  "morphemes": []
+}

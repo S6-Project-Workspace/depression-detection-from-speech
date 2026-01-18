@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0007.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அங்கனே இருக்கு அக்கு ராமத்தில் Ganeshin என்ன யுவாவா தாமதுத்தினுக்குத் திருக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:21:19.109799",
+  "segments": [
+    {
+      "text": "அங்கனே இருக்கு அக்கு ராமத்தில் Ganeshin என்ன யுவாவா தாமதுத்தினுக்குத் திருக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 3.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அங்கனே இருக்கு அக்கு ராமத்தில் Ganeshin என்ன யுவாவா தாமதுத்தினுக்குத் திருக்கிறேன்.",
+  "morphemes": []
+}

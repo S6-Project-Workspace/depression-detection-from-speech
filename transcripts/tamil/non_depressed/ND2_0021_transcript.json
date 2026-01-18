@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0021.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கோபம் மின்வுது தருகாலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:11.132568",
+  "segments": [
+    {
+      "text": "கோபம் மின்வுது தருகாலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கோபம் மின்வுது தருகாலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0070.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அப்போது அகுழுவே பார்ணும். நங்கள் குழுவேகள் கூட்டில் இருந்த பாடாரில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:39:02.284227",
+  "segments": [
+    {
+      "text": "அப்போது அகுழுவே பார்ணும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "நங்கள் குழுவேகள் கூட்டில் இருந்த பாடாரில்லை.",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போது அகுழுவே பார்ணும். நங்கள் குழுவேகள் கூட்டில் இருந்த பாடாரில்லை.",
+  "morphemes": []
+}

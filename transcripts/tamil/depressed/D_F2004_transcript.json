@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2004.wav",
+  "speaker_id": "F2004",
+  "language": "tamil",
+  "transcript": "ஏதோ பெருசான நடக்கப் போருமாரி பயமாயிருக்க.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:09.170822",
+  "segments": [
+    {
+      "text": "ஏதோ பெருசான நடக்கப் போருமாரி பயமாயிருக்க.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஏதோ பெருசான நடக்கப் போருமாரி பயமாயிருக்க.",
+  "morphemes": []
+}

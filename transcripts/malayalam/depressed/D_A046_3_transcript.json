@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A046_3.wav",
+  "speaker_id": "A046",
+  "language": "malayalam",
+  "transcript": "இந்த இவிடு முன்னொடுக்கும் என்னுடைய பாரையிருக்கிறது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:50:04.123507",
+  "segments": [
+    {
+      "text": "இந்த இவிடு முன்னொடுக்கும் என்னுடைய பாரையிருக்கிறது",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த இவிடு முன்னொடுக்கும் என்னுடைய பாரையிருக்கிறது",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0149.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "پோவங்குவி சிருதாயிட்டும் மாய்யங்கள் பக்ஷி ஒருங்கள் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:16:22.573457",
+  "segments": [
+    {
+      "text": "پோவங்குவி சிருதாயிட்டும் மாய்யங்கள் பக்ஷி ஒருங்கள் இல்லை.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "پோவங்குவி சிருதாயிட்டும் மாய்யங்கள் பக்ஷி ஒருங்கள் இல்லை.",
+  "morphemes": []
+}

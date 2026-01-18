@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0030.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "முயலும் விள்ளும் மாமையம் விள்ளும் ஆனால் முயலாமை விள்ளாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:35.429489",
+  "segments": [
+    {
+      "text": "முயலும் விள்ளும் மாமையம் விள்ளும் ஆனால் முயலாமை விள்ளாது.",
+      "start_time": 0,
+      "end_time": 2.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "முயலும் விள்ளும் மாமையம் விள்ளும் ஆனால் முயலாமை விள்ளாது.",
+  "morphemes": []
+}

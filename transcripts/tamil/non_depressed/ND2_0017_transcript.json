@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0017.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "தொடுங்குப் பைச்சி செய்யுங்கள் விரைவில் பயன் கிடைக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:47:37.149161",
+  "segments": [
+    {
+      "text": "தொடுங்குப் பைச்சி செய்யுங்கள் விரைவில் பயன் கிடைக்கும்.",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தொடுங்குப் பைச்சி செய்யுங்கள் விரைவில் பயன் கிடைக்கும்.",
+  "morphemes": []
+}

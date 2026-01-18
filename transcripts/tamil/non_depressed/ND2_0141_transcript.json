@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0141.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒருவரும் வாழ்கைக்கு உளித்திருவது, உக்கமேயாக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:54:18.442762",
+  "segments": [
+    {
+      "text": "ஒருவரும் வாழ்கைக்கு உளித்திருவது,",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "உக்கமேயாக்கும்.",
+      "start_time": 2.0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருவரும் வாழ்கைக்கு உளித்திருவது, உக்கமேயாக்கும்.",
+  "morphemes": []
+}

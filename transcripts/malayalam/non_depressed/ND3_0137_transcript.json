@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0137.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "கொஞ்சிக் கொஞ்சி வாழுமாயிட்டாயிருந்தமுடைய மயில் நடந்திருந்தது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:41:24.838882",
+  "segments": [
+    {
+      "text": "கொஞ்சிக் கொஞ்சி வாழுமாயிட்டாயிருந்தமுடைய மயில் நடந்திருந்தது.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொஞ்சிக் கொஞ்சி வாழுமாயிட்டாயிருந்தமுடைய மயில் நடந்திருந்தது.",
+  "morphemes": []
+}

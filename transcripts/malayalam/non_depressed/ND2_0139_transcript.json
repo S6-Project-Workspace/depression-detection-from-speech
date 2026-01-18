@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0139.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அப்பட்ட நிண்டி வாளம் குடை வைத்தால் நல்ல பங்கேயாம் தராமும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:15:26.377095",
+  "segments": [
+    {
+      "text": "அப்பட்ட நிண்டி வாளம் குடை வைத்தால் நல்ல பங்கேயாம் தராமும்",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்பட்ட நிண்டி வாளம் குடை வைத்தால் நல்ல பங்கேயாம் தராமும்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0040.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "இறக்கம் கட்டில் மானால் ஏமாலியாகக்கு விடக்குடாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:33:45.844926",
+  "segments": [
+    {
+      "text": "இறக்கம் கட்டில் மானால் ஏமாலியாகக்கு விடக்குடாது.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இறக்கம் கட்டில் மானால் ஏமாலியாகக்கு விடக்குடாது.",
+  "morphemes": []
+}

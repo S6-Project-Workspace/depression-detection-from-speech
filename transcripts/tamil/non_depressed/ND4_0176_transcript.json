@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0176.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "வெட்டு ஒன்று துண்டி இரண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:13:35.872703",
+  "segments": [
+    {
+      "text": "வெட்டு ஒன்று துண்டி இரண்டு.",
+      "start_time": 0,
+      "end_time": 1.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வெட்டு ஒன்று துண்டி இரண்டு.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0033.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அப்பத்தில் உதவாதது நடப்பில் அப்பத்தில் உதவாதது நடப்பில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:07:30.079886",
+  "segments": [
+    {
+      "text": "அப்பத்தில் உதவாதது நடப்பில் அப்பத்தில் உதவாதது நடப்பில்லை.",
+      "start_time": 0,
+      "end_time": 6.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்பத்தில் உதவாதது நடப்பில் அப்பத்தில் உதவாதது நடப்பில்லை.",
+  "morphemes": []
+}

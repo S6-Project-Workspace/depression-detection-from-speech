@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0051_b.wav",
+  "speaker_id": "S0051",
+  "language": "malayalam",
+  "transcript": "अरी किले संजजि किना विल़् विल़्",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:11:35.954358",
+  "segments": [
+    {
+      "text": "अरी किले संजजि किना विल़् विल़्",
+      "start_time": 0,
+      "end_time": 4.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "अरी किले संजजि किना विल़् विल़्",
+  "morphemes": []
+}

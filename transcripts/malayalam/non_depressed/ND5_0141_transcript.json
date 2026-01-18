@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0141.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அதினாப் புராம் போகருடுக்குவிட்டு போன் கொல்லி பாரணியும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:37:37.205907",
+  "segments": [
+    {
+      "text": "அதினாப் புராம் போகருடுக்குவிட்டு போன் கொல்லி பாரணியும்",
+      "start_time": 0,
+      "end_time": 2.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதினாப் புராம் போகருடுக்குவிட்டு போன் கொல்லி பாரணியும்",
+  "morphemes": []
+}

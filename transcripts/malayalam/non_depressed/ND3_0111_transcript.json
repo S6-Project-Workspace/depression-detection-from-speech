@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0111.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "ஆரத்தியில் அவன அமரத்துவிட்டுள்ளுங்கள் என அழையில்லைக்குப் போய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:37:32.816309",
+  "segments": [
+    {
+      "text": "ஆரத்தியில் அவன அமரத்துவிட்டுள்ளுங்கள் என அழையில்லைக்குப் போய்.",
+      "start_time": 0,
+      "end_time": 3.16,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆரத்தியில் அவன அமரத்துவிட்டுள்ளுங்கள் என அழையில்லைக்குப் போய்.",
+  "morphemes": []
+}

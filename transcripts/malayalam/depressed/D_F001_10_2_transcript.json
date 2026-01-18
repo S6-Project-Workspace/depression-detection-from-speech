@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_10_2.wav",
+  "speaker_id": "F001_10",
+  "language": "malayalam",
+  "transcript": "நாட்ட்டை வட்டோயாது ஒரு தோமும் ஆகரம் என்ன வணக்கம் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:58:04.279637",
+  "segments": [
+    {
+      "text": "நாட்ட்டை வட்டோயாது ஒரு தோமும் ஆகரம் என்ன வணக்கம் இல்லை.",
+      "start_time": 0,
+      "end_time": 4.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நாட்ட்டை வட்டோயாது ஒரு தோமும் ஆகரம் என்ன வணக்கம் இல்லை.",
+  "morphemes": []
+}

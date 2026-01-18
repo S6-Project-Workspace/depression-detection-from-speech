@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0058.wav",
+  "speaker_id": "S0058",
+  "language": "malayalam",
+  "transcript": "மனسுண்டு வேதுனா شைிரத்தில் பிறக்கிடமாகக்கும் அஞ்சிக்கலாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:17:41.604870",
+  "segments": [
+    {
+      "text": "மனسுண்டு வேதுனா شைிரத்தில் பிறக்கிடமாகக்கும் அஞ்சிக்கலாம்.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "மனسுண்டு வேதுனா شைிரத்தில் பிறக்கிடமாகக்கும் அஞ்சிக்கலாம்.",
+  "morphemes": []
+}

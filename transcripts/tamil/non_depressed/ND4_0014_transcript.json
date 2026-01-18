@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0014.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அவன் சிரியவனாக இருந்த போதிலும் மிகவும் வளவானவன்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:28.961045",
+  "segments": [
+    {
+      "text": "அவன் சிரியவனாக இருந்த போதிலும் மிகவும் வளவானவன்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவன் சிரியவனாக இருந்த போதிலும் மிகவும் வளவானவன்",
+  "morphemes": []
+}

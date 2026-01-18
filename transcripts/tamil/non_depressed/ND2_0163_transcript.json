@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0163.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மேறுக்கு மடிப் பீதால் கிளைக்கு வெள்ளம் வரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:33.982979",
+  "segments": [
+    {
+      "text": "மேறுக்கு மடிப் பீதால் கிளைக்கு வெள்ளம் வரும்.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மேறுக்கு மடிப் பீதால் கிளைக்கு வெள்ளம் வரும்.",
+  "morphemes": []
+}

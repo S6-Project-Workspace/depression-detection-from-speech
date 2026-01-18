@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0118.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "ஒரு வேடன் தண்டி அம்புண்ணமுக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:06:03.063519",
+  "segments": [
+    {
+      "text": "ஒரு வேடன் தண்டி அம்புண்ணமுக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு வேடன் தண்டி அம்புண்ணமுக்கிறேன்.",
+  "morphemes": []
+}

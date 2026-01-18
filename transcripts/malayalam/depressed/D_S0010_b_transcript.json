@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0010_b.wav",
+  "speaker_id": "S0010",
+  "language": "malayalam",
+  "transcript": "உண்டை மனது என்ன தண்ணை தள்ளை விடுத்துவிடும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:40:23.723700",
+  "segments": [
+    {
+      "text": "உண்டை மனது என்ன தண்ணை தள்ளை விடுத்துவிடும்",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "உண்டை மனது என்ன தண்ணை தள்ளை விடுத்துவிடும்",
+  "morphemes": []
+}

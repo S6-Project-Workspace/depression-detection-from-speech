@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0030.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "சுபர்ணாபெர்னங்கள் மறைக்குக்கேயும் அம்மாவா சேக்கிஷுப்பிட்டனை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:32:53.302024",
+  "segments": [
+    {
+      "text": "சுபர்ணாபெர்னங்கள் மறைக்குக்கேயும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "அம்மாவா சேக்கிஷுப்பிட்டனை",
+      "start_time": 2.0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சுபர்ணாபெர்னங்கள் மறைக்குக்கேயும் அம்மாவா சேக்கிஷுப்பிட்டனை",
+  "morphemes": []
+}

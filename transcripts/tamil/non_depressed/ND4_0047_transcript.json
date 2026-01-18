@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0047.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அணிக்கு ஒரு காலம் புனைக்கு ஒரு காலம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:08.165507",
+  "segments": [
+    {
+      "text": "அணிக்கு ஒரு காலம் புனைக்கு ஒரு காலம்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அணிக்கு ஒரு காலம் புனைக்கு ஒரு காலம்",
+  "morphemes": []
+}

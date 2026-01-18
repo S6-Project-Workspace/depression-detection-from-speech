@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0073.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "سویمہ دوانی چندہ کنہا ہارمیں جنگلہ کڑکہ رولوک",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:28:57.187921",
+  "segments": [
+    {
+      "text": "سویمہ دوانی چندہ کنہا ہارمیں جنگلہ کڑکہ رولوک",
+      "start_time": 0,
+      "end_time": 3.36,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "سویمہ دوانی چندہ کنہا ہارمیں جنگلہ کڑکہ رولوک",
+  "morphemes": []
+}

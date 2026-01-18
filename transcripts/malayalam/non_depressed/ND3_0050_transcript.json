@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0050.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "இன்னும் நமுக்க ஒரு உபகரத்தின் கத்துக் கேட்டாலும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:27:47.932307",
+  "segments": [
+    {
+      "text": "இன்னும் நமுக்க ஒரு உபகரத்தின் கத்துக் கேட்டாலும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இன்னும் நமுக்க ஒரு உபகரத்தின் கத்துக் கேட்டாலும்",
+  "morphemes": []
+}

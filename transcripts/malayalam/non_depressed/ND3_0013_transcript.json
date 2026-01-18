@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0013.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "யாவில் உனருந்தனுக்கு இப்போது அதைப் பிரச்சுவிட்டு இருக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:22:09.756274",
+  "segments": [
+    {
+      "text": "யாவில் உனருந்தனுக்கு இப்போது அதைப் பிரச்சுவிட்டு இருக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "யாவில் உனருந்தனுக்கு இப்போது அதைப் பிரச்சுவிட்டு இருக்கவேண்டும்.",
+  "morphemes": []
+}

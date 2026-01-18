@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0139.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "இப்போல நீண்டே வாலும் குடை வைத்தால் நல்ல பங்கியம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:48:24.660731",
+  "segments": [
+    {
+      "text": "இப்போல நீண்டே வாலும் குடை வைத்தால் நல்ல பங்கியம்.",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இப்போல நீண்டே வாலும் குடை வைத்தால் நல்ல பங்கியம்.",
+  "morphemes": []
+}

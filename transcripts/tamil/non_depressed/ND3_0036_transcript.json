@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0036.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "ஒரு விருக்குப் பயன்புடன் புரில் அவர்களைக்குச் சிறந்ததாககும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:51.352221",
+  "segments": [
+    {
+      "text": "ஒரு விருக்குப் பயன்புடன் புரில் அவர்களைக்குச் சிறந்ததாககும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு விருக்குப் பயன்புடன் புரில் அவர்களைக்குச் சிறந்ததாககும்.",
+  "morphemes": []
+}

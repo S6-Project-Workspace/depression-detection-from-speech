@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0045.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "காலத்தில் செய்வது தல்லிப் போட வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:02.534000",
+  "segments": [
+    {
+      "text": "காலத்தில் செய்வது தல்லிப் போட வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காலத்தில் செய்வது தல்லிப் போட வேண்டும்.",
+  "morphemes": []
+}

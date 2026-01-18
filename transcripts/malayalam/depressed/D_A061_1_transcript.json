@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A061_1.wav",
+  "speaker_id": "A061",
+  "language": "malayalam",
+  "transcript": "இந்த சிறுக்கு மாத்துக்கொள்ளும் இந்த அல்லமுறை மோசு மைத்து பூனே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:57:04.670032",
+  "segments": [
+    {
+      "text": "இந்த சிறுக்கு மாத்துக்கொள்ளும் இந்த அல்லமுறை மோசு மைத்து பூனே",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த சிறுக்கு மாத்துக்கொள்ளும் இந்த அல்லமுறை மோசு மைத்து பூனே",
+  "morphemes": []
+}

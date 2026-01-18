@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0024_b.wav",
+  "speaker_id": "S0024",
+  "language": "malayalam",
+  "transcript": "என்ன உள்ளில் கடித்தை கடித்தைத் தோவிற்கு என்ன வேத்தினா அறுங்கள் தில்லாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:51:08.878050",
+  "segments": [
+    {
+      "text": "என்ன உள்ளில் கடித்தை கடித்தைத் தோவிற்கு என்ன வேத்தினா",
+      "start_time": 0,
+      "end_time": 4.7,
+      "confidence": 1.0
+    },
+    {
+      "text": "அறுங்கள் தில்லாம்",
+      "start_time": 4.7,
+      "end_time": 7.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன உள்ளில் கடித்தை கடித்தைத் தோவிற்கு என்ன வேத்தினா அறுங்கள் தில்லாம்",
+  "morphemes": []
+}

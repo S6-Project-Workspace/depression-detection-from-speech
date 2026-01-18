@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10015-1.wav",
+  "speaker_id": "F10015",
+  "language": "tamil",
+  "transcript": "நான் நான் சையில் தீரியாருமே காப்பத்தையில் முட்டம் விலும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:42:10.819697",
+  "segments": [
+    {
+      "text": "நான் நான் சையில் தீரியாருமே காப்பத்தையில் முட்டம் விலும்",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் நான் சையில் தீரியாருமே காப்பத்தையில் முட்டம் விலும்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0047.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "இந்தக்கள் கேட்டு வழக்கும் நீங்கள் வழக்கும் நீங்கள் வழக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:01:28.248494",
+  "segments": [
+    {
+      "text": "இந்தக்கள் கேட்டு வழக்கும் நீங்கள் வழக்கும் நீங்கள் வழக்கும்",
+      "start_time": 0,
+      "end_time": 2.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இந்தக்கள் கேட்டு வழக்கும் நீங்கள் வழக்கும் நீங்கள் வழக்கும்",
+  "morphemes": []
+}

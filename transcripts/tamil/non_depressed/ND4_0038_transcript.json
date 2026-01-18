@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0038.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "வீண்சண்டை என்று மிருத்திரப்பினருக்கும் தியமேயாகும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:07:44.858366",
+  "segments": [
+    {
+      "text": "வீண்சண்டை என்று மிருத்திரப்பினருக்கும் தியமேயாகும்",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீண்சண்டை என்று மிருத்திரப்பினருக்கும் தியமேயாகும்",
+  "morphemes": []
+}

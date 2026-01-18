@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0163.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "மியர்கே மாலைப் பெய்தால் கிளைக்கே வெள்ளம் வரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:37.395135",
+  "segments": [
+    {
+      "text": "மியர்கே மாலைப் பெய்தால் கிளைக்கே வெள்ளம் வரும்",
+      "start_time": 0,
+      "end_time": 2.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மியர்கே மாலைப் பெய்தால் கிளைக்கே வெள்ளம் வரும்",
+  "morphemes": []
+}

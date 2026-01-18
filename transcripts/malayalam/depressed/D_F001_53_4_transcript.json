@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_53_4.wav",
+  "speaker_id": "F001_53",
+  "language": "malayalam",
+  "transcript": "இன்னுக்கு வேண்டு, Aashya Deepthi, Riyadhivasam, Karnat Kareemo, Samshevanu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:25:08.153347",
+  "segments": [
+    {
+      "text": "இன்னுக்கு வேண்டு, Aashya Deepthi, Riyadhivasam, Karnat Kareemo, Samshevanu",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுக்கு வேண்டு, Aashya Deepthi, Riyadhivasam, Karnat Kareemo, Samshevanu",
+  "morphemes": []
+}

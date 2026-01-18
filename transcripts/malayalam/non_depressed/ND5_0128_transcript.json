@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0128.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "புஞ்சட்டாங்கள் ஏற்றன் பாடையாட்டாட்டியாலமாரா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:36:04.189487",
+  "segments": [
+    {
+      "text": "புஞ்சட்டாங்கள் ஏற்றன் பாடையாட்டாட்டியாலமாரா",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புஞ்சட்டாங்கள் ஏற்றன் பாடையாட்டாட்டியாலமாரா",
+  "morphemes": []
+}

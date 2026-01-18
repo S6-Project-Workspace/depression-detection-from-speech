@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0028.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "கூடாதே பெரிஷே கரலின்னும் கடம் வாங்கியதும் இருக்கிறது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:59:13.756115",
+  "segments": [
+    {
+      "text": "கூடாதே பெரிஷே கரலின்னும் கடம் வாங்கியதும் இருக்கிறது",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கூடாதே பெரிஷே கரலின்னும் கடம் வாங்கியதும் இருக்கிறது",
+  "morphemes": []
+}

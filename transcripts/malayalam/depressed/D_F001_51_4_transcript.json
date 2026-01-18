@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_51_4.wav",
+  "speaker_id": "F001_51",
+  "language": "malayalam",
+  "transcript": "நான் என்று சிந்தகரைக்கும் குரிங்கே இருக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:24:01.806341",
+  "segments": [
+    {
+      "text": "நான் என்று சிந்தகரைக்கும் குரிங்கே இருக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் என்று சிந்தகரைக்கும் குரிங்கே இருக்கவேண்டும்.",
+  "morphemes": []
+}

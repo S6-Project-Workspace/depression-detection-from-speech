@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0030.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "ங்கள் சுர்நாபெர்னங்கள் மடிக்குக்கேயும் அமாவா சிக்ஷுப்பின்னாய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:22:21.254008",
+  "segments": [
+    {
+      "text": "ங்கள் சுர்நாபெர்னங்கள் மடிக்குக்கேயும் அமாவா சிக்ஷுப்பின்னாய்.",
+      "start_time": 0,
+      "end_time": 4.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ங்கள் சுர்நாபெர்னங்கள் மடிக்குக்கேயும் அமாவா சிக்ஷுப்பின்னாய்.",
+  "morphemes": []
+}

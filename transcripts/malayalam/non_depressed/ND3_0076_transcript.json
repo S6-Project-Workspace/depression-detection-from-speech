@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0076.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "குடிவில் ஏறைத்துக்கு நல்ல ருஜி ஆடும் என் தாராலம் கேட்டிட்டொண்டு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:33:19.756758",
+  "segments": [
+    {
+      "text": "குடிவில் ஏறைத்துக்கு நல்ல ருஜி ஆடும் என் தாராலம் கேட்டிட்டொண்டு",
+      "start_time": 0,
+      "end_time": 3.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குடிவில் ஏறைத்துக்கு நல்ல ருஜி ஆடும் என் தாராலம் கேட்டிட்டொண்டு",
+  "morphemes": []
+}

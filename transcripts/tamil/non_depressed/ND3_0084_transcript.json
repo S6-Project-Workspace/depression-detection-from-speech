@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0084.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "புராமே முடிக்கலே பேசுதலே முடிப்பாயாக.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:01:04.174850",
+  "segments": [
+    {
+      "text": "புராமே முடிக்கலே பேசுதலே முடிப்பாயாக.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புராமே முடிக்கலே பேசுதலே முடிப்பாயாக.",
+  "morphemes": []
+}

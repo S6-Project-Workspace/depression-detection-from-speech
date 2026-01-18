@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0002.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "காலனேரம் பாராது ஓரைத்தால வாழ்வைப் பரகாசிக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:50.585959",
+  "segments": [
+    {
+      "text": "காலனேரம் பாராது ஓரைத்தால வாழ்வைப் பரகாசிக்கும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காலனேரம் பாராது ஓரைத்தால வாழ்வைப் பரகாசிக்கும்.",
+  "morphemes": []
+}

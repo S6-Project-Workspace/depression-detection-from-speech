@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S005_a.wav",
+  "speaker_id": "S005",
+  "language": "malayalam",
+  "transcript": "என்னுடையும் மானிச்சையில் நிறைக்ஷிப்டான் காட்டியேண்டியில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:19:49.606988",
+  "segments": [
+    {
+      "text": "என்னுடையும் மானிச்சையில் நிறைக்ஷிப்டான் காட்டியேண்டியில்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுடையும் மானிச்சையில் நிறைக்ஷிப்டான் காட்டியேண்டியில்லை.",
+  "morphemes": []
+}

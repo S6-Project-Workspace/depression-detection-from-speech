@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0160.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "முட்பகல் சையன் பிர்ப்பகல் விலையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:29.463529",
+  "segments": [
+    {
+      "text": "முட்பகல் சையன் பிர்ப்பகல் விலையும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "முட்பகல் சையன் பிர்ப்பகல் விலையும்",
+  "morphemes": []
+}

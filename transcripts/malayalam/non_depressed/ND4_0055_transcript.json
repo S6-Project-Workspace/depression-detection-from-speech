@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0055.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அப்படி ராஞ்சித்தை இத்தக்களை முஞ்சிவேண்டும் கொண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:55:25.846875",
+  "segments": [
+    {
+      "text": "அப்படி ராஞ்சித்தை இத்தக்களை முஞ்சிவேண்டும் கொண்டு.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்படி ராஞ்சித்தை இத்தக்களை முஞ்சிவேண்டும் கொண்டு.",
+  "morphemes": []
+}

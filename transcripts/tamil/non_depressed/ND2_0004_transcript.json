@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0004.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "சொல்லுப் புடைய விடச்சுயைப் புத்திமிக்கா வசியம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:58.213034",
+  "segments": [
+    {
+      "text": "சொல்லுப் புடைய விடச்சுயைப் புத்திமிக்கா வசியம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சொல்லுப் புடைய விடச்சுயைப் புத்திமிக்கா வசியம்.",
+  "morphemes": []
+}

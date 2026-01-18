@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0163.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மேட்கே மடிப் பெய்தால் கிடக்கே வல்லம் வரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:54.597467",
+  "segments": [
+    {
+      "text": "மேட்கே மடிப் பெய்தால் கிடக்கே வல்லம் வரும்",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மேட்கே மடிப் பெய்தால் கிடக்கே வல்லம் வரும்",
+  "morphemes": []
+}

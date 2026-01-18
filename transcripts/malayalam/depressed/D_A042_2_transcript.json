@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A042_2.wav",
+  "speaker_id": "A042",
+  "language": "malayalam",
+  "transcript": "எங்கள் சோப்பிகள் இல்லை. இப்போது மாத்திற்றார் மாறைபோல் என்ன?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:48:06.752079",
+  "segments": [
+    {
+      "text": "எங்கள் சோப்பிகள் இல்லை. இப்போது மாத்திற்றார் மாறைபோல் என்ன?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எங்கள் சோப்பிகள் இல்லை. இப்போது மாத்திற்றார் மாறைபோல் என்ன?",
+  "morphemes": []
+}

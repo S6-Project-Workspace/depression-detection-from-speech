@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_67_1.wav",
+  "speaker_id": "F001_67",
+  "language": "malayalam",
+  "transcript": "என்ன காதசுக்கிறேன் போலும் என்றிக்கு கடுத்தம் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:34:49.308127",
+  "segments": [
+    {
+      "text": "என்ன காதசுக்கிறேன் போலும் என்றிக்கு கடுத்தம் இல்லை.",
+      "start_time": 0,
+      "end_time": 3.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன காதசுக்கிறேன் போலும் என்றிக்கு கடுத்தம் இல்லை.",
+  "morphemes": []
+}

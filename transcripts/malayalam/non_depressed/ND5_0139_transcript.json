@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND5_0139.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அப்போல நீங்கள் வாளங்குடை வைத்தால் நல்ல பாங்கியாவு தராமு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:37:31.449871",
+  "segments": [
+    {
+      "text": "அப்போல நீங்கள் வாளங்குடை வைத்தால் நல்ல பாங்கியாவு",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    },
+    {
+      "text": "தராமு",
+      "start_time": 2.8,
+      "end_time": 3.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போல நீங்கள் வாளங்குடை வைத்தால் நல்ல பாங்கியாவு தராமு",
+  "morphemes": []
+}

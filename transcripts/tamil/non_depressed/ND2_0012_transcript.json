@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0012.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கொள்ளுக்கையில் தெல்லிவிற்றால் எதையும் சாதிக்கமுடியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:47:22.047443",
+  "segments": [
+    {
+      "text": "கொள்ளுக்கையில் தெல்லிவிற்றால் எதையும் சாதிக்கமுடியும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொள்ளுக்கையில் தெல்லிவிற்றால் எதையும் சாதிக்கமுடியும்.",
+  "morphemes": []
+}

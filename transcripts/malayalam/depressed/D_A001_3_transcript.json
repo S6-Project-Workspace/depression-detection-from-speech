@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A001_3.wav",
+  "speaker_id": "A001",
+  "language": "malayalam",
+  "transcript": "வேண்டுக்கும் அன்னுருகிறதும் தேராம் காலியில்லாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:13.620983",
+  "segments": [
+    {
+      "text": "வேண்டுக்கும் அன்னுருகிறதும் தேராம் காலியில்லாம்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "வேண்டுக்கும் அன்னுருகிறதும் தேராம் காலியில்லாம்",
+  "morphemes": []
+}

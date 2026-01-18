@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0090.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "திராமத்தில் ஒரு அழகா ஒரு கண்டு தேவில் காணண்டு எனக்கு ஷிக்காரினாரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:41:01.624826",
+  "segments": [
+    {
+      "text": "திராமத்தில் ஒரு அழகா ஒரு கண்டு தேவில் காணண்டு எனக்கு ஷிக்காரினாரும்",
+      "start_time": 0,
+      "end_time": 4.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "திராமத்தில் ஒரு அழகா ஒரு கண்டு தேவில் காணண்டு எனக்கு ஷிக்காரினாரும்",
+  "morphemes": []
+}

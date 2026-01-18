@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_A028_4.wav",
+  "speaker_id": "A028",
+  "language": "malayalam",
+  "transcript": "நீங்கள் கார்க்குண்டி அவச்சமானச்சலாவில்லை. தகானுப்பவைச் செல்லுமானச்சலாவு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:40:46.751246",
+  "segments": [
+    {
+      "text": "நீங்கள் கார்க்குண்டி அவச்சமானச்சலாவில்லை.",
+      "start_time": 0,
+      "end_time": 2.46,
+      "confidence": 1.0
+    },
+    {
+      "text": "தகானுப்பவைச் செல்லுமானச்சலாவு.",
+      "start_time": 2.46,
+      "end_time": 4.46,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் கார்க்குண்டி அவச்சமானச்சலாவில்லை. தகானுப்பவைச் செல்லுமானச்சலாவு.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0059.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "எடுதியே வண்டைக் கிடுத்தான் படித்தவன் பாட்டைக் கொடுத்தான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:16.412023",
+  "segments": [
+    {
+      "text": "எடுதியே வண்டைக் கிடுத்தான் படித்தவன் பாட்டைக் கொடுத்தான்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எடுதியே வண்டைக் கிடுத்தான் படித்தவன் பாட்டைக் கொடுத்தான்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0082.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "ஒருவசம் கூரே அளியம், ஷார்கரேயம், தேன்னேயம் OK-Kitti",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:06:36.243533",
+  "segments": [
+    {
+      "text": "ஒருவசம் கூரே அளியம், ஷார்கரேயம், தேன்னேயம் OK-Kitti",
+      "start_time": 0,
+      "end_time": 3.36,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருவசம் கூரே அளியம், ஷார்கரேயம், தேன்னேயம் OK-Kitti",
+  "morphemes": []
+}

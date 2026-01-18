@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0077.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "இது கேட்டாகக் கர்ஷகன் கொண்ணிக்குருவியே மூஞ்சிப்பிச்சுக்கிறது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:59:50.043559",
+  "segments": [
+    {
+      "text": "இது கேட்டாகக் கர்ஷகன் கொண்ணிக்குருவியே மூஞ்சிப்பிச்சுக்கிறது",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இது கேட்டாகக் கர்ஷகன் கொண்ணிக்குருவியே மூஞ்சிப்பிச்சுக்கிறது",
+  "morphemes": []
+}

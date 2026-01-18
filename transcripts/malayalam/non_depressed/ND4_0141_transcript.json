@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0141.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அதினால் புனான் போக இருக்கிறான் புவன் கொள்ளி வாருங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:12:01.000312",
+  "segments": [
+    {
+      "text": "அதினால் புனான் போக இருக்கிறான் புவன் கொள்ளி வாருங்கள்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதினால் புனான் போக இருக்கிறான் புவன் கொள்ளி வாருங்கள்.",
+  "morphemes": []
+}

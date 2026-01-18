@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0048.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "கதைகள் கேட்டு வலர் நாள் ஏறுகள் நீங்கள் வலர் நீருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:54:17.760665",
+  "segments": [
+    {
+      "text": "கதைகள் கேட்டு வலர் நாள் ஏறுகள் நீங்கள் வலர் நீருக்கும்.",
+      "start_time": 0,
+      "end_time": 2.92,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கதைகள் கேட்டு வலர் நாள் ஏறுகள் நீங்கள் வலர் நீருக்கும்.",
+  "morphemes": []
+}

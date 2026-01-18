@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_35-2.wav",
+  "speaker_id": "S00_35",
+  "language": "tamil",
+  "transcript": "யேயினாய் யாருக்கு முக்கியும் முக்கியும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:08:33.485896",
+  "segments": [
+    {
+      "text": "யேயினாய் யாருக்கு முக்கியும் முக்கியும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "யேயினாய் யாருக்கு முக்கியும் முக்கியும்",
+  "morphemes": []
+}

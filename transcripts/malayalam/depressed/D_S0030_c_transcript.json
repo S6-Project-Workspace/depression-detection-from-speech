@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0030_c.wav",
+  "speaker_id": "S0030",
+  "language": "malayalam",
+  "transcript": "நான் உன்னும் வல்ல, நான் ஒரு கொண்டும் எல்லாம் என்று உப்பேசித்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:56:01.343401",
+  "segments": [
+    {
+      "text": "நான் உன்னும் வல்ல, நான் ஒரு கொண்டும் எல்லாம் என்று உப்பேசித்து",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் உன்னும் வல்ல, நான் ஒரு கொண்டும் எல்லாம் என்று உப்பேசித்து",
+  "morphemes": []
+}

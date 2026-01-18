@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2006.wav",
+  "speaker_id": "F2006",
+  "language": "tamil",
+  "transcript": "என் மூஞ்சி அடங்கிடும் மாறி இருக்கு இதுவம் கடந்து போயிடும் அம்மா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:35.576926",
+  "segments": [
+    {
+      "text": "என் மூஞ்சி அடங்கிடும் மாறி இருக்கு இதுவம் கடந்து போயிடும் அம்மா",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என் மூஞ்சி அடங்கிடும் மாறி இருக்கு இதுவம் கடந்து போயிடும் அம்மா",
+  "morphemes": []
+}

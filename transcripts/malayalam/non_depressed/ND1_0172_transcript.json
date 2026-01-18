@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0172.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "யாலையில் ஒன்று சாயிக்கேன் குறங்கள் வெண்டு கொடு விடுப்பாரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:52:47.240974",
+  "segments": [
+    {
+      "text": "யாலையில் ஒன்று சாயிக்கேன் குறங்கள் வெண்டு கொடு விடுப்பாரும்",
+      "start_time": 0,
+      "end_time": 2.88,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "யாலையில் ஒன்று சாயிக்கேன் குறங்கள் வெண்டு கொடு விடுப்பாரும்",
+  "morphemes": []
+}

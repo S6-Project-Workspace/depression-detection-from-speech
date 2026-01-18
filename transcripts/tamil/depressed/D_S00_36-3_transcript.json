@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_36-3.wav",
+  "speaker_id": "S00_36",
+  "language": "tamil",
+  "transcript": "நான் இப்பு இப்பு இப்பு மாறினேனே எனக்கே திரையில்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:09:32.260558",
+  "segments": [
+    {
+      "text": "நான் இப்பு இப்பு இப்பு மாறினேனே எனக்கே திரையில்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இப்பு இப்பு இப்பு மாறினேனே எனக்கே திரையில்",
+  "morphemes": []
+}

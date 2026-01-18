@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0024.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "அண்டுதோரும் பத்திலைச் சம் கடல் பரவேகள் கொல்லப் படிக்கின்றேனே.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:15:31.953184",
+  "segments": [
+    {
+      "text": "அண்டுதோரும் பத்திலைச் சம் கடல் பரவேகள் கொல்லப் படிக்கின்றேனே.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அண்டுதோரும் பத்திலைச் சம் கடல் பரவேகள் கொல்லப் படிக்கின்றேனே.",
+  "morphemes": []
+}

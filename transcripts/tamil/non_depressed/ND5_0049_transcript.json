@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0049.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "இக்கரி மாட்டுக்கு அக்கரி பச்சை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:38.253904",
+  "segments": [
+    {
+      "text": "இக்கரி மாட்டுக்கு அக்கரி பச்சை",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இக்கரி மாட்டுக்கு அக்கரி பச்சை",
+  "morphemes": []
+}

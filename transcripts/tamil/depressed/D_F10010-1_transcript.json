@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10010-1.wav",
+  "speaker_id": "F10010",
+  "language": "tamil",
+  "transcript": "இவ்வளும் நாளாக உளிடி இருந்து இப்போது எல்லாமே முடியப் போதான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:40:32.052688",
+  "segments": [
+    {
+      "text": "இவ்வளும் நாளாக உளிடி இருந்து இப்போது எல்லாமே முடியப் போதான்.",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இவ்வளும் நாளாக உளிடி இருந்து இப்போது எல்லாமே முடியப் போதான்.",
+  "morphemes": []
+}

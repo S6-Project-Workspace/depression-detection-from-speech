@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_A028_2.wav",
+  "speaker_id": "A028",
+  "language": "malayalam",
+  "transcript": "நீங்கள் காத்து என்றி அவச்த மன்ச்சலவில்லை. தகானிப்பவிட்டால் மன்ச்சலவு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:40:38.965266",
+  "segments": [
+    {
+      "text": "நீங்கள் காத்து என்றி அவச்த மன்ச்சலவில்லை.",
+      "start_time": 0,
+      "end_time": 2.66,
+      "confidence": 1.0
+    },
+    {
+      "text": "தகானிப்பவிட்டால் மன்ச்சலவு.",
+      "start_time": 2.66,
+      "end_time": 4.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் காத்து என்றி அவச்த மன்ச்சலவில்லை. தகானிப்பவிட்டால் மன்ச்சலவு.",
+  "morphemes": []
+}

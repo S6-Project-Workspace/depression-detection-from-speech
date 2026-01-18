@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0116.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அவன தண்ணை ரைத்துச் செல்லவேண்டும் நன்றியுடனோகி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:05:55.630810",
+  "segments": [
+    {
+      "text": "அவன தண்ணை ரைத்துச் செல்லவேண்டும் நன்றியுடனோகி.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவன தண்ணை ரைத்துச் செல்லவேண்டும் நன்றியுடனோகி.",
+  "morphemes": []
+}

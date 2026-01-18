@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0019.wav",
+  "speaker_id": "S0019",
+  "language": "malayalam",
+  "transcript": "ஒரு திவு சவம் நேருட்டே மாறிக்கை நாங்கள் கடைக்கும் அடுக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:45:57.635018",
+  "segments": [
+    {
+      "text": "ஒரு திவு சவம் நேருட்டே மாறிக்கை நாங்கள் கடைக்கும் அடுக்கும்",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒரு திவு சவம் நேருட்டே மாறிக்கை நாங்கள் கடைக்கும் அடுக்கும்",
+  "morphemes": []
+}

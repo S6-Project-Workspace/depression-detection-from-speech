@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_35_4.wav",
+  "speaker_id": "F001_35",
+  "language": "malayalam",
+  "transcript": "என்ன பயம் இந்த நல்லன் மிஷயங்களை எல்லாம்தாக இருக்கிறது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:15:27.936166",
+  "segments": [
+    {
+      "text": "என்ன பயம் இந்த நல்லன் மிஷயங்களை எல்லாம்தாக இருக்கிறது",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன பயம் இந்த நல்லன் மிஷயங்களை எல்லாம்தாக இருக்கிறது",
+  "morphemes": []
+}

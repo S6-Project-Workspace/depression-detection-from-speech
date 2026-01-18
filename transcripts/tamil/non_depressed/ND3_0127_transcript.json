@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0127.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "எழுத்துக்கல் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:03:02.787500",
+  "segments": [
+    {
+      "text": "எழுத்துக்கல் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எழுத்துக்கல் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கிறேன்.",
+  "morphemes": []
+}

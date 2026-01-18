@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND4_0070.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அப்போல குரிவி பருணியம். நீங்கள் குரிவிகள் கூட்டில் இருந்து பாடாரில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:58:42.171106",
+  "segments": [
+    {
+      "text": "அப்போல குரிவி பருணியம்.",
+      "start_time": 0,
+      "end_time": 1.4,
+      "confidence": 1.0
+    },
+    {
+      "text": "நீங்கள் குரிவிகள் கூட்டில் இருந்து பாடாரில்லை.",
+      "start_time": 1.4,
+      "end_time": 3.76,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போல குரிவி பருணியம். நீங்கள் குரிவிகள் கூட்டில் இருந்து பாடாரில்லை.",
+  "morphemes": []
+}

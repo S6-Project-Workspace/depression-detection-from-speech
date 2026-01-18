@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0103.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "ஒரு சோபாவகுணமுடன் மில்லவேற்றான ஒரு மிச்சுக் கொடுந்தது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:32:55.866656",
+  "segments": [
+    {
+      "text": "ஒரு சோபாவகுணமுடன் மில்லவேற்றான ஒரு மிச்சுக் கொடுந்தது",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு சோபாவகுணமுடன் மில்லவேற்றான ஒரு மிச்சுக் கொடுந்தது",
+  "morphemes": []
+}

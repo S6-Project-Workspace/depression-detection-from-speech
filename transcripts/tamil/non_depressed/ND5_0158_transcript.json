@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0158.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மாப் படித்தால் கிலிக்காம் வேண்டும் படித்தால் காக்கைக்காம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:42.080841",
+  "segments": [
+    {
+      "text": "மாப் படித்தால் கிலிக்காம் வேண்டும் படித்தால் காக்கைக்காம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மாப் படித்தால் கிலிக்காம் வேண்டும் படித்தால் காக்கைக்காம்.",
+  "morphemes": []
+}

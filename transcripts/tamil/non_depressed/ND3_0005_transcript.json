@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0005.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கடமையான முறைப் பு அதித்தத்தை அழைத்து வரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:57.784006",
+  "segments": [
+    {
+      "text": "கடமையான முறைப் பு அதித்தத்தை அழைத்து வரும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கடமையான முறைப் பு அதித்தத்தை அழைத்து வரும்.",
+  "morphemes": []
+}

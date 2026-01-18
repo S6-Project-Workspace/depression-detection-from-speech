@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0012.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "கொல்லையில் தெலிவிவில்லை வேல் எதையும் சாதிக்க முடியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:32:19.222829",
+  "segments": [
+    {
+      "text": "கொல்லையில் தெலிவிவில்லை வேல் எதையும் சாதிக்க முடியும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொல்லையில் தெலிவிவில்லை வேல் எதையும் சாதிக்க முடியும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0116.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "பாலுக்கு காவல் பூனைக்கு தோன்று.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:11.841791",
+  "segments": [
+    {
+      "text": "பாலுக்கு காவல் பூனைக்கு தோன்று.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாலுக்கு காவல் பூனைக்கு தோன்று.",
+  "morphemes": []
+}

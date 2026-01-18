@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0107.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "இன்று நாமுக்குருக்காக எல்லாம் இல்லை?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:04:15.679819",
+  "segments": [
+    {
+      "text": "இன்று நாமுக்குருக்காக எல்லாம் இல்லை?",
+      "start_time": 0,
+      "end_time": 1.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இன்று நாமுக்குருக்காக எல்லாம் இல்லை?",
+  "morphemes": []
+}

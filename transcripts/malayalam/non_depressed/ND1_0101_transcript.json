@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0101.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "Even Alsunodu kuudiyadu nannu enikyadumansu lai",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:42:30.299179",
+  "segments": [
+    {
+      "text": "Even Alsunodu kuudiyadu nannu enikyadumansu lai",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "Even Alsunodu kuudiyadu nannu enikyadumansu lai",
+  "morphemes": []
+}

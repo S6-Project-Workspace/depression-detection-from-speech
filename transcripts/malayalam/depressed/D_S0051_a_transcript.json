@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0051_a.wav",
+  "speaker_id": "S0051",
+  "language": "malayalam",
+  "transcript": "என்னிக்கு என்று ஒருக்கில் சந்துஷிக்கேன் அம்மில்லையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:11:33.945469",
+  "segments": [
+    {
+      "text": "என்னிக்கு என்று ஒருக்கில் சந்துஷிக்கேன் அம்மில்லையும்",
+      "start_time": 0,
+      "end_time": 4.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னிக்கு என்று ஒருக்கில் சந்துஷிக்கேன் அம்மில்லையும்",
+  "morphemes": []
+}

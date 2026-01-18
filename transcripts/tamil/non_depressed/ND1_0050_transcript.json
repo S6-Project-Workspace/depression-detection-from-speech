@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0050.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "இனமினைத்தோடுத்தான் செய்கிறோம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:35:37.751993",
+  "segments": [
+    {
+      "text": "இனமினைத்தோடுத்தான் செய்கிறோம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இனமினைத்தோடுத்தான் செய்கிறோம்.",
+  "morphemes": []
+}

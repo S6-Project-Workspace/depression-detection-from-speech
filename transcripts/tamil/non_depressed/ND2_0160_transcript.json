@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0160.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒருப்பகல் செய்யும் பிட்பகல் விலையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:26.300022",
+  "segments": [
+    {
+      "text": "ஒருப்பகல் செய்யும் பிட்பகல் விலையும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருப்பகல் செய்யும் பிட்பகல் விலையும்",
+  "morphemes": []
+}

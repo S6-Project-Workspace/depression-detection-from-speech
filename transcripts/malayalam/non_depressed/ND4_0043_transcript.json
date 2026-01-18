@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0043.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "இணிமேல் ஆரில்லும் அவிதமைப் பணமிடக்கில்லாம் அயால் ஒருப்பும் நல்லி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:53:56.960706",
+  "segments": [
+    {
+      "text": "இணிமேல் ஆரில்லும் அவிதமைப் பணமிடக்கில்லாம் அயால் ஒருப்பும் நல்லி.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இணிமேல் ஆரில்லும் அவிதமைப் பணமிடக்கில்லாம் அயால் ஒருப்பும் நல்லி.",
+  "morphemes": []
+}

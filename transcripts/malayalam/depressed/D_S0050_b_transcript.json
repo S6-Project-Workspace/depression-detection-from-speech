@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0050_b.wav",
+  "speaker_id": "S0050",
+  "language": "malayalam",
+  "transcript": "என்னிக்கினி, என்னுடைய பிரடிக்கிறான் இல்லையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:11:27.340117",
+  "segments": [
+    {
+      "text": "என்னிக்கினி, என்னுடைய பிரடிக்கிறான் இல்லையும்",
+      "start_time": 0,
+      "end_time": 5.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னிக்கினி, என்னுடைய பிரடிக்கிறான் இல்லையும்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2006_c.wav",
+  "speaker_id": "F2006",
+  "language": "tamil",
+  "transcript": "என் மூஞ்சி அடைங்கிடம் மாறு இருக்கு இது வங்காடுங்கள் போயிடுமா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:45.385469",
+  "segments": [
+    {
+      "text": "என் மூஞ்சி அடைங்கிடம் மாறு இருக்கு இது வங்காடுங்கள் போயிடுமா?",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என் மூஞ்சி அடைங்கிடம் மாறு இருக்கு இது வங்காடுங்கள் போயிடுமா?",
+  "morphemes": []
+}

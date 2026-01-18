@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_F001_9_1.wav",
+  "speaker_id": "F001_9",
+  "language": "malayalam",
+  "transcript": "Manesu nirantaran bhaiya manu. Inda chayana nannarila.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:39:43.312294",
+  "segments": [
+    {
+      "text": "Manesu nirantaran bhaiya manu.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "Inda chayana nannarila.",
+      "start_time": 3.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Manesu nirantaran bhaiya manu. Inda chayana nannarila.",
+  "morphemes": []
+}

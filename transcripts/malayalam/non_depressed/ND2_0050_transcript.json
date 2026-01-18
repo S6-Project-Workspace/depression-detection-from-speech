@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0050.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "உடிவாயு, இன்னும் நமக ஒரு உபக்காரத்தின்றைக் கதைக் கேட்டாலோ",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:01:37.624103",
+  "segments": [
+    {
+      "text": "உடிவாயு, இன்னும் நமக ஒரு உபக்காரத்தின்றைக் கதைக் கேட்டாலோ",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உடிவாயு, இன்னும் நமக ஒரு உபக்காரத்தின்றைக் கதைக் கேட்டாலோ",
+  "morphemes": []
+}

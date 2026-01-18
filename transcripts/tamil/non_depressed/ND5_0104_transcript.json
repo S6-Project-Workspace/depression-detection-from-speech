@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0104.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "படிக்கிரத்து திருவாய் முடி, இடிக்கிரத்து பெருமால் கோவில்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:31.162846",
+  "segments": [
+    {
+      "text": "படிக்கிரத்து திருவாய் முடி, இடிக்கிரத்து பெருமால் கோவில்",
+      "start_time": 0,
+      "end_time": 3.04,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "படிக்கிரத்து திருவாய் முடி, இடிக்கிரத்து பெருமால் கோவில்",
+  "morphemes": []
+}

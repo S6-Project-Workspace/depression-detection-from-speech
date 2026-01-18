@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0056_b.wav",
+  "speaker_id": "S0056",
+  "language": "malayalam",
+  "transcript": "i nui 1kg nyan parue pole aayur ka nyan ikki kari illa",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:15:51.275817",
+  "segments": [
+    {
+      "text": "i nui 1kg nyan parue pole aayur ka nyan ikki kari illa",
+      "start_time": 0,
+      "end_time": 5.02,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i nui 1kg nyan parue pole aayur ka nyan ikki kari illa",
+  "morphemes": []
+}

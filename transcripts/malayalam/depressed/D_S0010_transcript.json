@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0010.wav",
+  "speaker_id": "S0010",
+  "language": "malayalam",
+  "transcript": "நான் மனத்தான் என்னைத் தலி விடுங்கள்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:40:19.781587",
+  "segments": [
+    {
+      "text": "நான் மனத்தான் என்னைத் தலி விடுங்கள்",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் மனத்தான் என்னைத் தலி விடுங்கள்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0017_b.wav",
+  "speaker_id": "S0017",
+  "language": "malayalam",
+  "transcript": "Enigiaare tando shippi kenkari unilra",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:45:18.779248",
+  "segments": [
+    {
+      "text": "Enigiaare tando shippi kenkari unilra",
+      "start_time": 0,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Enigiaare tando shippi kenkari unilra",
+  "morphemes": []
+}

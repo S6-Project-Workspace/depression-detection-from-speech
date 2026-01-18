@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A004_3.wav",
+  "speaker_id": "A004",
+  "language": "malayalam",
+  "transcript": "இந்த சவன்னுடையுத்தில் தெண்ணை இழுக்கி ஓர்த்து நில்லையா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:24:51.671854",
+  "segments": [
+    {
+      "text": "இந்த சவன்னுடையுத்தில் தெண்ணை இழுக்கி ஓர்த்து நில்லையா.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த சவன்னுடையுத்தில் தெண்ணை இழுக்கி ஓர்த்து நில்லையா.",
+  "morphemes": []
+}

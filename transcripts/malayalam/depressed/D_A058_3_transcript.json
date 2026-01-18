@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A058_3.wav",
+  "speaker_id": "A058",
+  "language": "malayalam",
+  "transcript": "நீங்கள் எல்லாவிரும் இல்லோகம் முத்தம் இடிக்கைத் தெரியாடது ஒன்று.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:56:07.257262",
+  "segments": [
+    {
+      "text": "நீங்கள் எல்லாவிரும் இல்லோகம் முத்தம் இடிக்கைத் தெரியாடது ஒன்று.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் எல்லாவிரும் இல்லோகம் முத்தம் இடிக்கைத் தெரியாடது ஒன்று.",
+  "morphemes": []
+}

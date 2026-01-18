@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0057_c.wav",
+  "speaker_id": "S0057",
+  "language": "malayalam",
+  "transcript": "i n e n e t i ritchu viliken da நான் நிச்சையுத்தில் ஓட்டு மடிக்கி வேறில்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:17:37.671650",
+  "segments": [
+    {
+      "text": "i n e n e t i ritchu viliken da",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "நான் நிச்சையுத்தில் ஓட்டு மடிக்கி வேறில்லையா?",
+      "start_time": 2.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i n e n e t i ritchu viliken da நான் நிச்சையுத்தில் ஓட்டு மடிக்கி வேறில்லையா?",
+  "morphemes": []
+}

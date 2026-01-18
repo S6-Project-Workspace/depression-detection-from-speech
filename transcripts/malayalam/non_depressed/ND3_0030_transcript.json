@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0030.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "நேசுwarனா பெரியுங்கள் மயிரிக்குக்கொண்டு, அம்மா வாசிக்சுக்குச் சுற்பிதனாயி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:24:42.292685",
+  "segments": [
+    {
+      "text": "நேசுwarனா பெரியுங்கள் மயிரிக்குக்கொண்டு, அம்மா வாசிக்சுக்குச் சுற்பிதனாயி.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நேசுwarனா பெரியுங்கள் மயிரிக்குக்கொண்டு, அம்மா வாசிக்சுக்குச் சுற்பிதனாயி.",
+  "morphemes": []
+}

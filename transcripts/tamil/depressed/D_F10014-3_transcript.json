@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10014-3.wav",
+  "speaker_id": "F10014",
+  "language": "tamil",
+  "transcript": "தெரியுமே இல்லும் நாய்தில்லையும் தெரியும் மாடுப்பே இல்லும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:42:04.391291",
+  "segments": [
+    {
+      "text": "தெரியுமே இல்லும் நாய்தில்லையும் தெரியும் மாடுப்பே இல்லும்",
+      "start_time": 0,
+      "end_time": 5.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "தெரியுமே இல்லும் நாய்தில்லையும் தெரியும் மாடுப்பே இல்லும்",
+  "morphemes": []
+}

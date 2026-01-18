@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0182.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "ஒரு வரது மனனையில் அவர்து முகத்தில் கண்டு அரியலாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:01.383578",
+  "segments": [
+    {
+      "text": "ஒரு வரது மனனையில் அவர்து முகத்தில் கண்டு அரியலாம்.",
+      "start_time": 0,
+      "end_time": 3.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு வரது மனனையில் அவர்து முகத்தில் கண்டு அரியலாம்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0124.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அத்திப் பிட்டுப் பார்த்தால் அத்தனையும் புருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:11:26.505329",
+  "segments": [
+    {
+      "text": "அத்திப் பிட்டுப் பார்த்தால் அத்தனையும் புருக்கும்.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அத்திப் பிட்டுப் பார்த்தால் அத்தனையும் புருக்கும்.",
+  "morphemes": []
+}

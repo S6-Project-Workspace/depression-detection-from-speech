@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0082.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "போகிருக்கிறேன் வாரும் நடந்து கொள்ளவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:51:09.911609",
+  "segments": [
+    {
+      "text": "போகிருக்கிறேன் வாரும் நடந்து கொள்ளவேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "போகிருக்கிறேன் வாரும் நடந்து கொள்ளவேண்டும்.",
+  "morphemes": []
+}

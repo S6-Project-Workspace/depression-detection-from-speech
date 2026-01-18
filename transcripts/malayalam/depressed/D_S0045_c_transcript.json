@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0045_c.wav",
+  "speaker_id": "S0045",
+  "language": "malayalam",
+  "transcript": "இன்னுக்கியும் உடன்னால் சந்தோஞ்டாக முக்கிறாய்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:08:22.263641",
+  "segments": [
+    {
+      "text": "இன்னுக்கியும் உடன்னால் சந்தோஞ்டாக முக்கிறாய்",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுக்கியும் உடன்னால் சந்தோஞ்டாக முக்கிறாய்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S009.wav",
+  "speaker_id": "S009",
+  "language": "malayalam",
+  "transcript": "आजिजिव लगलेने केने को दे ले ले ले ले ले ले ले ले ले",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:26:05.409003",
+  "segments": [
+    {
+      "text": "आजिजिव लगलेने केने को दे ले ले ले ले ले ले ले ले ले",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "आजिजिव लगलेने केने को दे ले ले ले ले ले ले ले ले ले",
+  "morphemes": []
+}

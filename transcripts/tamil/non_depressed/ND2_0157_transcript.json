@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0157.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மன்னும் இரை தன்னும் இருப்புள் நினை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:18.474810",
+  "segments": [
+    {
+      "text": "மன்னும் இரை தன்னும் இருப்புள் நினை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மன்னும் இரை தன்னும் இருப்புள் நினை.",
+  "morphemes": []
+}

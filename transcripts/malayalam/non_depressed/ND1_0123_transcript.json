@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0123.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஏதனையில் பொழுது என்னை வேண்டும் வேண்டும். ஏயோ, இந்த விளித்துவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:45:59.128916",
+  "segments": [
+    {
+      "text": "ஏதனையில் பொழுது என்னை வேண்டும் வேண்டும்.",
+      "start_time": 0,
+      "end_time": 1.44,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஏயோ, இந்த விளித்துவேண்டும்.",
+      "start_time": 1.44,
+      "end_time": 2.68,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஏதனையில் பொழுது என்னை வேண்டும் வேண்டும். ஏயோ, இந்த விளித்துவேண்டும்.",
+  "morphemes": []
+}

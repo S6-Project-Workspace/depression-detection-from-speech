@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0103.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "ஒரே சுப்பாவகும் உள்ளமே ரானா ஒரு மிச்சுக்கொள்ளுண்டுந்ததே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:36:21.038501",
+  "segments": [
+    {
+      "text": "ஒரே சுப்பாவகும் உள்ளமே ரானா ஒரு மிச்சுக்கொள்ளுண்டுந்ததே",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரே சுப்பாவகும் உள்ளமே ரானா ஒரு மிச்சுக்கொள்ளுண்டுந்ததே",
+  "morphemes": []
+}

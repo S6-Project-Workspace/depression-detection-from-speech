@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0022_a.wav",
+  "speaker_id": "S0022",
+  "language": "malayalam",
+  "transcript": "ஒரு நிமிஷம் போல என்றே மானைச் சென்றியில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:49:36.684660",
+  "segments": [
+    {
+      "text": "ஒரு நிமிஷம் போல என்றே மானைச் சென்றியில்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒரு நிமிஷம் போல என்றே மானைச் சென்றியில்லை.",
+  "morphemes": []
+}

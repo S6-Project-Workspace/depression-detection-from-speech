@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A023_3.wav",
+  "speaker_id": "A023",
+  "language": "malayalam",
+  "transcript": "இந்த உல்லா, எண்டு செய்வது மாற்றும் நீங்கள் அழப்போயே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:37:09.861828",
+  "segments": [
+    {
+      "text": "இந்த உல்லா, எண்டு செய்வது மாற்றும் நீங்கள் அழப்போயே",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த உல்லா, எண்டு செய்வது மாற்றும் நீங்கள் அழப்போயே",
+  "morphemes": []
+}

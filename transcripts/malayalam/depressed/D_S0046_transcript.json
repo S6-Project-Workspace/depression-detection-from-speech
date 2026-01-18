@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0046.wav",
+  "speaker_id": "S0046",
+  "language": "malayalam",
+  "transcript": "यानारी वर कुनिला तक्द्यारेने सेक्यानिला",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:08:24.720972",
+  "segments": [
+    {
+      "text": "यानारी वर कुनिला तक्द्यारेने सेक्यानिला",
+      "start_time": 0,
+      "end_time": 5.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "यानारी वर कुनिला तक्द्यारेने सेक्यानिला",
+  "morphemes": []
+}

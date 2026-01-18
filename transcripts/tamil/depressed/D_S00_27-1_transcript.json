@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_27-1.wav",
+  "speaker_id": "S00_27",
+  "language": "tamil",
+  "transcript": "என்னால் ஒரு நாள்கள் கொடு நிம்மத்தியம் போனதே இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:02:25.235048",
+  "segments": [
+    {
+      "text": "என்னால் ஒரு நாள்கள் கொடு நிம்மத்தியம் போனதே இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னால் ஒரு நாள்கள் கொடு நிம்மத்தியம் போனதே இல்லை.",
+  "morphemes": []
+}

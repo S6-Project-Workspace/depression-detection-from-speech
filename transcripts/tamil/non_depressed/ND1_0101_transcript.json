@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0101.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "நாய் கண்டால் கலைக்கானம் கலைக்கண்டால் நாய் கண்டால் நாய் கண்டால்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:05.561812",
+  "segments": [
+    {
+      "text": "நாய் கண்டால் கலைக்கானம் கலைக்கண்டால் நாய் கண்டால் நாய் கண்டால்",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நாய் கண்டால் கலைக்கானம் கலைக்கண்டால் நாய் கண்டால் நாய் கண்டால்",
+  "morphemes": []
+}

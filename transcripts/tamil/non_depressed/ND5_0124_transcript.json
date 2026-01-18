@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0124.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "அதிப்பட்டைப் பிட்டப் பார்த்தால் அத்தனையும் புருப்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:12.775890",
+  "segments": [
+    {
+      "text": "அதிப்பட்டைப் பிட்டப் பார்த்தால் அத்தனையும் புருப்பு.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதிப்பட்டைப் பிட்டப் பார்த்தால் அத்தனையும் புருப்பு.",
+  "morphemes": []
+}

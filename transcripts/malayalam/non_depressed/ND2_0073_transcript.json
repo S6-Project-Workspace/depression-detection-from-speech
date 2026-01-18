@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0073.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "سوائم آتوانی چونڈا گொண்டா گொண்டா, அہر மேٹ்ணியங்கள் கழிக்காரொல்லு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:05:20.880014",
+  "segments": [
+    {
+      "text": "سوائم آتوانی چونڈا گொண்டா گொண்டா, அہر மேٹ்ணியங்கள் கழிக்காரொல்லு.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "سوائم آتوانی چونڈا گொண்டா گொண்டா, அہر மேٹ்ணியங்கள் கழிக்காரொல்லு.",
+  "morphemes": []
+}

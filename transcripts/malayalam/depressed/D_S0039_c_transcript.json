@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0039_c.wav",
+  "speaker_id": "S0039",
+  "language": "malayalam",
+  "transcript": "i dont have a question to ask you.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:03:25.221145",
+  "segments": [
+    {
+      "text": "i dont have a question to ask you.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i dont have a question to ask you.",
+  "morphemes": []
+}

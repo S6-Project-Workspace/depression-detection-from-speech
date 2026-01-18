@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0042.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "புராமா இருந்தால் உள்ளதையும் இல்லைக் கண்ணி இருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:33:51.000947",
+  "segments": [
+    {
+      "text": "புராமா இருந்தால் உள்ளதையும் இல்லைக் கண்ணி இருக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புராமா இருந்தால் உள்ளதையும் இல்லைக் கண்ணி இருக்கும்.",
+  "morphemes": []
+}

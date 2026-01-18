@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0136.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கலவி கருக்கா நல்ல நல்ல கலை குட்டுமாக கருக்கா வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:54:03.862163",
+  "segments": [
+    {
+      "text": "கலவி கருக்கா நல்ல நல்ல கலை குட்டுமாக கருக்கா வேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கலவி கருக்கா நல்ல நல்ல கலை குட்டுமாக கருக்கா வேண்டும்.",
+  "morphemes": []
+}

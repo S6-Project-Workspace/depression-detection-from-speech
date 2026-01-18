@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0058_c.wav",
+  "speaker_id": "S0058",
+  "language": "malayalam",
+  "transcript": "बाने सिन्टे वेदने शारी दे ते प्रेदा माह कुण आएएचे कलान",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:18:32.259984",
+  "segments": [
+    {
+      "text": "बाने सिन्टे वेदने शारी दे ते प्रेदा माह कुण आएएचे कलान",
+      "start_time": 0,
+      "end_time": 5.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "बाने सिन्टे वेदने शारी दे ते प्रेदा माह कुण आएएचे कलान",
+  "morphemes": []
+}

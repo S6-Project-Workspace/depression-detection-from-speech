@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_A060_1.wav",
+  "speaker_id": "A060",
+  "language": "malayalam",
+  "transcript": "இங்குத் தெல்லாம் சாய்த்து மட்டுத்து. இன்னுங்களும்து தீர்ந்து தோதுக்கு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:56:49.234763",
+  "segments": [
+    {
+      "text": "இங்குத் தெல்லாம் சாய்த்து மட்டுத்து.",
+      "start_time": 0,
+      "end_time": 2.3,
+      "confidence": 1.0
+    },
+    {
+      "text": "இன்னுங்களும்து தீர்ந்து தோதுக்கு.",
+      "start_time": 2.3,
+      "end_time": 4.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்குத் தெல்லாம் சாய்த்து மட்டுத்து. இன்னுங்களும்து தீர்ந்து தோதுக்கு.",
+  "morphemes": []
+}

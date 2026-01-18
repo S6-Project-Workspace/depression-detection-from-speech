@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0118.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஒவری வیڈن் தண்டி அம்பு உண்ணமைக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:45:21.010066",
+  "segments": [
+    {
+      "text": "ஒவری வیڈن் தண்டி அம்பு உண்ணமைக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒவری வیڈن் தண்டி அம்பு உண்ணமைக்கவேண்டும்.",
+  "morphemes": []
+}

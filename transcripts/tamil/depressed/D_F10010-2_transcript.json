@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10010-2.wav",
+  "speaker_id": "F10010",
+  "language": "tamil",
+  "transcript": "இப்போது எல்லாம் விடியப் போது அப்போம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:40:34.012284",
+  "segments": [
+    {
+      "text": "இப்போது எல்லாம் விடியப் போது அப்போம்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இப்போது எல்லாம் விடியப் போது அப்போம்.",
+  "morphemes": []
+}

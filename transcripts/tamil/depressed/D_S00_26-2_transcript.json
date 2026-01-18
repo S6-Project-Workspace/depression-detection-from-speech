@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_26-2.wav",
+  "speaker_id": "S00_26",
+  "language": "tamil",
+  "transcript": "இன்னும் கஷ்தை தப்பதி சொல்லுத்துக் கொடு எனக்கு யாரமே இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:01:55.870771",
+  "segments": [
+    {
+      "text": "இன்னும் கஷ்தை தப்பதி சொல்லுத்துக் கொடு எனக்கு யாரமே இல்லை.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னும் கஷ்தை தப்பதி சொல்லுத்துக் கொடு எனக்கு யாரமே இல்லை.",
+  "morphemes": []
+}

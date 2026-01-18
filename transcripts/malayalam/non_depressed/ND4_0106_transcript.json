@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0106.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "பாய்சோ, உபெரியமுக்கிவில்லாம் நல்லாம் ஏற்சிகன் சத்தேயுமுண்டிலே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:04:13.506258",
+  "segments": [
+    {
+      "text": "பாய்சோ, உபெரியமுக்கிவில்லாம் நல்லாம் ஏற்சிகன் சத்தேயுமுண்டிலே",
+      "start_time": 0,
+      "end_time": 3.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாய்சோ, உபெரியமுக்கிவில்லாம் நல்லாம் ஏற்சிகன் சத்தேயுமுண்டிலே",
+  "morphemes": []
+}

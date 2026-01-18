@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0154.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அது நான் இதை சாம்பாதைப் பெட்டியும் என்று தூரண்டும் ஒக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:38:46.568533",
+  "segments": [
+    {
+      "text": "அது நான் இதை சாம்பாதைப் பெட்டியும் என்று தூரண்டும் ஒக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அது நான் இதை சாம்பாதைப் பெட்டியும் என்று தூரண்டும் ஒக்கிறேன்.",
+  "morphemes": []
+}

@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_S0057.wav",
+  "speaker_id": "S0057",
+  "language": "malayalam",
+  "transcript": "என்னைத் திடித்து விலைக்கேண்டும். நான் நிச்சிக்குத் தில்லோட்டும் மான்றங்கு வரில்லையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:16:20.522713",
+  "segments": [
+    {
+      "text": "என்னைத் திடித்து விலைக்கேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    },
+    {
+      "text": "",
+      "start_time": 2.9,
+      "end_time": 2.4,
+      "confidence": 1.0
+    },
+    {
+      "text": "நான் நிச்சிக்குத் தில்லோட்டும் மான்றங்கு வரில்லையும்",
+      "start_time": 6.02,
+      "end_time": 6.0535625,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னைத் திடித்து விலைக்கேண்டும். நான் நிச்சிக்குத் தில்லோட்டும் மான்றங்கு வரில்லையும்",
+  "morphemes": []
+}

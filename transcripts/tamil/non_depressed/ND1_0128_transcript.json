@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0128.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "உளகம் கடகுளை அடிப்படையாகக் கொண்டு இருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:44:05.425861",
+  "segments": [
+    {
+      "text": "உளகம் கடகுளை அடிப்படையாகக் கொண்டு இருக்கிறது.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உளகம் கடகுளை அடிப்படையாகக் கொண்டு இருக்கிறது.",
+  "morphemes": []
+}

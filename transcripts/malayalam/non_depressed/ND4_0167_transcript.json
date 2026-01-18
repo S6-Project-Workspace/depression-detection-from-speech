@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND4_0167.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அப்புப் பேன் பருண்ணும். நான் அல்லை அடியாடத்தது அது ஒன்று எனக்கு மூன்றாப்பா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:15:29.950156",
+  "segments": [
+    {
+      "text": "அப்புப் பேன் பருண்ணும்.",
+      "start_time": 0,
+      "end_time": 1.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "நான் அல்லை அடியாடத்தது அது ஒன்று எனக்கு மூன்றாப்பா.",
+      "start_time": 1.5,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்புப் பேன் பருண்ணும். நான் அல்லை அடியாடத்தது அது ஒன்று எனக்கு மூன்றாப்பா.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A007_3.wav",
+  "speaker_id": "A007",
+  "language": "malayalam",
+  "transcript": "வருக்கா, இருக்கு எண்டுப் பிரஷ்டும் தன்னாரையா சமீில்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:49.144758",
+  "segments": [
+    {
+      "text": "வருக்கா, இருக்கு எண்டுப் பிரஷ்டும் தன்னாரையா சமீில்லையா?",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "வருக்கா, இருக்கு எண்டுப் பிரஷ்டும் தன்னாரையா சமீில்லையா?",
+  "morphemes": []
+}

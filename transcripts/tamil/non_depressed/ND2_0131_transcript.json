@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0131.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அடங்கள் அம்மி வாழ்வையில் இருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:47.097712",
+  "segments": [
+    {
+      "text": "அடங்கள் அம்மி வாழ்வையில் இருக்கிறது.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அடங்கள் அம்மி வாழ்வையில் இருக்கிறது.",
+  "morphemes": []
+}

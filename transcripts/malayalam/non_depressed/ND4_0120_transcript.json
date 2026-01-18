@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0120.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "எந்தச் செய்யும் அலோத்தின்னில் காண்ணையிரமில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:06:11.578596",
+  "segments": [
+    {
+      "text": "எந்தச் செய்யும் அலோத்தின்னில் காண்ணையிரமில்லை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எந்தச் செய்யும் அலோத்தின்னில் காண்ணையிரமில்லை.",
+  "morphemes": []
+}

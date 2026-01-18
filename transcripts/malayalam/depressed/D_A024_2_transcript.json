@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A024_2.wav",
+  "speaker_id": "A024",
+  "language": "malayalam",
+  "transcript": "நான் எல்லாயில் போல் இவே தென்றால் சாரித்தும் தெரிக்கின்றே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:37:41.208800",
+  "segments": [
+    {
+      "text": "நான் எல்லாயில் போல் இவே தென்றால் சாரித்தும் தெரிக்கின்றே",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் எல்லாயில் போல் இவே தென்றால் சாரித்தும் தெரிக்கின்றே",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0107.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "பலமரம் கண்டைத்தையென்று ஒரு மரமும் விட்டமாட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:53.121235",
+  "segments": [
+    {
+      "text": "பலமரம் கண்டைத்தையென்று ஒரு மரமும் விட்டமாட்டான்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பலமரம் கண்டைத்தையென்று ஒரு மரமும் விட்டமாட்டான்.",
+  "morphemes": []
+}

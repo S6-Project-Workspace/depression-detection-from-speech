@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0003.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "கடினால் இப்போது கண்டிப் பாக ஒரு நாள் பலன் திரும்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:31:51.963193",
+  "segments": [
+    {
+      "text": "கடினால் இப்போது கண்டிப் பாக ஒரு நாள் பலன் திரும்பு.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கடினால் இப்போது கண்டிப் பாக ஒரு நாள் பலன் திரும்பு.",
+  "morphemes": []
+}

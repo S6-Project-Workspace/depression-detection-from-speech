@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0154.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மனம் தடுமாரினால் மட்ட்டானக்கு வளிமேயில்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:33.554026",
+  "segments": [
+    {
+      "text": "மனம் தடுமாரினால் மட்ட்டானக்கு வளிமேயில்",
+      "start_time": 0,
+      "end_time": 2.58,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மனம் தடுமாரினால் மட்ட்டானக்கு வளிமேயில்",
+  "morphemes": []
+}

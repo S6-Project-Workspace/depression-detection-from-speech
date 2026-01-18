@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0060.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒரு புயையை மாறைக்கா உன்பது போய் சொல்லுத்தலும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:18.926208",
+  "segments": [
+    {
+      "text": "ஒரு புயையை மாறைக்கா உன்பது போய் சொல்லுத்தலும்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு புயையை மாறைக்கா உன்பது போய் சொல்லுத்தலும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0133.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மிக்கம் ஒருத்திவிடும் காப்பட வேண்டியது அடக்கமாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:53.774423",
+  "segments": [
+    {
+      "text": "மிக்கம் ஒருத்திவிடும் காப்பட வேண்டியது அடக்கமாகும்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மிக்கம் ஒருத்திவிடும் காப்பட வேண்டியது அடக்கமாகும்.",
+  "morphemes": []
+}

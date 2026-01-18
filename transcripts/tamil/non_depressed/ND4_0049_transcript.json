@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0049.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "இக்கரை மாட்டுக்கு அக்கரைப் பச்சை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:12.147129",
+  "segments": [
+    {
+      "text": "இக்கரை மாட்டுக்கு அக்கரைப் பச்சை",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இக்கரை மாட்டுக்கு அக்கரைப் பச்சை",
+  "morphemes": []
+}

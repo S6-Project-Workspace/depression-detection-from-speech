@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0050.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "ஓடிவாயோ, இந்து நமக்கு ஒரு பகரத்தின்றைக் கதைக் கேட்டாலோ",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:54:24.516149",
+  "segments": [
+    {
+      "text": "ஓடிவாயோ, இந்து நமக்கு ஒரு பகரத்தின்றைக் கதைக் கேட்டாலோ",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஓடிவாயோ, இந்து நமக்கு ஒரு பகரத்தின்றைக் கதைக் கேட்டாலோ",
+  "morphemes": []
+}

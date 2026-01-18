@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0167.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "நான் அல்லை ஆடி ஆறித்ததா அது உண்டை எனக்கு மூன் அப்பா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:52:26.925291",
+  "segments": [
+    {
+      "text": "நான் அல்லை ஆடி ஆறித்ததா அது உண்டை எனக்கு மூன் அப்பா",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் அல்லை ஆடி ஆறித்ததா அது உண்டை எனக்கு மூன் அப்பா",
+  "morphemes": []
+}

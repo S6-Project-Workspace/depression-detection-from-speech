@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0021.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "தண்டைச் சுரணாபரணங்கள் Ganeshan Gondh Bhoi அவன் பிரச விஞ்சையில் இரட்டியாகக்கும் அல்லவா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:58:44.031043",
+  "segments": [
+    {
+      "text": "தண்டைச் சுரணாபரணங்கள் Ganeshan Gondh Bhoi",
+      "start_time": 0,
+      "end_time": 2.44,
+      "confidence": 1.0
+    },
+    {
+      "text": "அவன் பிரச விஞ்சையில் இரட்டியாகக்கும் அல்லவா?",
+      "start_time": 2.44,
+      "end_time": 4.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தண்டைச் சுரணாபரணங்கள் Ganeshan Gondh Bhoi அவன் பிரச விஞ்சையில் இரட்டியாகக்கும் அல்லவா?",
+  "morphemes": []
+}

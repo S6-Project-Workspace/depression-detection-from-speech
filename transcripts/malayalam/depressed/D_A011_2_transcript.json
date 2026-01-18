@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A011_2.wav",
+  "speaker_id": "A011",
+  "language": "malayalam",
+  "transcript": "அزیتுக்காப் பெரியங்களை எப்பொரும் எனக்கு எதிருக்கிறார்கள்?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:04.090263",
+  "segments": [
+    {
+      "text": "அزیتுக்காப் பெரியங்களை எப்பொரும் எனக்கு எதிருக்கிறார்கள்?",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "அزیتுக்காப் பெரியங்களை எப்பொரும் எனக்கு எதிருக்கிறார்கள்?",
+  "morphemes": []
+}

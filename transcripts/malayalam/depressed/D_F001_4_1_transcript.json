@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_4_1.wav",
+  "speaker_id": "F001_4",
+  "language": "malayalam",
+  "transcript": "بائம் என்னைப் பிருதிக்கும்லை முஞ்சுவனைத் தாக்கர் கிடிக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:06.946469",
+  "segments": [
+    {
+      "text": "بائம் என்னைப் பிருதிக்கும்லை முஞ்சுவனைத் தாக்கர் கிடிக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "بائம் என்னைப் பிருதிக்கும்லை முஞ்சுவனைத் தாக்கர் கிடிக்கிறேன்.",
+  "morphemes": []
+}

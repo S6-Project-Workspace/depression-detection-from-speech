@@ -1,0 +1,32 @@
+{
+  "audio_file": "ND5_0002.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "பாற்றங்களும் பணியாயித்தங்களும் மட்டும் வாடக்கைக் கொடுக்கும்ததானே ஆயாலுடைய பரதான வருமானே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:17:55.307757",
+  "segments": [
+    {
+      "text": "பாற்றங்களும் பணியாயித்தங்களும் மட்டும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "வாடக்கைக் கொடுக்கும்ததானே",
+      "start_time": 2.0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஆயாலுடைய பரதான வருமானே",
+      "start_time": 3.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாற்றங்களும் பணியாயித்தங்களும் மட்டும் வாடக்கைக் கொடுக்கும்ததானே ஆயாலுடைய பரதான வருமானே",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0117.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "வீட்டியே மடியால் வெளிலாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:11:10.357876",
+  "segments": [
+    {
+      "text": "வீட்டியே மடியால் வெளிலாம்.",
+      "start_time": 0,
+      "end_time": 1.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீட்டியே மடியால் வெளிலாம்.",
+  "morphemes": []
+}

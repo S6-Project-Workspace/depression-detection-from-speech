@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0156.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "மன்னும் எப்படியும் மன்னுமிரப்படி?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:04:41.578517",
+  "segments": [
+    {
+      "text": "மன்னும் எப்படியும் மன்னுமிரப்படி?",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மன்னும் எப்படியும் மன்னுமிரப்படி?",
+  "morphemes": []
+}

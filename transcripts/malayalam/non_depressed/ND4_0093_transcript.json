@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0093.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "ஆ கடுத்தே ஆயால் மட்டு கடுத்தக்களோட்டாப் பார்ம் விட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:02:47.330965",
+  "segments": [
+    {
+      "text": "ஆ கடுத்தே ஆயால் மட்டு கடுத்தக்களோட்டாப் பார்ம் விட்டு.",
+      "start_time": 0,
+      "end_time": 2.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆ கடுத்தே ஆயால் மட்டு கடுத்தக்களோட்டாப் பார்ம் விட்டு.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_F001_42_1.wav",
+  "speaker_id": "F001_42",
+  "language": "malayalam",
+  "transcript": "என்ன இப்பிகர வரத்தையில் என்ன? ஆரம் வெரித்தும் குட்டுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:19:27.948877",
+  "segments": [
+    {
+      "text": "என்ன இப்பிகர வரத்தையில் என்ன?",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஆரம் வெரித்தும் குட்டுங்கள்.",
+      "start_time": 2.7,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன இப்பிகர வரத்தையில் என்ன? ஆரம் வெரித்தும் குட்டுங்கள்.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0048.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "கதக்கல் கேட்ட வலைத்து நாளும் அரிவுகள் நீங்களை மலாட்டு நீங்கள்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:35:04.414929",
+  "segments": [
+    {
+      "text": "கதக்கல் கேட்ட வலைத்து நாளும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "அரிவுகள் நீங்களை மலாட்டு நீங்கள்",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கதக்கல் கேட்ட வலைத்து நாளும் அரிவுகள் நீங்களை மலாட்டு நீங்கள்",
+  "morphemes": []
+}

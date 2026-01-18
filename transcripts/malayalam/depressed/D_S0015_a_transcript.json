@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0015_a.wav",
+  "speaker_id": "S0015",
+  "language": "malayalam",
+  "transcript": "நான் எது என்ன நான் எதெல்லாம் சாைக்கின்றாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:44:30.947060",
+  "segments": [
+    {
+      "text": "நான் எது என்ன நான் எதெல்லாம் சாைக்கின்றாது.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் எது என்ன நான் எதெல்லாம் சாைக்கின்றாது.",
+  "morphemes": []
+}

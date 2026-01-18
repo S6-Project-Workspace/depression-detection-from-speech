@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0026.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அதிகம் சுர்ணாமாய் வேறுந்ததும் காத்து அம்மா வாசி இருண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:59:07.901867",
+  "segments": [
+    {
+      "text": "அதிகம் சுர்ணாமாய் வேறுந்ததும் காத்து அம்மா வாசி இருண்டு.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதிகம் சுர்ணாமாய் வேறுந்ததும் காத்து அம்மா வாசி இருண்டு.",
+  "morphemes": []
+}

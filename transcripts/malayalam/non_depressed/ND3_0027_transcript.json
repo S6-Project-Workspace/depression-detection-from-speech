@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0027.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "நண்டுத்திவிட்டுங்கள் எட்டும் கண்ணைஷினைக் காணமில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:24:33.262372",
+  "segments": [
+    {
+      "text": "நண்டுத்திவிட்டுங்கள் எட்டும் கண்ணைஷினைக் காணமில்லாம்.",
+      "start_time": 0,
+      "end_time": 2.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நண்டுத்திவிட்டுங்கள் எட்டும் கண்ணைஷினைக் காணமில்லாம்.",
+  "morphemes": []
+}

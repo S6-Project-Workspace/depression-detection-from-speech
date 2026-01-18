@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0010.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அறிகு ஒன்றுத்தான் அற்சைத்தை மிரிக்கும் அறியமாக இருந்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:32:12.658668",
+  "segments": [
+    {
+      "text": "அறிகு ஒன்றுத்தான் அற்சைத்தை மிரிக்கும் அறியமாக இருந்து.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அறிகு ஒன்றுத்தான் அற்சைத்தை மிரிக்கும் அறியமாக இருந்து.",
+  "morphemes": []
+}

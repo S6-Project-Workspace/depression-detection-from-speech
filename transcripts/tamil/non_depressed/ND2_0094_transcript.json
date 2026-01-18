@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0094.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "தம்பிவுடையன் படிக் கொஞ்சான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:22.441837",
+  "segments": [
+    {
+      "text": "தம்பிவுடையன் படிக் கொஞ்சான்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தம்பிவுடையன் படிக் கொஞ்சான்.",
+  "morphemes": []
+}

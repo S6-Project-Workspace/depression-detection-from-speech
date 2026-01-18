@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10017-2.wav",
+  "speaker_id": "F10017",
+  "language": "tamil",
+  "transcript": "என்ன செய்யவில்லை வண்டு வருக்கிறுக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:43:00.726268",
+  "segments": [
+    {
+      "text": "என்ன செய்யவில்லை வண்டு வருக்கிறுக்கும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன செய்யவில்லை வண்டு வருக்கிறுக்கும்",
+  "morphemes": []
+}

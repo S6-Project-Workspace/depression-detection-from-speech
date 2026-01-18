@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0173.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "பெல்லையும் பயர் முளையில் தெரியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:05:19.538195",
+  "segments": [
+    {
+      "text": "பெல்லையும் பயர் முளையில் தெரியும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பெல்லையும் பயர் முளையில் தெரியும்.",
+  "morphemes": []
+}

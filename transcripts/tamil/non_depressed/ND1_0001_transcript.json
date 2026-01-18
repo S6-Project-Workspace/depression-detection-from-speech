@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0001.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "பயமுருத்தலை விடனாய வஞ்சிகம் பலமானது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:28:56.939783",
+  "segments": [
+    {
+      "text": "பயமுருத்தலை விடனாய வஞ்சிகம் பலமானது.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பயமுருத்தலை விடனாய வஞ்சிகம் பலமானது.",
+  "morphemes": []
+}

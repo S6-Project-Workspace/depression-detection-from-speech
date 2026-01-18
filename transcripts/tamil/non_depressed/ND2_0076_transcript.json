@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0076.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "விரும் கை என்பது முடத்தனம் உன் விரல்கள் பத்தும் முடத்தனம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:53.897433",
+  "segments": [
+    {
+      "text": "விரும் கை என்பது முடத்தனம் உன் விரல்கள் பத்தும் முடத்தனம்",
+      "start_time": 0,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விரும் கை என்பது முடத்தனம் உன் விரல்கள் பத்தும் முடத்தனம்",
+  "morphemes": []
+}

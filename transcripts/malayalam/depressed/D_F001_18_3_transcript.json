@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_18_3.wav",
+  "speaker_id": "F001_18",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு என்னுக்கு விதத்தில் ஒருளிக்ஷயமும் காணமில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:04:05.929130",
+  "segments": [
+    {
+      "text": "என்னுக்கு என்னுக்கு விதத்தில் ஒருளிக்ஷயமும் காணமில்லாம்.",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு என்னுக்கு விதத்தில் ஒருளிக்ஷயமும் காணமில்லாம்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0138.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "அந்துவுடைய வருத்தம் முடையும் பிரடுக்கு ஒருமியாகக்கு வாழ்விர்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:03:33.312739",
+  "segments": [
+    {
+      "text": "அந்துவுடைய வருத்தம் முடையும் பிரடுக்கு ஒருமியாகக்கு வாழ்விர்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அந்துவுடைய வருத்தம் முடையும் பிரடுக்கு ஒருமியாகக்கு வாழ்விர்.",
+  "morphemes": []
+}

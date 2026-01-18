@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0080.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "கூறாதே கேட்பவர்களுக்கு கொடுத்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:40:46.817689",
+  "segments": [
+    {
+      "text": "கூறாதே கேட்பவர்களுக்கு கொடுத்து.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கூறாதே கேட்பவர்களுக்கு கொடுத்து.",
+  "morphemes": []
+}

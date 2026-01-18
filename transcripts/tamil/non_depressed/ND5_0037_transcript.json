@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0037.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "தியவர்களுக்கச் செய்யும் முதவி, தியமையாக வே முடியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:09.232194",
+  "segments": [
+    {
+      "text": "தியவர்களுக்கச் செய்யும் முதவி, தியமையாக வே முடியும்.",
+      "start_time": 0,
+      "end_time": 3.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தியவர்களுக்கச் செய்யும் முதவி, தியமையாக வே முடியும்.",
+  "morphemes": []
+}

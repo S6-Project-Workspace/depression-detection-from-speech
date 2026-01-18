@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_70_4.wav",
+  "speaker_id": "F001_70",
+  "language": "malayalam",
+  "transcript": "என்ன பயம் என்ன தீர்த்தும்மாட்டு பிட்டுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:36:27.291295",
+  "segments": [
+    {
+      "text": "என்ன பயம் என்ன தீர்த்தும்மாட்டு பிட்டுங்கள்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன பயம் என்ன தீர்த்தும்மாட்டு பிட்டுங்கள்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0142.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "ஒக்கம் என்றுவையில் வாழ்வதையிருவு தெருவதாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:15.924911",
+  "segments": [
+    {
+      "text": "ஒக்கம் என்றுவையில் வாழ்வதையிருவு தெருவதாகும்.",
+      "start_time": 0,
+      "end_time": 2.44,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒக்கம் என்றுவையில் வாழ்வதையிருவு தெருவதாகும்.",
+  "morphemes": []
+}

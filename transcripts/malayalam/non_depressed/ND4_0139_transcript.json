@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0139.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அப்பட்ட நீண்டு வாழுங்கூட வைத்தால் நல்ல அப்பாங்கியவு தராமும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:11:55.160833",
+  "segments": [
+    {
+      "text": "அப்பட்ட நீண்டு வாழுங்கூட வைத்தால் நல்ல அப்பாங்கியவு தராமும்",
+      "start_time": 0,
+      "end_time": 3.38,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்பட்ட நீண்டு வாழுங்கூட வைத்தால் நல்ல அப்பாங்கியவு தராமும்",
+  "morphemes": []
+}

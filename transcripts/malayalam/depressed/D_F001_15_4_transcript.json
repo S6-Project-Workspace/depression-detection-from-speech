@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_F001_15_4.wav",
+  "speaker_id": "F001_15",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு உனர்த்திருக்கியாம் போலும் பயமாடு காரணம் சுவப்ணங்கள் போலும் பீதிச்சனகாமாடு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:01:52.926654",
+  "segments": [
+    {
+      "text": "என்னுக்கு உனர்த்திருக்கியாம் போலும் பயமாடு",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    },
+    {
+      "text": "காரணம் சுவப்ணங்கள் போலும்",
+      "start_time": 2.6,
+      "end_time": 4.62,
+      "confidence": 1.0
+    },
+    {
+      "text": "பீதிச்சனகாமாடு",
+      "start_time": 4.62,
+      "end_time": 6.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு உனர்த்திருக்கியாம் போலும் பயமாடு காரணம் சுவப்ணங்கள் போலும் பீதிச்சனகாமாடு",
+  "morphemes": []
+}

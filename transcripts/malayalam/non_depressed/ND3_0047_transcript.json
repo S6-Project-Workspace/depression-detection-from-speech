@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0047.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "கத்தங்கள் கேட்டுவளருந்தான் வேண்டும், காலங்கள் நீங்கள் வளருங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:27:38.617668",
+  "segments": [
+    {
+      "text": "கத்தங்கள் கேட்டுவளருந்தான் வேண்டும், காலங்கள் நீங்கள் வளருங்கள்.",
+      "start_time": 0,
+      "end_time": 2.88,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கத்தங்கள் கேட்டுவளருந்தான் வேண்டும், காலங்கள் நீங்கள் வளருங்கள்.",
+  "morphemes": []
+}

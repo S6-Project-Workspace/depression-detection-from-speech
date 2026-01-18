@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10017-3.wav",
+  "speaker_id": "F10017",
+  "language": "tamil",
+  "transcript": "என் முதலி செல்லாம் என்னவிட்டு போலும் முறியில்லுக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:43:03.553850",
+  "segments": [
+    {
+      "text": "என் முதலி செல்லாம் என்னவிட்டு போலும் முறியில்லுக்கும்",
+      "start_time": 0,
+      "end_time": 4.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என் முதலி செல்லாம் என்னவிட்டு போலும் முறியில்லுக்கும்",
+  "morphemes": []
+}

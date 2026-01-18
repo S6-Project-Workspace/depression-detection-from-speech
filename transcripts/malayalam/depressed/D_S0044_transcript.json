@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_S0044.wav",
+  "speaker_id": "S0044",
+  "language": "malayalam",
+  "transcript": "INDI SANGALA Who are you? I don't know",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:07:25.987206",
+  "segments": [
+    {
+      "text": "INDI SANGALA",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "Who are you?",
+      "start_time": 3.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "I don't know",
+      "start_time": 4.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "INDI SANGALA Who are you? I don't know",
+  "morphemes": []
+}

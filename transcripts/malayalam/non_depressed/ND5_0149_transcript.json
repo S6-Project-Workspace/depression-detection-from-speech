@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0149.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "உவங்களிச்சிருதாய் தொன்னுமாயங்கள் பக்ஷே ஒருங்கள்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:38:25.876078",
+  "segments": [
+    {
+      "text": "உவங்களிச்சிருதாய் தொன்னுமாயங்கள் பக்ஷே ஒருங்கள்",
+      "start_time": 0,
+      "end_time": 2.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உவங்களிச்சிருதாய் தொன்னுமாயங்கள் பக்ஷே ஒருங்கள்",
+  "morphemes": []
+}

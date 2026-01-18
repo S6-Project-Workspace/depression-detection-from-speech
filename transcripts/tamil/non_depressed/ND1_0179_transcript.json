@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0179.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "பயனைச்சம் பொருக்கல் விருட்டனைக்கு வேக்கப் படாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:33.135693",
+  "segments": [
+    {
+      "text": "பயனைச்சம் பொருக்கல் விருட்டனைக்கு வேக்கப் படாது.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பயனைச்சம் பொருக்கல் விருட்டனைக்கு வேக்கப் படாது.",
+  "morphemes": []
+}

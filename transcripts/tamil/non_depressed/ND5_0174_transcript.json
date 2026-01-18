@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0174.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "வினை விதைத்தவன் வினையிருப்பான, தினை விதைத்தவன் தினையிருப்பான.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:22:17.510475",
+  "segments": [
+    {
+      "text": "வினை விதைத்தவன் வினையிருப்பான, தினை விதைத்தவன் தினையிருப்பான.",
+      "start_time": 0,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வினை விதைத்தவன் வினையிருப்பான, தினை விதைத்தவன் தினையிருப்பான.",
+  "morphemes": []
+}

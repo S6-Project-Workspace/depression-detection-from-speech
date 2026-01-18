@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0161.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மேச் சொல்லி கட்டமணமில்லை போய் சொல்லி வாழுந்த வணமில்லை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:29.090185",
+  "segments": [
+    {
+      "text": "மேச் சொல்லி கட்டமணமில்லை போய் சொல்லி வாழுந்த வணமில்லை",
+      "start_time": 0,
+      "end_time": 3.56,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மேச் சொல்லி கட்டமணமில்லை போய் சொல்லி வாழுந்த வணமில்லை",
+  "morphemes": []
+}

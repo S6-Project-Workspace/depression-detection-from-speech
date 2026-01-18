@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0027_a.wav",
+  "speaker_id": "S0027",
+  "language": "malayalam",
+  "transcript": "எனக்கு எவ்வளைங்களைப் போயும் போயும் மறைங்களைப் போக்கினாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:53:12.404545",
+  "segments": [
+    {
+      "text": "எனக்கு எவ்வளைங்களைப் போயும் போயும் மறைங்களைப் போக்கினாம்.",
+      "start_time": 0,
+      "end_time": 7.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு எவ்வளைங்களைப் போயும் போயும் மறைங்களைப் போக்கினாம்.",
+  "morphemes": []
+}

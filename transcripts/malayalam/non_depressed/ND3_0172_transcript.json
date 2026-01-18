@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0172.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "ஆயாலை ஒன்று சாயிக்கன குழங்கள் பென் குட்டி யோடு பார்க்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:45:59.794454",
+  "segments": [
+    {
+      "text": "ஆயாலை ஒன்று சாயிக்கன குழங்கள் பென் குட்டி யோடு பார்க்கும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆயாலை ஒன்று சாயிக்கன குழங்கள் பென் குட்டி யோடு பார்க்கும்.",
+  "morphemes": []
+}

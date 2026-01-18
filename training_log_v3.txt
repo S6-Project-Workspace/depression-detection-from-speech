@@ -1,0 +1,37 @@
+WARNING:root:webrtcvad not installed. Using energy-based VAD.
+/Users/keerthivasan/miniconda3/envs/depression_detection/lib/python3.10/site-packages/transformers/configuration_utils.py:335: UserWarning: Passing `gradient_checkpointing` to a config initialization is deprecated and will be removed in v5 Transformers. Using `model.gradient_checkpointing_enable()` instead, or if you are using the `Trainer` API, pass `gradient_checkpointing=True` in your `TrainingArguments`.
+  warnings.warn(
+/Users/keerthivasan/miniconda3/envs/depression_detection/lib/python3.10/site-packages/torch/utils/data/dataloader.py:692: UserWarning: 'pin_memory' argument is set as true but not supported on MPS now, device pinned memory won't be used.
+  warnings.warn(warn_msg)
+============================================================
+Depression Detection Configuration Summary
+============================================================
+Language: combined
+Device: mps
+Random Seed: 42
+
+Preprocessing:
+  Sampling Rate: 16000 Hz
+  Chunk Duration: 5.0s
+  VAD Aggressiveness: 3
+
+SSL Model (IndicWav2Vec):
+  Backbone: facebook/wav2vec2-base
+  Hidden Size: 768
+  Dropout: 0.3
+
+ECAPA-TDNN Model:
+  Mel Bins: 80
+  Embedding Dim: 192
+  AAM Margin: 0.2
+
+Training:
+  Batch Size: 16
+  Learning Rate: 0.0001
+  Epochs: 15
+  K-Folds: 5
+============================================================
+WARNING:root:webrtcvad not installed. Using energy-based VAD.
+WARNING:root:webrtcvad not installed. Using energy-based VAD.
+WARNING:root:webrtcvad not installed. Using energy-based VAD.
+WARNING:root:webrtcvad not installed. Using energy-based VAD.

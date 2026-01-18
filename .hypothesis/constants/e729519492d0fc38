@@ -1,0 +1,4 @@
+# file: /Users/keerthivasan/NLP/tfidf_classifier.py
+# hypothesis_version: 6.150.0
+
+[0.0, 1.0, 1000, 5000, '\nEvaluation Metrics:', '(?u)\\b\\w+\\b', '.', 'Depressed', 'Non-Depressed', 'TFIDFClassifier', '__main__', 'accuracy', 'balanced', 'binary', 'classes', 'classifier', 'config', 'confusion_matrix', 'f1_depressed', 'f1_non_depressed', 'is_fitted', 'lbfgs', 'linear', 'macro', 'macro_f1', 'n_correct', 'n_samples', 'precision_depressed', 'precision_macro', 'rb', 'recall_depressed', 'recall_macro', 'recall_non_depressed', 'sigmoid', 'svm', 'vectorizer', 'wb', 'வாழ்க்கை அழகானது']

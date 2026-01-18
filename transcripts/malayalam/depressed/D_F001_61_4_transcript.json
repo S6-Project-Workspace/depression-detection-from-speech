@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_61_4.wav",
+  "speaker_id": "F001_61",
+  "language": "malayalam",
+  "transcript": "இன்னுக்கு அர்வனை மனத்திலாக் கொண்டாயிற்றும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:31:34.032845",
+  "segments": [
+    {
+      "text": "இன்னுக்கு அர்வனை மனத்திலாக் கொண்டாயிற்றும் இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுக்கு அர்வனை மனத்திலாக் கொண்டாயிற்றும் இல்லை.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0099.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "நண்டு தோசம் நிரிக்ஷ்டும் நடத்தனை மேண்டும் என்றைப் பாரண்டுத்தார்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:42:23.146754",
+  "segments": [
+    {
+      "text": "நண்டு தோசம் நிரிக்ஷ்டும் நடத்தனை மேண்டும் என்றைப் பாரண்டுத்தார்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நண்டு தோசம் நிரிக்ஷ்டும் நடத்தனை மேண்டும் என்றைப் பாரண்டுத்தார்.",
+  "morphemes": []
+}

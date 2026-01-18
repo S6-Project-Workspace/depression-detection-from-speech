@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0059.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "எழுதியும் எட்டைக் கடுத்தான் படித்தவன் பாட்டைக் கொடுத்தான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:47.168641",
+  "segments": [
+    {
+      "text": "எழுதியும் எட்டைக் கடுத்தான் படித்தவன் பாட்டைக் கொடுத்தான்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எழுதியும் எட்டைக் கடுத்தான் படித்தவன் பாட்டைக் கொடுத்தான்.",
+  "morphemes": []
+}

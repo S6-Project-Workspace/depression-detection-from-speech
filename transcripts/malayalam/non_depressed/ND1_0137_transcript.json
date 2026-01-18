@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0137.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "குத்திவாலுமாயிட்டாயிரும் நம்முடைய மையில் நடந்திருந்தது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:48:18.787222",
+  "segments": [
+    {
+      "text": "குத்திவாலுமாயிட்டாயிரும் நம்முடைய மையில் நடந்திருந்தது.",
+      "start_time": 0,
+      "end_time": 3.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குத்திவாலுமாயிட்டாயிரும் நம்முடைய மையில் நடந்திருந்தது.",
+  "morphemes": []
+}

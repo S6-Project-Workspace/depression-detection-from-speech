@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A002_1.wav",
+  "speaker_id": "A002",
+  "language": "malayalam",
+  "transcript": "இன்று உங்களும் ஓர் பெஞ்சிப் பரேன் கையில்லையா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:18.554959",
+  "segments": [
+    {
+      "text": "இன்று உங்களும் ஓர் பெஞ்சிப் பரேன் கையில்லையா",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்று உங்களும் ஓர் பெஞ்சிப் பரேன் கையில்லையா",
+  "morphemes": []
+}

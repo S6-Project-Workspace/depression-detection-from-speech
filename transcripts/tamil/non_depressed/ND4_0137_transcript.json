@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0137.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "ஒரு மனக்கா அழவியில்லாதa சிரந்த செல்வம் கல்வியையை ஆகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:01.920338",
+  "segments": [
+    {
+      "text": "ஒரு மனக்கா அழவியில்லாதa சிரந்த செல்வம் கல்வியையை ஆகும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு மனக்கா அழவியில்லாதa சிரந்த செல்வம் கல்வியையை ஆகும்.",
+  "morphemes": []
+}

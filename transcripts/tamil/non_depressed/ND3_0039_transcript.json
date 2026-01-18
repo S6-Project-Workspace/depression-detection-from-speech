@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0039.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "பெயராசே பெயரணஷ்டம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:58.459244",
+  "segments": [
+    {
+      "text": "பெயராசே பெயரணஷ்டம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பெயராசே பெயரணஷ்டம்.",
+  "morphemes": []
+}

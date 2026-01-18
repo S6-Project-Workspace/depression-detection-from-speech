@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0128.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "புஞ்சாங்கள் நரண்ணைய பாரேயா தடியலமார்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:07:05.407018",
+  "segments": [
+    {
+      "text": "புஞ்சாங்கள் நரண்ணைய பாரேயா தடியலமார்.",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புஞ்சாங்கள் நரண்ணைய பாரேயா தடியலமார்.",
+  "morphemes": []
+}

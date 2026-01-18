@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A005_4.wav",
+  "speaker_id": "A005",
+  "language": "malayalam",
+  "transcript": "நான் எத்த திருமான விட்டத்தலை மதையில் தட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:06.404153",
+  "segments": [
+    {
+      "text": "நான் எத்த திருமான விட்டத்தலை மதையில் தட்டான்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் எத்த திருமான விட்டத்தலை மதையில் தட்டான்.",
+  "morphemes": []
+}

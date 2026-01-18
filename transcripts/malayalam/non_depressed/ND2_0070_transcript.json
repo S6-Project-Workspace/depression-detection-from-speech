@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0070.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அப்போல அகுரிவி பராண்டும். எங்கள் குரிவிகள் கூட்டிலிருந்து பாடாரல்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:05:11.729538",
+  "segments": [
+    {
+      "text": "அப்போல அகுரிவி பராண்டும்.",
+      "start_time": 0,
+      "end_time": 1.5,
+      "confidence": 1.0
+    },
+    {
+      "text": "எங்கள் குரிவிகள் கூட்டிலிருந்து பாடாரல்லாம்.",
+      "start_time": 1.5,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போல அகுரிவி பராண்டும். எங்கள் குரிவிகள் கூட்டிலிருந்து பாடாரல்லாம்.",
+  "morphemes": []
+}

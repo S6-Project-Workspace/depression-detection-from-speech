@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0048.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "கதைகள் கேட்ட வலார் நான் அரிவுகள் நீங்கள் வலார் நீரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:24:11.892877",
+  "segments": [
+    {
+      "text": "கதைகள் கேட்ட வலார் நான் அரிவுகள் நீங்கள் வலார் நீரும்",
+      "start_time": 0,
+      "end_time": 3.12,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கதைகள் கேட்ட வலார் நான் அரிவுகள் நீங்கள் வலார் நீரும்",
+  "morphemes": []
+}

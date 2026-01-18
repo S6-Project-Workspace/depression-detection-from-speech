@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A055_1.wav",
+  "speaker_id": "A055",
+  "language": "malayalam",
+  "transcript": "இங்கே நீங்களும் பிருந்துவிட்டத் தென்றிருக்கிற்சு பட்டாமதி",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:54:36.703185",
+  "segments": [
+    {
+      "text": "இங்கே நீங்களும் பிருந்துவிட்டத் தென்றிருக்கிற்சு பட்டாமதி",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்கே நீங்களும் பிருந்துவிட்டத் தென்றிருக்கிற்சு பட்டாமதி",
+  "morphemes": []
+}

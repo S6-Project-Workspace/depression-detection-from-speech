@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0154.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "மடம் தடுமாறினால் மாட்டானுக்கு வளிமே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:48.831232",
+  "segments": [
+    {
+      "text": "மடம் தடுமாறினால் மாட்டானுக்கு வளிமே",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மடம் தடுமாறினால் மாட்டானுக்கு வளிமே",
+  "morphemes": []
+}

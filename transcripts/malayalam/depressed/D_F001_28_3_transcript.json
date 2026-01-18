@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_28_3.wav",
+  "speaker_id": "F001_28",
+  "language": "malayalam",
+  "transcript": "ஒருத்துக்கும் ஒரு கடிங்கள் மாயே போராட்டுமாளு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:12:01.738244",
+  "segments": [
+    {
+      "text": "ஒருத்துக்கும் ஒரு கடிங்கள் மாயே போராட்டுமாளு.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒருத்துக்கும் ஒரு கடிங்கள் மாயே போராட்டுமாளு.",
+  "morphemes": []
+}

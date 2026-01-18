@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0013.wav",
+  "speaker_id": "S0013",
+  "language": "malayalam",
+  "transcript": "எல்லாம் என்றுக்கொள்ள விஷாடமாயாத் தொல்லும் என்று",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:42:20.017293",
+  "segments": [
+    {
+      "text": "எல்லாம் என்றுக்கொள்ள விஷாடமாயாத் தொல்லும் என்று",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எல்லாம் என்றுக்கொள்ள விஷாடமாயாத் தொல்லும் என்று",
+  "morphemes": []
+}

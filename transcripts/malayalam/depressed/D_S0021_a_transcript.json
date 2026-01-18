@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0021_a.wav",
+  "speaker_id": "S0021",
+  "language": "malayalam",
+  "transcript": "Larka Sandhosham Nalkan Swamitanyan He is so cute",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:49:04.279099",
+  "segments": [
+    {
+      "text": "Larka Sandhosham Nalkan Swamitanyan",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    },
+    {
+      "text": "He is so cute",
+      "start_time": 3.5,
+      "end_time": 5.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Larka Sandhosham Nalkan Swamitanyan He is so cute",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0051.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "ஒருது வசம் அதே ہத்தின் ஒரு தோன்றலுண்டாய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:01:40.071939",
+  "segments": [
+    {
+      "text": "ஒருது வசம் அதே ہத்தின் ஒரு தோன்றலுண்டாய்.",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருது வசம் அதே ہத்தின் ஒரு தோன்றலுண்டாய்.",
+  "morphemes": []
+}

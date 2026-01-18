@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_F001_71_2.wav",
+  "speaker_id": "F001_71",
+  "language": "malayalam",
+  "transcript": "என்னைக்குச் சில்லைப் போல. ஜீவுக்கியான் உள்ளையிருக்கிறது என்ன? நாட்டுப் பெட்டு உனக்கு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:36:55.725319",
+  "segments": [
+    {
+      "text": "என்னைக்குச் சில்லைப் போல.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஜீவுக்கியான் உள்ளையிருக்கிறது என்ன?",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "நாட்டுப் பெட்டு உனக்கு.",
+      "start_time": 4.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னைக்குச் சில்லைப் போல. ஜீவுக்கியான் உள்ளையிருக்கிறது என்ன? நாட்டுப் பெட்டு உனக்கு.",
+  "morphemes": []
+}

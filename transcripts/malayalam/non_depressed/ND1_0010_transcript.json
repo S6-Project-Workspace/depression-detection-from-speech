@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0010.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "நான் தென்னுடைத்து வருத்தைக்கு நாளினை வாடகையின் சம்மதைத்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:28:41.909791",
+  "segments": [
+    {
+      "text": "நான் தென்னுடைத்து வருத்தைக்கு நாளினை வாடகையின் சம்மதைத்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் தென்னுடைத்து வருத்தைக்கு நாளினை வாடகையின் சம்மதைத்துவிட்டு.",
+  "morphemes": []
+}

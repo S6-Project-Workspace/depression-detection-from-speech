@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0038.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "வீண் சண்டை என்றும் இழுத்தரவ்பினருக்கும் திமேயாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:49:02.847994",
+  "segments": [
+    {
+      "text": "வீண் சண்டை என்றும் இழுத்தரவ்பினருக்கும் திமேயாம்.",
+      "start_time": 0,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீண் சண்டை என்றும் இழுத்தரவ்பினருக்கும் திமேயாம்.",
+  "morphemes": []
+}

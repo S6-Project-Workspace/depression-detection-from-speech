@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_70_3.wav",
+  "speaker_id": "F001_70",
+  "language": "malayalam",
+  "transcript": "என்ன பயம் என்ன தீர்டும் ஒட்ட்டப் பெடுத்துமும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:36:24.909130",
+  "segments": [
+    {
+      "text": "என்ன பயம் என்ன தீர்டும் ஒட்ட்டப் பெடுத்துமும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன பயம் என்ன தீர்டும் ஒட்ட்டப் பெடுத்துமும்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_38_2.wav",
+  "speaker_id": "F001_38",
+  "language": "malayalam",
+  "transcript": "ஒரு வெளியத் திருமானும் ஒரு துருக்காய வெளி வெளியத் தோன்னும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:16:21.996593",
+  "segments": [
+    {
+      "text": "ஒரு வெளியத் திருமானும் ஒரு துருக்காய வெளி வெளியத் தோன்னும்.",
+      "start_time": 0,
+      "end_time": 4.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒரு வெளியத் திருமானும் ஒரு துருக்காய வெளி வெளியத் தோன்னும்.",
+  "morphemes": []
+}

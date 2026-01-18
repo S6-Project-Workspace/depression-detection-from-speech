@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A012_1.wav",
+  "speaker_id": "A012",
+  "language": "malayalam",
+  "transcript": "アフシュピットボールはおりけっぽいのに閉じられているのではありません。",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:11.512680",
+  "segments": [
+    {
+      "text": "アフシュピットボールはおりけっぽいのに閉じられているのではありません。",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "アフシュピットボールはおりけっぽいのに閉じられているのではありません。",
+  "morphemes": []
+}

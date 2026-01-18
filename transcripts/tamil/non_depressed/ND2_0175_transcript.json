@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0175.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "வீட்டில் என்று வெளியில் புளி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:19.826900",
+  "segments": [
+    {
+      "text": "வீட்டில் என்று வெளியில் புளி.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீட்டில் என்று வெளியில் புளி.",
+  "morphemes": []
+}

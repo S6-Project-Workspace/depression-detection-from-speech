@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0182.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒரு வருந்து மனன்னில் அவனுடைய முக்கத்தில் கண்டு அரியலாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:41.050376",
+  "segments": [
+    {
+      "text": "ஒரு வருந்து மனன்னில் அவனுடைய முக்கத்தில் கண்டு அரியலாம்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு வருந்து மனன்னில் அவனுடைய முக்கத்தில் கண்டு அரியலாம்.",
+  "morphemes": []
+}

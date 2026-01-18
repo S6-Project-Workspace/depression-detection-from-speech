@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0027.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "என்னுடைத்துவசாம் கடிந்துவிட்டும் Ganeshனைக் காண்ணில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:51:07.094377",
+  "segments": [
+    {
+      "text": "என்னுடைத்துவசாம் கடிந்துவிட்டும் Ganeshனைக் காண்ணில்லாம்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "என்னுடைத்துவசாம் கடிந்துவிட்டும் Ganeshனைக் காண்ணில்லாம்.",
+  "morphemes": []
+}

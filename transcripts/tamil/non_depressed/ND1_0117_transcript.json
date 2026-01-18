@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0117.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "விடியே மாதியாள வெளிலாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:39.644281",
+  "segments": [
+    {
+      "text": "விடியே மாதியாள வெளிலாம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விடியே மாதியாள வெளிலாம்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0026.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "உளக்கில் மிகவும் ஆசைப் படிந்தனகரம் புதுவிட்டில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:15:38.289018",
+  "segments": [
+    {
+      "text": "உளக்கில் மிகவும் ஆசைப் படிந்தனகரம் புதுவிட்டில்லை.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உளக்கில் மிகவும் ஆசைப் படிந்தனகரம் புதுவிட்டில்லை.",
+  "morphemes": []
+}

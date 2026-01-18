@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0104.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "படிக்கிறது தெருவாய் முடி, இடிக்கிறது பெருமல் கோயில்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:46.789932",
+  "segments": [
+    {
+      "text": "படிக்கிறது தெருவாய் முடி, இடிக்கிறது பெருமல் கோயில்",
+      "start_time": 0,
+      "end_time": 2.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "படிக்கிறது தெருவாய் முடி, இடிக்கிறது பெருமல் கோயில்",
+  "morphemes": []
+}

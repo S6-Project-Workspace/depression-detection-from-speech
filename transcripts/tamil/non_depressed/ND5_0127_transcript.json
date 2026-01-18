@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0127.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "எடுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:19.660975",
+  "segments": [
+    {
+      "text": "எடுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றேன்.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எடுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றேன்.",
+  "morphemes": []
+}

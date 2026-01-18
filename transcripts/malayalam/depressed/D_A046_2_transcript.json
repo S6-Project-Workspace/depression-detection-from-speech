@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A046_2.wav",
+  "speaker_id": "A046",
+  "language": "malayalam",
+  "transcript": "இவிடம் முன்னொடுக்கவேண்டும் என்னுடுப் பரைய இருத்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:50:01.440206",
+  "segments": [
+    {
+      "text": "இவிடம் முன்னொடுக்கவேண்டும் என்னுடுப் பரைய இருத்து.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இவிடம் முன்னொடுக்கவேண்டும் என்னுடுப் பரைய இருத்து.",
+  "morphemes": []
+}

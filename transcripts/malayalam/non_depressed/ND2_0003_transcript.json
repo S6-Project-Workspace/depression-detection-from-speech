@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0003.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "வலہ ریت் tiagrehiyum nar deyiyanumairanu amavasi",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:55:16.344959",
+  "segments": [
+    {
+      "text": "வலہ ریت் tiagrehiyum nar deyiyanumairanu amavasi",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வலہ ریت் tiagrehiyum nar deyiyanumairanu amavasi",
+  "morphemes": []
+}

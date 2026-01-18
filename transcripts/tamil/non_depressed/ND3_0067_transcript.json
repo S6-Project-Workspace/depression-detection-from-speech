@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0067.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "காட்சு உள்ள போது துட்டிக்குள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:00:04.733651",
+  "segments": [
+    {
+      "text": "காட்சு உள்ள போது துட்டிக்குள்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காட்சு உள்ள போது துட்டிக்குள்.",
+  "morphemes": []
+}

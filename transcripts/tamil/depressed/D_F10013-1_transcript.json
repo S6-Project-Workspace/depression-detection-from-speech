@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10013-1.wav",
+  "speaker_id": "F10013",
+  "language": "tamil",
+  "transcript": "முடியும் இல்லை என்னாலும் சும்மிக்கக்கொள்ளும் பிரியத்தான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:46.554239",
+  "segments": [
+    {
+      "text": "முடியும் இல்லை என்னாலும் சும்மிக்கக்கொள்ளும் பிரியத்தான்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "முடியும் இல்லை என்னாலும் சும்மிக்கக்கொள்ளும் பிரியத்தான்.",
+  "morphemes": []
+}

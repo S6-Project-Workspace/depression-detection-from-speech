@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A002_2.wav",
+  "speaker_id": "A002",
+  "language": "malayalam",
+  "transcript": "ایچھا ان்டும் ஒருப்பத்து பார்க்காய் தெல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:21.039009",
+  "segments": [
+    {
+      "text": "ایچھا ان்டும் ஒருப்பத்து பார்க்காய் தெல்லையா?",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ایچھا ان்டும் ஒருப்பத்து பார்க்காய் தெல்லையா?",
+  "morphemes": []
+}

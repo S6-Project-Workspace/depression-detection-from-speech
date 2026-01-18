@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0049.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அது گண்டு நம் கொழுப்பாடு ஒரு பாடு கதவல் கேட்டு வழுகிறாம் அல்லை மக்கலை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:54:21.264423",
+  "segments": [
+    {
+      "text": "அது گண்டு நம் கொழுப்பாடு ஒரு பாடு கதவல் கேட்டு வழுகிறாம் அல்லை மக்கலை",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அது گண்டு நம் கொழுப்பாடு ஒரு பாடு கதவல் கேட்டு வழுகிறாம் அல்லை மக்கலை",
+  "morphemes": []
+}

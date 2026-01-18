@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_51_1.wav",
+  "speaker_id": "F001_51",
+  "language": "malayalam",
+  "transcript": "நான் என்று சிந்தகடுக்கும் ஒருங்கள் எடுக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:53.268571",
+  "segments": [
+    {
+      "text": "நான் என்று சிந்தகடுக்கும் ஒருங்கள் எடுக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் என்று சிந்தகடுக்கும் ஒருங்கள் எடுக்கவேண்டும்.",
+  "morphemes": []
+}

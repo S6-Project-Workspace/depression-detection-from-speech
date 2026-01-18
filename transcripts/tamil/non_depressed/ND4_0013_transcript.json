@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0013.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "சொல்லு சிருப்பாய் உள்ள மடிதன் எப்போதும் மகிச்சியோடு இருப்பான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:26.354493",
+  "segments": [
+    {
+      "text": "சொல்லு சிருப்பாய் உள்ள மடிதன் எப்போதும் மகிச்சியோடு இருப்பான்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சொல்லு சிருப்பாய் உள்ள மடிதன் எப்போதும் மகிச்சியோடு இருப்பான்.",
+  "morphemes": []
+}

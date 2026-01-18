@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0174.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "ஆய் என்ன புரிட்டி அம்மா குறையும் தோஞ்சம் உண்டைக்கு வைத்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:46:07.912660",
+  "segments": [
+    {
+      "text": "ஆய் என்ன புரிட்டி அம்மா குறையும் தோஞ்சம் உண்டைக்கு வைத்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆய் என்ன புரிட்டி அம்மா குறையும் தோஞ்சம் உண்டைக்கு வைத்துவிட்டு.",
+  "morphemes": []
+}

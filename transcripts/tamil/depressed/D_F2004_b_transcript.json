@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2004_b.wav",
+  "speaker_id": "F2004",
+  "language": "tamil",
+  "transcript": "ஏதோ தெரித்து நடக்கப் போடமாக இருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:13.610417",
+  "segments": [
+    {
+      "text": "ஏதோ தெரித்து நடக்கப் போடமாக இருக்கிறது.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஏதோ தெரித்து நடக்கப் போடமாக இருக்கிறது.",
+  "morphemes": []
+}

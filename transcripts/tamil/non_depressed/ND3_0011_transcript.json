@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0011.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "ஆரிவே வடற்று கொண்டால் எல்லா விதமானம் பயங்களும் மகன்று விடும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:57:15.232519",
+  "segments": [
+    {
+      "text": "ஆரிவே வடற்று கொண்டால் எல்லா விதமானம் பயங்களும் மகன்று விடும்.",
+      "start_time": 0,
+      "end_time": 2.92,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆரிவே வடற்று கொண்டால் எல்லா விதமானம் பயங்களும் மகன்று விடும்.",
+  "morphemes": []
+}

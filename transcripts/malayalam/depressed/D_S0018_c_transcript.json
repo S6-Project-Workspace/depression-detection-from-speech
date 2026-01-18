@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0018_c.wav",
+  "speaker_id": "S0018",
+  "language": "malayalam",
+  "transcript": "நான் நினைத்துவிட்டேண்டும். அருந்தான் என்னை யாரும் வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:45:54.350867",
+  "segments": [
+    {
+      "text": "நான் நினைத்துவிட்டேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    },
+    {
+      "text": "அருந்தான் என்னை யாரும் வேண்டும்.",
+      "start_time": 2.7,
+      "end_time": 6.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் நினைத்துவிட்டேண்டும். அருந்தான் என்னை யாரும் வேண்டும்.",
+  "morphemes": []
+}

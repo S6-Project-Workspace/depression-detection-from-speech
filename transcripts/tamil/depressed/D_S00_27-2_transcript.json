@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_27-2.wav",
+  "speaker_id": "S00_27",
+  "language": "tamil",
+  "transcript": "என் வாழ்க்கு ஒரு நாள் கொடு என்று புவே மாட்டீர்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:02:28.164109",
+  "segments": [
+    {
+      "text": "என் வாழ்க்கு ஒரு நாள் கொடு என்று புவே மாட்டீர்கள்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என் வாழ்க்கு ஒரு நாள் கொடு என்று புவே மாட்டீர்கள்.",
+  "morphemes": []
+}

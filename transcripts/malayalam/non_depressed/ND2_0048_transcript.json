@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0048.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "கדகல் கேட்டு வழர்ந்தாலும் அரவுகள் நீங்கள் வழர்ந்தீடு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:01:31.134697",
+  "segments": [
+    {
+      "text": "கדகல் கேட்டு வழர்ந்தாலும் அரவுகள் நீங்கள் வழர்ந்தீடு",
+      "start_time": 0,
+      "end_time": 3.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கדகல் கேட்டு வழர்ந்தாலும் அரவுகள் நீங்கள் வழர்ந்தீடு",
+  "morphemes": []
+}

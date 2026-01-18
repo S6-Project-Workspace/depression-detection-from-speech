@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0170.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "வாழ்கிரத்தும் கெடிகிரத்தும் வாயினால்தான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:13:22.920844",
+  "segments": [
+    {
+      "text": "வாழ்கிரத்தும் கெடிகிரத்தும் வாயினால்தான்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வாழ்கிரத்தும் கெடிகிரத்தும் வாயினால்தான்.",
+  "morphemes": []
+}

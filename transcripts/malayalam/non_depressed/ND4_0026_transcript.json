@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0026.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "என்னையில் அதிகன் சொருணவுமாயி வேண்டும் காட்டால் அமாவா சிருந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:51:04.088672",
+  "segments": [
+    {
+      "text": "என்னையில் அதிகன் சொருணவுமாயி வேண்டும் காட்டால் அமாவா சிருந்து",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "என்னையில் அதிகன் சொருணவுமாயி வேண்டும் காட்டால் அமாவா சிருந்து",
+  "morphemes": []
+}

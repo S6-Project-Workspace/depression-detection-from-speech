@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A005_3.wav",
+  "speaker_id": "A005",
+  "language": "malayalam",
+  "transcript": "என் இந்த திருமான் எடுத்தாலும் அதெல்லாம்தைக் கட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:03.832979",
+  "segments": [
+    {
+      "text": "என் இந்த திருமான் எடுத்தாலும் அதெல்லாம்தைக் கட்டான்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என் இந்த திருமான் எடுத்தாலும் அதெல்லாம்தைக் கட்டான்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0121.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "வீட்டிக்கு செல்வாம் மாடுய் தோட்டை செல்வாம் முருங்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:48.376187",
+  "segments": [
+    {
+      "text": "வீட்டிக்கு செல்வாம் மாடுய் தோட்டை செல்வாம் முருங்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீட்டிக்கு செல்வாம் மாடுய் தோட்டை செல்வாம் முருங்கிறேன்.",
+  "morphemes": []
+}

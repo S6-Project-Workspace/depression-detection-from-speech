@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND4_0021.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "கண்டு சொர்நாப்பரன்றங்கள் Ganeshan Kondhuwai அவப் பிரச்சுவித்திரட்டேயாககுமெட்டோ",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:50:19.811003",
+  "segments": [
+    {
+      "text": "கண்டு சொர்நாப்பரன்றங்கள் Ganeshan Kondhuwai",
+      "start_time": 0,
+      "end_time": 2.32,
+      "confidence": 1.0
+    },
+    {
+      "text": "அவப் பிரச்சுவித்திரட்டேயாககுமெட்டோ",
+      "start_time": 2.32,
+      "end_time": 4.32,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கண்டு சொர்நாப்பரன்றங்கள் Ganeshan Kondhuwai அவப் பிரச்சுவித்திரட்டேயாககுமெட்டோ",
+  "morphemes": []
+}

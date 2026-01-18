@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0178.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "வருந்தியும் சரிகாதவரைகள் வீட்டில் முன்னால்துக் கூடிப்பிருமை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:28.327509",
+  "segments": [
+    {
+      "text": "வருந்தியும் சரிகாதவரைகள் வீட்டில் முன்னால்துக் கூடிப்பிருமை.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வருந்தியும் சரிகாதவரைகள் வீட்டில் முன்னால்துக் கூடிப்பிருமை.",
+  "morphemes": []
+}

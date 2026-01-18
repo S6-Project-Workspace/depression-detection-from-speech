@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A049_2.wav",
+  "speaker_id": "A049",
+  "language": "malayalam",
+  "transcript": "இந்த ஞயவைத் தெல்லி, இப்போது பிரும்பரஷ் தீங்களை இந்தாயிட்டு ஓரு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:51:47.920446",
+  "segments": [
+    {
+      "text": "இந்த ஞயவைத் தெல்லி, இப்போது பிரும்பரஷ் தீங்களை இந்தாயிட்டு ஓரு.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த ஞயவைத் தெல்லி, இப்போது பிரும்பரஷ் தீங்களை இந்தாயிட்டு ஓரு.",
+  "morphemes": []
+}

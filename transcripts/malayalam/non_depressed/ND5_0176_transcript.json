@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0176.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "கண்டதும் செண்டைக் காருங்களுடைத்து முனே மங்கிஷா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:42:42.524128",
+  "segments": [
+    {
+      "text": "கண்டதும் செண்டைக் காருங்களுடைத்து முனே மங்கிஷா",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கண்டதும் செண்டைக் காருங்களுடைத்து முனே மங்கிஷா",
+  "morphemes": []
+}

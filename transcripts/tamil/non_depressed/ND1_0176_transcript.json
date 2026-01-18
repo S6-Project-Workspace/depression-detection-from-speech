@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0176.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "வெட்டு ஒன்று தொண்டு இரண்டு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:03.064887",
+  "segments": [
+    {
+      "text": "வெட்டு ஒன்று தொண்டு இரண்டு",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வெட்டு ஒன்று தொண்டு இரண்டு",
+  "morphemes": []
+}

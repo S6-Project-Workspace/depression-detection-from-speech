@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0024.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அண்டுதோரும் பத்திலைத்தும் கடல் பரவைகள் கொல்ல படிகின்றினேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:21.853772",
+  "segments": [
+    {
+      "text": "அண்டுதோரும் பத்திலைத்தும் கடல் பரவைகள் கொல்ல படிகின்றினேன்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அண்டுதோரும் பத்திலைத்தும் கடல் பரவைகள் கொல்ல படிகின்றினேன்.",
+  "morphemes": []
+}

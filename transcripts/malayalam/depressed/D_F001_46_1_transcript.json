@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_46_1.wav",
+  "speaker_id": "F001_46",
+  "language": "malayalam",
+  "transcript": "Enike, nyan, ceyilde, sheriya lo, ene, samshayahur.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:20:27.445415",
+  "segments": [
+    {
+      "text": "Enike, nyan, ceyilde, sheriya lo, ene, samshayahur.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Enike, nyan, ceyilde, sheriya lo, ene, samshayahur.",
+  "morphemes": []
+}

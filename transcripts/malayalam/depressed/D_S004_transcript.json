@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S004.wav",
+  "speaker_id": "S004",
+  "language": "malayalam",
+  "transcript": "எனக்கு என்ன செய்யனாம் என்ன தோன்றில்லையில்லையில்லையில்லையில்லை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:04:19.693994",
+  "segments": [
+    {
+      "text": "எனக்கு என்ன செய்யனாம் என்ன தோன்றில்லையில்லையில்லையில்லையில்லை",
+      "start_time": 0,
+      "end_time": 4.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு என்ன செய்யனாம் என்ன தோன்றில்லையில்லையில்லையில்லையில்லை",
+  "morphemes": []
+}

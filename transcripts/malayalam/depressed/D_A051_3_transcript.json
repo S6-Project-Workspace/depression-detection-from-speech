@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A051_3.wav",
+  "speaker_id": "A051",
+  "language": "malayalam",
+  "transcript": "நான் உன்னுடைய நான் யாப்போல் திரும் ஒரு தோன்றிலே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:53:20.977508",
+  "segments": [
+    {
+      "text": "நான் உன்னுடைய நான் யாப்போல் திரும் ஒரு தோன்றிலே",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் உன்னுடைய நான் யாப்போல் திரும் ஒரு தோன்றிலே",
+  "morphemes": []
+}

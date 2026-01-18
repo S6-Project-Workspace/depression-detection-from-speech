@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0004.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "சொல் புத்தியை விடை சொய்ய புத்தி மிக்க அவசியம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:00.716049",
+  "segments": [
+    {
+      "text": "சொல் புத்தியை விடை சொய்ய புத்தி மிக்க அவசியம்.",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சொல் புத்தியை விடை சொய்ய புத்தி மிக்க அவசியம்.",
+  "morphemes": []
+}

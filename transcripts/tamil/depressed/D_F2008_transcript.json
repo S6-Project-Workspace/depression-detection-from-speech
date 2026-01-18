@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2008.wav",
+  "speaker_id": "F2008",
+  "language": "tamil",
+  "transcript": "தப்பிக்க முடியமா, இல்லை எனக்கு இந்த சந்திக்கக்கூட முடியாதா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:51:59.025582",
+  "segments": [
+    {
+      "text": "தப்பிக்க முடியமா, இல்லை எனக்கு இந்த சந்திக்கக்கூட முடியாதா.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "தப்பிக்க முடியமா, இல்லை எனக்கு இந்த சந்திக்கக்கூட முடியாதா.",
+  "morphemes": []
+}

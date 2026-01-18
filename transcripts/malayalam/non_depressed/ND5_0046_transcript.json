@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0046.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "வேருடு கதையுமாய் வீண்டும் வரம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:24:06.189609",
+  "segments": [
+    {
+      "text": "வேருடு கதையுமாய் வீண்டும் வரம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வேருடு கதையுமாய் வீண்டும் வரம்.",
+  "morphemes": []
+}

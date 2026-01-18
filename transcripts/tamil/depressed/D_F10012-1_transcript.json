@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10012-1.wav",
+  "speaker_id": "F10012",
+  "language": "tamil",
+  "transcript": "இந்த வாழ்க்கையில் புரியில் நான் தவறவில்லை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:34.498552",
+  "segments": [
+    {
+      "text": "இந்த வாழ்க்கையில் புரியில் நான் தவறவில்லை",
+      "start_time": 0,
+      "end_time": 4.25,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த வாழ்க்கையில் புரியில் நான் தவறவில்லை",
+  "morphemes": []
+}

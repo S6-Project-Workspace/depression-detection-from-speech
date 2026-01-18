@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_20_3.wav",
+  "speaker_id": "F001_20",
+  "language": "malayalam",
+  "transcript": "enn de bayam, enn de jeevi de thinne probi ki sa naashtam akumu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:05:30.351362",
+  "segments": [
+    {
+      "text": "enn de bayam, enn de jeevi de thinne probi ki sa naashtam akumu",
+      "start_time": 0,
+      "end_time": 4.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "enn de bayam, enn de jeevi de thinne probi ki sa naashtam akumu",
+  "morphemes": []
+}

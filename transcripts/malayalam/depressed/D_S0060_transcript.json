@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0060.wav",
+  "speaker_id": "S0060",
+  "language": "malayalam",
+  "transcript": "Pukadu, Kajam, Veethinapagurannu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:20:21.481157",
+  "segments": [
+    {
+      "text": "Pukadu, Kajam, Veethinapagurannu",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Pukadu, Kajam, Veethinapagurannu",
+  "morphemes": []
+}

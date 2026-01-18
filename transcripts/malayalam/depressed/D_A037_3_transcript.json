@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A037_3.wav",
+  "speaker_id": "A037",
+  "language": "malayalam",
+  "transcript": "நீங்கள் வாட்டுக்கு இத்த வேறு என்னும் மனதில் காண்டுவிட்டில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:46:31.795838",
+  "segments": [
+    {
+      "text": "நீங்கள் வாட்டுக்கு இத்த வேறு என்னும் மனதில் காண்டுவிட்டில்லை.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் வாட்டுக்கு இத்த வேறு என்னும் மனதில் காண்டுவிட்டில்லை.",
+  "morphemes": []
+}

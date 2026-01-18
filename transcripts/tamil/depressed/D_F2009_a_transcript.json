@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F2009_a.wav",
+  "speaker_id": "F2009",
+  "language": "tamil",
+  "transcript": "எனக்கு எதுக்கும் தெரியும் இல்லை. எப்படி மாறுத்தது?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:52:13.503167",
+  "segments": [
+    {
+      "text": "எனக்கு எதுக்கும் தெரியும் இல்லை. எப்படி மாறுத்தது?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு எதுக்கும் தெரியும் இல்லை. எப்படி மாறுத்தது?",
+  "morphemes": []
+}

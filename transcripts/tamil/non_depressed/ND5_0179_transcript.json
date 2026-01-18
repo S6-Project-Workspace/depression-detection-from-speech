@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0179.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "பயனைட்டும் பொருட்கள் விட்பனைக்கு வைக்கப் படாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:22:30.798858",
+  "segments": [
+    {
+      "text": "பயனைட்டும் பொருட்கள் விட்பனைக்கு வைக்கப் படாது.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பயனைட்டும் பொருட்கள் விட்பனைக்கு வைக்கப் படாது.",
+  "morphemes": []
+}

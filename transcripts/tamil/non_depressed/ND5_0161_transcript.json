@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0161.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மேச் சொல்லி கட்டவனும் இல்லை, போய் சொல்லி வாழந்தவனும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:49.893999",
+  "segments": [
+    {
+      "text": "மேச் சொல்லி கட்டவனும் இல்லை, போய் சொல்லி வாழந்தவனும் இல்லை.",
+      "start_time": 0,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மேச் சொல்லி கட்டவனும் இல்லை, போய் சொல்லி வாழந்தவனும் இல்லை.",
+  "morphemes": []
+}

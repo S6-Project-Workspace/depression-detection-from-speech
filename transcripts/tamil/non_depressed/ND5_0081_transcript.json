@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0081.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "கேட்பவிருக்கு கொடுத்து உன்ன வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:49.162645",
+  "segments": [
+    {
+      "text": "கேட்பவிருக்கு கொடுத்து உன்ன வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கேட்பவிருக்கு கொடுத்து உன்ன வேண்டும்.",
+  "morphemes": []
+}

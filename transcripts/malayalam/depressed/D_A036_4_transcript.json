@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A036_4.wav",
+  "speaker_id": "A036",
+  "language": "malayalam",
+  "transcript": "நீங்கள் தமாசியிருக்காண்டு எந்து உண்டு?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:46:21.994665",
+  "segments": [
+    {
+      "text": "நீங்கள் தமாசியிருக்காண்டு எந்து உண்டு?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் தமாசியிருக்காண்டு எந்து உண்டு?",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0136.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கலவி کرக்கனால் நுள்களை குற்சமரைக் கறக்க வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:03:27.267390",
+  "segments": [
+    {
+      "text": "கலவி کرக்கனால் நுள்களை குற்சமரைக் கறக்க வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.68,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கலவி کرக்கனால் நுள்களை குற்சமரைக் கறக்க வேண்டும்.",
+  "morphemes": []
+}

@@ -52,6 +52,23 @@ from inference import (
     run_cross_validation_ensemble
 )
 
+# Multimodal imports
+from multimodal_model import create_multimodal_model, MultimodalDepressionModel
+from multimodal_trainer import (
+    MultimodalTrainer,
+    compute_evaluation_metrics,
+    compare_models,
+    EvaluationResult
+)
+from multimodal_dataset import (
+    MultimodalDataset,
+    SpeakerIndependentSplitter,
+    load_transcripts_from_directory,
+    multimodal_collate_fn
+)
+from text_model import create_muril_model, MuRILTokenizerWrapper as MuRILTokenizer
+from text_preprocessing import create_preprocessor
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -80,7 +97,7 @@ def parse_args():
         '--model',
         type=str,
         default='both',
-        choices=['ssl', 'ecapa', 'both'],
+        choices=['ssl', 'ecapa', 'both', 'multimodal', 'text-only'],
         help='Which model(s) to train'
     )
     
@@ -423,6 +440,356 @@ def train_ecapa_model_cv(
     }
 
 
+def train_multimodal_model_cv(
+    config: DepressionDetectionConfig,
+    device: str,
+    output_dir: str,
+    transcript_dir: Optional[str] = None
+) -> Dict:
+    """Train multimodal model with cross-validation.
+    
+    Implements joint audio-text training with speaker-independent splits.
+    
+    Args:
+        config: DepressionDetectionConfig
+        device: Device to train on
+        output_dir: Output directory for checkpoints
+        transcript_dir: Directory containing transcript JSON files
+        
+    Returns:
+        Dictionary with fold results and aggregated metrics
+    """
+    logger.info("=" * 60)
+    logger.info("Training Multimodal Model (Audio + Text)")
+    logger.info("=" * 60)
+    
+    # Set default transcript directory
+    if transcript_dir is None:
+        transcript_dir = os.path.join(config.paths.base_dir, "transcripts")
+    
+    # Build dataset
+    chunks, speaker_map = build_dataset_manifest(
+        config.paths,
+        config.preprocessing,
+        language=config.language.value,
+        is_training=True
+    )
+    
+    # Load transcripts
+    transcripts = load_transcripts_from_directory(transcript_dir)
+    logger.info(f"Loaded {len(transcripts)} transcripts from {transcript_dir}")
+    
+    # Initialize tokenizer
+    tokenizer = MuRILTokenizer(config.text_model)
+    
+    # Initialize text preprocessor
+    text_preprocessor = create_preprocessor(config.text_preprocessing)
+    
+    # Speaker-independent cross-validation splits
+    splitter = SpeakerIndependentSplitter(
+        n_splits=config.training.n_folds,
+        shuffle=True,
+        random_state=config.training.cv_random_seed
+    )
+    splits = splitter.split(chunks)
+    
+    fold_results = []
+    all_val_predictions = []
+    all_val_labels = []
+    all_evaluation_results = []
+    
+    for fold_idx, (train_indices, val_indices) in enumerate(splits):
+        logger.info(f"\n{'='*40}")
+        logger.info(f"Multimodal Fold {fold_idx + 1}/{config.training.n_folds}")
+        logger.info(f"{'='*40}")
+        
+        # Create train and val chunk lists
+        train_chunks = [chunks[i] for i in train_indices]
+        val_chunks = [chunks[i] for i in val_indices]
+        
+        # Create datasets
+        train_dataset = MultimodalDataset(
+            audio_chunks=train_chunks,
+            transcripts=transcripts,
+            tokenizer=tokenizer,
+            config=config,
+            text_preprocessor=text_preprocessor,
+            is_training=True
+        )
+        
+        val_dataset = MultimodalDataset(
+            audio_chunks=val_chunks,
+            transcripts=transcripts,
+            tokenizer=tokenizer,
+            config=config,
+            text_preprocessor=text_preprocessor,
+            is_training=False
+        )
+        
+        # Create dataloaders
+        train_loader = torch.utils.data.DataLoader(
+            train_dataset,
+            batch_size=config.training.batch_size,
+            shuffle=True,
+            num_workers=config.num_workers,
+            pin_memory=True,
+            drop_last=True,
+            collate_fn=multimodal_collate_fn
+        )
+        
+        val_loader = torch.utils.data.DataLoader(
+            val_dataset,
+            batch_size=config.training.batch_size,
+            shuffle=False,
+            num_workers=config.num_workers,
+            pin_memory=True,
+            collate_fn=multimodal_collate_fn
+        )
+        
+        # Create audio model (SSL or ECAPA)
+        audio_model = create_ssl_model(config)
+        
+        # Create text model (MuRIL)
+        text_model = create_muril_model(config.text_model)
+        
+        # Create multimodal model
+        multimodal_model = create_multimodal_model(
+            audio_model=audio_model,
+            text_model=text_model,
+            config=config.fusion
+        )
+        
+        # Compute class weights for imbalanced data
+        class_weights = train_dataset.class_weights.to(device)
+        
+        # Create trainer
+        trainer = MultimodalTrainer(
+            model=multimodal_model,
+            config=config,
+            train_loader=train_loader,
+            val_loader=val_loader,
+            device=device,
+            class_weights=class_weights
+        )
+        
+        # Train
+        fold_result = trainer.train()
+        fold_results.append(fold_result)
+        
+        # Get validation predictions
+        eval_result = trainer.evaluate()
+        all_val_predictions.append(eval_result.probabilities)
+        all_val_labels.append(eval_result.labels)
+        all_evaluation_results.append(eval_result)
+        
+        # Save fold checkpoint
+        fold_checkpoint_dir = os.path.join(output_dir, 'checkpoints', f'multimodal_fold_{fold_idx}')
+        os.makedirs(fold_checkpoint_dir, exist_ok=True)
+        torch.save({
+            'model_state_dict': multimodal_model.state_dict(),
+            'fold_idx': fold_idx,
+            'best_val_f1': fold_result['best_val_f1'],
+            'evaluation': eval_result.to_dict()
+        }, os.path.join(fold_checkpoint_dir, 'best_model.pt'))
+        
+        logger.info(f"Fold {fold_idx + 1} Best Macro-F1: {fold_result['best_val_f1']:.4f}")
+    
+    # Aggregate results
+    mean_f1 = np.mean([r['best_val_f1'] for r in fold_results])
+    std_f1 = np.std([r['best_val_f1'] for r in fold_results])
+    
+    logger.info(f"\nMultimodal Cross-Validation Results:")
+    logger.info(f"  Mean Macro-F1: {mean_f1:.4f} ± {std_f1:.4f}")
+    
+    # Save aggregated results
+    results_path = os.path.join(output_dir, 'multimodal_results.json')
+    with open(results_path, 'w') as f:
+        json.dump({
+            'mean_f1': float(mean_f1),
+            'std_f1': float(std_f1),
+            'fold_results': [
+                {
+                    'best_val_f1': r['best_val_f1'],
+                    'final_epoch': r['final_epoch']
+                }
+                for r in fold_results
+            ]
+        }, f, indent=2)
+    
+    return {
+        'fold_results': fold_results,
+        'mean_f1': mean_f1,
+        'std_f1': std_f1,
+        'all_predictions': all_val_predictions,
+        'all_labels': all_val_labels,
+        'evaluation_results': all_evaluation_results
+    }
+
+
+def train_text_only_model_cv(
+    config: DepressionDetectionConfig,
+    device: str,
+    output_dir: str,
+    transcript_dir: Optional[str] = None
+) -> Dict:
+    """Train text-only model (MuRIL) with cross-validation.
+    
+    Used as a baseline for comparison with multimodal model.
+    
+    Args:
+        config: DepressionDetectionConfig
+        device: Device to train on
+        output_dir: Output directory for checkpoints
+        transcript_dir: Directory containing transcript JSON files
+        
+    Returns:
+        Dictionary with fold results and aggregated metrics
+    """
+    logger.info("=" * 60)
+    logger.info("Training Text-Only Model (MuRIL)")
+    logger.info("=" * 60)
+    
+    # Set default transcript directory
+    if transcript_dir is None:
+        transcript_dir = os.path.join(config.paths.base_dir, "transcripts")
+    
+    # Build dataset
+    chunks, speaker_map = build_dataset_manifest(
+        config.paths,
+        config.preprocessing,
+        language=config.language.value,
+        is_training=True
+    )
+    
+    # Load transcripts
+    transcripts = load_transcripts_from_directory(transcript_dir)
+    logger.info(f"Loaded {len(transcripts)} transcripts from {transcript_dir}")
+    
+    # Initialize tokenizer
+    tokenizer = MuRILTokenizer(config.text_model)
+    
+    # Initialize text preprocessor
+    text_preprocessor = create_preprocessor(config.text_preprocessing)
+    
+    # Speaker-independent cross-validation splits
+    splitter = SpeakerIndependentSplitter(
+        n_splits=config.training.n_folds,
+        shuffle=True,
+        random_state=config.training.cv_random_seed
+    )
+    splits = splitter.split(chunks)
+    
+    fold_results = []
+    all_val_predictions = []
+    all_val_labels = []
+    
+    for fold_idx, (train_indices, val_indices) in enumerate(splits):
+        logger.info(f"\n{'='*40}")
+        logger.info(f"Text-Only Fold {fold_idx + 1}/{config.training.n_folds}")
+        logger.info(f"{'='*40}")
+        
+        # Create train and val chunk lists
+        train_chunks = [chunks[i] for i in train_indices]
+        val_chunks = [chunks[i] for i in val_indices]
+        
+        # Create datasets
+        train_dataset = MultimodalDataset(
+            audio_chunks=train_chunks,
+            transcripts=transcripts,
+            tokenizer=tokenizer,
+            config=config,
+            text_preprocessor=text_preprocessor,
+            is_training=True
+        )
+        
+        val_dataset = MultimodalDataset(
+            audio_chunks=val_chunks,
+            transcripts=transcripts,
+            tokenizer=tokenizer,
+            config=config,
+            text_preprocessor=text_preprocessor,
+            is_training=False
+        )
+        
+        # Create dataloaders
+        train_loader = torch.utils.data.DataLoader(
+            train_dataset,
+            batch_size=config.training.batch_size,
+            shuffle=True,
+            num_workers=config.num_workers,
+            pin_memory=True,
+            drop_last=True,
+            collate_fn=multimodal_collate_fn
+        )
+        
+        val_loader = torch.utils.data.DataLoader(
+            val_dataset,
+            batch_size=config.training.batch_size,
+            shuffle=False,
+            num_workers=config.num_workers,
+            pin_memory=True,
+            collate_fn=multimodal_collate_fn
+        )
+        
+        # Create text model (MuRIL)
+        text_model = create_muril_model(config.text_model)
+        
+        # Create multimodal model with text-only fallback
+        multimodal_model = create_multimodal_model(
+            audio_model=None,
+            text_model=text_model,
+            config=config.fusion
+        )
+        
+        # Compute class weights
+        class_weights = train_dataset.class_weights.to(device)
+        
+        # Create trainer (uses text-only forward)
+        trainer = MultimodalTrainer(
+            model=multimodal_model,
+            config=config,
+            train_loader=train_loader,
+            val_loader=val_loader,
+            device=device,
+            class_weights=class_weights
+        )
+        
+        # Train
+        fold_result = trainer.train()
+        fold_results.append(fold_result)
+        
+        # Get validation predictions
+        eval_result = trainer.evaluate()
+        all_val_predictions.append(eval_result.probabilities)
+        all_val_labels.append(eval_result.labels)
+        
+        # Save fold checkpoint
+        fold_checkpoint_dir = os.path.join(output_dir, 'checkpoints', f'text_only_fold_{fold_idx}')
+        os.makedirs(fold_checkpoint_dir, exist_ok=True)
+        torch.save({
+            'model_state_dict': multimodal_model.state_dict(),
+            'fold_idx': fold_idx,
+            'best_val_f1': fold_result['best_val_f1']
+        }, os.path.join(fold_checkpoint_dir, 'best_model.pt'))
+        
+        logger.info(f"Fold {fold_idx + 1} Best Macro-F1: {fold_result['best_val_f1']:.4f}")
+    
+    # Aggregate results
+    mean_f1 = np.mean([r['best_val_f1'] for r in fold_results])
+    std_f1 = np.std([r['best_val_f1'] for r in fold_results])
+    
+    logger.info(f"\nText-Only Cross-Validation Results:")
+    logger.info(f"  Mean Macro-F1: {mean_f1:.4f} ± {std_f1:.4f}")
+    
+    return {
+        'fold_results': fold_results,
+        'mean_f1': mean_f1,
+        'std_f1': std_f1,
+        'all_predictions': all_val_predictions,
+        'all_labels': all_val_labels
+    }
+
+
 def evaluate_ensemble(
     ssl_results: Dict,
     ecapa_results: Dict,
@@ -532,12 +899,20 @@ def main():
     # Train models
     ssl_results = None
     ecapa_results = None
+    multimodal_results = None
+    text_only_results = None
     
     if args.model in ['ssl', 'both']:
         ssl_results = train_ssl_model_cv(config, device, output_dir)
     
     if args.model in ['ecapa', 'both']:
         ecapa_results = train_ecapa_model_cv(config, device, output_dir)
+    
+    if args.model == 'multimodal':
+        multimodal_results = train_multimodal_model_cv(config, device, output_dir)
+    
+    if args.model == 'text-only':
+        text_only_results = train_text_only_model_cv(config, device, output_dir)
     
     # Ensemble evaluation
     if args.model == 'both' and ssl_results and ecapa_results:
@@ -565,6 +940,16 @@ def main():
         logger.info("FINAL RESULTS (ECAPA Only)")
         logger.info("=" * 60)
         logger.info(f"ECAPA Model Mean Macro-F1: {ecapa_results['mean_f1']:.4f} ± {ecapa_results['std_f1']:.4f}")
+    elif multimodal_results:
+        logger.info("\n" + "=" * 60)
+        logger.info("FINAL RESULTS (Multimodal)")
+        logger.info("=" * 60)
+        logger.info(f"Multimodal Model Mean Macro-F1: {multimodal_results['mean_f1']:.4f} ± {multimodal_results['std_f1']:.4f}")
+    elif text_only_results:
+        logger.info("\n" + "=" * 60)
+        logger.info("FINAL RESULTS (Text-Only)")
+        logger.info("=" * 60)
+        logger.info(f"Text-Only Model Mean Macro-F1: {text_only_results['mean_f1']:.4f} ± {text_only_results['std_f1']:.4f}")
     
     logger.info(f"\nAll results saved to: {output_dir}")
     

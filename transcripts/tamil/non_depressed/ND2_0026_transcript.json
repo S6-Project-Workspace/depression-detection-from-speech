@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0026.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "உளக்கில் மிகமும் மாது படிந்த நகரம் புட்டில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:28.080399",
+  "segments": [
+    {
+      "text": "உளக்கில் மிகமும் மாது படிந்த நகரம் புட்டில்லை.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உளக்கில் மிகமும் மாது படிந்த நகரம் புட்டில்லை.",
+  "morphemes": []
+}

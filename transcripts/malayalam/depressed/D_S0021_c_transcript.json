@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0021_c.wav",
+  "speaker_id": "S0021",
+  "language": "malayalam",
+  "transcript": "अगा वर कशंदोस्या नल्कान स्रमिचानानी पूज्य क्या है",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:49:10.680218",
+  "segments": [
+    {
+      "text": "अगा वर कशंदोस्या नल्कान स्रमिचानानी पूज्य क्या है",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "अगा वर कशंदोस्या नल्कान स्रमिचानानी पूज्य क्या है",
+  "morphemes": []
+}

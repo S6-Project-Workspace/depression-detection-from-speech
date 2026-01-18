@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0105.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "படிராது காடியம் சிதிராது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:52:48.391129",
+  "segments": [
+    {
+      "text": "படிராது காடியம் சிதிராது.",
+      "start_time": 0,
+      "end_time": 1.48,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "படிராது காடியம் சிதிராது.",
+  "morphemes": []
+}

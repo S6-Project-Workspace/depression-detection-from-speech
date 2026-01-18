@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0042.wav",
+  "speaker_id": "S0042",
+  "language": "malayalam",
+  "transcript": "जीमीदा बारे पारे पारे बारे",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:06:27.436252",
+  "segments": [
+    {
+      "text": "जीमीदा बारे पारे पारे बारे",
+      "start_time": 0,
+      "end_time": 5.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "जीमीदा बारे पारे पारे बारे",
+  "morphemes": []
+}

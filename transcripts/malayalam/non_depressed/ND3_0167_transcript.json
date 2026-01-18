@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0167.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "அப்புப் பரண்ணும் என்றால் அழையாரித்தத்தான் எனக்கு முன்பா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:44:54.733688",
+  "segments": [
+    {
+      "text": "அப்புப் பரண்ணும் என்றால் அழையாரித்தத்தான் எனக்கு முன்பா.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்புப் பரண்ணும் என்றால் அழையாரித்தத்தான் எனக்கு முன்பா.",
+  "morphemes": []
+}

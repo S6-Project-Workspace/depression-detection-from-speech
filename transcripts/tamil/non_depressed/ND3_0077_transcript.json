@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0077.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "ஆட்டில் போட்டாலும் மலந்து போடு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:00:24.625643",
+  "segments": [
+    {
+      "text": "ஆட்டில் போட்டாலும் மலந்து போடு.",
+      "start_time": 0,
+      "end_time": 1.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆட்டில் போட்டாலும் மலந்து போடு.",
+  "morphemes": []
+}

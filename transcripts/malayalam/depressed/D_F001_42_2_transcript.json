@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_42_2.wav",
+  "speaker_id": "F001_42",
+  "language": "malayalam",
+  "transcript": "என்னை இப்பிகரா வருத்தையில் என்று ஆரம் வெளிச்சு முட்டும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:19:31.938176",
+  "segments": [
+    {
+      "text": "என்னை இப்பிகரா வருத்தையில் என்று ஆரம் வெளிச்சு முட்டும் இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னை இப்பிகரா வருத்தையில் என்று ஆரம் வெளிச்சு முட்டும் இல்லை.",
+  "morphemes": []
+}

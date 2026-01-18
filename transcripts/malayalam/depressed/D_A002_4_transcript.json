@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A002_4.wav",
+  "speaker_id": "A002",
+  "language": "malayalam",
+  "transcript": "இங்கே உன்னும் அர்ப்பத்து பாரேன் காய் நில்லையா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:23:47.420272",
+  "segments": [
+    {
+      "text": "இங்கே உன்னும் அர்ப்பத்து பாரேன் காய் நில்லையா",
+      "start_time": 0,
+      "end_time": 3.46,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்கே உன்னும் அர்ப்பத்து பாரேன் காய் நில்லையா",
+  "morphemes": []
+}

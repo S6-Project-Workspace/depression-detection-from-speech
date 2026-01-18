@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_29_3.wav",
+  "speaker_id": "F001_29",
+  "language": "malayalam",
+  "transcript": "うじょう pari haro illaata kada varai lani nyad",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:12:53.408746",
+  "segments": [
+    {
+      "text": "うじょう pari haro illaata kada varai lani nyad",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "うじょう pari haro illaata kada varai lani nyad",
+  "morphemes": []
+}

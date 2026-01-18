@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_35_3.wav",
+  "speaker_id": "F001_35",
+  "language": "malayalam",
+  "transcript": "என்று எல்லாம் நல்ல நிமிஷர்களை முதலாம் தகர்த்திருக்கிறீர்கள்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:15:24.533853",
+  "segments": [
+    {
+      "text": "என்று எல்லாம் நல்ல நிமிஷர்களை முதலாம் தகர்த்திருக்கிறீர்கள்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்று எல்லாம் நல்ல நிமிஷர்களை முதலாம் தகர்த்திருக்கிறீர்கள்",
+  "morphemes": []
+}

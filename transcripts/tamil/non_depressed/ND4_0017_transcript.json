@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0017.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "தடாந்து பயற்சி செய்யங்கள் விரைவில் பயன் கடைக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:37.576226",
+  "segments": [
+    {
+      "text": "தடாந்து பயற்சி செய்யங்கள் விரைவில் பயன் கடைக்கும்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தடாந்து பயற்சி செய்யங்கள் விரைவில் பயன் கடைக்கும்.",
+  "morphemes": []
+}

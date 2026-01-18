@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0171.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "வால்லும் தால்லும் சிலக் காலம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:52.429797",
+  "segments": [
+    {
+      "text": "வால்லும் தால்லும் சிலக் காலம்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வால்லும் தால்லும் சிலக் காலம்",
+  "morphemes": []
+}

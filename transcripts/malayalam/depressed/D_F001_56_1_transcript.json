@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_56_1.wav",
+  "speaker_id": "F001_56",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு எவ்வளவு செல்லும் அந்தக் காருவாருங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:27:19.593220",
+  "segments": [
+    {
+      "text": "என்னுக்கு எவ்வளவு செல்லும் அந்தக் காருவாருங்கள்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு எவ்வளவு செல்லும் அந்தக் காருவாருங்கள்.",
+  "morphemes": []
+}

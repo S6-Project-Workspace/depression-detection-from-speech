@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0026.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "உலகில் மிகும் மாசைப் படிந்த நகரம் புத்துவிடல்லி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:23.266201",
+  "segments": [
+    {
+      "text": "உலகில் மிகும் மாசைப் படிந்த நகரம் புத்துவிடல்லி.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உலகில் மிகும் மாசைப் படிந்த நகரம் புத்துவிடல்லி.",
+  "morphemes": []
+}

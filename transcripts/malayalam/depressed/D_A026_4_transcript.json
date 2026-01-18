@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A026_4.wav",
+  "speaker_id": "A026",
+  "language": "malayalam",
+  "transcript": "கீத்துவிட்டில் ஒருக்கிலும் சமாதானல்லையைப் பிக்கில்லையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:39:35.944271",
+  "segments": [
+    {
+      "text": "கீத்துவிட்டில் ஒருக்கிலும் சமாதானல்லையைப் பிக்கில்லையும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "கீத்துவிட்டில் ஒருக்கிலும் சமாதானல்லையைப் பிக்கில்லையும்",
+  "morphemes": []
+}

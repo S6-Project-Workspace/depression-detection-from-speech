@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A037_2.wav",
+  "speaker_id": "A037",
+  "language": "malayalam",
+  "transcript": "நீங்கள் கார்க்கும் இத்த வேறு என்ன வந்தில் காங்கள் என்றிடில்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:46:28.723069",
+  "segments": [
+    {
+      "text": "நீங்கள் கார்க்கும் இத்த வேறு என்ன வந்தில் காங்கள் என்றிடில்லையா?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் கார்க்கும் இத்த வேறு என்ன வந்தில் காங்கள் என்றிடில்லையா?",
+  "morphemes": []
+}

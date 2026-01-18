@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_49_3.wav",
+  "speaker_id": "F001_49",
+  "language": "malayalam",
+  "transcript": "இண்ணைப்பாயா, இண்ணை ஓராதுக்கும் தாகர்த்தான் உன்னுடைக்குமும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:00.988967",
+  "segments": [
+    {
+      "text": "இண்ணைப்பாயா, இண்ணை ஓராதுக்கும் தாகர்த்தான் உன்னுடைக்குமும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இண்ணைப்பாயா, இண்ணை ஓராதுக்கும் தாகர்த்தான் உன்னுடைக்குமும்",
+  "morphemes": []
+}

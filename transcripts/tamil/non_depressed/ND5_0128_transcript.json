@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0128.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "உலகம் கடவிலை அடிப்படையாக கொண்டிருக்கிறாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:22.109983",
+  "segments": [
+    {
+      "text": "உலகம் கடவிலை அடிப்படையாக கொண்டிருக்கிறாது.",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உலகம் கடவிலை அடிப்படையாக கொண்டிருக்கிறாது.",
+  "morphemes": []
+}

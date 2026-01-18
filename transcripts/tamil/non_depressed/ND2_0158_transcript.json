@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0158.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மாப் பழித்தால் கிலிக்காம் வேண்டும் பழித்தால் காப்பேக்காம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:21.480993",
+  "segments": [
+    {
+      "text": "மாப் பழித்தால் கிலிக்காம் வேண்டும் பழித்தால் காப்பேக்காம்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மாப் பழித்தால் கிலிக்காம் வேண்டும் பழித்தால் காப்பேக்காம்.",
+  "morphemes": []
+}

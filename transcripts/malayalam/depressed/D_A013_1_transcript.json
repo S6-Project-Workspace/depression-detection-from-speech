@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A013_1.wav",
+  "speaker_id": "A013",
+  "language": "malayalam",
+  "transcript": "இன்னுடைய வாக்குகள் இனிக்கு எதிரையும் பதேசிங்களானே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:45.551436",
+  "segments": [
+    {
+      "text": "இன்னுடைய வாக்குகள் இனிக்கு எதிரையும் பதேசிங்களானே",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுடைய வாக்குகள் இனிக்கு எதிரையும் பதேசிங்களானே",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0075.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மின்னுவதெல்லாம் பொன்னல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:33.687828",
+  "segments": [
+    {
+      "text": "மின்னுவதெல்லாம் பொன்னல்லை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மின்னுவதெல்லாம் பொன்னல்லை.",
+  "morphemes": []
+}

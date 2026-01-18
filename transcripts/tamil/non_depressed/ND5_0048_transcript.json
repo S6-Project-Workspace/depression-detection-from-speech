@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0048.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "ஆரிலும் யாவே, நுரிலும் யாவே.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:36.242124",
+  "segments": [
+    {
+      "text": "ஆரிலும் யாவே, நுரிலும் யாவே.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆரிலும் யாவே, நுரிலும் யாவே.",
+  "morphemes": []
+}

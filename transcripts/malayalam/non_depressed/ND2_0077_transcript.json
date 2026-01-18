@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0077.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "இது கேட்ட கரச்சகன கொண்டிக்கொள்ளுக்கும் ஏய் மோஞ்சிப்பிச்சு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:05:55.835113",
+  "segments": [
+    {
+      "text": "இது கேட்ட கரச்சகன கொண்டிக்கொள்ளுக்கும் ஏய் மோஞ்சிப்பிச்சு",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இது கேட்ட கரச்சகன கொண்டிக்கொள்ளுக்கும் ஏய் மோஞ்சிப்பிச்சு",
+  "morphemes": []
+}

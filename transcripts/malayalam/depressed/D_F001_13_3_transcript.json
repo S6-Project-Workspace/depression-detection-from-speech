@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_F001_13_3.wav",
+  "speaker_id": "F001_13",
+  "language": "malayalam",
+  "transcript": "Idk how long it has been since I've been doing this for so long Idk how long it has been since I've been doing this for so long",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:00:55.116853",
+  "segments": [
+    {
+      "text": "Idk how long it has been since I've been doing this for so long",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "Idk how long it has been since I've been doing this for so long",
+      "start_time": 4.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Idk how long it has been since I've been doing this for so long Idk how long it has been since I've been doing this for so long",
+  "morphemes": []
+}

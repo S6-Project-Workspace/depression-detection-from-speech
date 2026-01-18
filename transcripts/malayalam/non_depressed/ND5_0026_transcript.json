@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0026.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "Ganesh, அதிகம் சொர்ணாமுமாய வருன்னதும் காத்து அமாவாசி இருணும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:22:10.694463",
+  "segments": [
+    {
+      "text": "Ganesh, அதிகம் சொர்ணாமுமாய வருன்னதும் காத்து அமாவாசி இருணும்.",
+      "start_time": 0,
+      "end_time": 3.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "Ganesh, அதிகம் சொர்ணாமுமாய வருன்னதும் காத்து அமாவாசி இருணும்.",
+  "morphemes": []
+}

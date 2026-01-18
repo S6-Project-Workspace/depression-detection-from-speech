@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_43_4.wav",
+  "speaker_id": "F001_43",
+  "language": "malayalam",
+  "transcript": "என்னுக்குச் சவச்சத்ததை ஒருஙாங்கள் இருந்து நாளுக்கலாய்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:19:56.701901",
+  "segments": [
+    {
+      "text": "என்னுக்குச் சவச்சத்ததை ஒருஙாங்கள் இருந்து நாளுக்கலாய்",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்குச் சவச்சத்ததை ஒருஙாங்கள் இருந்து நாளுக்கலாய்",
+  "morphemes": []
+}

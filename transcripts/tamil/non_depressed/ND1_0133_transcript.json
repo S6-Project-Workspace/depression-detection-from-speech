@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0133.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "மிகம் ஒருதியுடன் காப்பட வேண்டியாது அடக்கமாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:44:17.816256",
+  "segments": [
+    {
+      "text": "மிகம் ஒருதியுடன் காப்பட வேண்டியாது அடக்கமாகும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மிகம் ஒருதியுடன் காப்பட வேண்டியாது அடக்கமாகும்.",
+  "morphemes": []
+}

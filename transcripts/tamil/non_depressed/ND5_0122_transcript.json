@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0122.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "ஓட்டைப் பாணியிலும் சர்க்கரை இருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:07.829030",
+  "segments": [
+    {
+      "text": "ஓட்டைப் பாணியிலும் சர்க்கரை இருக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஓட்டைப் பாணியிலும் சர்க்கரை இருக்கும்.",
+  "morphemes": []
+}

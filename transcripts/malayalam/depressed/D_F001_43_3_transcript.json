@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_43_3.wav",
+  "speaker_id": "F001_43",
+  "language": "malayalam",
+  "transcript": "இன்னுக்கு சொஞ்சத்ததை ஒருங்காக இருந்தும் மாலுங்களாய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:19:52.954394",
+  "segments": [
+    {
+      "text": "இன்னுக்கு சொஞ்சத்ததை ஒருங்காக இருந்தும் மாலுங்களாய்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுக்கு சொஞ்சத்ததை ஒருங்காக இருந்தும் மாலுங்களாய்.",
+  "morphemes": []
+}

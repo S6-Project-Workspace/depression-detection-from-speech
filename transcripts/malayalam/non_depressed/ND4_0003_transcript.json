@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0003.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "வாலரியாட்டியாக இருக்கியம் நிற்டேனுமாக இருணும் அமாவாசி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:47:49.762920",
+  "segments": [
+    {
+      "text": "வாலரியாட்டியாக இருக்கியம் நிற்டேனுமாக இருணும் அமாவாசி.",
+      "start_time": 0,
+      "end_time": 2.9,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வாலரியாட்டியாக இருக்கியம் நிற்டேனுமாக இருணும் அமாவாசி.",
+  "morphemes": []
+}

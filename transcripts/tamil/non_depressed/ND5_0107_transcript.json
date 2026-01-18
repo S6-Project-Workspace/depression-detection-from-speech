@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0107.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "பலமரம் கண்டத்தைச் சென்று ஒரு மரமும் விட்டமாட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:37.389965",
+  "segments": [
+    {
+      "text": "பலமரம் கண்டத்தைச் சென்று ஒரு மரமும் விட்டமாட்டான்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பலமரம் கண்டத்தைச் சென்று ஒரு மரமும் விட்டமாட்டான்.",
+  "morphemes": []
+}

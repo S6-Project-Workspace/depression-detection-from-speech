@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0066.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "காச்சில் போதி துற்றிக்கொள்ள.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:37:21.946919",
+  "segments": [
+    {
+      "text": "காச்சில் போதி துற்றிக்கொள்ள.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காச்சில் போதி துற்றிக்கொள்ள.",
+  "morphemes": []
+}

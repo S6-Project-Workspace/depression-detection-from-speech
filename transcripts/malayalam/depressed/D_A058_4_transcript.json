@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A058_4.wav",
+  "speaker_id": "A058",
+  "language": "malayalam",
+  "transcript": "உங்கள் எல்லாவிரும் இல்லோகம் முட்டம் எடுக்கிறது என்றால்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:56:10.450826",
+  "segments": [
+    {
+      "text": "உங்கள் எல்லாவிரும் இல்லோகம் முட்டம் எடுக்கிறது என்றால்",
+      "start_time": 0,
+      "end_time": 5.0625,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "உங்கள் எல்லாவிரும் இல்லோகம் முட்டம் எடுக்கிறது என்றால்",
+  "morphemes": []
+}

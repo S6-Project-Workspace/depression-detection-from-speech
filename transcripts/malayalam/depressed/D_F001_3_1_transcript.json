@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_3_1.wav",
+  "speaker_id": "F001_3",
+  "language": "malayalam",
+  "transcript": "ان்டு உள்ளில் இஹஹஹஹ் பராந்தியன் இங்கிக் காலிமில்லாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:17:26.073909",
+  "segments": [
+    {
+      "text": "ان்டு உள்ளில் இஹஹஹஹ் பராந்தியன் இங்கிக் காலிமில்லாம்",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ان்டு உள்ளில் இஹஹஹஹ் பராந்தியன் இங்கிக் காலிமில்லாம்",
+  "morphemes": []
+}

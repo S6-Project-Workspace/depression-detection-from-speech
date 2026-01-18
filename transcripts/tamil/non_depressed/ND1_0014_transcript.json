@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0014.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அவன் சிரிய வணக்காக இருந்த போதிலும் மிகவும் வழுவான வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:32:25.538003",
+  "segments": [
+    {
+      "text": "அவன் சிரிய வணக்காக இருந்த போதிலும் மிகவும் வழுவான வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவன் சிரிய வணக்காக இருந்த போதிலும் மிகவும் வழுவான வேண்டும்.",
+  "morphemes": []
+}

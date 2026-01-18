@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0113.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "எடுத்திரக்காய் குட்டுக்கு உதவாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:19:48.570459",
+  "segments": [
+    {
+      "text": "எடுத்திரக்காய் குட்டுக்கு உதவாது.",
+      "start_time": 0,
+      "end_time": 2.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எடுத்திரக்காய் குட்டுக்கு உதவாது.",
+  "morphemes": []
+}

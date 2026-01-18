@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0042_a.wav",
+  "speaker_id": "S0042",
+  "language": "malayalam",
+  "transcript": "जी वी वी दा... वे बारे पारे मारी...",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:06:29.399105",
+  "segments": [
+    {
+      "text": "जी वी वी दा... वे बारे पारे मारी...",
+      "start_time": 0,
+      "end_time": 4.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "जी वी वी दा... वे बारे पारे मारी...",
+  "morphemes": []
+}

@@ -1,0 +1,4 @@
+# file: /Users/keerthivasan/NLP/ner_system.py
+# hypothesis_version: 6.150.2
+
+[0.0, 0.8, 512, ')\\b', 'Chennai', 'Dr\\.\\s+\\w+', 'Extracted entities:', 'LOCATION', 'MEDICAL', 'MISC', 'NER features:', 'O', 'ORGANIZATION', 'PERSON', '\\b(?:', '__main__', 'anxiety', 'clinic', 'counseling', 'cpu', 'depression', 'entity_density', 'entity_diversity', 'hospital', 'medical_entity_count', 'medical_entity_ratio', 'medication', 'misc_entity_count', 'ml', 'offset_mapping', 'person_entity_count', 'person_entity_ratio', 'pt', 'stress', 'ta', 'therapy', '|', 'அவன்', 'அவர்', 'அவள்', 'சந்தித்தேன்', 'சிகிச்சை', 'சென்னை', 'சென்னையில்', 'நான்', 'நாம்', 'நீ', 'மருத்துவரை', 'மருத்துவர்', 'மருந்து', 'അവൻ', 'അവർ', 'അവൾ', 'ഔഷധം', 'ചികിത്സ', 'ഞാൻ', 'ഡോക്ടർ', 'നാം', 'നീ']

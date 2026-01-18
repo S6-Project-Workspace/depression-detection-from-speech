@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_35_2.wav",
+  "speaker_id": "F001_35",
+  "language": "malayalam",
+  "transcript": "என்னுடையும் எல்லாம் நல்லாம் நிஷயங்களும் தகர்த்திருக்கிறது",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:15:21.120784",
+  "segments": [
+    {
+      "text": "என்னுடையும் எல்லாம் நல்லாம் நிஷயங்களும் தகர்த்திருக்கிறது",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுடையும் எல்லாம் நல்லாம் நிஷயங்களும் தகர்த்திருக்கிறது",
+  "morphemes": []
+}

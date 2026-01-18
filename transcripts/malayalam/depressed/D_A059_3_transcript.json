@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A059_3.wav",
+  "speaker_id": "A059",
+  "language": "malayalam",
+  "transcript": "நீ எந்த இப்போது இந்த வருத்துமான் சிலைக் கண்டு சம் சரிக்கும் என்றே?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:56:41.569322",
+  "segments": [
+    {
+      "text": "நீ எந்த இப்போது இந்த வருத்துமான் சிலைக் கண்டு சம் சரிக்கும் என்றே?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீ எந்த இப்போது இந்த வருத்துமான் சிலைக் கண்டு சம் சரிக்கும் என்றே?",
+  "morphemes": []
+}

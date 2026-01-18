@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0103.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஒரே சும்பாவகுணம் பில்லவிட்டான் ஒரு மிச்சுக்குண்டும்தா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:42:37.344483",
+  "segments": [
+    {
+      "text": "ஒரே சும்பாவகுணம் பில்லவிட்டான் ஒரு மிச்சுக்குண்டும்தா.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரே சும்பாவகுணம் பில்லவிட்டான் ஒரு மிச்சுக்குண்டும்தா.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0024.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அடுத்ததுத்தம் அம்மா வாசி, தண்டி வீட்டில்லை சொல்ல வருங்களும் பின்னிக்குறை அதிகம் கடம் வாங்கியும் okei nishanu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:31:28.445451",
+  "segments": [
+    {
+      "text": "அடுத்ததுத்தம் அம்மா வாசி, தண்டி வீட்டில்லை சொல்ல வருங்களும் பின்னிக்குறை அதிகம் கடம் வாங்கியும்",
+      "start_time": 0,
+      "end_time": 5.76,
+      "confidence": 1.0
+    },
+    {
+      "text": "okei nishanu",
+      "start_time": 5.76,
+      "end_time": 6.76,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அடுத்ததுத்தம் அம்மா வாசி, தண்டி வீட்டில்லை சொல்ல வருங்களும் பின்னிக்குறை அதிகம் கடம் வாங்கியும் okei nishanu",
+  "morphemes": []
+}

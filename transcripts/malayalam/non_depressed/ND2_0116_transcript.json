@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0116.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அவன, தண்ணிரைக் சிச்சைப் பிறாவினே, வளரை நன்றி யோடினுக்கி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:12:08.449940",
+  "segments": [
+    {
+      "text": "அவன, தண்ணிரைக் சிச்சைப் பிறாவினே, வளரை நன்றி யோடினுக்கி.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவன, தண்ணிரைக் சிச்சைப் பிறாவினே, வளரை நன்றி யோடினுக்கி.",
+  "morphemes": []
+}

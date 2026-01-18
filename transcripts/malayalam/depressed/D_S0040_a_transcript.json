@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0040_a.wav",
+  "speaker_id": "S0040",
+  "language": "malayalam",
+  "transcript": "நான் இந்த செய்தாலும் ஒரு கரஷ்டைத் திலே அவசானிக்கியும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:04:46.477242",
+  "segments": [
+    {
+      "text": "நான் இந்த செய்தாலும் ஒரு கரஷ்டைத் திலே அவசானிக்கியும்",
+      "start_time": 0,
+      "end_time": 4.66,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இந்த செய்தாலும் ஒரு கரஷ்டைத் திலே அவசானிக்கியும்",
+  "morphemes": []
+}

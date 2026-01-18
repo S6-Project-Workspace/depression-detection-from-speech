@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_29_4.wav",
+  "speaker_id": "F001_29",
+  "language": "malayalam",
+  "transcript": "ஒரு பரிகாருமில்லத்தான் தட்டை வரையில்லாம் என்று.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:12:56.131418",
+  "segments": [
+    {
+      "text": "ஒரு பரிகாருமில்லத்தான் தட்டை வரையில்லாம் என்று.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒரு பரிகாருமில்லத்தான் தட்டை வரையில்லாம் என்று.",
+  "morphemes": []
+}

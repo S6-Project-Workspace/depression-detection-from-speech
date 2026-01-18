@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0001.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "பயமுறு திரை விடனாய வந்திக்கும் பலமானது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:48.006615",
+  "segments": [
+    {
+      "text": "பயமுறு திரை விடனாய வந்திக்கும் பலமானது.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பயமுறு திரை விடனாய வந்திக்கும் பலமானது.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0060.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "ஒரு போயே மறைக்கே ஒன்று போயே சொல்லதெல்ல.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:03.699658",
+  "segments": [
+    {
+      "text": "ஒரு போயே மறைக்கே ஒன்று போயே சொல்லதெல்ல.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு போயே மறைக்கே ஒன்று போயே சொல்லதெல்ல.",
+  "morphemes": []
+}

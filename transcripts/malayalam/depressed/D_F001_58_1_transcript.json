@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_58_1.wav",
+  "speaker_id": "F001_58",
+  "language": "malayalam",
+  "transcript": "பயம, இன்னுக்கு எல்லாயிடம் அனிகமிக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:28:24.821132",
+  "segments": [
+    {
+      "text": "பயம, இன்னுக்கு எல்லாயிடம் அனிகமிக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "பயம, இன்னுக்கு எல்லாயிடம் அனிகமிக்கவேண்டும்.",
+  "morphemes": []
+}

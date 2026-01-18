@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0163.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "மீர்கே மடி பெய்தால் கிடைக்கே வெள்ளம்திரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:04:58.988502",
+  "segments": [
+    {
+      "text": "மீர்கே மடி பெய்தால் கிடைக்கே வெள்ளம்திரும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மீர்கே மடி பெய்தால் கிடைக்கே வெள்ளம்திரும்.",
+  "morphemes": []
+}

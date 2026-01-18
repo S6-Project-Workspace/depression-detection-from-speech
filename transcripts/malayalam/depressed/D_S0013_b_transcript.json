@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0013_b.wav",
+  "speaker_id": "S0013",
+  "language": "malayalam",
+  "transcript": "இன்னுக்கில் எல்லாவிடு விஷாதமாயா தொல்லும் என்றே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:42:24.851121",
+  "segments": [
+    {
+      "text": "இன்னுக்கில் எல்லாவிடு விஷாதமாயா தொல்லும் என்றே",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுக்கில் எல்லாவிடு விஷாதமாயா தொல்லும் என்றே",
+  "morphemes": []
+}

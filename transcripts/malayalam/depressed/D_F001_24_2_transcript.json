@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_24_2.wav",
+  "speaker_id": "F001_24",
+  "language": "malayalam",
+  "transcript": "ஆ, நமישம்கள் எனக்கு சிந்துக்கியாம் போலங்கள் கரியும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:09:07.955437",
+  "segments": [
+    {
+      "text": "ஆ, நமישம்கள் எனக்கு சிந்துக்கியாம் போலங்கள் கரியும் இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஆ, நமישம்கள் எனக்கு சிந்துக்கியாம் போலங்கள் கரியும் இல்லை.",
+  "morphemes": []
+}

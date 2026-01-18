@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0114.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "கட்டிக்கை மன்னாலும் கலாதுவில்லைகளுக்குள்ள வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:33.986475",
+  "segments": [
+    {
+      "text": "கட்டிக்கை மன்னாலும் கலாதுவில்லைகளுக்குள்ள வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.68,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கட்டிக்கை மன்னாலும் கலாதுவில்லைகளுக்குள்ள வேண்டும்.",
+  "morphemes": []
+}

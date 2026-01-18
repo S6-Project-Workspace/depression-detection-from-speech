@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0162.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "மெல்லப் போயும் தண்ணிருக்கலையும் குரியக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:55:31.503113",
+  "segments": [
+    {
+      "text": "மெல்லப் போயும் தண்ணிருக்கலையும் குரியக்கும்.",
+      "start_time": 0,
+      "end_time": 2.36,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மெல்லப் போயும் தண்ணிருக்கலையும் குரியக்கும்.",
+  "morphemes": []
+}

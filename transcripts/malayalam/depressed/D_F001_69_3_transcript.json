@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_69_3.wav",
+  "speaker_id": "F001_69",
+  "language": "malayalam",
+  "transcript": "enikilibichas neha polumnyant samsia ekum",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:35:16.905860",
+  "segments": [
+    {
+      "text": "enikilibichas neha polumnyant samsia ekum",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "enikilibichas neha polumnyant samsia ekum",
+  "morphemes": []
+}

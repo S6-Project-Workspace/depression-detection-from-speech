@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A006_1.wav",
+  "speaker_id": "A006",
+  "language": "malayalam",
+  "transcript": "ஏன் யார் யார்தையில் சாய்ஷோதிக்காம் போலும் தயிரிவில்லா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:09.615561",
+  "segments": [
+    {
+      "text": "ஏன் யார் யார்தையில் சாய்ஷோதிக்காம் போலும் தயிரிவில்லா.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஏன் யார் யார்தையில் சாய்ஷோதிக்காம் போலும் தயிரிவில்லா.",
+  "morphemes": []
+}

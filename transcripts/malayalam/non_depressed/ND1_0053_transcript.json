@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND1_0053.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "குறை நேரம் அலுஞ்சிச்சப்புள் அடையத் தென்று தோனி அஞ்சிவியிச்சானேன்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:35:22.170508",
+  "segments": [
+    {
+      "text": "குறை நேரம் அலுஞ்சிச்சப்புள் அடையத் தென்று தோனி",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    },
+    {
+      "text": "அஞ்சிவியிச்சானேன்",
+      "start_time": 2.7,
+      "end_time": 4.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குறை நேரம் அலுஞ்சிச்சப்புள் அடையத் தென்று தோனி அஞ்சிவியிச்சானேன்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_3_3.wav",
+  "speaker_id": "F001_3",
+  "language": "malayalam",
+  "transcript": "என்று உள்ளை சூனியது பாரணன் செய்யான் என்று கொள்ளியம் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:17:54.203515",
+  "segments": [
+    {
+      "text": "என்று உள்ளை சூனியது பாரணன் செய்யான் என்று கொள்ளியம் இல்லை.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்று உள்ளை சூனியது பாரணன் செய்யான் என்று கொள்ளியம் இல்லை.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_F2008_c.wav",
+  "speaker_id": "F2008",
+  "language": "tamil",
+  "transcript": "தப்பிக்க முடியுமா? இல்லை எனக்கு எது சந்திக்கக்கூட முடியாதா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:52:08.729149",
+  "segments": [
+    {
+      "text": "தப்பிக்க முடியுமா?",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "இல்லை எனக்கு எது சந்திக்கக்கூட முடியாதா?",
+      "start_time": 2.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "தப்பிக்க முடியுமா? இல்லை எனக்கு எது சந்திக்கக்கூட முடியாதா?",
+  "morphemes": []
+}

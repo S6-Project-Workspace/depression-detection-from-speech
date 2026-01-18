@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0150.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "நல்ல மாட்டை இருக்கு ஒரு சூடு, நல்ல மடிதனைக்கு ஒரு வார்த்தை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:40.314469",
+  "segments": [
+    {
+      "text": "நல்ல மாட்டை இருக்கு ஒரு சூடு, நல்ல மடிதனைக்கு ஒரு வார்த்தை",
+      "start_time": 0,
+      "end_time": 3.2875,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நல்ல மாட்டை இருக்கு ஒரு சூடு, நல்ல மடிதனைக்கு ஒரு வார்த்தை",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0074.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "கூட்டில் பட்டினைக் கடந்து என்று மாடிக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:28:59.562573",
+  "segments": [
+    {
+      "text": "கூட்டில் பட்டினைக் கடந்து என்று மாடிக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கூட்டில் பட்டினைக் கடந்து என்று மாடிக்கிறேன்.",
+  "morphemes": []
+}

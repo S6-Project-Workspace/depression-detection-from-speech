@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A007_4.wav",
+  "speaker_id": "A007",
+  "language": "malayalam",
+  "transcript": "அவர்கள் அர்கு என்று பிரச்சித்தேன் தென்றால் நாரைய முன் சாமியிட்டா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:25:52.451189",
+  "segments": [
+    {
+      "text": "அவர்கள் அர்கு என்று பிரச்சித்தேன் தென்றால் நாரைய முன் சாமியிட்டா.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "அவர்கள் அர்கு என்று பிரச்சித்தேன் தென்றால் நாரைய முன் சாமியிட்டா.",
+  "morphemes": []
+}

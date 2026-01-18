@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0009.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "گணیشن, ஒருது வசம் அமாவாசியுடன் ஒரு கைக்கோட்ட கடமாயுவாங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:56:27.163875",
+  "segments": [
+    {
+      "text": "گணیشن, ஒருது வசம் அமாவாசியுடன் ஒரு கைக்கோட்ட கடமாயுவாங்கள்.",
+      "start_time": 0,
+      "end_time": 4.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "گணیشن, ஒருது வசம் அமாவாசியுடன் ஒரு கைக்கோட்ட கடமாயுவாங்கள்.",
+  "morphemes": []
+}

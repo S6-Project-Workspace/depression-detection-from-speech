@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0034.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அதினால் அவர்கள் ஆகம் சகூடி வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:22:35.353383",
+  "segments": [
+    {
+      "text": "அதினால் அவர்கள் ஆகம் சகூடி வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதினால் அவர்கள் ஆகம் சகூடி வேண்டும்.",
+  "morphemes": []
+}

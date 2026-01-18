@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0074.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "தாம்பின் பழ்பாம் தெரியும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:38:44.784071",
+  "segments": [
+    {
+      "text": "தாம்பின் பழ்பாம் தெரியும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தாம்பின் பழ்பாம் தெரியும்",
+  "morphemes": []
+}

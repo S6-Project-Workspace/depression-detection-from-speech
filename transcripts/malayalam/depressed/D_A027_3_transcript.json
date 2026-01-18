@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_A027_3.wav",
+  "speaker_id": "A027",
+  "language": "malayalam",
+  "transcript": "Eniki aare aashriy genujiya Yelandum ennum ipwarum atjikane",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:40:05.022598",
+  "segments": [
+    {
+      "text": "Eniki aare aashriy genujiya",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "Yelandum ennum ipwarum atjikane",
+      "start_time": 2.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Eniki aare aashriy genujiya Yelandum ennum ipwarum atjikane",
+  "morphemes": []
+}

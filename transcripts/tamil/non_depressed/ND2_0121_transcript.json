@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0121.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "வீட்டிக்கு செல்வம் மாடு தோட்டக்து செல்வம் முறுங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:22.881722",
+  "segments": [
+    {
+      "text": "வீட்டிக்கு செல்வம் மாடு தோட்டக்து செல்வம் முறுங்கள்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீட்டிக்கு செல்வம் மாடு தோட்டக்து செல்வம் முறுங்கள்.",
+  "morphemes": []
+}

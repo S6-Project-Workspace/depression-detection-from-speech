@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0128.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "پوستگங்கள் நிறைய படையா தடியல மாறா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:13:13.279448",
+  "segments": [
+    {
+      "text": "پوستگங்கள் நிறைய படையா தடியல மாறா",
+      "start_time": 0,
+      "end_time": 2.9,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "پوستگங்கள் நிறைய படையா தடியல மாறா",
+  "morphemes": []
+}

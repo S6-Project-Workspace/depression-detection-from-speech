@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0180.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "பலமரம் சேர்ந்து நின்றால்தான் அதை தமிழில் தோப்பி என்பார்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:13:48.122374",
+  "segments": [
+    {
+      "text": "பலமரம் சேர்ந்து நின்றால்தான் அதை தமிழில் தோப்பி என்பார்கள்.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பலமரம் சேர்ந்து நின்றால்தான் அதை தமிழில் தோப்பி என்பார்கள்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0160.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "முர்பகல் செய்யன் பிர்பகல் விலையும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:04:51.306541",
+  "segments": [
+    {
+      "text": "முர்பகல் செய்யன் பிர்பகல் விலையும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "முர்பகல் செய்யன் பிர்பகல் விலையும்",
+  "morphemes": []
+}

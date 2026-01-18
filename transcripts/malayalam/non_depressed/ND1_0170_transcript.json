@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0170.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "குடிவி ஒரு குல மாம்மிடம் கொடுத்த அவர குரங்கனே பார்ணும் வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:52:39.672537",
+  "segments": [
+    {
+      "text": "குடிவி ஒரு குல மாம்மிடம் கொடுத்த அவர குரங்கனே பார்ணும் வேண்டும்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குடிவி ஒரு குல மாம்மிடம் கொடுத்த அவர குரங்கனே பார்ணும் வேண்டும்.",
+  "morphemes": []
+}

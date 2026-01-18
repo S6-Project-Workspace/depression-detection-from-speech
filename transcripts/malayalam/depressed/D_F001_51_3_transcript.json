@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_51_3.wav",
+  "speaker_id": "F001_51",
+  "language": "malayalam",
+  "transcript": "நான் இன்று சென்றாலுக்கிறேன் புரிந்தேயில்லிருக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:59.176251",
+  "segments": [
+    {
+      "text": "நான் இன்று சென்றாலுக்கிறேன் புரிந்தேயில்லிருக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இன்று சென்றாலுக்கிறேன் புரிந்தேயில்லிருக்கிறேன்.",
+  "morphemes": []
+}

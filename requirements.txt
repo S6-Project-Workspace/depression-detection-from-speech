@@ -43,5 +43,20 @@ seaborn>=0.12.0
 # Development
 ipython>=8.0.0
 
+# NLP and Text Processing (Multimodal Upgrade)
+indic-nlp-library>=0.91
+morfessor>=2.0.6
+
+# Property-Based Testing
+hypothesis>=6.92.0
+
+# Dashboard Dependencies
+websockets>=11.0.0
+plotly>=5.17.0
+
+# Security and Performance Dependencies
+cryptography>=41.0.0
+psutil>=5.9.0
+
 # Optional: Weights & Biases for experiment tracking
 # wandb>=0.15.0

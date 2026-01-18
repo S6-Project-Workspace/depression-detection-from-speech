@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0112.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "மின்சாரம் இல்லாமல் இருந்திரமியங்காது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:10:59.952153",
+  "segments": [
+    {
+      "text": "மின்சாரம் இல்லாமல் இருந்திரமியங்காது.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மின்சாரம் இல்லாமல் இருந்திரமியங்காது.",
+  "morphemes": []
+}

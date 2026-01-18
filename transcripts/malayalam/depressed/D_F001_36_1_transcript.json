@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_36_1.wav",
+  "speaker_id": "F001_36",
+  "language": "malayalam",
+  "transcript": "eliki aasthaniya maya weyedana enganen ni iredana minna rila",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:15:29.581972",
+  "segments": [
+    {
+      "text": "eliki aasthaniya maya weyedana enganen ni iredana minna rila",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "eliki aasthaniya maya weyedana enganen ni iredana minna rila",
+  "morphemes": []
+}

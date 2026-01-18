@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0082.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "உலகுப் போக்கிருக்கிற்கு எட்டுவாரு நடந்துக்கொள்ள வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:09:29.182865",
+  "segments": [
+    {
+      "text": "உலகுப் போக்கிருக்கிற்கு எட்டுவாரு நடந்துக்கொள்ள வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.44,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உலகுப் போக்கிருக்கிற்கு எட்டுவாரு நடந்துக்கொள்ள வேண்டும்.",
+  "morphemes": []
+}

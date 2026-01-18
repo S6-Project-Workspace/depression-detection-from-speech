@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_68_3.wav",
+  "speaker_id": "F001_68",
+  "language": "malayalam",
+  "transcript": "ஒரு வகும் ஒரு சிந்தையும் எந்த மனதினே கூட்டில் தகர்க்கொண்டு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:35:07.535661",
+  "segments": [
+    {
+      "text": "ஒரு வகும் ஒரு சிந்தையும் எந்த மனதினே கூட்டில் தகர்க்கொண்டு",
+      "start_time": 0,
+      "end_time": 5.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒரு வகும் ஒரு சிந்தையும் எந்த மனதினே கூட்டில் தகர்க்கொண்டு",
+  "morphemes": []
+}

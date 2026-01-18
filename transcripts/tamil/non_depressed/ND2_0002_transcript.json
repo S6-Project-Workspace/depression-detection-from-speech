@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0002.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "காலை நேரம் பாராது உடைத்தால வாழுவு பிரகச்சிக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:53.177078",
+  "segments": [
+    {
+      "text": "காலை நேரம் பாராது உடைத்தால வாழுவு பிரகச்சிக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காலை நேரம் பாராது உடைத்தால வாழுவு பிரகச்சிக்கும்.",
+  "morphemes": []
+}

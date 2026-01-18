@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0017.wav",
+  "speaker_id": "S0017",
+  "language": "malayalam",
+  "transcript": "யாரே சந்துஞ்சிப் பிக்கைக் கரியும் இல்லா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:44:54.056434",
+  "segments": [
+    {
+      "text": "யாரே சந்துஞ்சிப் பிக்கைக் கரியும் இல்லா",
+      "start_time": 0,
+      "end_time": 4.06,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "யாரே சந்துஞ்சிப் பிக்கைக் கரியும் இல்லா",
+  "morphemes": []
+}

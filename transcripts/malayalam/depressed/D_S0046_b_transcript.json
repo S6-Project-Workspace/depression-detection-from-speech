@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0046_b.wav",
+  "speaker_id": "S0046",
+  "language": "malayalam",
+  "transcript": "நான் அர்மே இருக்கும் நில்லை. பக்ஷாரம் என்ன சேைக்கும் நில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:08:29.409549",
+  "segments": [
+    {
+      "text": "நான் அர்மே இருக்கும் நில்லை.",
+      "start_time": 0,
+      "end_time": 3.76,
+      "confidence": 1.0
+    },
+    {
+      "text": "பக்ஷாரம் என்ன சேைக்கும் நில்லை.",
+      "start_time": 3.76,
+      "end_time": 7.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் அர்மே இருக்கும் நில்லை. பக்ஷாரம் என்ன சேைக்கும் நில்லை.",
+  "morphemes": []
+}

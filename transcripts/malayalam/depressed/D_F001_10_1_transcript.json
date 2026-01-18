@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_F001_10_1.wav",
+  "speaker_id": "F001_10",
+  "language": "malayalam",
+  "transcript": "நான் ஒட்ட பெட்டோயே என்னுக்கொள்ளத் தோமுமும் ஆரணமானச் சிலக்கும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:58:01.611998",
+  "segments": [
+    {
+      "text": "நான் ஒட்ட பெட்டோயே என்னுக்கொள்ளத் தோமுமும்",
+      "start_time": 0,
+      "end_time": 3.38,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஆரணமானச் சிலக்கும் இல்லை.",
+      "start_time": 3.38,
+      "end_time": 5.38,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் ஒட்ட பெட்டோயே என்னுக்கொள்ளத் தோமுமும் ஆரணமானச் சிலக்கும் இல்லை.",
+  "morphemes": []
+}

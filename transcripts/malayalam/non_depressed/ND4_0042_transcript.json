@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0042.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "گிராமத்தில்ஜனங்களுடையாள் மாப்பத்துக்கொள்ளுக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:53:53.290917",
+  "segments": [
+    {
+      "text": "گிராமத்தில்ஜனங்களுடையாள் மாப்பத்துக்கொள்ளுக்கிறது.",
+      "start_time": 0,
+      "end_time": 2.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "گிராமத்தில்ஜனங்களுடையாள் மாப்பத்துக்கொள்ளுக்கிறது.",
+  "morphemes": []
+}

@@ -1,0 +1,32 @@
+{
+  "audio_file": "ND2_0061.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "8 பாடும் சொத்திச்சு ராஜாவா, சத்ருக்கல் தண்ணே தெடி வேருந்ததின்டே, சத்தக் கோல அலங்கள் கேட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:03:24.465577",
+  "segments": [
+    {
+      "text": "8 பாடும் சொத்திச்சு ராஜாவா,",
+      "start_time": 0,
+      "end_time": 1.52,
+      "confidence": 1.0
+    },
+    {
+      "text": "சத்ருக்கல் தண்ணே தெடி வேருந்ததின்டே,",
+      "start_time": 1.52,
+      "end_time": 3.76,
+      "confidence": 1.0
+    },
+    {
+      "text": "சத்தக் கோல அலங்கள் கேட்டு.",
+      "start_time": 3.76,
+      "end_time": 5.76,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "8 பாடும் சொத்திச்சு ராஜாவா, சத்ருக்கல் தண்ணே தெடி வேருந்ததின்டே, சத்தக் கோல அலங்கள் கேட்டு.",
+  "morphemes": []
+}

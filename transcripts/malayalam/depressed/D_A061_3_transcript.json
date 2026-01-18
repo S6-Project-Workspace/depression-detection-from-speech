@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A061_3.wav",
+  "speaker_id": "A061",
+  "language": "malayalam",
+  "transcript": "இந்தெய்தத்தில் மாற்றும் என்னுடன் அல்லவே முற்றிமோஷ்மைத்து போன்றே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:57:11.698504",
+  "segments": [
+    {
+      "text": "இந்தெய்தத்தில் மாற்றும் என்னுடன் அல்லவே முற்றிமோஷ்மைத்து போன்றே",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்தெய்தத்தில் மாற்றும் என்னுடன் அல்லவே முற்றிமோஷ்மைத்து போன்றே",
+  "morphemes": []
+}

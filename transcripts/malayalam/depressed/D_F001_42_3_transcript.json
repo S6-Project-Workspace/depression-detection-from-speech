@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_42_3.wav",
+  "speaker_id": "F001_42",
+  "language": "malayalam",
+  "transcript": "என்ன இப்பிகராஸ்தையில்லையும் ஆரம் வரைச்சுக்கொண்டும் இல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:19:36.477443",
+  "segments": [
+    {
+      "text": "என்ன இப்பிகராஸ்தையில்லையும் ஆரம் வரைச்சுக்கொண்டும் இல்லையா?",
+      "start_time": 0,
+      "end_time": 4.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன இப்பிகராஸ்தையில்லையும் ஆரம் வரைச்சுக்கொண்டும் இல்லையா?",
+  "morphemes": []
+}

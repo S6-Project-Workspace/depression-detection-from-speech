@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0120.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "வாணம் சுருக்கு தாணம் சிரக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:46.271651",
+  "segments": [
+    {
+      "text": "வாணம் சுருக்கு தாணம் சிரக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வாணம் சுருக்கு தாணம் சிரக்கும்.",
+  "morphemes": []
+}

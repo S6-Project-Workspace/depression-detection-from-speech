@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0003.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "கடினہ உடிப்பு கண்டிப் பாہ ஒரு நாள் பலன் தரும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:14:26.840429",
+  "segments": [
+    {
+      "text": "கடினہ உடிப்பு கண்டிப் பாہ ஒரு நாள் பலன் தரும்",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கடினہ உடிப்பு கண்டிப் பாہ ஒரு நாள் பலன் தரும்",
+  "morphemes": []
+}

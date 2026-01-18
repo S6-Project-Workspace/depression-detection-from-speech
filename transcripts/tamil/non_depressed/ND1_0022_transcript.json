@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0022.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "இறு நாட்டு ரவில் மீலம் சிக்கலை ஏற்பத்தும் என்று தெரிகிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:32:52.622593",
+  "segments": [
+    {
+      "text": "இறு நாட்டு ரவில் மீலம் சிக்கலை ஏற்பத்தும் என்று தெரிகிறது.",
+      "start_time": 0,
+      "end_time": 3.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இறு நாட்டு ரவில் மீலம் சிக்கலை ஏற்பத்தும் என்று தெரிகிறது.",
+  "morphemes": []
+}

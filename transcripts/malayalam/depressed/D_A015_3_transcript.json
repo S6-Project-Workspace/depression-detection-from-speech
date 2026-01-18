@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A015_3.wav",
+  "speaker_id": "A015",
+  "language": "malayalam",
+  "transcript": "எங்கள் அஞ்சுசிப்புகின் இவ்வளவு ஒரேட்டு முன்னிஞ்சின் தயாரல்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:31:38.282008",
+  "segments": [
+    {
+      "text": "எங்கள் அஞ்சுசிப்புகின் இவ்வளவு ஒரேட்டு முன்னிஞ்சின் தயாரல்லாம்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எங்கள் அஞ்சுசிப்புகின் இவ்வளவு ஒரேட்டு முன்னிஞ்சின் தயாரல்லாம்.",
+  "morphemes": []
+}

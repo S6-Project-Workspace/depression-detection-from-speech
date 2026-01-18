@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A045_2.wav",
+  "speaker_id": "A045",
+  "language": "malayalam",
+  "transcript": "இவு தத்தில் நிக்குப் பாரி, பாரி மாஸ்றைக் கேட்டிருந்தியா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:49:49.061469",
+  "segments": [
+    {
+      "text": "இவு தத்தில் நிக்குப் பாரி, பாரி மாஸ்றைக் கேட்டிருந்தியா?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இவு தத்தில் நிக்குப் பாரி, பாரி மாஸ்றைக் கேட்டிருந்தியா?",
+  "morphemes": []
+}

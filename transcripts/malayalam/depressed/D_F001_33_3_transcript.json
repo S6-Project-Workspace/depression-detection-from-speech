@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_33_3.wav",
+  "speaker_id": "F001_33",
+  "language": "malayalam",
+  "transcript": "நான் நீண்ட கண்ணைப் பாரை ரூடை நடந்து ஓகையானம் தூன்னு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:13:51.530508",
+  "segments": [
+    {
+      "text": "நான் நீண்ட கண்ணைப் பாரை ரூடை நடந்து ஓகையானம் தூன்னு",
+      "start_time": 0,
+      "end_time": 4.06,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் நீண்ட கண்ணைப் பாரை ரூடை நடந்து ஓகையானம் தூன்னு",
+  "morphemes": []
+}

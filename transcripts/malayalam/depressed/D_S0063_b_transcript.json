@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0063_b.wav",
+  "speaker_id": "S0063",
+  "language": "malayalam",
+  "transcript": "Manasinde baaram mitriyam dehythi mde baaram pohle to nithillia",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:22:43.749968",
+  "segments": [
+    {
+      "text": "Manasinde baaram mitriyam dehythi mde baaram pohle to nithillia",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Manasinde baaram mitriyam dehythi mde baaram pohle to nithillia",
+  "morphemes": []
+}

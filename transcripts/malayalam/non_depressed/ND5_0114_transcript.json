@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0114.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அவன் ஞைப்படான வெள்ளத்தில் கேட்டின்று காலிடித்து நிலைவில் சுப்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:34:33.083082",
+  "segments": [
+    {
+      "text": "அவன் ஞைப்படான வெள்ளத்தில் கேட்டின்று காலிடித்து நிலைவில் சுப்பு.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவன் ஞைப்படான வெள்ளத்தில் கேட்டின்று காலிடித்து நிலைவில் சுப்பு.",
+  "morphemes": []
+}

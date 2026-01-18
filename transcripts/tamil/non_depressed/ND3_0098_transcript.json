@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0098.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "நான் தேன் வைத்திலும் முத்து பிரக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:01:57.784073",
+  "segments": [
+    {
+      "text": "நான் தேன் வைத்திலும் முத்து பிரக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் தேன் வைத்திலும் முத்து பிரக்கும்.",
+  "morphemes": []
+}

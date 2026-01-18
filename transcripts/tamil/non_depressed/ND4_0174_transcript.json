@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0174.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "பினை விதித்தவன் வினையாடுப் பான் தினை விதித்தவன் தினையாடுப் பான்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:13:32.275879",
+  "segments": [
+    {
+      "text": "பினை விதித்தவன் வினையாடுப் பான் தினை விதித்தவன் தினையாடுப் பான்",
+      "start_time": 0,
+      "end_time": 3.16,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பினை விதித்தவன் வினையாடுப் பான் தினை விதித்தவன் தினையாடுப் பான்",
+  "morphemes": []
+}

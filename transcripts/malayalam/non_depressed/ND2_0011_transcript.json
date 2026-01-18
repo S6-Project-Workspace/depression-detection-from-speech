@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND2_0011.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "கைக்கோட்டு தெரிகைக் கொடுக்காஞ்சின் தப்போல ஒரு சரியை கைக்கோட்டு கோடி கொடுத்த",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:56:34.138056",
+  "segments": [
+    {
+      "text": "கைக்கோட்டு தெரிகைக் கொடுக்காஞ்சின் தப்போல",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஒரு சரியை கைக்கோட்டு கோடி கொடுத்த",
+      "start_time": 3.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கைக்கோட்டு தெரிகைக் கொடுக்காஞ்சின் தப்போல ஒரு சரியை கைக்கோட்டு கோடி கொடுத்த",
+  "morphemes": []
+}

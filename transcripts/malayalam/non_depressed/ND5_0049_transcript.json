@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0049.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "அது கொண்டு நம்முக்கு ஒரு பாடுக்காதுகள் கேட்ட வளராம் அல்லை மக்கலே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:24:15.033542",
+  "segments": [
+    {
+      "text": "அது கொண்டு நம்முக்கு ஒரு பாடுக்காதுகள் கேட்ட வளராம் அல்லை மக்கலே",
+      "start_time": 0,
+      "end_time": 3.76,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அது கொண்டு நம்முக்கு ஒரு பாடுக்காதுகள் கேட்ட வளராம் அல்லை மக்கலே",
+  "morphemes": []
+}

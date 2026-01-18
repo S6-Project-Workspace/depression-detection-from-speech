@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0017_c.wav",
+  "speaker_id": "S0017",
+  "language": "malayalam",
+  "transcript": "i nigeo aare sandho chippi ke ganko aare ni illa",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:45:20.266505",
+  "segments": [
+    {
+      "text": "i nigeo aare sandho chippi ke ganko aare ni illa",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i nigeo aare sandho chippi ke ganko aare ni illa",
+  "morphemes": []
+}

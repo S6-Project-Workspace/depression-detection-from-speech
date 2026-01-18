@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0137.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "ஒரு வணக்கம் காடிவில்லாது சிரந்த செல்வம் கல்வியை ஆகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:03:30.111056",
+  "segments": [
+    {
+      "text": "ஒரு வணக்கம் காடிவில்லாது சிரந்த செல்வம் கல்வியை ஆகும்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு வணக்கம் காடிவில்லாது சிரந்த செல்வம் கல்வியை ஆகும்.",
+  "morphemes": []
+}

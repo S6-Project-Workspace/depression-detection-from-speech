@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A055_2.wav",
+  "speaker_id": "A055",
+  "language": "malayalam",
+  "transcript": "இன்னுங்களும் இந்த வேக்ஷிப்பட்டாமல்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:54:38.852393",
+  "segments": [
+    {
+      "text": "இன்னுங்களும் இந்த வேக்ஷிப்பட்டாமல்",
+      "start_time": 0,
+      "end_time": 5.25,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுங்களும் இந்த வேக்ஷிப்பட்டாமல்",
+  "morphemes": []
+}

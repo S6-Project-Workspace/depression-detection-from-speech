@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0149.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "உங்குவில் சிடுத்தாயிட்டும் என்று பக்ஷே ஒருங்கள் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:49:41.001800",
+  "segments": [
+    {
+      "text": "உங்குவில் சிடுத்தாயிட்டும் என்று பக்ஷே ஒருங்கள் இல்லை.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உங்குவில் சிடுத்தாயிட்டும் என்று பக்ஷே ஒருங்கள் இல்லை.",
+  "morphemes": []
+}

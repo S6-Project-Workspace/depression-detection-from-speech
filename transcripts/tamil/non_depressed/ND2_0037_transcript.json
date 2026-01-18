@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0037.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "தியவர்களுக்கு செய்யும் ஒன்று வீட்டியம்யாக வி முடியம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:49:00.165094",
+  "segments": [
+    {
+      "text": "தியவர்களுக்கு செய்யும் ஒன்று வீட்டியம்யாக வி முடியம்.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தியவர்களுக்கு செய்யும் ஒன்று வீட்டியம்யாக வி முடியம்.",
+  "morphemes": []
+}

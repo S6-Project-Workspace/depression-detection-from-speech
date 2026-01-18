@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0004.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "சொல்லுபோது இவிடு சொய்ய புத்தி மிகவும் சியம்புக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:31:54.744036",
+  "segments": [
+    {
+      "text": "சொல்லுபோது இவிடு சொய்ய புத்தி மிகவும் சியம்புக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சொல்லுபோது இவிடு சொய்ய புத்தி மிகவும் சியம்புக்கிறேன்.",
+  "morphemes": []
+}

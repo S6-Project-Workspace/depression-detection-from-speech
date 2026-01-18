@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_F001_34_1.wav",
+  "speaker_id": "F001_34",
+  "language": "malayalam",
+  "transcript": "எல்லாம் உனர் மிரிக்கின்னுமும் செய்யங்களும் இந்த பார்ச்சையென்றால் திடிந்திரிக்கின்று",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:13:59.187577",
+  "segments": [
+    {
+      "text": "எல்லாம் உனர் மிரிக்கின்னுமும் செய்யங்களும்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "இந்த பார்ச்சையென்றால்",
+      "start_time": 3.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "திடிந்திரிக்கின்று",
+      "start_time": 5.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எல்லாம் உனர் மிரிக்கின்னுமும் செய்யங்களும் இந்த பார்ச்சையென்றால் திடிந்திரிக்கின்று",
+  "morphemes": []
+}

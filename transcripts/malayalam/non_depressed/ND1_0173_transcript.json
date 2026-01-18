@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0173.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "பேண்டும் அவனே சக்குந்தும்து நான் சாہைச் சொண்டு இருக்கிறது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:52:50.607969",
+  "segments": [
+    {
+      "text": "பேண்டும் அவனே சக்குந்தும்து நான் சாہைச் சொண்டு இருக்கிறது.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பேண்டும் அவனே சக்குந்தும்து நான் சாہைச் சொண்டு இருக்கிறது.",
+  "morphemes": []
+}

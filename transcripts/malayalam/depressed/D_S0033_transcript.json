@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0033.wav",
+  "speaker_id": "S0033",
+  "language": "malayalam",
+  "transcript": "Nani ni hulla ratto leni ki ni vedna madrenda hulla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:58:38.786585",
+  "segments": [
+    {
+      "text": "Nani ni hulla ratto leni ki ni vedna madrenda hulla",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Nani ni hulla ratto leni ki ni vedna madrenda hulla",
+  "morphemes": []
+}

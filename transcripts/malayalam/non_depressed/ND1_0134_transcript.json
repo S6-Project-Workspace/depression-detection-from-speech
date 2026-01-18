@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0134.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அவளுடைப் பிள்ளைக் கிடாம் இந்தப் பரிந்துக்கொண்டு இருக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:47:45.532230",
+  "segments": [
+    {
+      "text": "அவளுடைப் பிள்ளைக் கிடாம் இந்தப் பரிந்துக்கொண்டு இருக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவளுடைப் பிள்ளைக் கிடாம் இந்தப் பரிந்துக்கொண்டு இருக்கிறேன்.",
+  "morphemes": []
+}

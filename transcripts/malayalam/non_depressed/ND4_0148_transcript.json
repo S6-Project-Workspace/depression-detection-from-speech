@@ -1,0 +1,26 @@
+{
+  "audio_file": "ND4_0148.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "ஒரு நேட்டல் ஓடையான் குவிப்போய் கோக்கரக்கோ என்று குவிவிட்டும் மயிலும் வந்தில்லா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:12:49.924242",
+  "segments": [
+    {
+      "text": "ஒரு நேட்டல் ஓடையான் குவிப்போய்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "கோக்கரக்கோ என்று குவிவிட்டும் மயிலும் வந்தில்லா",
+      "start_time": 2.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு நேட்டல் ஓடையான் குவிப்போய் கோக்கரக்கோ என்று குவிவிட்டும் மயிலும் வந்தில்லா",
+  "morphemes": []
+}

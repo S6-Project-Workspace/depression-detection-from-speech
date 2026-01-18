@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0018_b.wav",
+  "speaker_id": "S0018",
+  "language": "malayalam",
+  "transcript": "நான் என்று நினைத்துக்கு எந்த கார் நான்தான் நிகனியாடும் வேண்டும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:45:51.328214",
+  "segments": [
+    {
+      "text": "நான் என்று நினைத்துக்கு எந்த கார் நான்தான் நிகனியாடும் வேண்டும்",
+      "start_time": 0,
+      "end_time": 8.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் என்று நினைத்துக்கு எந்த கார் நான்தான் நிகனியாடும் வேண்டும்",
+  "morphemes": []
+}

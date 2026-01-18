@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0136.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "கலவி கர்க்கா நல்ல நுள்களை குட்டுமரைக் கர்க்க வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:11:59.042211",
+  "segments": [
+    {
+      "text": "கலவி கர்க்கா நல்ல நுள்களை குட்டுமரைக் கர்க்க வேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கலவி கர்க்கா நல்ல நுள்களை குட்டுமரைக் கர்க்க வேண்டும்.",
+  "morphemes": []
+}

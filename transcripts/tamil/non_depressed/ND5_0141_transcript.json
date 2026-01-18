@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0141.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "ஒருவரின் வாழ்கைக்கு உலித்தரவாது உக்கமேயாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:59.375256",
+  "segments": [
+    {
+      "text": "ஒருவரின் வாழ்கைக்கு உலித்தரவாது உக்கமேயாகும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருவரின் வாழ்கைக்கு உலித்தரவாது உக்கமேயாகும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0093.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "தண்ணிரில் விளைந்து புப்பு, தண்ணிரில் கரைய வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:09:56.013241",
+  "segments": [
+    {
+      "text": "தண்ணிரில் விளைந்து புப்பு, தண்ணிரில் கரைய வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தண்ணிரில் விளைந்து புப்பு, தண்ணிரில் கரைய வேண்டும்.",
+  "morphemes": []
+}

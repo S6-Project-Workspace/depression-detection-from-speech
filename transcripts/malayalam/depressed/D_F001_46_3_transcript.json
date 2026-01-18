@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_46_3.wav",
+  "speaker_id": "F001_46",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு நான் செய்யும் இந்த செரியானோ இந்த சமிஷே முடு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:20:33.411647",
+  "segments": [
+    {
+      "text": "என்னுக்கு நான் செய்யும் இந்த செரியானோ இந்த சமிஷே முடு",
+      "start_time": 0,
+      "end_time": 4.06,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு நான் செய்யும் இந்த செரியானோ இந்த சமிஷே முடு",
+  "morphemes": []
+}

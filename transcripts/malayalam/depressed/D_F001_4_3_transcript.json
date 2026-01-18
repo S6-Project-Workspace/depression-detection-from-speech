@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_F001_4_3.wav",
+  "speaker_id": "F001_4",
+  "language": "malayalam",
+  "transcript": "بائم ایس پر دیکھ شگلے وہشو میں نہیں کا کرتے کیوں",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:12.234127",
+  "segments": [
+    {
+      "text": "بائم",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "ایس پر دیکھ شگلے",
+      "start_time": 2.0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "وہشو میں نہیں کا کرتے کیوں",
+      "start_time": 4.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "بائم ایس پر دیکھ شگلے وہشو میں نہیں کا کرتے کیوں",
+  "morphemes": []
+}

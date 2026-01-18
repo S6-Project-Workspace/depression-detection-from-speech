@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0029_b.wav",
+  "speaker_id": "S0029",
+  "language": "malayalam",
+  "transcript": "cvtham paru vela pithitha sikshayahal",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:54:52.301959",
+  "segments": [
+    {
+      "text": "cvtham paru vela pithitha sikshayahal",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "cvtham paru vela pithitha sikshayahal",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_64_3.wav",
+  "speaker_id": "F001_64",
+  "language": "malayalam",
+  "transcript": "நான் சிந்திக்கும் அதுதான் என்னை அப்பா கடத்திலாக் கொண்டு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:33:34.405410",
+  "segments": [
+    {
+      "text": "நான் சிந்திக்கும் அதுதான் என்னை அப்பா கடத்திலாக் கொண்டு",
+      "start_time": 0,
+      "end_time": 4.06,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் சிந்திக்கும் அதுதான் என்னை அப்பா கடத்திலாக் கொண்டு",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_44_2.wav",
+  "speaker_id": "F001_44",
+  "language": "malayalam",
+  "transcript": "எல்லாயில் பூலும் என்னுடைய பராஜயங்கள் மாத்ரங்கள் காருங்களும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:20:05.199716",
+  "segments": [
+    {
+      "text": "எல்லாயில் பூலும் என்னுடைய பராஜயங்கள் மாத்ரங்கள் காருங்களும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எல்லாயில் பூலும் என்னுடைய பராஜயங்கள் மாத்ரங்கள் காருங்களும்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0123.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "வேதனையில் புடன் என்று வேண்டும் என்று வெளித்துப் போய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:12:34.067269",
+  "segments": [
+    {
+      "text": "வேதனையில் புடன் என்று வேண்டும் என்று வெளித்துப் போய்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வேதனையில் புடன் என்று வேண்டும் என்று வெளித்துப் போய்.",
+  "morphemes": []
+}

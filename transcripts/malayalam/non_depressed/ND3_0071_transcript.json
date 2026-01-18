@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0071.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "பாட்டும் பாட்டுமேறு நடந்தால் நீங்கள் எங்கள் பாட்டுமேறு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:32:42.519232",
+  "segments": [
+    {
+      "text": "பாட்டும் பாட்டுமேறு நடந்தால் நீங்கள் எங்கள் பாட்டுமேறு",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாட்டும் பாட்டுமேறு நடந்தால் நீங்கள் எங்கள் பாட்டுமேறு",
+  "morphemes": []
+}

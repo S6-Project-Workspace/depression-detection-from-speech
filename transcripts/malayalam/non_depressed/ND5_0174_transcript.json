@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0174.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "என்ன புரிட்டி அம்முமாக கூறைத்தோஷேண்டாக் கேவைத்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:42:34.909393",
+  "segments": [
+    {
+      "text": "என்ன புரிட்டி அம்முமாக கூறைத்தோஷேண்டாக் கேவைத்து",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "என்ன புரிட்டி அம்முமாக கூறைத்தோஷேண்டாக் கேவைத்து",
+  "morphemes": []
+}

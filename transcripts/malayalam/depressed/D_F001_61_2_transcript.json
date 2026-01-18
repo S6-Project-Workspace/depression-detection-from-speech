@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_61_2.wav",
+  "speaker_id": "F001_61",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு ரவண்டு மனத்தில்லாம் கொண்டும் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:31:30.056105",
+  "segments": [
+    {
+      "text": "என்னுக்கு ரவண்டு மனத்தில்லாம் கொண்டும் இல்லை.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு ரவண்டு மனத்தில்லாம் கொண்டும் இல்லை.",
+  "morphemes": []
+}

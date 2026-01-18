@@ -1,0 +1,4 @@
+# file: /Users/keerthivasan/NLP/multimodal_dataset.py
+# hypothesis_version: 6.150.2
+
+[0.0, 1.0, 128, 16000, '.wav', 'Tamil', 'TranscriptData', '__main__', '_transcript.json', 'attention_mask', 'audio_attention_mask', 'audio_file', 'chunk_idx', 'combined', 'confidence', 'file_path', 'fold_idx', 'has_audio', 'has_linguistic', 'has_text', 'input_ids', 'is_valid', 'label', 'language', 'linguistic_cache', 'linguistic_features', 'malayalam', 'morphemes', 'normalized_text', 'overlap_speakers', 'r', 'rb', 'speaker_id', 'tamil', 'text', 'text_attention_mask', 'train_positive_ratio', 'train_samples', 'train_speakers', 'transcript', 'utf-8', 'val_positive_ratio', 'val_samples', 'val_speakers', 'waveform', 'wb']

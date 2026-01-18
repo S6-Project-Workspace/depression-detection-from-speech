@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A013_4.wav",
+  "speaker_id": "A013",
+  "language": "malayalam",
+  "transcript": "நீங்கள் வாக்குக்கல் இனிக்குத் திரையும் பதேசிங்களான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:53.766594",
+  "segments": [
+    {
+      "text": "நீங்கள் வாக்குக்கல் இனிக்குத் திரையும் பதேசிங்களான்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் வாக்குக்கல் இனிக்குத் திரையும் பதேசிங்களான்.",
+  "morphemes": []
+}

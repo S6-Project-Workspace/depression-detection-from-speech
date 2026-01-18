@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0166.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "நான் கடித்து பிடித்திருந்தால் எல்லாம் வெள்ளத்திலே கேவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:18:25.871969",
+  "segments": [
+    {
+      "text": "நான் கடித்து பிடித்திருந்தால் எல்லாம் வெள்ளத்திலே கேவேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நான் கடித்து பிடித்திருந்தால் எல்லாம் வெள்ளத்திலே கேவேண்டும்.",
+  "morphemes": []
+}

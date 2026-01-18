@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_25_1.wav",
+  "speaker_id": "F001_25",
+  "language": "malayalam",
+  "transcript": "நான் எப்போறு விஷாதத்தில் பெடியில்லாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:09:37.605672",
+  "segments": [
+    {
+      "text": "நான் எப்போறு விஷாதத்தில் பெடியில்லாம்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் எப்போறு விஷாதத்தில் பெடியில்லாம்",
+  "morphemes": []
+}

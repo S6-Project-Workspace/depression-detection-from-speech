@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0009.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஒரு தவசம் அமாவசியிடு ஒரு கைக்கொடு கடமாய வாங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:28:38.420841",
+  "segments": [
+    {
+      "text": "ஒரு தவசம் அமாவசியிடு ஒரு கைக்கொடு கடமாய வாங்கள்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு தவசம் அமாவசியிடு ஒரு கைக்கொடு கடமாய வாங்கள்.",
+  "morphemes": []
+}

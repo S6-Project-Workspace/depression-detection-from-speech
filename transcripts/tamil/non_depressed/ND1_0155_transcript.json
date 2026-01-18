@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0155.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "மனம் போட வாழ்வு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:17.516359",
+  "segments": [
+    {
+      "text": "மனம் போட வாழ்வு",
+      "start_time": 0,
+      "end_time": 1.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மனம் போட வாழ்வு",
+  "morphemes": []
+}

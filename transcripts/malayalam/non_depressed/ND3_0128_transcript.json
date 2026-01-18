@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0128.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "புஞ்சுங்கள் நிறைய படையா தடில் மாறை",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:39:59.309162",
+  "segments": [
+    {
+      "text": "புஞ்சுங்கள் நிறைய படையா தடில் மாறை",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புஞ்சுங்கள் நிறைய படையா தடில் மாறை",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0172.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "ஆயால் ஒன்று சாய்கன் குறங்கன் பேன் குட்டி ஓடு பரன்னும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:42:08.079486",
+  "segments": [
+    {
+      "text": "ஆயால் ஒன்று சாய்கன் குறங்கன் பேன் குட்டி ஓடு பரன்னும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஆயால் ஒன்று சாய்கன் குறங்கன் பேன் குட்டி ஓடு பரன்னும்.",
+  "morphemes": []
+}

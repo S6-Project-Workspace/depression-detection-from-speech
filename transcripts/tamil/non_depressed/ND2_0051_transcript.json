@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0051.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "எல்லமேயில் சோம்மல் முடுமேயில் வருத்தம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:49:56.292671",
+  "segments": [
+    {
+      "text": "எல்லமேயில் சோம்மல் முடுமேயில் வருத்தம்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எல்லமேயில் சோம்மல் முடுமேயில் வருத்தம்",
+  "morphemes": []
+}

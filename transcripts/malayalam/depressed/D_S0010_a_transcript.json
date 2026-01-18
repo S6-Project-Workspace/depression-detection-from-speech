@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0010_a.wav",
+  "speaker_id": "S0010",
+  "language": "malayalam",
+  "transcript": "என்ன தென்ன தென்ன தெல்ல விடுவா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:40:21.463892",
+  "segments": [
+    {
+      "text": "என்ன தென்ன தென்ன தெல்ல விடுவா",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ன தென்ன தென்ன தெல்ல விடுவா",
+  "morphemes": []
+}

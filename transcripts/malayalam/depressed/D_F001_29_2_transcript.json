@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_29_2.wav",
+  "speaker_id": "F001_29",
+  "language": "malayalam",
+  "transcript": "ஒருப் பரியாரோம் இல்லையும் தடவரையாளுங்கள்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:12:51.968672",
+  "segments": [
+    {
+      "text": "ஒருப் பரியாரோம் இல்லையும் தடவரையாளுங்கள்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒருப் பரியாரோம் இல்லையும் தடவரையாளுங்கள்",
+  "morphemes": []
+}

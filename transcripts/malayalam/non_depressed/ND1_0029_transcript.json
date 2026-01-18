@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0029.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "Akshay Kondu Poyas Parna Maatramilla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:32:49.940585",
+  "segments": [
+    {
+      "text": "Akshay Kondu Poyas Parna Maatramilla",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "Akshay Kondu Poyas Parna Maatramilla",
+  "morphemes": []
+}

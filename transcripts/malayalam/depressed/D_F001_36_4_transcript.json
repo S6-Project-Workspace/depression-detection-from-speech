@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_36_4.wav",
+  "speaker_id": "F001_36",
+  "language": "malayalam",
+  "transcript": "Eniqui, aksa, niya, maya, maya, maya, maya, maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya may",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:16:00.926836",
+  "segments": [
+    {
+      "text": "Eniqui, aksa, niya, maya, maya, maya, maya, maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya may",
+      "start_time": 0,
+      "end_time": 4.944,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Eniqui, aksa, niya, maya, maya, maya, maya, maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya maya may",
+  "morphemes": []
+}

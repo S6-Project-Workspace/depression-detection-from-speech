@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0178.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "பார்த்துகள் பகரத்தினைப் பகர் என் கொடுக்கும் என்றால் ஏதி",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:47:05.364569",
+  "segments": [
+    {
+      "text": "பார்த்துகள் பகரத்தினைப் பகர் என் கொடுக்கும் என்றால் ஏதி",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பார்த்துகள் பகரத்தினைப் பகர் என் கொடுக்கும் என்றால் ஏதி",
+  "morphemes": []
+}

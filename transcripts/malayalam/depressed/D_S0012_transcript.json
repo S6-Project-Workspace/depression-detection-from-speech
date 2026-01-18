@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0012.wav",
+  "speaker_id": "S0012",
+  "language": "malayalam",
+  "transcript": "நீங்கள் என்னுடைய காரியில்லையில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:41:24.918171",
+  "segments": [
+    {
+      "text": "நீங்கள் என்னுடைய காரியில்லையில்லை.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் என்னுடைய காரியில்லையில்லை.",
+  "morphemes": []
+}

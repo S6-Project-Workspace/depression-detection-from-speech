@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_67_2.wav",
+  "speaker_id": "F001_67",
+  "language": "malayalam",
+  "transcript": "என்னைக் காதசுக்கிறாய் கொள்ளும் எனக்கிக் கருத்தமில்லாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:34:52.248679",
+  "segments": [
+    {
+      "text": "என்னைக் காதசுக்கிறாய் கொள்ளும் எனக்கிக் கருத்தமில்லாம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னைக் காதசுக்கிறாய் கொள்ளும் எனக்கிக் கருத்தமில்லாம்.",
+  "morphemes": []
+}

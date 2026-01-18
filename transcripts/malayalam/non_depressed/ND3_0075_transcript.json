@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0075.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "கிளிப் பரங்கத்து கேட்டைக் கருஷனினைப் பயங்கிரமாய கோப்பம் வந்து",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:33:16.216433",
+  "segments": [
+    {
+      "text": "கிளிப் பரங்கத்து கேட்டைக் கருஷனினைப் பயங்கிரமாய கோப்பம் வந்து",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கிளிப் பரங்கத்து கேட்டைக் கருஷனினைப் பயங்கிரமாய கோப்பம் வந்து",
+  "morphemes": []
+}

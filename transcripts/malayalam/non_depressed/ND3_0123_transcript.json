@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0123.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "வேதுடையில் புள்ளன் என்று வேண்டும் அயோ என்று விளைத்துவும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:39:18.448121",
+  "segments": [
+    {
+      "text": "வேதுடையில் புள்ளன் என்று வேண்டும் அயோ என்று விளைத்துவும்.",
+      "start_time": 0,
+      "end_time": 2.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வேதுடையில் புள்ளன் என்று வேண்டும் அயோ என்று விளைத்துவும்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0149.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "புவன் கொழுத்திருந்தான் என்று மாயிங்க, பக்ஷிவரங்கியில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:42:08.620351",
+  "segments": [
+    {
+      "text": "புவன் கொழுத்திருந்தான் என்று மாயிங்க, பக்ஷிவரங்கியில்லை.",
+      "start_time": 0,
+      "end_time": 2.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புவன் கொழுத்திருந்தான் என்று மாயிங்க, பக்ஷிவரங்கியில்லை.",
+  "morphemes": []
+}

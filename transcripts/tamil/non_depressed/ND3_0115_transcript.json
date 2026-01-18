@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0115.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "முள்ளை முள்ளாள்தான் எடுக்க வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:35.031466",
+  "segments": [
+    {
+      "text": "முள்ளை முள்ளாள்தான் எடுக்க வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "முள்ளை முள்ளாள்தான் எடுக்க வேண்டும்.",
+  "morphemes": []
+}

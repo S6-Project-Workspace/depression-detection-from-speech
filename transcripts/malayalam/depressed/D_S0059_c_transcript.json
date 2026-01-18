@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0059_c.wav",
+  "speaker_id": "S0059",
+  "language": "malayalam",
+  "transcript": "Gurdewasam nyan naštamau Aadhan haaadhan paripafikkilla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:19:46.389331",
+  "segments": [
+    {
+      "text": "Gurdewasam nyan naštamau",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    },
+    {
+      "text": "Aadhan haaadhan paripafikkilla",
+      "start_time": 2.8,
+      "end_time": 5.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "Gurdewasam nyan naštamau Aadhan haaadhan paripafikkilla",
+  "morphemes": []
+}

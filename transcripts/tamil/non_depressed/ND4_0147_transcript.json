@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0147.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "கொடைகளுக்கு கையில் வாள் இருந்தும் பயன் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:31.709422",
+  "segments": [
+    {
+      "text": "கொடைகளுக்கு கையில் வாள் இருந்தும் பயன் இல்லை.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொடைகளுக்கு கையில் வாள் இருந்தும் பயன் இல்லை.",
+  "morphemes": []
+}

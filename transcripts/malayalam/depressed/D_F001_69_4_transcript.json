@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_69_4.wav",
+  "speaker_id": "F001_69",
+  "language": "malayalam",
+  "transcript": "ஏனிக்கில்லை வைத்தான் செய்குமும் போலம் என் சம்ஷேக்குமும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:35:19.959356",
+  "segments": [
+    {
+      "text": "ஏனிக்கில்லை வைத்தான் செய்குமும் போலம் என் சம்ஷேக்குமும்",
+      "start_time": 0,
+      "end_time": 3.62,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஏனிக்கில்லை வைத்தான் செய்குமும் போலம் என் சம்ஷேக்குமும்",
+  "morphemes": []
+}

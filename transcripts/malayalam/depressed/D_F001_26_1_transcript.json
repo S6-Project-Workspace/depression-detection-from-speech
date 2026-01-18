@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_26_1.wav",
+  "speaker_id": "F001_26",
+  "language": "malayalam",
+  "transcript": "நான் யாரை எங்கில் காணவோட்டித்திருக்கிறேன் என்றாக நான்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:09:47.153477",
+  "segments": [
+    {
+      "text": "நான் யாரை எங்கில் காணவோட்டித்திருக்கிறேன் என்றாக நான்கிறேன்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் யாரை எங்கில் காணவோட்டித்திருக்கிறேன் என்றாக நான்கிறேன்.",
+  "morphemes": []
+}

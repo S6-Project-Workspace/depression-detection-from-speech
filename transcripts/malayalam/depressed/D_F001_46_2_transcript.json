@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_46_2.wav",
+  "speaker_id": "F001_46",
+  "language": "malayalam",
+  "transcript": "எனக்கு, நான் செய்யும்தது, செரியானோ இன்று சம்ஷிய முண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:20:30.562509",
+  "segments": [
+    {
+      "text": "எனக்கு, நான் செய்யும்தது, செரியானோ இன்று சம்ஷிய முண்டு.",
+      "start_time": 0,
+      "end_time": 3.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு, நான் செய்யும்தது, செரியானோ இன்று சம்ஷிய முண்டு.",
+  "morphemes": []
+}

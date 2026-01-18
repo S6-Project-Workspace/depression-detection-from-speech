@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10013-2.wav",
+  "speaker_id": "F10013",
+  "language": "tamil",
+  "transcript": "பிக்கமுளியும் எல்லேனால் சந்திக்கக்கொள்ளுமுளியும் தான்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:49.413956",
+  "segments": [
+    {
+      "text": "பிக்கமுளியும் எல்லேனால் சந்திக்கக்கொள்ளுமுளியும் தான்",
+      "start_time": 0,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "பிக்கமுளியும் எல்லேனால் சந்திக்கக்கொள்ளுமுளியும் தான்",
+  "morphemes": []
+}

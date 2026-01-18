@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0032.wav",
+  "speaker_id": "S0032",
+  "language": "malayalam",
+  "transcript": "i nikiniyari pradikshayam illa i nikiniyari misho sukiyani awalla",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:57:48.742299",
+  "segments": [
+    {
+      "text": "i nikiniyari pradikshayam illa",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "i nikiniyari misho sukiyani awalla",
+      "start_time": 3.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i nikiniyari pradikshayam illa i nikiniyari misho sukiyani awalla",
+  "morphemes": []
+}

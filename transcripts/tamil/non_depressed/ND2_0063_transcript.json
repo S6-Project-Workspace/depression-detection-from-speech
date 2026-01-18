@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0063.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கரியன் புட்டு பாம்முக்கும் ஒதவைக் கிடுப்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:24.883030",
+  "segments": [
+    {
+      "text": "கரியன் புட்டு பாம்முக்கும் ஒதவைக் கிடுப்பு.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கரியன் புட்டு பாம்முக்கும் ஒதவைக் கிடுப்பு.",
+  "morphemes": []
+}

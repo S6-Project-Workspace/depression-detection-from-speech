@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0085.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "நேல் முதலியதான் என்னுடைய குறைவாக விருக்காது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:51:38.233008",
+  "segments": [
+    {
+      "text": "நேல் முதலியதான் என்னுடைய குறைவாக விருக்காது.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நேல் முதலியதான் என்னுடைய குறைவாக விருக்காது.",
+  "morphemes": []
+}

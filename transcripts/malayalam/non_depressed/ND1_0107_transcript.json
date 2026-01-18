@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0107.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "இன்னும் நமக்குருக்காகத் தகையில்லைக்காமல்ல.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:43:12.968095",
+  "segments": [
+    {
+      "text": "இன்னும் நமக்குருக்காகத் தகையில்லைக்காமல்ல.",
+      "start_time": 0,
+      "end_time": 1.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இன்னும் நமக்குருக்காகத் தகையில்லைக்காமல்ல.",
+  "morphemes": []
+}

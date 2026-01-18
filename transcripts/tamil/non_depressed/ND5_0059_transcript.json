@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0059.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "எடுதியவன் எட்டைக் கிடுத்தான் படித்தமன் பாட்டைக் கொடுத்தான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:17:01.390296",
+  "segments": [
+    {
+      "text": "எடுதியவன் எட்டைக் கிடுத்தான் படித்தமன் பாட்டைக் கொடுத்தான்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எடுதியவன் எட்டைக் கிடுத்தான் படித்தமன் பாட்டைக் கொடுத்தான்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0162.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "மெல்லப் பாயும் தன்னிர் கலையும் குரியக்கும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:21:52.373976",
+  "segments": [
+    {
+      "text": "மெல்லப் பாயும் தன்னிர் கலையும் குரியக்கும்",
+      "start_time": 0,
+      "end_time": 2.7,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மெல்லப் பாயும் தன்னிர் கலையும் குரியக்கும்",
+  "morphemes": []
+}

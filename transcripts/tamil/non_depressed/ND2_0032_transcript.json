@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0032.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "நீ செய்யம் சாதனையே உண்பையிருக்குப் பெருமித்தையில் தெரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:46.384883",
+  "segments": [
+    {
+      "text": "நீ செய்யம் சாதனையே உண்பையிருக்குப் பெருமித்தையில் தெரும்.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நீ செய்யம் சாதனையே உண்பையிருக்குப் பெருமித்தையில் தெரும்.",
+  "morphemes": []
+}

@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0064_a.wav",
+  "speaker_id": "S0064",
+  "language": "malayalam",
+  "transcript": "கண்ணிடில் கடைக்கிப் போகிறின்ற ருஞ்சென்மாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:22:50.549313",
+  "segments": [
+    {
+      "text": "கண்ணிடில் கடைக்கிப் போகிறின்ற",
+      "start_time": 0,
+      "end_time": 3.36,
+      "confidence": 1.0
+    },
+    {
+      "text": "ருஞ்சென்மாம்",
+      "start_time": 3.36,
+      "end_time": 5.16,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "கண்ணிடில் கடைக்கிப் போகிறின்ற ருஞ்சென்மாம்",
+  "morphemes": []
+}

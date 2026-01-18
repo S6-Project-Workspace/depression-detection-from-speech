@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0020.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஒன்றால் தவறித்து நகம் தெரிக்கையைத் தெருக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:30:29.019144",
+  "segments": [
+    {
+      "text": "ஒன்றால் தவறித்து நகம் தெரிக்கையைத் தெருக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒன்றால் தவறித்து நகம் தெரிக்கையைத் தெருக்கிறேன்.",
+  "morphemes": []
+}

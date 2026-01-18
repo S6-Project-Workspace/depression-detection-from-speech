@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A058_2.wav",
+  "speaker_id": "A058",
+  "language": "malayalam",
+  "transcript": "நீங்கள் எல்லாம் ஒரு இல்லோக்கம் முத்தம் என்று கேட்டிருகிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:56:03.980779",
+  "segments": [
+    {
+      "text": "நீங்கள் எல்லாம் ஒரு இல்லோக்கம் முத்தம் என்று கேட்டிருகிறேன்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நீங்கள் எல்லாம் ஒரு இல்லோக்கம் முத்தம் என்று கேட்டிருகிறேன்.",
+  "morphemes": []
+}

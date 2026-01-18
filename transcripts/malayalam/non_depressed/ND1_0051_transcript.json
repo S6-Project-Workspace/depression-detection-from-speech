@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0051.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஒரு தவித்தும் அடித்தினா ஒரு தோனல்லும் நே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:35:14.164442",
+  "segments": [
+    {
+      "text": "ஒரு தவித்தும் அடித்தினா ஒரு தோனல்லும் நே",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு தவித்தும் அடித்தினா ஒரு தோனல்லும் நே",
+  "morphemes": []
+}

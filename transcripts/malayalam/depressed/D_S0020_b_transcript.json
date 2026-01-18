@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0020_b.wav",
+  "speaker_id": "S0020",
+  "language": "malayalam",
+  "transcript": "உள்ளில்லுக்கும் போக்கும்தான் பேத்தேன், அறிங்காடும் இல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:48:14.151291",
+  "segments": [
+    {
+      "text": "உள்ளில்லுக்கும் போக்கும்தான் பேத்தேன், அறிங்காடும் இல்லையா?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "உள்ளில்லுக்கும் போக்கும்தான் பேத்தேன், அறிங்காடும் இல்லையா?",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0053.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "எதிர்த்தவன் இருடைய என்றால் கோபம் சந்தாலும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:21.706530",
+  "segments": [
+    {
+      "text": "எதிர்த்தவன் இருடைய என்றால் கோபம் சந்தாலும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எதிர்த்தவன் இருடைய என்றால் கோபம் சந்தாலும்",
+  "morphemes": []
+}

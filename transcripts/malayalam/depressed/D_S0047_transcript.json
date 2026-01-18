@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0047.wav",
+  "speaker_id": "S0047",
+  "language": "malayalam",
+  "transcript": "hindi vulli le urpaad hindi mari chubo yo urmaagal",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:08:33.485786",
+  "segments": [
+    {
+      "text": "hindi vulli le urpaad hindi",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    },
+    {
+      "text": "mari chubo yo urmaagal",
+      "start_time": 2.8,
+      "end_time": 5.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "hindi vulli le urpaad hindi mari chubo yo urmaagal",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0076.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "விரம்பது மூடத்தனம் உன் விரல்கள் 10 மூலதனம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:00:22.761724",
+  "segments": [
+    {
+      "text": "விரம்பது மூடத்தனம் உன் விரல்கள் 10 மூலதனம்",
+      "start_time": 0,
+      "end_time": 2.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விரம்பது மூடத்தனம் உன் விரல்கள் 10 மூலதனம்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_31_2.wav",
+  "speaker_id": "F001_31",
+  "language": "malayalam",
+  "transcript": "என்னுடையும் உள்ளில் சென்றிதான் என்றுக்கு பரியாம் வட்டாததானே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:13:25.857137",
+  "segments": [
+    {
+      "text": "என்னுடையும் உள்ளில் சென்றிதான் என்றுக்கு பரியாம் வட்டாததானே",
+      "start_time": 0,
+      "end_time": 4.06,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுடையும் உள்ளில் சென்றிதான் என்றுக்கு பரியாம் வட்டாததானே",
+  "morphemes": []
+}

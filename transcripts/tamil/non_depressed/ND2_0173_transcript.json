@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0173.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "விலையும் பயில் முலையில்லையே தெடியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:14.709043",
+  "segments": [
+    {
+      "text": "விலையும் பயில் முலையில்லையே தெடியும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விலையும் பயில் முலையில்லையே தெடியும்.",
+  "morphemes": []
+}

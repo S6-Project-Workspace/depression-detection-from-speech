@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0113.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "پாவாமுரும்பு அவை எல்லாத் தொல்லியுடன் போ மாறிவில் கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:34:29.730439",
+  "segments": [
+    {
+      "text": "پாவாமுரும்பு அவை எல்லாத் தொல்லியுடன் போ மாறிவில் கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "پாவாமுரும்பு அவை எல்லாத் தொல்லியுடன் போ மாறிவில் கவேண்டும்.",
+  "morphemes": []
+}

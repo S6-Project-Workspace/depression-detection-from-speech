@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_26-4.wav",
+  "speaker_id": "S00_26",
+  "language": "tamil",
+  "transcript": "இங்காஷ்திட்டைப் பயத்துக்கொள்ளே எனக்கியாரமியில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:02:22.631267",
+  "segments": [
+    {
+      "text": "இங்காஷ்திட்டைப் பயத்துக்கொள்ளே எனக்கியாரமியில்லை.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்காஷ்திட்டைப் பயத்துக்கொள்ளே எனக்கியாரமியில்லை.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A035_2.wav",
+  "speaker_id": "A035",
+  "language": "malayalam",
+  "transcript": "இங்கிவிட்டும் பாய்ங்கிறான் பெரிந்துதும் மேட்டும் என்று",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:45:22.953141",
+  "segments": [
+    {
+      "text": "இங்கிவிட்டும் பாய்ங்கிறான் பெரிந்துதும் மேட்டும் என்று",
+      "start_time": 0,
+      "end_time": 3.38,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்கிவிட்டும் பாய்ங்கிறான் பெரிந்துதும் மேட்டும் என்று",
+  "morphemes": []
+}

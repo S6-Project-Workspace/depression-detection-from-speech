@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0014.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "அவன் சிரியப் பணாக இருந்த போதில் மேக்கும் பலுவான வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:57:24.156172",
+  "segments": [
+    {
+      "text": "அவன் சிரியப் பணாக இருந்த போதில் மேக்கும் பலுவான வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவன் சிரியப் பணாக இருந்த போதில் மேக்கும் பலுவான வேண்டும்.",
+  "morphemes": []
+}

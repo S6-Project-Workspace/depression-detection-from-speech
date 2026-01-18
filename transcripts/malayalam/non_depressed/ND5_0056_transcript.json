@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0056.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "குறைக் காலங்கள் என்று பயங்கிரமாயியுட்டம் மன்னு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:26:24.201061",
+  "segments": [
+    {
+      "text": "குறைக் காலங்கள் என்று பயங்கிரமாயியுட்டம் மன்னு",
+      "start_time": 0,
+      "end_time": 2.72,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குறைக் காலங்கள் என்று பயங்கிரமாயியுட்டம் மன்னு",
+  "morphemes": []
+}

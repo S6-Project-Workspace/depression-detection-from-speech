@@ -1,0 +1,4 @@
+# file: /Users/keerthivasan/NLP/threshold_tuner.py
+# hypothesis_version: 6.150.2
+
+[0.0, 0.001, 0.01, 0.02, 0.3, 0.5, 0.99, 150, 200, 1000, '--', ':', '=', 'Decision Threshold', 'Macro-F1 Score', '__main__', 'b-', 'f1_depressed', 'f1_non_depressed', 'g', 'macro', 'max', 'mean', 'precision', 'r', 'recall', 'tight']

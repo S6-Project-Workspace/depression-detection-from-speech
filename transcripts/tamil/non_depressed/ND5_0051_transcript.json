@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0051.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "இளமையில சொம்பல் முடுமையில வர்த்தாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:41.918846",
+  "segments": [
+    {
+      "text": "இளமையில சொம்பல் முடுமையில வர்த்தாம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இளமையில சொம்பல் முடுமையில வர்த்தாம்.",
+  "morphemes": []
+}

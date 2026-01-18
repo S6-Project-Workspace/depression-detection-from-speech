@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0082.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "ஒரு திவசாங்குக்கு ரையின் சருக்கரியின் தெங்கியின் முக்கிக்கிற்றி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:33:42.118941",
+  "segments": [
+    {
+      "text": "ஒரு திவசாங்குக்கு ரையின் சருக்கரியின் தெங்கியின் முக்கிக்கிற்றி.",
+      "start_time": 0,
+      "end_time": 3.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு திவசாங்குக்கு ரையின் சருக்கரியின் தெங்கியின் முக்கிக்கிற்றி.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_52_2.wav",
+  "speaker_id": "F001_52",
+  "language": "malayalam",
+  "transcript": "இந்த மனைசு எல்லாய் பூலும் பயத்தின்ன வஷத்தைக்கு வரவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:24:06.288770",
+  "segments": [
+    {
+      "text": "இந்த மனைசு எல்லாய் பூலும் பயத்தின்ன வஷத்தைக்கு வரவேண்டும்.",
+      "start_time": 0,
+      "end_time": 4.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்த மனைசு எல்லாய் பூலும் பயத்தின்ன வஷத்தைக்கு வரவேண்டும்.",
+  "morphemes": []
+}

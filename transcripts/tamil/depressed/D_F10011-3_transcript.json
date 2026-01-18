@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10011-3.wav",
+  "speaker_id": "F10011",
+  "language": "tamil",
+  "transcript": "என்னுடைய அழங்கிரமாக இருக்கு இது உங்களுந்து போக்கவேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:41:08.588985",
+  "segments": [
+    {
+      "text": "என்னுடைய அழங்கிரமாக இருக்கு இது உங்களுந்து போக்கவேண்டும்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுடைய அழங்கிரமாக இருக்கு இது உங்களுந்து போக்கவேண்டும்.",
+  "morphemes": []
+}

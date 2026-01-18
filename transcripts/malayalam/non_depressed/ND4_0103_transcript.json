@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0103.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "ஒரே சுப்பாவகும் மில்ல வேற்றான் ஒரு முடிந்துக்கொள்ளும் போடுந்தது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:03:59.963808",
+  "segments": [
+    {
+      "text": "ஒரே சுப்பாவகும் மில்ல வேற்றான் ஒரு முடிந்துக்கொள்ளும் போடுந்தது.",
+      "start_time": 0,
+      "end_time": 2.52,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரே சுப்பாவகும் மில்ல வேற்றான் ஒரு முடிந்துக்கொள்ளும் போடுந்தது.",
+  "morphemes": []
+}

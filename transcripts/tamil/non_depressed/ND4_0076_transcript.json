@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0076.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "விரம்கை என்பது முடித்தனம் ஒன்று விரியல்கள் பத்து முடித்தனம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:09:13.620996",
+  "segments": [
+    {
+      "text": "விரம்கை என்பது முடித்தனம் ஒன்று விரியல்கள் பத்து முடித்தனம்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "விரம்கை என்பது முடித்தனம் ஒன்று விரியல்கள் பத்து முடித்தனம்",
+  "morphemes": []
+}

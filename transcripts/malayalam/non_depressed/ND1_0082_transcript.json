@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0082.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "ஒருது சம் கூரே ஆரியம் ஷார்கரின் தெய்யமும் கேட்டி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:40:06.309962",
+  "segments": [
+    {
+      "text": "ஒருது சம் கூரே ஆரியம் ஷார்கரின் தெய்யமும் கேட்டி.",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒருது சம் கூரே ஆரியம் ஷார்கரின் தெய்யமும் கேட்டி.",
+  "morphemes": []
+}

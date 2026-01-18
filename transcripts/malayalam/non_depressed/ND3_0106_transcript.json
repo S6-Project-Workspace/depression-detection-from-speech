@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0106.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "பாய்சவு முப்பேரியும் சட்டியும் மொண்டில்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:36:52.777749",
+  "segments": [
+    {
+      "text": "பாய்சவு முப்பேரியும் சட்டியும் மொண்டில்",
+      "start_time": 0,
+      "end_time": 3.3775,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாய்சவு முப்பேரியும் சட்டியும் மொண்டில்",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0080.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "பாலத்தில் நீன் வெள்ளத்தில் மற்று நாயே, நம்முடைய நாயே குடைத்துவிட.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:33:33.910862",
+  "segments": [
+    {
+      "text": "பாலத்தில் நீன் வெள்ளத்தில் மற்று நாயே, நம்முடைய நாயே குடைத்துவிட.",
+      "start_time": 0,
+      "end_time": 3.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பாலத்தில் நீன் வெள்ளத்தில் மற்று நாயே, நம்முடைய நாயே குடைத்துவிட.",
+  "morphemes": []
+}

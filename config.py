@@ -282,6 +282,131 @@ class EnsembleConfig:
 
 
 @dataclass
+class ASRConfig:
+    """ASR Pipeline configuration for IndicWhisper.
+    
+    Reference: Multimodal NLP Upgrade - Requirement 1
+    """
+    # Model backbone
+    model_name: str = "ai4bharat/indicwhisper-large"
+    
+    # Audio chunking for long files
+    chunk_length_s: int = 30
+    
+    # Batch processing
+    batch_size: int = 8
+    
+    # Device configuration
+    device: str = "cuda"
+    
+    # Supported languages
+    supported_languages: List[str] = field(default_factory=lambda: ["tamil", "malayalam"])
+    
+    # Transcription settings
+    return_timestamps: bool = True
+    language_detection: bool = False  # Use explicit language when known
+    
+    # Output settings
+    transcript_output_dir: str = "transcripts"
+
+
+@dataclass
+class TextModelConfig:
+    """MuRIL Text Model configuration.
+    
+    Reference: Multimodal NLP Upgrade - Requirement 4
+    """
+    # Model backbone
+    model_name: str = "google/muril-base-cased"
+    
+    # Tokenization
+    max_length: int = 512
+    
+    # Model architecture
+    hidden_size: int = 768
+    
+    # Classification head
+    dropout_rate: float = 0.1
+    num_classes: int = 2
+    
+    # Fine-tuning strategy
+    freeze_encoder: bool = False
+    freeze_epochs: int = 2  # Freeze encoder for first N epochs
+    
+    # Training settings
+    learning_rate: float = 2e-5
+    warmup_ratio: float = 0.1
+
+
+@dataclass
+class TextPreprocessingConfig:
+    """Text preprocessing configuration for Dravidian languages.
+    
+    Reference: Multimodal NLP Upgrade - Requirement 2
+    """
+    # Language setting ("ta" for Tamil, "ml" for Malayalam)
+    language: str = "ta"
+    
+    # Normalization
+    apply_normalization: bool = True
+    
+    # Morphological segmentation
+    apply_morphological_segmentation: bool = True
+    morfessor_model_path: Optional[str] = None
+
+
+@dataclass
+class TFIDFConfig:
+    """TF-IDF Classifier configuration.
+    
+    Reference: Multimodal NLP Upgrade - Requirement 3
+    """
+    # N-gram range
+    ngram_range: Tuple[int, int] = (1, 3)
+    
+    # Vocabulary constraints
+    min_df: int = 5
+    max_features: int = 5000
+    
+    # Classifier type
+    classifier: str = "svm"  # or "logistic_regression"
+    
+    # SVM parameters
+    svm_kernel: str = "linear"
+    svm_c: float = 1.0
+    class_weight: str = "balanced"  # Handle class imbalance
+    random_state: int = 42
+    
+    # Logistic Regression parameters
+    lr_c: float = 1.0
+    lr_max_iter: int = 1000
+
+
+@dataclass
+class FusionConfig:
+    """Multimodal Fusion configuration.
+    
+    Reference: Multimodal NLP Upgrade - Requirement 5
+    """
+    # Input embedding dimensions
+    audio_embedding_dim: int = 192  # ECAPA-TDNN default, or 768 for Wav2Vec2
+    text_embedding_dim: int = 768   # MuRIL
+    
+    # Fusion MLP architecture
+    fusion_hidden_dim: int = 512
+    fusion_dropout: float = 0.3
+    
+    # Output
+    num_classes: int = 2
+    
+    # Fusion strategy
+    fusion_method: str = "concatenation"  # or "attention", "gated"
+    
+    # Fallback behavior when modality is missing
+    allow_unimodal_fallback: bool = True
+
+
+@dataclass
 class DepressionDetectionConfig:
     """Master configuration class combining all sub-configurations."""
     paths: PathConfig = field(default_factory=PathConfig)
@@ -293,6 +418,13 @@ class DepressionDetectionConfig:
     augmentation: AugmentationConfig = field(default_factory=AugmentationConfig)
     threshold: ThresholdConfig = field(default_factory=ThresholdConfig)
     ensemble: EnsembleConfig = field(default_factory=EnsembleConfig)
+    
+    # Multimodal NLP Upgrade configurations
+    asr: ASRConfig = field(default_factory=ASRConfig)
+    text_model: TextModelConfig = field(default_factory=TextModelConfig)
+    text_preprocessing: TextPreprocessingConfig = field(default_factory=TextPreprocessingConfig)
+    tfidf: TFIDFConfig = field(default_factory=TFIDFConfig)
+    fusion: FusionConfig = field(default_factory=FusionConfig)
     
     # General settings
     language: Language = Language.COMBINED
@@ -306,6 +438,8 @@ class DepressionDetectionConfig:
             "Sampling rate must be 16kHz for pre-trained speech models"
         assert 0 < self.ensemble.fusion_weight_ssl <= 1.0, \
             "Fusion weight must be between 0 and 1"
+        # Sync device across ASR config
+        self.asr.device = self.device
 
 
 def get_config(language: str = "combined") -> DepressionDetectionConfig:
@@ -352,6 +486,27 @@ def print_config_summary(config: DepressionDetectionConfig):
     print(f"  Learning Rate: {config.training.learning_rate}")
     print(f"  Epochs: {config.training.epochs}")
     print(f"  K-Folds: {config.training.n_folds}")
+    print()
+    print("ASR Pipeline (Multimodal):")
+    print(f"  Model: {config.asr.model_name}")
+    print(f"  Chunk Length: {config.asr.chunk_length_s}s")
+    print(f"  Supported Languages: {config.asr.supported_languages}")
+    print()
+    print("Text Model (MuRIL):")
+    print(f"  Model: {config.text_model.model_name}")
+    print(f"  Max Length: {config.text_model.max_length}")
+    print(f"  Hidden Size: {config.text_model.hidden_size}")
+    print()
+    print("TF-IDF Baseline:")
+    print(f"  N-gram Range: {config.tfidf.ngram_range}")
+    print(f"  Max Features: {config.tfidf.max_features}")
+    print(f"  Classifier: {config.tfidf.classifier}")
+    print()
+    print("Multimodal Fusion:")
+    print(f"  Audio Embedding Dim: {config.fusion.audio_embedding_dim}")
+    print(f"  Text Embedding Dim: {config.fusion.text_embedding_dim}")
+    print(f"  Fusion Hidden Dim: {config.fusion.fusion_hidden_dim}")
+    print(f"  Fusion Method: {config.fusion.fusion_method}")
     print("=" * 60)
 
 

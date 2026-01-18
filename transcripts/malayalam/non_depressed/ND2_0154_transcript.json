@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0154.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அதினாய் ஏசம்பாதிப் பெட்டி ஒன்று தொருண்ணும் உகிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:16:46.512873",
+  "segments": [
+    {
+      "text": "அதினாய் ஏசம்பாதிப் பெட்டி ஒன்று தொருண்ணும் உகிறேன்.",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அதினாய் ஏசம்பாதிப் பெட்டி ஒன்று தொருண்ணும் உகிறேன்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0115.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "முன்னால்தான் எடுக்க வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:09.705175",
+  "segments": [
+    {
+      "text": "முன்னால்தான் எடுக்க வேண்டும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "முன்னால்தான் எடுக்க வேண்டும்.",
+  "morphemes": []
+}

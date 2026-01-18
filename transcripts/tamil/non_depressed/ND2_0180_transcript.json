@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0180.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "பலமரம் செய்ந்து நிந்தால்தான் அதித்தமுரில் தோப்பு என் பார்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:56:34.521703",
+  "segments": [
+    {
+      "text": "பலமரம் செய்ந்து நிந்தால்தான் அதித்தமுரில் தோப்பு என் பார்கள்.",
+      "start_time": 0,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பலமரம் செய்ந்து நிந்தால்தான் அதித்தமுரில் தோப்பு என் பார்கள்.",
+  "morphemes": []
+}

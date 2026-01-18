@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0154.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அது நான் இசாம்பாதிப் பெட்டியும் என்று தொருண்ணும் நோக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:13:52.076279",
+  "segments": [
+    {
+      "text": "அது நான் இசாம்பாதிப் பெட்டியும் என்று தொருண்ணும் நோக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அது நான் இசாம்பாதிப் பெட்டியும் என்று தொருண்ணும் நோக்கிறேன்.",
+  "morphemes": []
+}

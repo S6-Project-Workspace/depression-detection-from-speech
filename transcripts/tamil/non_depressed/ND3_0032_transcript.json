@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0032.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "நீ செய்யும் சாதனியே உன் பேருக்கு பெருமே தெடித்திரும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:41.061792",
+  "segments": [
+    {
+      "text": "நீ செய்யும் சாதனியே உன் பேருக்கு பெருமே தெடித்திரும்.",
+      "start_time": 0,
+      "end_time": 2.44,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நீ செய்யும் சாதனியே உன் பேருக்கு பெருமே தெடித்திரும்.",
+  "morphemes": []
+}

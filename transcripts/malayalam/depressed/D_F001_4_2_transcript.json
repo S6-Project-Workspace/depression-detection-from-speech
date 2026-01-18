@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_4_2.wav",
+  "speaker_id": "F001_4",
+  "language": "malayalam",
+  "transcript": "बायो जो प्रो तिक से बो जुवना यता अगर तिर्टिर्टिन।",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:23:10.162904",
+  "segments": [
+    {
+      "text": "बायो जो प्रो तिक से बो जुवना यता अगर तिर्टिर्टिन।",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "बायो जो प्रो तिक से बो जुवना यता अगर तिर्टिर्टिन।",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S00_35-3.wav",
+  "speaker_id": "S00_35",
+  "language": "tamil",
+  "transcript": "இங்கு யாருக்கு முக்கியமாக இருந்துவில்லும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:08:36.100740",
+  "segments": [
+    {
+      "text": "இங்கு யாருக்கு முக்கியமாக இருந்துவில்லும்.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இங்கு யாருக்கு முக்கியமாக இருந்துவில்லும்.",
+  "morphemes": []
+}

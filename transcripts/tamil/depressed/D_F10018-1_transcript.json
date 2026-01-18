@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F10018-1.wav",
+  "speaker_id": "F10018",
+  "language": "tamil",
+  "transcript": "யாரும் இல்லைத் தெரியும் என்று கண்ணக்கு வரவுண்டு தெரியுத்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T13:43:08.368111",
+  "segments": [
+    {
+      "text": "யாரும் இல்லைத் தெரியும் என்று கண்ணக்கு வரவுண்டு தெரியுத்து.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "யாரும் இல்லைத் தெரியும் என்று கண்ணக்கு வரவுண்டு தெரியுத்து.",
+  "morphemes": []
+}

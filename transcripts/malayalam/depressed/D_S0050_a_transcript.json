@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0050_a.wav",
+  "speaker_id": "S0050",
+  "language": "malayalam",
+  "transcript": "i nikini enda pratik shikana hu leta",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:11:24.744479",
+  "segments": [
+    {
+      "text": "i nikini enda pratik shikana hu leta",
+      "start_time": 0,
+      "end_time": 3.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i nikini enda pratik shikana hu leta",
+  "morphemes": []
+}

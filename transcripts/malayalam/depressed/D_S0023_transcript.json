@@ -1,0 +1,32 @@
+{
+  "audio_file": "D_S0023.wav",
+  "speaker_id": "S0023",
+  "language": "malayalam",
+  "transcript": "நான் ஆரியும் மிஷ்டப் பெடானம் ஆரிமேன் நிஷ்டப் பெடானம் யோக்கின்னெல்லா",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:50:27.476442",
+  "segments": [
+    {
+      "text": "நான் ஆரியும் மிஷ்டப் பெடானம்",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "ஆரிமேன் நிஷ்டப் பெடானம்",
+      "start_time": 3.0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "யோக்கின்னெல்லா",
+      "start_time": 5.0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் ஆரியும் மிஷ்டப் பெடானம் ஆரிமேன் நிஷ்டப் பெடானம் யோக்கின்னெல்லா",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0087.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "அம்பட, வெள்ளத்தில் வேறு ஒரு நாய, அவன் வாயில் முடு ஒரு வலையே இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T19:01:19.961275",
+  "segments": [
+    {
+      "text": "அம்பட, வெள்ளத்தில் வேறு ஒரு நாய, அவன் வாயில் முடு ஒரு வலையே இல்லை.",
+      "start_time": 0,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அம்பட, வெள்ளத்தில் வேறு ஒரு நாய, அவன் வாயில் முடு ஒரு வலையே இல்லை.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A011_1.wav",
+  "speaker_id": "A011",
+  "language": "malayalam",
+  "transcript": "அவருடையுங்களை எப்பொழுவினிக்கு எதிராங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:29:01.154223",
+  "segments": [
+    {
+      "text": "அவருடையுங்களை எப்பொழுவினிக்கு எதிராங்கள்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "அவருடையுங்களை எப்பொழுவினிக்கு எதிராங்கள்.",
+  "morphemes": []
+}

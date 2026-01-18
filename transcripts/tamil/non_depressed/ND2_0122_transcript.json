@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0122.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "உட்டைபானையிலும் சரிக்கரையிருக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:25.011827",
+  "segments": [
+    {
+      "text": "உட்டைபானையிலும் சரிக்கரையிருக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உட்டைபானையிலும் சரிக்கரையிருக்கும்.",
+  "morphemes": []
+}

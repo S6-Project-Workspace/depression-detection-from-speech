@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0171.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "வார்வும் தார்வும் சிலகாலம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:05:15.335214",
+  "segments": [
+    {
+      "text": "வார்வும் தார்வும் சிலகாலம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வார்வும் தார்வும் சிலகாலம்.",
+  "morphemes": []
+}

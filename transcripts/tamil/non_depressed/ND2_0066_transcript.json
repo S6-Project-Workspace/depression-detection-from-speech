@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0066.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "காசுக்கு ஒரு குதிரையும் வேண்டும் காட்சி போல பரக்கும் வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:33.754541",
+  "segments": [
+    {
+      "text": "காசுக்கு ஒரு குதிரையும் வேண்டும் காட்சி போல பரக்கும் வேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காசுக்கு ஒரு குதிரையும் வேண்டும் காட்சி போல பரக்கும் வேண்டும்.",
+  "morphemes": []
+}

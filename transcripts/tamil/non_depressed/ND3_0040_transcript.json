@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0040.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "இறக்கம் காட்டலம் ஆனால் ஏய் மாலியாகக் கூடாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:00.868617",
+  "segments": [
+    {
+      "text": "இறக்கம் காட்டலம் ஆனால் ஏய் மாலியாகக் கூடாது.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இறக்கம் காட்டலம் ஆனால் ஏய் மாலியாகக் கூடாது.",
+  "morphemes": []
+}

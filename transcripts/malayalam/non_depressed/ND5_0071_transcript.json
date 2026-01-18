@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0071.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "இப்போது இந்தரமாயிருந்ததாலை நாங்கள் பாட்டு வேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:28:52.520252",
+  "segments": [
+    {
+      "text": "இப்போது இந்தரமாயிருந்ததாலை நாங்கள் பாட்டு வேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இப்போது இந்தரமாயிருந்ததாலை நாங்கள் பாட்டு வேண்டும்.",
+  "morphemes": []
+}

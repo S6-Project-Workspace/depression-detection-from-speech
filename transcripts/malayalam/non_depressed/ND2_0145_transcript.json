@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0145.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "அப்போல என்னை ஒருக்கம் விரும் நம்மல்ல மிக்க வரும் இது போலில்லை மக்கலே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:15:46.832632",
+  "segments": [
+    {
+      "text": "அப்போல என்னை ஒருக்கம் விரும் நம்மல்ல மிக்க வரும் இது போலில்லை மக்கலே",
+      "start_time": 0,
+      "end_time": 4.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்போல என்னை ஒருக்கம் விரும் நம்மல்ல மிக்க வரும் இது போலில்லை மக்கலே",
+  "morphemes": []
+}

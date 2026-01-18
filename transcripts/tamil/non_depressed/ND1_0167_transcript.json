@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0167.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "வண்சகம் வாழ்வைக் கடுக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:45:45.501141",
+  "segments": [
+    {
+      "text": "வண்சகம் வாழ்வைக் கடுக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வண்சகம் வாழ்வைக் கடுக்கும்.",
+  "morphemes": []
+}

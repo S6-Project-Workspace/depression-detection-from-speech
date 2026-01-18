@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0060_a.wav",
+  "speaker_id": "S0060",
+  "language": "malayalam",
+  "transcript": "pookalam kaatam veitana pagirannu",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:20:22.786333",
+  "segments": [
+    {
+      "text": "pookalam kaatam veitana pagirannu",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "pookalam kaatam veitana pagirannu",
+  "morphemes": []
+}

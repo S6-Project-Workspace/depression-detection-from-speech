@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0148.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அவியில் பேசிட அஞ்சுவோர் பலனோல் கட்டும் பயனிலே.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:34.524211",
+  "segments": [
+    {
+      "text": "அவியில் பேசிட அஞ்சுவோர் பலனோல் கட்டும் பயனிலே.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அவியில் பேசிட அஞ்சுவோர் பலனோல் கட்டும் பயனிலே.",
+  "morphemes": []
+}

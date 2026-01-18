@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0056.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "குடைக்காலன் காலின்னும் பாய்யங்கிரமாய்யில் உட்டம் வண்ணும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:28:29.374915",
+  "segments": [
+    {
+      "text": "குடைக்காலன் காலின்னும் பாய்யங்கிரமாய்யில் உட்டம் வண்ணும்.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "குடைக்காலன் காலின்னும் பாய்யங்கிரமாய்யில் உட்டம் வண்ணும்.",
+  "morphemes": []
+}

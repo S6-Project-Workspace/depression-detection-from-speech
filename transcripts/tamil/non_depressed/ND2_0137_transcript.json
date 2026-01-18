@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0137.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "ஒரு மனக்காடிவு இல்லாத சிறந்த செல்வும் கல்வியே ஆகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:54:06.444525",
+  "segments": [
+    {
+      "text": "ஒரு மனக்காடிவு இல்லாத சிறந்த செல்வும் கல்வியே ஆகும்.",
+      "start_time": 0,
+      "end_time": 3.16,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "ஒரு மனக்காடிவு இல்லாத சிறந்த செல்வும் கல்வியே ஆகும்.",
+  "morphemes": []
+}

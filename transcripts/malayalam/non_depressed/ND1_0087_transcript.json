@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0087.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "அம்பட வல்லத்தில் வேறு ஒரு நாயா, அவன் வாயில் முண்டும் ஒரு வலியே என்ன?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:40:29.471452",
+  "segments": [
+    {
+      "text": "அம்பட வல்லத்தில் வேறு ஒரு நாயா, அவன் வாயில் முண்டும் ஒரு வலியே என்ன?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அம்பட வல்லத்தில் வேறு ஒரு நாயா, அவன் வாயில் முண்டும் ஒரு வலியே என்ன?",
+  "morphemes": []
+}

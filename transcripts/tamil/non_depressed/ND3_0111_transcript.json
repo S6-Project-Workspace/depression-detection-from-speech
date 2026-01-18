@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0111.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "அய்ந்தில் வழையாதுத்து அய்மப்பத்தில் வழையாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:26.070263",
+  "segments": [
+    {
+      "text": "அய்ந்தில் வழையாதுத்து அய்மப்பத்தில் வழையாது.",
+      "start_time": 0,
+      "end_time": 1.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அய்ந்தில் வழையாதுத்து அய்மப்பத்தில் வழையாது.",
+  "morphemes": []
+}

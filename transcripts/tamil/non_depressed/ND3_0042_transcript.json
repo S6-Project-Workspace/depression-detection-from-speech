@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0042.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "புராமை இருந்தால் உள்ளதியம் விடக்கணே இருடும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:05.571304",
+  "segments": [
+    {
+      "text": "புராமை இருந்தால் உள்ளதியம் விடக்கணே இருடும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புராமை இருந்தால் உள்ளதியம் விடக்கணே இருடும்.",
+  "morphemes": []
+}

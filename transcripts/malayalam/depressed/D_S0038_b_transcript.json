@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0038_b.wav",
+  "speaker_id": "S0038",
+  "language": "malayalam",
+  "transcript": "वे किने आरे मेंगा करनना आरे परेगनी किनी बिल्गा",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:03:13.969376",
+  "segments": [
+    {
+      "text": "वे किने आरे मेंगा करनना आरे परेगनी किनी बिल्गा",
+      "start_time": 0,
+      "end_time": 5.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "वे किने आरे मेंगा करनना आरे परेगनी किनी बिल्गा",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0125.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "பரس்பரம் ஏவேண்டைக் கிஞரி நல்ல செங்காட்டி மாட்டாய்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:35:51.542690",
+  "segments": [
+    {
+      "text": "பரس்பரம் ஏவேண்டைக் கிஞரி நல்ல செங்காட்டி மாட்டாய்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பரس்பரம் ஏவேண்டைக் கிஞரி நல்ல செங்காட்டி மாட்டாய்.",
+  "morphemes": []
+}

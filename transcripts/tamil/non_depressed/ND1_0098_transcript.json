@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0098.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "நாட்டையின் வைத்திலும் முட்டு பெரக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:42:56.879522",
+  "segments": [
+    {
+      "text": "நாட்டையின் வைத்திலும் முட்டு பெரக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நாட்டையின் வைத்திலும் முட்டு பெரக்கும்.",
+  "morphemes": []
+}

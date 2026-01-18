@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_55_2.wav",
+  "speaker_id": "F001_55",
+  "language": "malayalam",
+  "transcript": "நான் நிச்செல்லமாயா பூமில் இரியும் நான் ஒரு துவாரையானு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:26:29.373483",
+  "segments": [
+    {
+      "text": "நான் நிச்செல்லமாயா பூமில் இரியும் நான் ஒரு துவாரையானு.",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் நிச்செல்லமாயா பூமில் இரியும் நான் ஒரு துவாரையானு.",
+  "morphemes": []
+}

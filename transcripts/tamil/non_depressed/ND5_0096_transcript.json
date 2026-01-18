@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0096.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "தலைக்க்கி வந்தது தலைப்பாக ஏோடு போன்றது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:18:50.211940",
+  "segments": [
+    {
+      "text": "தலைக்க்கி வந்தது தலைப்பாக ஏோடு போன்றது.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தலைக்க்கி வந்தது தலைப்பாக ஏோடு போன்றது.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0029.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "பக்ஞ்சே கொண்டுபோய் சுறனாம் மாத்ரமில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:22:18.212739",
+  "segments": [
+    {
+      "text": "பக்ஞ்சே கொண்டுபோய் சுறனாம் மாத்ரமில்லை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பக்ஞ்சே கொண்டுபோய் சுறனாம் மாத்ரமில்லை.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_48_2.wav",
+  "speaker_id": "F001_48",
+  "language": "malayalam",
+  "transcript": "இன்னுக்கு சந்தோஷம் நக்கும் நான் உன்னும் வேண்டும் தோஷம் உன்னும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:22:01.772581",
+  "segments": [
+    {
+      "text": "இன்னுக்கு சந்தோஷம் நக்கும் நான் உன்னும் வேண்டும் தோஷம் உன்னும்",
+      "start_time": 0,
+      "end_time": 4.1,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இன்னுக்கு சந்தோஷம் நக்கும் நான் உன்னும் வேண்டும் தோஷம் உன்னும்",
+  "morphemes": []
+}

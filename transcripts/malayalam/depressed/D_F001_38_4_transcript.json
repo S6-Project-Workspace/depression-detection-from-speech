@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_38_4.wav",
+  "speaker_id": "F001_38",
+  "language": "malayalam",
+  "transcript": "ஒரு வெளியத்திருமானும் ஒரு கடமாய வெளியத்தோமும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:16:49.014171",
+  "segments": [
+    {
+      "text": "ஒரு வெளியத்திருமானும் ஒரு கடமாய வெளியத்தோமும்",
+      "start_time": 0,
+      "end_time": 5.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஒரு வெளியத்திருமானும் ஒரு கடமாய வெளியத்தோமும்",
+  "morphemes": []
+}

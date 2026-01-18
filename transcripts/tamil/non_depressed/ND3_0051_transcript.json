@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0051.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "இல்லமேயில் சொம்மல் முடுமேயில் வருட்டம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:26.970480",
+  "segments": [
+    {
+      "text": "இல்லமேயில் சொம்மல் முடுமேயில் வருட்டம்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இல்லமேயில் சொம்மல் முடுமேயில் வருட்டம்",
+  "morphemes": []
+}

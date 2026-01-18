@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0023_a.wav",
+  "speaker_id": "S0023",
+  "language": "malayalam",
+  "transcript": "நான் ஆரை மிஷ்டப் பெண்ணா, ஆரை மிஷ்டப் பெண்ணா, யோகின் அல்லவா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:50:30.708926",
+  "segments": [
+    {
+      "text": "நான் ஆரை மிஷ்டப் பெண்ணா, ஆரை மிஷ்டப் பெண்ணா, யோகின் அல்லவா?",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் ஆரை மிஷ்டப் பெண்ணா, ஆரை மிஷ்டப் பெண்ணா, யோகின் அல்லவா?",
+  "morphemes": []
+}

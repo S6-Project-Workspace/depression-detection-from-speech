@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0058.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "எல்லும் ஒருக்கும் உன்னிடியில்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:44.118978",
+  "segments": [
+    {
+      "text": "எல்லும் ஒருக்கும் உன்னிடியில்து.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எல்லும் ஒருக்கும் உன்னிடியில்து.",
+  "morphemes": []
+}

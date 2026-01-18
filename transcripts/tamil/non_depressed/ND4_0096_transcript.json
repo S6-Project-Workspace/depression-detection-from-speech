@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0096.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "தலைக்கு வந்துது தலைப்பாக யோடு போன்றாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:10:02.557895",
+  "segments": [
+    {
+      "text": "தலைக்கு வந்துது தலைப்பாக யோடு போன்றாது.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "தலைக்கு வந்துது தலைப்பாக யோடு போன்றாது.",
+  "morphemes": []
+}

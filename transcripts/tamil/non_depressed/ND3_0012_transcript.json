@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0012.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கொல்கையில் தெளிவு உள்ளவு ராலியதையும் சாதிக்க முடியும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:57:18.123476",
+  "segments": [
+    {
+      "text": "கொல்கையில் தெளிவு உள்ளவு ராலியதையும் சாதிக்க முடியும்.",
+      "start_time": 0,
+      "end_time": 2.44,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொல்கையில் தெளிவு உள்ளவு ராலியதையும் சாதிக்க முடியும்.",
+  "morphemes": []
+}

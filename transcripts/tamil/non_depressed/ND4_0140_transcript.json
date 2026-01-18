@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0140.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அன்பன் 55 வழியில் இங்கு வதை உயிருள்ள உடலாகும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:12:10.878042",
+  "segments": [
+    {
+      "text": "அன்பன் 55 வழியில் இங்கு வதை உயிருள்ள உடலாகும்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அன்பன் 55 வழியில் இங்கு வதை உயிருள்ள உடலாகும்.",
+  "morphemes": []
+}

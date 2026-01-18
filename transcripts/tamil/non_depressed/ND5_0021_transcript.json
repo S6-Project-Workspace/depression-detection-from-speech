@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0021.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "கோபமென்பது தக்கலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:15:21.591696",
+  "segments": [
+    {
+      "text": "கோபமென்பது தக்கலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கோபமென்பது தக்கலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "morphemes": []
+}

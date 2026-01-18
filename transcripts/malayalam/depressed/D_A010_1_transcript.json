@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A010_1.wav",
+  "speaker_id": "A010",
+  "language": "malayalam",
+  "transcript": "پچ்டில் எங்கள் எண்டு வேதுவில்லை நான் இருக்கிறது நான் உசிவியா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:28:06.616606",
+  "segments": [
+    {
+      "text": "پچ்டில் எங்கள் எண்டு வேதுவில்லை நான் இருக்கிறது நான் உசிவியா.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "پچ்டில் எங்கள் எண்டு வேதுவில்லை நான் இருக்கிறது நான் உசிவியா.",
+  "morphemes": []
+}

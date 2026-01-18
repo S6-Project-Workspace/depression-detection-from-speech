@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0030_a.wav",
+  "speaker_id": "S0030",
+  "language": "malayalam",
+  "transcript": "நான் உன்னும் அல்லா, நான் யாரு ஒருக்கும் இல்லாரும் என்று உபிஷிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:55:54.762905",
+  "segments": [
+    {
+      "text": "நான் உன்னும் அல்லா, நான் யாரு ஒருக்கும் இல்லாரும் என்று உபிஷிட்டு.",
+      "start_time": 0,
+      "end_time": 5.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் உன்னும் அல்லா, நான் யாரு ஒருக்கும் இல்லாரும் என்று உபிஷிட்டு.",
+  "morphemes": []
+}

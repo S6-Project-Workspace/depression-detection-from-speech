@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0020.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அங்கி நடங்கிக் கொண்டு இருப்போன்றால் சிரிய குடைய கடக்கமுடியாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:48:08.354134",
+  "segments": [
+    {
+      "text": "அங்கி நடங்கிக் கொண்டு இருப்போன்றால் சிரிய குடைய கடக்கமுடியாது.",
+      "start_time": 0,
+      "end_time": 3.26,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அங்கி நடங்கிக் கொண்டு இருப்போன்றால் சிரிய குடைய கடக்கமுடியாது.",
+  "morphemes": []
+}

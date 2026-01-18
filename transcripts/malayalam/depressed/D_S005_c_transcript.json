@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S005_c.wav",
+  "speaker_id": "S005",
+  "language": "malayalam",
+  "transcript": "எனக்கு என்னும் மான்னின்றின்று நின்றிருக்கிற்புடன் காரியமில்லாம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:19:56.020887",
+  "segments": [
+    {
+      "text": "எனக்கு என்னும் மான்னின்றின்று நின்றிருக்கிற்புடன் காரியமில்லாம்",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு என்னும் மான்னின்றின்று நின்றிருக்கிற்புடன் காரியமில்லாம்",
+  "morphemes": []
+}

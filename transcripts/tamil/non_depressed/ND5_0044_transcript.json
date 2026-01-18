@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0044.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "நம்பிக்கையில்லாதையிடத்தில் முயர்சியம் இருக்கமுடியாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:16:26.800384",
+  "segments": [
+    {
+      "text": "நம்பிக்கையில்லாதையிடத்தில் முயர்சியம் இருக்கமுடியாது.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "நம்பிக்கையில்லாதையிடத்தில் முயர்சியம் இருக்கமுடியாது.",
+  "morphemes": []
+}

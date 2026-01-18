@@ -1,8 +1,9 @@
 """
 Real-Time Depression Detection Streamlit App
 
-This app uses the trained ECAPA-TDNN and SSL models to detect
-depression markers in speech audio.
+This app uses the trained ECAPA-TDNN, SSL, and Multimodal models to detect
+depression markers in speech audio. Supports ASR transcription for multimodal
+analysis.
 
 Usage:
     streamlit run app.py
@@ -18,6 +19,7 @@ import torch.nn.functional as F
 import streamlit as st
 from pathlib import Path
 import time
+import json
 
 # Add current directory to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -26,6 +28,9 @@ from config import get_config
 from preprocessing import AudioPreprocessor
 from ssl_model import create_ssl_model
 from ecapa_model import create_ecapa_model
+from multimodal_model import create_multimodal_model
+from text_model import create_muril_model, MuRILTokenizerWrapper as MuRILTokenizer
+from text_preprocessing import create_preprocessor
 
 # Page configuration
 st.set_page_config(
@@ -115,7 +120,58 @@ def load_models(checkpoint_dir: str, device: str):
         except Exception as e:
             st.warning(f"Could not load SSL model: {e}")
     
+    # Try to load multimodal model
+    multimodal_path = os.path.join(checkpoint_dir, 'multimodal_fold_0', 'best_model.pt')
+    if os.path.exists(multimodal_path):
+        try:
+            # Create component models
+            audio_model = create_ssl_model(config)
+            text_model = create_muril_model(config.text_model)
+            
+            # Create multimodal model
+            multimodal_model = create_multimodal_model(
+                audio_model=audio_model,
+                text_model=text_model,
+                config=config.fusion
+            )
+            
+            checkpoint = torch.load(multimodal_path, map_location=device, weights_only=False)
+            multimodal_model.load_state_dict(checkpoint['model_state_dict'])
+            multimodal_model.to(device)
+            multimodal_model.eval()
+            models['multimodal'] = multimodal_model
+            st.success("✅ Multimodal model loaded successfully!")
+        except Exception as e:
+            st.warning(f"Could not load Multimodal model: {e}")
+    
     return models, config
+
+
+@st.cache_resource
+def load_asr_pipeline():
+    """Load ASR pipeline for transcription (cached)."""
+    try:
+        from asr_pipeline import create_asr_pipeline
+        from config import get_config
+        config = get_config('combined')
+        asr = create_asr_pipeline(config.asr)
+        return asr
+    except Exception as e:
+        st.warning(f"Could not load ASR pipeline: {e}")
+        return None
+
+
+@st.cache_resource
+def load_text_components():
+    """Load text tokenizer and preprocessor (cached)."""
+    try:
+        config = get_config('combined')
+        tokenizer = MuRILTokenizer(config.text_model)
+        preprocessor = create_preprocessor(config.text_preprocessing)
+        return tokenizer, preprocessor
+    except Exception as e:
+        st.warning(f"Could not load text components: {e}")
+        return None, None
 
 
 def get_device():
@@ -272,6 +328,170 @@ def predict_ssl(model, audio_data: dict, config, device: str) -> dict:
     }
 
 
+def transcribe_audio(audio_path: str, language: str = "tamil") -> dict:
+    """Transcribe audio using ASR pipeline.
+    
+    Args:
+        audio_path: Path to audio file
+        language: Language for transcription ("tamil" or "malayalam")
+        
+    Returns:
+        Dictionary with transcript and metadata
+    """
+    asr = load_asr_pipeline()
+    
+    if asr is None:
+        return {
+            'text': '',
+            'error': 'ASR pipeline not available',
+            'confidence': 0.0
+        }
+    
+    try:
+        result = asr.transcribe(audio_path, language=language)
+        return {
+            'text': result.text,
+            'error': result.error,
+            'confidence': result.confidence,
+            'language': language
+        }
+    except Exception as e:
+        return {
+            'text': '',
+            'error': str(e),
+            'confidence': 0.0
+        }
+
+
+def predict_multimodal(model, audio_data: dict, transcript: str, config, device: str) -> dict:
+    """Make prediction using multimodal model (audio + text).
+    
+    Args:
+        model: Multimodal model
+        audio_data: Processed audio data
+        transcript: Text transcript
+        config: Configuration
+        device: Device to use
+        
+    Returns:
+        Dictionary with prediction results
+    """
+    tokenizer, preprocessor = load_text_components()
+    
+    if tokenizer is None:
+        # Fall back to audio-only prediction
+        return predict_multimodal_audio_only(model, audio_data, config, device)
+    
+    all_probs = []
+    
+    # Preprocess text
+    if preprocessor is not None and transcript:
+        try:
+            preprocessed = preprocessor.preprocess(transcript)
+            text_input = preprocessed.morpheme_text if preprocessed.morpheme_text else preprocessed.normalized
+        except Exception:
+            text_input = transcript
+    else:
+        text_input = transcript
+    
+    # Tokenize text
+    try:
+        tokens = tokenizer.tokenize(text_input)
+        input_ids = tokens['input_ids'].to(device)
+        text_attention_mask = tokens['attention_mask'].to(device)
+    except Exception as e:
+        st.warning(f"Tokenization failed: {e}")
+        return predict_multimodal_audio_only(model, audio_data, config, device)
+    
+    # Process each audio chunk with the same text
+    for chunk in audio_data['chunks']:
+        waveform = torch.FloatTensor(chunk).unsqueeze(0).to(device)
+        
+        with torch.no_grad():
+            try:
+                logits = model(
+                    audio_input=waveform,
+                    text_input_ids=input_ids,
+                    text_attention_mask=text_attention_mask
+                )
+                probs = F.softmax(logits, dim=-1)
+                all_probs.append(probs[0, 1].cpu().item())
+            except Exception as e:
+                st.warning(f"Multimodal forward failed: {e}")
+                # Fall back to audio-only
+                logits = model.forward_audio_only(audio_input=waveform)
+                probs = F.softmax(logits, dim=-1)
+                all_probs.append(probs[0, 1].cpu().item())
+    
+    mean_prob = np.mean(all_probs)
+    
+    return {
+        'probability': mean_prob,
+        'prediction': 'Depressed' if mean_prob > 0.5 else 'Non-Depressed',
+        'confidence': max(mean_prob, 1 - mean_prob),
+        'chunk_probs': all_probs,
+        'used_text': bool(transcript)
+    }
+
+
+def predict_multimodal_audio_only(model, audio_data: dict, config, device: str) -> dict:
+    """Make prediction using multimodal model with audio only (fallback).
+    
+    Args:
+        model: Multimodal model
+        audio_data: Processed audio data
+        config: Configuration
+        device: Device to use
+        
+    Returns:
+        Dictionary with prediction results
+    """
+    all_probs = []
+    
+    for chunk in audio_data['chunks']:
+        waveform = torch.FloatTensor(chunk).unsqueeze(0).to(device)
+        
+        with torch.no_grad():
+            logits = model.forward_audio_only(audio_input=waveform)
+            probs = F.softmax(logits, dim=-1)
+            all_probs.append(probs[0, 1].cpu().item())
+    
+    mean_prob = np.mean(all_probs)
+    
+    return {
+        'probability': mean_prob,
+        'prediction': 'Depressed' if mean_prob > 0.5 else 'Non-Depressed',
+        'confidence': max(mean_prob, 1 - mean_prob),
+        'chunk_probs': all_probs,
+        'used_text': False
+    }
+
+
+def display_transcript(transcript_result: dict):
+    """Display ASR transcript with styling."""
+    if transcript_result.get('error'):
+        st.warning(f"⚠️ Transcription issue: {transcript_result['error']}")
+        return
+    
+    text = transcript_result.get('text', '')
+    confidence = transcript_result.get('confidence', 0.0)
+    language = transcript_result.get('language', 'unknown')
+    
+    if text:
+        st.markdown(f"""
+        <div style="background-color: #e3f2fd; padding: 1rem; border-radius: 8px; 
+                    border-left: 4px solid #1976d2; margin: 1rem 0;">
+            <h4 style="color: #1976d2; margin: 0 0 0.5rem 0;">📝 ASR Transcript ({language.title()})</h4>
+            <p style="font-size: 1.1rem; margin: 0; color: #333;">{text}</p>
+            <p style="font-size: 0.8rem; color: #666; margin-top: 0.5rem;">
+                Confidence: {confidence:.1%}
+            </p>
+        </div>
+        """, unsafe_allow_html=True)
+    else:
+        st.info("📝 No transcript available for this audio.")
+
+
 def display_results(results: dict, model_name: str):
     """Display prediction results with visualization."""
     prob = results['probability']
@@ -335,11 +555,31 @@ def main():
         help="Path to the directory containing trained model checkpoints"
     )
     
-    # Model selection
+    # Model selection - updated to include multimodal
     model_choice = st.sidebar.selectbox(
         "Model to Use",
-        ["ECAPA-TDNN (Recommended)", "SSL (Wav2Vec2)", "Both (Ensemble)"],
-        help="ECAPA-TDNN showed more consistent performance in evaluation"
+        [
+            "ECAPA-TDNN (Recommended)",
+            "SSL (Wav2Vec2)",
+            "Multimodal (Audio + Text)",
+            "Both (Ensemble)",
+            "All Models Comparison"
+        ],
+        help="Select which model(s) to use for prediction"
+    )
+    
+    # Language selection for ASR
+    language_choice = st.sidebar.selectbox(
+        "Audio Language",
+        ["Tamil", "Malayalam"],
+        help="Select the language of the audio for ASR transcription"
+    )
+    
+    # Enable/disable ASR transcription
+    enable_asr = st.sidebar.checkbox(
+        "Enable ASR Transcription",
+        value=True,
+        help="Generate text transcript from audio using ASR"
     )
     
     # Threshold adjustment
@@ -424,10 +664,12 @@ def main():
         **Available Models:**
         - **ECAPA-TDNN**: Spectral/prosodic features
         - **SSL**: Wav2Vec2 linguistic features
+        - **Multimodal**: Audio + Text fusion
         
         **Best Performance:**
         - ECAPA: ~98.4% Macro-F1
         - SSL: ~77.4% Macro-F1
+        - Multimodal: Combines both modalities
         
         **Tips for Recording:**
         - Speak naturally for 5-10 seconds
@@ -483,29 +725,69 @@ def main():
             # Display audio info
             st.info(f"📊 Audio Duration: {audio_data['duration']:.2f}s | Chunks: {len(audio_data['chunks'])}")
             
+            # ASR Transcription
+            transcript_text = ""
+            if enable_asr:
+                with st.spinner("Transcribing audio..."):
+                    transcript_result = transcribe_audio(
+                        audio_path,
+                        language=language_choice.lower()
+                    )
+                    display_transcript(transcript_result)
+                    transcript_text = transcript_result.get('text', '')
+            
             # Make predictions
             st.header("🎯 Prediction Results")
             
-            results_cols = st.columns(2 if model_choice == "Both (Ensemble)" else 1)
+            # Determine number of columns based on model choice
+            if model_choice == "All Models Comparison":
+                num_cols = min(3, len(models))
+                results_cols = st.columns(num_cols)
+            elif model_choice == "Both (Ensemble)":
+                results_cols = st.columns(2)
+            else:
+                results_cols = [st.container()]
             
-            if model_choice in ["ECAPA-TDNN (Recommended)", "Both (Ensemble)"]:
+            col_idx = 0
+            
+            # ECAPA-TDNN prediction
+            if model_choice in ["ECAPA-TDNN (Recommended)", "Both (Ensemble)", "All Models Comparison"]:
                 if 'ecapa' in models:
-                    with results_cols[0] if model_choice == "Both (Ensemble)" else st.container():
+                    with results_cols[col_idx % len(results_cols)]:
                         ecapa_results = predict_ecapa(models['ecapa'], audio_data, config, device)
                         display_results(ecapa_results, "ECAPA-TDNN")
+                    col_idx += 1
                 else:
                     st.warning("ECAPA model not available")
             
-            if model_choice in ["SSL (Wav2Vec2)", "Both (Ensemble)"]:
+            # SSL prediction
+            if model_choice in ["SSL (Wav2Vec2)", "Both (Ensemble)", "All Models Comparison"]:
                 if 'ssl' in models:
-                    col_idx = 1 if model_choice == "Both (Ensemble)" else 0
-                    with results_cols[col_idx] if model_choice == "Both (Ensemble)" else st.container():
+                    with results_cols[col_idx % len(results_cols)]:
                         ssl_results = predict_ssl(models['ssl'], audio_data, config, device)
                         display_results(ssl_results, "SSL (Wav2Vec2)")
+                    col_idx += 1
                 else:
                     st.warning("SSL model not available")
             
-            # Ensemble result
+            # Multimodal prediction
+            if model_choice in ["Multimodal (Audio + Text)", "All Models Comparison"]:
+                if 'multimodal' in models:
+                    with results_cols[col_idx % len(results_cols)] if col_idx < len(results_cols) else st.container():
+                        multimodal_results = predict_multimodal(
+                            models['multimodal'],
+                            audio_data,
+                            transcript_text,
+                            config,
+                            device
+                        )
+                        model_label = "Multimodal (Audio + Text)" if multimodal_results.get('used_text') else "Multimodal (Audio Only)"
+                        display_results(multimodal_results, model_label)
+                    col_idx += 1
+                else:
+                    st.warning("Multimodal model not available. Train with: `python train.py --model multimodal`")
+            
+            # Ensemble result for audio-only models
             if model_choice == "Both (Ensemble)" and 'ecapa' in models and 'ssl' in models:
                 st.markdown("---")
                 st.header("🔗 Ensemble Result")
@@ -522,6 +804,39 @@ def main():
                     'chunk_probs': [ensemble_prob]  # Single aggregated value
                 }
                 display_results(ensemble_results, "Ensemble (70% ECAPA + 30% SSL)")
+            
+            # Model comparison summary for "All Models Comparison"
+            if model_choice == "All Models Comparison":
+                st.markdown("---")
+                st.header("📊 Model Comparison Summary")
+                
+                comparison_data = []
+                if 'ecapa' in models:
+                    comparison_data.append({
+                        'Model': 'ECAPA-TDNN',
+                        'Prediction': ecapa_results['prediction'],
+                        'Confidence': f"{ecapa_results['confidence']:.1%}",
+                        'Depression Prob': f"{ecapa_results['probability']:.1%}"
+                    })
+                if 'ssl' in models:
+                    comparison_data.append({
+                        'Model': 'SSL (Wav2Vec2)',
+                        'Prediction': ssl_results['prediction'],
+                        'Confidence': f"{ssl_results['confidence']:.1%}",
+                        'Depression Prob': f"{ssl_results['probability']:.1%}"
+                    })
+                if 'multimodal' in models:
+                    comparison_data.append({
+                        'Model': 'Multimodal',
+                        'Prediction': multimodal_results['prediction'],
+                        'Confidence': f"{multimodal_results['confidence']:.1%}",
+                        'Depression Prob': f"{multimodal_results['probability']:.1%}"
+                    })
+                
+                if comparison_data:
+                    import pandas as pd
+                    df = pd.DataFrame(comparison_data)
+                    st.table(df)
     
     # Footer
     st.markdown("---")
@@ -529,6 +844,7 @@ def main():
     <div style="text-align: center; color: #888; padding: 1rem;">
         <p>🏆 DravidianLangTech @ ACL 2026 Shared Task</p>
         <p>Depression Detection in Tamil and Malayalam Speech</p>
+        <p>Supports Audio-Only, Text-Only, and Multimodal Analysis</p>
     </div>
     """, unsafe_allow_html=True)
 

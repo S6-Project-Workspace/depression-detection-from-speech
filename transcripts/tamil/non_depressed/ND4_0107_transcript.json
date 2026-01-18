@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0107.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "பலமரம் கணட்டத்தைச் சென்று ஒரு மரமும் வெட்டமாட்டான.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:10:50.415067",
+  "segments": [
+    {
+      "text": "பலமரம் கணட்டத்தைச் சென்று ஒரு மரமும் வெட்டமாட்டான.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "பலமரம் கணட்டத்தைச் சென்று ஒரு மரமும் வெட்டமாட்டான.",
+  "morphemes": []
+}

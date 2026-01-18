@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0055.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "இருக்கிறாய் பிடிங்கள் அல்லவா? குதிக்கிறாய் அடங்கள்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:27.091166",
+  "segments": [
+    {
+      "text": "இருக்கிறாய் பிடிங்கள் அல்லவா? குதிக்கிறாய் அடங்கள்.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இருக்கிறாய் பிடிங்கள் அல்லவா? குதிக்கிறாய் அடங்கள்.",
+  "morphemes": []
+}

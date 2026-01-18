@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0048.wav",
+  "speaker_id": "S0048",
+  "language": "malayalam",
+  "transcript": "எனக்கு எந்திராத் திருந்து பாதல்லை? எல்லாம் ஒரு மாதல் விப்பா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:09:48.955260",
+  "segments": [
+    {
+      "text": "எனக்கு எந்திராத் திருந்து பாதல்லை?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "எல்லாம் ஒரு மாதல் விப்பா.",
+      "start_time": 4.0,
+      "end_time": 7.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எனக்கு எந்திராத் திருந்து பாதல்லை? எல்லாம் ஒரு மாதல் விப்பா.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0138.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "அன்போவுடைய வருத்தம் உடமையும் பிறக்கு ஒருமியாகக்கு வாழ வருப்பு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:20:51.264195",
+  "segments": [
+    {
+      "text": "அன்போவுடைய வருத்தம் உடமையும் பிறக்கு ஒருமியாகக்கு வாழ வருப்பு.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அன்போவுடைய வருத்தம் உடமையும் பிறக்கு ஒருமியாகக்கு வாழ வருப்பு.",
+  "morphemes": []
+}

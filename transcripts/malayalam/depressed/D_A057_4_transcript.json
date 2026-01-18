@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A057_4.wav",
+  "speaker_id": "A057",
+  "language": "malayalam",
+  "transcript": "எந்த் தலக்கியாட்டும் மனத்தில் புர்மாட்டையிரிட்டுக்கோலே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:55:56.908473",
+  "segments": [
+    {
+      "text": "எந்த் தலக்கியாட்டும் மனத்தில் புர்மாட்டையிரிட்டுக்கோலே",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எந்த் தலக்கியாட்டும் மனத்தில் புர்மாட்டையிரிட்டுக்கோலே",
+  "morphemes": []
+}

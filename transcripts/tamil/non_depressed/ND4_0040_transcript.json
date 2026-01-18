@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0040.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "இரக்கம் காடலாம், ஆனால் ஏமாலியாகக்கு விடக்குடாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:07:49.204890",
+  "segments": [
+    {
+      "text": "இரக்கம் காடலாம், ஆனால் ஏமாலியாகக்கு விடக்குடாது.",
+      "start_time": 0,
+      "end_time": 2.64,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இரக்கம் காடலாம், ஆனால் ஏமாலியாகக்கு விடக்குடாது.",
+  "morphemes": []
+}

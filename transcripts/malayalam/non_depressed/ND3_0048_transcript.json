@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0048.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "கத்தக்கள் கேட்டு வலருந்தாலும் அரவுகள் நீங்களை வலருந்தீடு",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:27:41.657999",
+  "segments": [
+    {
+      "text": "கத்தக்கள் கேட்டு வலருந்தாலும் அரவுகள் நீங்களை வலருந்தீடு",
+      "start_time": 0,
+      "end_time": 2.92,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கத்தக்கள் கேட்டு வலருந்தாலும் அரவுகள் நீங்களை வலருந்தீடு",
+  "morphemes": []
+}

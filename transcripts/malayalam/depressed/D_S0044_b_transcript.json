@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0044_b.wav",
+  "speaker_id": "S0044",
+  "language": "malayalam",
+  "transcript": "nsangadam aayu aaryuundhila",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:07:28.377845",
+  "segments": [
+    {
+      "text": "nsangadam aayu aaryuundhila",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "nsangadam aayu aaryuundhila",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0184.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "உப்பொரு வினைக்கும் ஏதிரு வினை இத்தியமுண்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:47.770102",
+  "segments": [
+    {
+      "text": "உப்பொரு வினைக்கும் ஏதிரு வினை இத்தியமுண்டு.",
+      "start_time": 0,
+      "end_time": 2.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "உப்பொரு வினைக்கும் ஏதிரு வினை இத்தியமுண்டு.",
+  "morphemes": []
+}

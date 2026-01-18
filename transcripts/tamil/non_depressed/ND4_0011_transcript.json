@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0011.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "அறிவை வலைத்துக் கொண்டால் எல்லா விதமான பயங்களும் அகண்டு விடும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:20.056698",
+  "segments": [
+    {
+      "text": "அறிவை வலைத்துக் கொண்டால் எல்லா விதமான பயங்களும் அகண்டு விடும்.",
+      "start_time": 0,
+      "end_time": 3.16,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அறிவை வலைத்துக் கொண்டால் எல்லா விதமான பயங்களும் அகண்டு விடும்.",
+  "morphemes": []
+}

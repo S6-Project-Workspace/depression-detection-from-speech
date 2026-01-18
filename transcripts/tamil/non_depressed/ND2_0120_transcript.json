@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0120.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "வாணம் சிடக்கா தானம் சிடக்கும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:19.916150",
+  "segments": [
+    {
+      "text": "வாணம் சிடக்கா தானம் சிடக்கும்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வாணம் சிடக்கா தானம் சிடக்கும்.",
+  "morphemes": []
+}

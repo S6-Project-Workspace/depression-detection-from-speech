@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A019_1.wav",
+  "speaker_id": "A019",
+  "language": "malayalam",
+  "transcript": "என்னைக்குச் சவயம் திருமானம் எடுக்கம் போலின் கட்டியும் இல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:34:27.495137",
+  "segments": [
+    {
+      "text": "என்னைக்குச் சவயம் திருமானம் எடுக்கம் போலின் கட்டியும் இல்லையா?",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னைக்குச் சவயம் திருமானம் எடுக்கம் போலின் கட்டியும் இல்லையா?",
+  "morphemes": []
+}

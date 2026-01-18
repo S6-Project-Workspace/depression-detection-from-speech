@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0043_a.wav",
+  "speaker_id": "S0043",
+  "language": "malayalam",
+  "transcript": "இந்தி உல்லில் இருட்டு, ஆர் இங்காடும் இல்லையா?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:06:59.423941",
+  "segments": [
+    {
+      "text": "இந்தி உல்லில் இருட்டு, ஆர் இங்காடும் இல்லையா?",
+      "start_time": 0,
+      "end_time": 5.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "இந்தி உல்லில் இருட்டு, ஆர் இங்காடும் இல்லையா?",
+  "morphemes": []
+}

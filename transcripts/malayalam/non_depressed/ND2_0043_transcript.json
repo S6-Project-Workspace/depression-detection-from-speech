@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0043.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "மேல ஆளின்னும் அமிதமாயி படமிடாக்கில்லை என்ன அயால் ஒருப்பு நல்கி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:00:52.804552",
+  "segments": [
+    {
+      "text": "மேல ஆளின்னும் அமிதமாயி படமிடாக்கில்லை என்ன அயால் ஒருப்பு நல்கி.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "மேல ஆளின்னும் அமிதமாயி படமிடாக்கில்லை என்ன அயால் ஒருப்பு நல்கி.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A042_3.wav",
+  "speaker_id": "A042",
+  "language": "malayalam",
+  "transcript": "என்ற சோப்னுங்கள் இல்லை. இப்போது மாதிருத்தார் மாறையாகப் போலியானே.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:48:09.997518",
+  "segments": [
+    {
+      "text": "என்ற சோப்னுங்கள் இல்லை. இப்போது மாதிருத்தார் மாறையாகப் போலியானே.",
+      "start_time": 0,
+      "end_time": 4.3,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்ற சோப்னுங்கள் இல்லை. இப்போது மாதிருத்தார் மாறையாகப் போலியானே.",
+  "morphemes": []
+}

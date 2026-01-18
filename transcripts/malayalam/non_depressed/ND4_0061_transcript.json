@@ -1,0 +1,32 @@
+{
+  "audio_file": "ND4_0061.wav",
+  "speaker_id": "ND4",
+  "language": "malayalam",
+  "transcript": "சிட்டு பாடும் சரத்திச்சா ராஜாவா, சத்துக்கள் தண்ணே தேடி வெண்ணாண்டு கொல்லாம்கள் கேட்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:56:12.909699",
+  "segments": [
+    {
+      "text": "சிட்டு பாடும் சரத்திச்சா ராஜாவா,",
+      "start_time": 0,
+      "end_time": 1.6,
+      "confidence": 1.0
+    },
+    {
+      "text": "சத்துக்கள் தண்ணே தேடி வெண்ணாண்டு",
+      "start_time": 1.6,
+      "end_time": 3.28,
+      "confidence": 1.0
+    },
+    {
+      "text": "கொல்லாம்கள் கேட்டும்.",
+      "start_time": 3.28,
+      "end_time": 5.28,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "சிட்டு பாடும் சரத்திச்சா ராஜாவா, சத்துக்கள் தண்ணே தேடி வெண்ணாண்டு கொல்லாம்கள் கேட்டும்.",
+  "morphemes": []
+}

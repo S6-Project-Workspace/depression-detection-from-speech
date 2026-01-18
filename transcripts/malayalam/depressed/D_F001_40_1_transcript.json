@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_40_1.wav",
+  "speaker_id": "F001_40",
+  "language": "malayalam",
+  "transcript": "நான் பயப்படாதான் ஒரு நிமிஷிக்கும் ஒரு உள்ளுவில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:18:00.572064",
+  "segments": [
+    {
+      "text": "நான் பயப்படாதான் ஒரு நிமிஷிக்கும் ஒரு உள்ளுவில்லை.",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் பயப்படாதான் ஒரு நிமிஷிக்கும் ஒரு உள்ளுவில்லை.",
+  "morphemes": []
+}

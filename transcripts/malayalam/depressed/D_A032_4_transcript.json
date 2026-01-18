@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A032_4.wav",
+  "speaker_id": "A032",
+  "language": "malayalam",
+  "transcript": "நான் இந்தப் பார்னை அது பொல்லை இருக்கும் தேட்டான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:44:26.869362",
+  "segments": [
+    {
+      "text": "நான் இந்தப் பார்னை அது பொல்லை இருக்கும் தேட்டான்.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "நான் இந்தப் பார்னை அது பொல்லை இருக்கும் தேட்டான்.",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_66_3.wav",
+  "speaker_id": "F001_66",
+  "language": "malayalam",
+  "transcript": "என்னுக்கு வேண்டும் எந்தான் துப்போல் மறையாது என்னியும் உண்ணு?",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:34:22.478459",
+  "segments": [
+    {
+      "text": "என்னுக்கு வேண்டும் எந்தான் துப்போல் மறையாது என்னியும் உண்ணு?",
+      "start_time": 0,
+      "end_time": 3.5,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "என்னுக்கு வேண்டும் எந்தான் துப்போல் மறையாது என்னியும் உண்ணு?",
+  "morphemes": []
+}

@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0123.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "அச்சாணி இல்லாது தேர் முத்தானும் முடாது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:53:27.225339",
+  "segments": [
+    {
+      "text": "அச்சாணி இல்லாது தேர் முத்தானும் முடாது.",
+      "start_time": 0,
+      "end_time": 2.2,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அச்சாணி இல்லாது தேர் முத்தானும் முடாது.",
+  "morphemes": []
+}

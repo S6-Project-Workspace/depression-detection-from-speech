@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0004.wav",
+  "speaker_id": "ND5",
+  "language": "malayalam",
+  "transcript": "Palapuram, Pawapetaviril, Amidamai, Vardagai, Enathilamacham, Orupaadapadam, Ayalida, Kieru.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-17T22:18:23.106672",
+  "segments": [
+    {
+      "text": "Palapuram, Pawapetaviril, Amidamai, Vardagai, Enathilamacham, Orupaadapadam, Ayalida, Kieru.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "Palapuram, Pawapetaviril, Amidamai, Vardagai, Enathilamacham, Orupaadapadam, Ayalida, Kieru.",
+  "morphemes": []
+}

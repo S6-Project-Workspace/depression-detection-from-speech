@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_F001_3_4.wav",
+  "speaker_id": "F001_3",
+  "language": "malayalam",
+  "transcript": "எதுவில் இسுவுணியதை தரானான் செய்யானேன் என்று காயின்னை இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:17:57.490470",
+  "segments": [
+    {
+      "text": "எதுவில் இسுவுணியதை தரானான் செய்யானேன் என்று காயின்னை இல்லை.",
+      "start_time": 0,
+      "end_time": 6.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "எதுவில் இسுவுணியதை தரானான் செய்யானேன் என்று காயின்னை இல்லை.",
+  "morphemes": []
+}

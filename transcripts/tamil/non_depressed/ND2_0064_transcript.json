@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0064.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கலகம் பிறந்தால் நியாயம் பிறகும்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:26.834377",
+  "segments": [
+    {
+      "text": "கலகம் பிறந்தால் நியாயம் பிறகும்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கலகம் பிறந்தால் நியாயம் பிறகும்",
+  "morphemes": []
+}

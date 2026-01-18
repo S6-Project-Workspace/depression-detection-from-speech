@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0058.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "எல்லாம் இருக்கும் ஒவ்வொண்டு இருந்து.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:34.012137",
+  "segments": [
+    {
+      "text": "எல்லாம் இருக்கும் ஒவ்வொண்டு இருந்து.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எல்லாம் இருக்கும் ஒவ்வொண்டு இருந்து.",
+  "morphemes": []
+}

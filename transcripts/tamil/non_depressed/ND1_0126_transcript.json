@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0126.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அரசனிலாது நாடு அச்சிலாது தேரு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:43:59.774732",
+  "segments": [
+    {
+      "text": "அரசனிலாது நாடு அச்சிலாது தேரு.",
+      "start_time": 0,
+      "end_time": 2.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அரசனிலாது நாடு அச்சிலாது தேரு.",
+  "morphemes": []
+}

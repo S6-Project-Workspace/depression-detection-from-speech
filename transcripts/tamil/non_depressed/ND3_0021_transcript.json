@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0021.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "கோபவி என்பது தருக்கலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:58:06.639141",
+  "segments": [
+    {
+      "text": "கோபவி என்பது தருக்கலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கோபவி என்பது தருக்கலிகமான ஒரு பைத்தியைக் காரத்தனம்.",
+  "morphemes": []
+}

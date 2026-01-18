@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0128.wav",
+  "speaker_id": "ND1",
+  "language": "malayalam",
+  "transcript": "புச்சகங்களும் நிருந்த படையா தடியாளமார்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:46:57.366802",
+  "segments": [
+    {
+      "text": "புச்சகங்களும் நிருந்த படையா தடியாளமார்.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "புச்சகங்களும் நிருந்த படையா தடியாளமார்.",
+  "morphemes": []
+}

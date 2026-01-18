@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0071.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "கொள்ளைக் கொஞ்சாதமன் பலிக்க கொஞ்சான்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:50:43.456030",
+  "segments": [
+    {
+      "text": "கொள்ளைக் கொஞ்சாதமன் பலிக்க கொஞ்சான்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "கொள்ளைக் கொஞ்சாதமன் பலிக்க கொஞ்சான்.",
+  "morphemes": []
+}

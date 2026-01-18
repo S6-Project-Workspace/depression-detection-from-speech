@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0042.wav",
+  "speaker_id": "ND2",
+  "language": "malayalam",
+  "transcript": "திராமத்தில் ஐயாங்களுடையாள் மாப்புச் சுத்துவிட்டு.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:00:49.410471",
+  "segments": [
+    {
+      "text": "திராமத்தில் ஐயாங்களுடையாள் மாப்புச் சுத்துவிட்டு.",
+      "start_time": 0,
+      "end_time": 2.6,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "திராமத்தில் ஐயாங்களுடையாள் மாப்புச் சுத்துவிட்டு.",
+  "morphemes": []
+}

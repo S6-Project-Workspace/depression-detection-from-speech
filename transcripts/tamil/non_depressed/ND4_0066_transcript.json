@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0066.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "காசிக்கு ஒரு குத்ரையும் மேண்டும் காட்றைப் போல பரக்கம் மேண்டும்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:08:52.718668",
+  "segments": [
+    {
+      "text": "காசிக்கு ஒரு குத்ரையும் மேண்டும் காட்றைப் போல பரக்கம் மேண்டும்.",
+      "start_time": 0,
+      "end_time": 3.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "காசிக்கு ஒரு குத்ரையும் மேண்டும் காட்றைப் போல பரக்கம் மேண்டும்.",
+  "morphemes": []
+}

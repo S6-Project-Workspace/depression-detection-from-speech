@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND2_0001.wav",
+  "speaker_id": "ND2",
+  "language": "tamil",
+  "transcript": "வையை முறுத்தலை விடு நய வஞ்சிக்கம் பளமானது.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:46:50.267650",
+  "segments": [
+    {
+      "text": "வையை முறுத்தலை விடு நய வஞ்சிக்கம் பளமானது.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வையை முறுத்தலை விடு நய வஞ்சிக்கம் பளமானது.",
+  "morphemes": []
+}

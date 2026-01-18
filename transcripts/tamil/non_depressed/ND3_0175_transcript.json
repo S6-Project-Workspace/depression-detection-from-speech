@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0175.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "வீட்டில்லையில் வெளியில் புளி.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:05:24.776193",
+  "segments": [
+    {
+      "text": "வீட்டில்லையில் வெளியில் புளி.",
+      "start_time": 0,
+      "end_time": 1.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வீட்டில்லையில் வெளியில் புளி.",
+  "morphemes": []
+}

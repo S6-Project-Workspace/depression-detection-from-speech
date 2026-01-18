@@ -1,0 +1,26 @@
+{
+  "audio_file": "D_S0056_a.wav",
+  "speaker_id": "S0056",
+  "language": "malayalam",
+  "transcript": "i nia 1 kg en paare boli ayurikken enikki kare illa",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:15:49.712956",
+  "segments": [
+    {
+      "text": "i nia 1 kg",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    },
+    {
+      "text": "en paare boli ayurikken enikki kare illa",
+      "start_time": 2.0,
+      "end_time": 5.42,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "i nia 1 kg en paare boli ayurikken enikki kare illa",
+  "morphemes": []
+}

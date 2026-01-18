@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND1_0033.wav",
+  "speaker_id": "ND1",
+  "language": "tamil",
+  "transcript": "அப்பத்தில் ஒரு வாதுத்து நட்டில்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:33:27.099163",
+  "segments": [
+    {
+      "text": "அப்பத்தில் ஒரு வாதுத்து நட்டில்லை.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "அப்பத்தில் ஒரு வாதுத்து நட்டில்லை.",
+  "morphemes": []
+}

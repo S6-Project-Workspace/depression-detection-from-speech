@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND5_0168.wav",
+  "speaker_id": "ND5",
+  "language": "tamil",
+  "transcript": "வல்ல வணக்கு புள்ளுமாயுதம்",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:22:04.531948",
+  "segments": [
+    {
+      "text": "வல்ல வணக்கு புள்ளுமாயுதம்",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வல்ல வணக்கு புள்ளுமாயுதம்",
+  "morphemes": []
+}

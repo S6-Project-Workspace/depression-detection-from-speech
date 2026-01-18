@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_A027_2.wav",
+  "speaker_id": "A027",
+  "language": "malayalam",
+  "transcript": "ஏக்கான் அடியாஸ்ரிக்கான் ஏக்கான் ஏனென்னு எப்பொரும் அட்டிக்கானே",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:40:03.241401",
+  "segments": [
+    {
+      "text": "ஏக்கான் அடியாஸ்ரிக்கான் ஏக்கான் ஏனென்னு எப்பொரும் அட்டிக்கானே",
+      "start_time": 0,
+      "end_time": 4.4,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "ஏக்கான் அடியாஸ்ரிக்கான் ஏக்கான் ஏனென்னு எப்பொரும் அட்டிக்கானே",
+  "morphemes": []
+}

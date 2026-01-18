@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0042.wav",
+  "speaker_id": "ND3",
+  "language": "malayalam",
+  "transcript": "گிராமத்தில்ஜனங்களாவுடையான் மாப்பைச்சு வந்துச் சொல்கிறோம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T18:26:37.059588",
+  "segments": [
+    {
+      "text": "گிராமத்தில்ஜனங்களாவுடையான் மாப்பைச்சு வந்துச் சொல்கிறோம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "گிராமத்தில்ஜனங்களாவுடையான் மாப்பைச்சு வந்துச் சொல்கிறோம்.",
+  "morphemes": []
+}

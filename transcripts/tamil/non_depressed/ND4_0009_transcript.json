@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND4_0009.wav",
+  "speaker_id": "ND4",
+  "language": "tamil",
+  "transcript": "இடையில் நான் வைப்புகள் உள்ளிந்திருக்கிறேன்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:06:14.318568",
+  "segments": [
+    {
+      "text": "இடையில் நான் வைப்புகள் உள்ளிந்திருக்கிறேன்.",
+      "start_time": 0,
+      "end_time": 2.76,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "இடையில் நான் வைப்புகள் உள்ளிந்திருக்கிறேன்.",
+  "morphemes": []
+}

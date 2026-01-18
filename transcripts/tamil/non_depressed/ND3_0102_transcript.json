@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0102.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "வார்வி குறை வைத்து செல்வாம்.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T15:02:07.349281",
+  "segments": [
+    {
+      "text": "வார்வி குறை வைத்து செல்வாம்.",
+      "start_time": 0,
+      "end_time": 2.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "வார்வி குறை வைத்து செல்வாம்.",
+  "morphemes": []
+}

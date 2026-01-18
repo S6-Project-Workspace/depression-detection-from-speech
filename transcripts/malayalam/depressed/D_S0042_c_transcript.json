@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0042_c.wav",
+  "speaker_id": "S0042",
+  "language": "malayalam",
+  "transcript": "जीमीत हम रही पाही मारे",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T17:06:54.831440",
+  "segments": [
+    {
+      "text": "जीमीत हम रही पाही मारे",
+      "start_time": 0,
+      "end_time": 4.8,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "जीमीत हम रही पाही मारे",
+  "morphemes": []
+}

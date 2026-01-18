@@ -1,0 +1,20 @@
+{
+  "audio_file": "D_S0020.wav",
+  "speaker_id": "S0020",
+  "language": "malayalam",
+  "transcript": "உள்ளில் ஒன்று உங்கள் வேதனாருங்கானம் இல்லை.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T16:47:47.082600",
+  "segments": [
+    {
+      "text": "உள்ளில் ஒன்று உங்கள் வேதனாருங்கானம் இல்லை.",
+      "start_time": 0,
+      "end_time": 4.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 1,
+  "normalized_text": "உள்ளில் ஒன்று உங்கள் வேதனாருங்கானம் இல்லை.",
+  "morphemes": []
+}

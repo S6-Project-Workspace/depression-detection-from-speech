@@ -1,0 +1,20 @@
+{
+  "audio_file": "ND3_0052.wav",
+  "speaker_id": "ND3",
+  "language": "tamil",
+  "transcript": "எத்திருக்கையால் காக்கையும் ஒட்டாது வெள்பித்தைக் குடுப்பானா.",
+  "confidence": 1.0,
+  "timestamp": "2026-01-16T14:59:30.211911",
+  "segments": [
+    {
+      "text": "எத்திருக்கையால் காக்கையும் ஒட்டாது வெள்பித்தைக் குடுப்பானா.",
+      "start_time": 0,
+      "end_time": 3.0,
+      "confidence": 1.0
+    }
+  ],
+  "error": null,
+  "label": 0,
+  "normalized_text": "எத்திருக்கையால் காக்கையும் ஒட்டாது வெள்பித்தைக் குடுப்பானா.",
+  "morphemes": []
+}
