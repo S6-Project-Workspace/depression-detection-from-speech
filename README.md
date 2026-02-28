@@ -20,12 +20,6 @@ AI-powered clinical decision support system for depression detection using multi
 
 ## About the Project
 
-This system was developed by Team Thudakkam and awarded at GenAI Hackathon ML.Cbe 2025, organized by AI Tamil Nadu in collaboration with Nunnari Labs, DeepWeaver.ai, and Google for Developers.
-
----
-
-## About the Project
-
 This project is a production-ready system for real-time depression risk assessment in Tamil and Malayalam, combining:
 - Speech analysis (audio models)
 - Text analysis (NLP models)
