@@ -53,20 +53,24 @@ The system uses a modular architecture with separate pipelines for audio, text, 
 ```mermaid
 graph TB
     subgraph User["User / Clinician"]
-        UI[Streamlit Dashboard]
+        UI["Streamlit Dashboard"]
     end
+
     subgraph Audio["Audio Pipeline"]
-        ASR[Speech-to-Text (Whisper)]
-        AM[Audio Model (ECAPA, SSL)]
+        ASR["Speech-to-Text - Whisper"]
+        AM["Audio Model - ECAPA / SSL"]
     end
+
     subgraph Text["Text Pipeline"]
-        TP[Text Preprocessing]
-        TM[NLP Model (MuRIL, TF-IDF)]
-        LF[Linguistic Features]
+        TP["Text Preprocessing"]
+        TM["NLP Model - MuRIL / TF-IDF"]
+        LF["Linguistic Features"]
     end
+
     subgraph Fusion["Multimodal Fusion"]
-        FM[Fusion Model]
+        FM["Fusion Model"]
     end
+
     UI --> ASR
     ASR --> AM
     UI --> TP
