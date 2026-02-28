@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Capture Property Tests</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: #1a1a1a;
+            color: #00ff00;
+            padding: 20px;
+            margin: 0;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            color: #00ffff;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .test-output {
+            background: #000;
+            border: 1px solid #333;
+            border-radius: 5px;
+            padding: 20px;
+            min-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        
+        .controls {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        button {
+            background: #333;
+            color: #00ff00;
+            border: 1px solid #555;
+            padding: 10px 20px;
+            margin: 0 10px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-family: inherit;
+        }
+        
+        button:hover {
+            background: #555;
+        }
+        
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .status {
+            text-align: center;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        
+        .status.running {
+            color: #ffff00;
+        }
+        
+        .status.passed {
+            color: #00ff00;
+        }
+        
+        .status.failed {
+            color: #ff0000;
+        }
+        
+        /* Mock elements for testing */
+        .audio-controls {
+            display: none;
+        }
+        
+        .quality-indicator {
+            display: none;
+        }
+        
+        .quality-bar {
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        
+        #transcription-text {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧪 NLP Web Interface Property Tests</h1>
+        
+        <div class="controls">
+            <button id="run-audio-tests" onclick="runAudioTests()">Run Audio Tests</button>
+            <button id="run-viz-tests" onclick="runVisualizationTests()">Run Visualization Tests</button>
+            <button id="run-ui-tests" onclick="runUITests()">Run UI Tests</button>
+            <button id="run-all-tests" onclick="runAllTests()">Run All Tests</button>
+            <button id="clear-output" onclick="clearOutput()">Clear Output</button>
+        </div>
+        
+        <div id="status" class="status">Ready to run tests</div>
+        
+        <div id="test-output" class="test-output">
+Click "Run All Tests" to start property-based testing...
+
+This will test:
+
+AUDIO CAPTURE PROPERTIES:
+- Property 34: Signal level monitoring (Requirements 8.1)
+- Property 27: Connection resilience (Requirements 6.3)
+
+VISUALIZATION PROPERTIES:
+- Property 11: POS tag visualization (Requirements 3.1)
+- Property 12: Named entity highlighting (Requirements 3.2)
+- Property 13: Dependency tree rendering (Requirements 3.3)
+
+UI FUNCTIONALITY PROPERTIES:
+- Property 30: Responsive design (Requirements 7.1)
+- Property 31: Loading state management (Requirements 7.3)
+- Property 33: Error handling and recovery (Requirements 7.5)
+
+Each property will be tested with 50-100 random inputs to verify universal correctness.
+        </div>
+        
+        <!-- Mock DOM elements for testing -->
+        <div class="audio-controls" style="display: none;">
+            <button id="start-recording">Start Recording</button>
+            <button id="stop-recording" disabled>Stop Recording</button>
+            <div class="audio-quality">
+                <div class="quality-indicator" id="quality-indicator">
+                    <div class="quality-bar"></div>
+                </div>
+            </div>
+        </div>
+        <div id="transcription-text" style="display: none;"></div>
+    </div>
+    
+    <!-- Load dependencies -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="/static/js/audio-capture.js"></script>
+    <script src="/static/js/websocket-client.js"></script>
+    <script src="/static/js/visualization.js"></script>
+    <script src="/static/js/test-audio-capture-properties.js"></script>
+    <script src="/static/js/test-visualization-properties.js"></script>
+    <script src="/static/js/test-ui-functionality-properties.js"></script>
+    
+    <script>
+        let audioTestRunner = null;
+        let vizTestRunner = null;
+        let uiTestRunner = null;
+        let isRunning = false;
+        
+        // Override console.log to capture output
+        const originalConsoleLog = console.log;
+        const originalConsoleError = console.error;
+        
+        function captureConsoleOutput() {
+            const output = document.getElementById('test-output');
+            
+            console.log = function(...args) {
+                const message = args.map(arg => 
+                    typeof arg === 'object' ? JSON.stringify(arg, null, 2) : String(arg)
+                ).join(' ');
+                
+                output.textContent += message + '\n';
+                output.scrollTop = output.scrollHeight;
+                
+                // Also log to original console
+                originalConsoleLog.apply(console, args);
+            };
+            
+            console.error = function(...args) {
+                const message = args.map(arg => 
+                    typeof arg === 'object' ? JSON.stringify(arg, null, 2) : String(arg)
+                ).join(' ');
+                
+                output.textContent += '❌ ERROR: ' + message + '\n';
+                output.scrollTop = output.scrollHeight;
+                
+                // Also log to original console
+                originalConsoleError.apply(console, args);
+            };
+        }
+        
+        function restoreConsoleOutput() {
+            console.log = originalConsoleLog;
+            console.error = originalConsoleError;
+        }
+        
+        async function runAudioTests() {
+            if (isRunning) return;
+            
+            isRunning = true;
+            const status = document.getElementById('status');
+            const output = document.getElementById('test-output');
+            
+            disableButtons();
+            status.textContent = 'Running audio tests...';
+            status.className = 'status running';
+            output.textContent = '';
+            
+            captureConsoleOutput();
+            
+            try {
+                console.log('🚀 Initializing Audio Capture Property Tests...\n');
+                
+                // Create test runner
+                audioTestRunner = new AudioCapturePropertyTests();
+                
+                // Run all tests
+                const result = await audioTestRunner.runAllTests();
+                
+                // Update status
+                if (result.success) {
+                    status.textContent = '✅ Audio tests passed!';
+                    status.className = 'status passed';
+                } else {
+                    status.textContent = '❌ Some audio tests failed';
+                    status.className = 'status failed';
+                }
+                
+                console.log('\n🏁 Audio testing complete!');
+                
+            } catch (error) {
+                console.error('Audio test execution failed:', error);
+                status.textContent = '❌ Audio test execution failed';
+                status.className = 'status failed';
+            } finally {
+                restoreConsoleOutput();
+                enableButtons();
+                isRunning = false;
+            }
+        }
+        
+        async function runUITests() {
+            if (isRunning) return;
+            
+            isRunning = true;
+            const status = document.getElementById('status');
+            const output = document.getElementById('test-output');
+            
+            disableButtons();
+            status.textContent = 'Running UI tests...';
+            status.className = 'status running';
+            output.textContent = '';
+            
+            captureConsoleOutput();
+            
+            try {
+                console.log('🚀 Initializing UI Functionality Property Tests...\n');
+                
+                // Create test runner
+                uiTestRunner = new UIFunctionalityPropertyTests();
+                
+                // Run all tests
+                const result = await uiTestRunner.runAllTests();
+                
+                // Update status
+                if (result.allPassed) {
+                    status.textContent = '✅ UI tests passed!';
+                    status.className = 'status passed';
+                } else {
+                    status.textContent = '❌ Some UI tests failed';
+                    status.className = 'status failed';
+                }
+                
+                console.log('\n🏁 UI testing complete!');
+                
+            } catch (error) {
+                console.error('UI test execution failed:', error);
+                status.textContent = '❌ UI test execution failed';
+                status.className = 'status failed';
+            } finally {
+                restoreConsoleOutput();
+                enableButtons();
+                isRunning = false;
+            }
+        }
+        
+        async function runVisualizationTests() {
+            if (isRunning) return;
+            
+            isRunning = true;
+            const status = document.getElementById('status');
+            const output = document.getElementById('test-output');
+            
+            disableButtons();
+            status.textContent = 'Running visualization tests...';
+            status.className = 'status running';
+            output.textContent = '';
+            
+            captureConsoleOutput();
+            
+            try {
+                console.log('🚀 Initializing Visualization Property Tests...\n');
+                
+                // Wait for D3.js to be available
+                if (typeof d3 === 'undefined') {
+                    throw new Error('D3.js not loaded');
+                }
+                
+                // Create test runner
+                vizTestRunner = new VisualizationPropertyTests();
+                
+                // Run all tests
+                const result = await vizTestRunner.runAllTests();
+                
+                // Update status
+                if (result.allPassed) {
+                    status.textContent = '✅ Visualization tests passed!';
+                    status.className = 'status passed';
+                } else {
+                    status.textContent = '❌ Some visualization tests failed';
+                    status.className = 'status failed';
+                }
+                
+                console.log('\n🏁 Visualization testing complete!');
+                
+            } catch (error) {
+                console.error('Visualization test execution failed:', error);
+                status.textContent = '❌ Visualization test execution failed';
+                status.className = 'status failed';
+            } finally {
+                restoreConsoleOutput();
+                enableButtons();
+                isRunning = false;
+            }
+        }
+        
+        async function runAllTests() {
+            if (isRunning) return;
+            
+            isRunning = true;
+            const status = document.getElementById('status');
+            const output = document.getElementById('test-output');
+            
+            disableButtons();
+            status.textContent = 'Running all tests...';
+            status.className = 'status running';
+            output.textContent = '';
+            
+            captureConsoleOutput();
+            
+            try {
+                console.log('🚀 Running All NLP Web Interface Property Tests...\n');
+                
+                // Run audio tests
+                console.log('=== AUDIO CAPTURE TESTS ===');
+                audioTestRunner = new AudioCapturePropertyTests();
+                const audioResult = await audioTestRunner.runAllTests();
+                
+                console.log('\n=== VISUALIZATION TESTS ===');
+                
+                // Wait for D3.js to be available
+                if (typeof d3 === 'undefined') {
+                    throw new Error('D3.js not loaded');
+                }
+                
+                // Run visualization tests
+                vizTestRunner = new VisualizationPropertyTests();
+                const vizResult = await vizTestRunner.runAllTests();
+                
+                console.log('\n=== UI FUNCTIONALITY TESTS ===');
+                
+                // Run UI functionality tests
+                uiTestRunner = new UIFunctionalityPropertyTests();
+                const uiResult = await uiTestRunner.runAllTests();
+                
+                // Overall summary
+                const allPassed = audioResult.success && vizResult.allPassed && uiResult.allPassed;
+                const totalTests = audioResult.totalTests + vizResult.totalTests + uiResult.totalTests;
+                const totalPassed = audioResult.totalPassed + vizResult.totalPassed + uiResult.totalPassed;
+                
+                console.log('\n🎯 OVERALL TEST SUMMARY');
+                console.log('========================');
+                console.log(`Result: ${allPassed ? '✅ ALL PASSED' : '❌ SOME FAILED'}`);
+                console.log(`Total: ${totalPassed}/${totalTests} tests passed`);
+                console.log(`Audio: ${audioResult.totalPassed}/${audioResult.totalTests}`);
+                console.log(`Visualization: ${vizResult.totalPassed}/${vizResult.totalTests}`);
+                console.log(`UI Functionality: ${uiResult.totalPassed}/${uiResult.totalTests}`);
+                
+                // Update status
+                if (allPassed) {
+                    status.textContent = '✅ All tests passed!';
+                    status.className = 'status passed';
+                } else {
+                    status.textContent = '❌ Some tests failed';
+                    status.className = 'status failed';
+                }
+                
+                console.log('\n🏁 All testing complete!');
+                
+            } catch (error) {
+                console.error('Test execution failed:', error);
+                status.textContent = '❌ Test execution failed';
+                status.className = 'status failed';
+            } finally {
+                restoreConsoleOutput();
+                enableButtons();
+                isRunning = false;
+            }
+        }
+        
+        function disableButtons() {
+            document.getElementById('run-audio-tests').disabled = true;
+            document.getElementById('run-viz-tests').disabled = true;
+            document.getElementById('run-ui-tests').disabled = true;
+            document.getElementById('run-all-tests').disabled = true;
+        }
+        
+        function enableButtons() {
+            document.getElementById('run-audio-tests').disabled = false;
+            document.getElementById('run-viz-tests').disabled = false;
+            document.getElementById('run-ui-tests').disabled = false;
+            document.getElementById('run-all-tests').disabled = false;
+        }
+        
+        function clearOutput() {
+            document.getElementById('test-output').textContent = 'Output cleared. Click a test button to start testing...';
+            document.getElementById('status').textContent = 'Ready to run tests';
+            document.getElementById('status').className = 'status';
+        }
+        
+        // Auto-run tests when page loads (optional)
+        // Uncomment the next line to auto-run tests
+        // window.addEventListener('load', runAllTests);
+    </script>
+</body>
+</html>

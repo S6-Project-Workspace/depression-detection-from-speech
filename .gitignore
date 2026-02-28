@@ -58,3 +58,70 @@ outputs/training_with_progress/checkpoints/ecapa_fold_1/
 outputs/training_with_progress/checkpoints/ecapa_fold_2/
 outputs/training_with_progress/checkpoints/final_model.pt
 outputs/training_with_progress/checkpoints/best_model.pt
+
+# Large model files (too big for git)
+*.pt
+*.pkl
+*.h5
+*.bin
+checkpoints/
+final_models/
+outputs/
+
+# Unnecessary summary / status markdown files
+AUDIO_CAPTURE_FIXES_SUMMARY.md
+COMPETITION_SUBMISSION_GUIDE.md
+ENHANCED_INFERENCE_SUMMARY.md
+FINAL_SUBMISSION_APEXPATCHERS.md
+FRONTEND_FIXES_SUMMARY.md
+GOOGLE_FORM_RESPONSES.md
+JAVASCRIPT_FIXES_SUMMARY.md
+NLP_TRAINING_FIXES_APPLIED.md
+NLP_TRAINING_FIX_SUMMARY.md
+NLP_TRAINING_GUIDE.md
+NLP_TRAINING_IN_PROGRESS.md
+NLP_TRAINING_READY.md
+NLP_TRAINING_STATUS.md
+RUN_NLP_TRAINING.md
+RUN_STREAMLIT_APP.md
+SUBMISSION_COMPLETE.md
+TRAINING_COMPLETE_SETUP.md
+TRAINING_SUMMARY.md
+START_HERE.md
+
+# Unnecessary txt status files
+RUN_TRAINING_NOW.txt
+SUBMIT_NOW.txt
+
+# Training log text files
+training_log*.txt
+training_progress.txt
+
+# Test HTML debug files
+debug_frontend.html
+test_audio_fixes.html
+test_complete_fix.html
+test_complete_integration.html
+test_final_fixes.html
+test_fixed_frontend.html
+test_frontend.html
+test_syntax_fixes.html
+test_websocket_fix.html
+
+# Hypothesis testing cache
+.hypothesis/
+
+# Kiro specs
+.kiro/
+
+# Session / upload data
+session_data/
+uploads/
+
+# Papers and docs (large PDFs)
+papers/
+docs/
+figures/
+
+# Submission artifacts
+submissions/

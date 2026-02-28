@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/streaming/circular_buffer.py
-# hypothesis_version: 6.150.2
-
-[0.0, 100, 1000, 'available_samples', 'buffer_size_samples', 'buffer_size_seconds', 'last_write_time', 'newest_timestamp', 'oldest_timestamp', 'overrun_count', 'performance', 'sample_rate', 'samples_written', 'time_span_seconds', 'total_write_time', 'utilization_percent', 'write_count', 'write_position', 'writes_per_second']

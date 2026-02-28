@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/streaming/alert_system.py
-# hypothesis_version: 6.150.2
-
-[0.0, 0.1, 0.7, 0.8, 0.9, 100, 300, 1000, 10000, ' AND ', '%Y-%m-%d-%H', 'High Risk Threshold', 'Rapid Risk Increase', 'Sustained High Risk', 'acknowledged_alerts', 'acknowledgment_rate', 'active_alerts', 'alert_frequency', 'alert_id', 'alert_rules_enabled', 'alert_severity', 'analytics', 'audio', 'audio_contribution', 'channel', 'channel_performance', 'channels', 'confidence', 'disabled', 'enabled', 'error', 'failed_notifications', 'false_positive_rate', 'false_positives', 'high_risk_threshold', 'log', 'processing_mode', 'rapid_risk_increase', 'results', 'rule_id', 'rule_matched', 'rule_name', 'sent', 'success_rate', 'successful', 'sustained_high_risk', 'text_contribution', 'timestamp', 'total_alerts', 'total_notifications', 'total_sent', 'total_successful', 'type_distribution', 'visual']

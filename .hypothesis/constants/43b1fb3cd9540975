@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/ssl_model.py
-# hypothesis_version: 6.150.2
-
-[1e-08, 0.2, 0.3, 1.0, 128, 256, 512, 768, 1024, 80000, '-inf', '__main__', 'combined', 'cpu', 'layer_weights', 'model_state_dict']

@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/multimodal_model.py
-# hypothesis_version: 6.150.2
-
-[0.3, 128, 192, 256, 500, 512, 768, 1000, '\n✓ All tests passed!', '__main__', 'cpu', 'get_embeddings', 'model_state_dict']

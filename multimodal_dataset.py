@@ -303,7 +303,13 @@ class MultimodalDataset(Dataset):
         try:
             # Analyze text using linguistic analyzer
             analysis = self.linguistic_analyzer.analyze_text(text, language)
-            features = self.linguistic_analyzer.extract_linguistic_features(analysis)
+            
+            # Extract feature vector using the complete analysis
+            features = self.linguistic_analyzer.extract_linguistic_feature_vector(
+                analysis.pos_result,
+                analysis.entities,
+                analysis.dependency_tree
+            )
             
             # Convert to tensor and cache
             feature_tensor = torch.tensor(features, dtype=torch.float32)
@@ -487,6 +493,7 @@ class MultimodalDataset(Dataset):
             'input_ids': input_ids,
             'text_attention_mask': text_attention_mask,
             'linguistic_features': linguistic_features,
+            'text_raw': text,  # Add raw text for on-the-fly linguistic analysis
             'label': torch.tensor(chunk.label, dtype=torch.long),
             'speaker_id': chunk.speaker_id,
             'file_path': chunk.file_path,

@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/streaming/audio_input_handler.py
-# hypothesis_version: 6.150.2
-
-[-1.0, 0.0, 0.001, 0.01, 0.1, 0.6, 1.0, 2.0, 10.0, 100, 1000, 16000, 32767, 'chunk_size', 'current_device', 'defaultSampleRate', 'default_sample_rate', 'device_id', 'gain_factor', 'has_speech', 'index', 'is_capturing', 'is_default', 'last_capture_time', 'maxInputChannels', 'max_input_channels', 'name', 'pyaudio_instance', 'queue_size', 'sample_rate', 'total_dropouts']

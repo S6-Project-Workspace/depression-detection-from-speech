@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/pos_tagger.py
-# hypothesis_version: 6.150.2
-
-[0.0, 512, '.,!?;:"\'()[]{}', 'ADJ', 'ADP', 'ADV', 'AUX', 'CCONJ', 'DET', 'INTJ', 'NOUN', 'NUM', 'O', 'PART', 'POS features:', 'PRON', 'PROPN', 'PUNCT', 'SCONJ', 'SYM', 'Tagged sentence:', 'VERB', 'X', '__main__', 'adj_endings', 'content_word_ratio', 'cpu', 'function_word_ratio', 'ml', 'noun_endings', 'pos_diversity', 'pronoun_ratio', 'pt', 'ta', 'universal', 'verb_endings', 'அது', 'அல்லது', 'ஆனால்', 'இது', 'இருக்கிறேன்', 'இல்', 'எனக്கு', 'என்', 'ஒரு', 'கிறது', 'கிறான்', 'கிறாய்', 'கிறார்கள்', 'கிறாள்', 'கிறீர்கள்', 'கிறேன்', 'கிறோம்', 'க்கு', 'து', 'நான்', 'ன்', 'மகிழ்ச்சியாக', 'மற்றும்', 'ம்', 'ர்', 'ல்', 'ள்', 'ான', 'ிய', 'ு', 'ം', 'അത്', 'അല്ലെങ്കിൽ', 'ഇത്', 'എനിക്ക്', 'എന്ന്', 'എന്റെ', 'ഒരു', 'കൂടാതെ', 'ക്ക്', 'ഞാൻ', 'ത്', 'ന്', 'പക്ഷേ', 'ായ', 'ാൻ', 'ിച്ചു', 'ിയ', 'ു', 'ും', 'ുന്ന', 'ുന്നു', 'ൻ', 'ർ', 'ൽ', 'ൾ']

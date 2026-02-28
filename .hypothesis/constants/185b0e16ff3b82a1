@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/preprocessing.py
-# hypothesis_version: 6.150.2
-
-[0.0, 1.0, -100, 1000, 32767, '-', '.flac', '.m4a', '.mp3', '.ogg', '.wav', 'D_A001_1.wav', 'D_A00_1-1.wav', 'D_F001_10_1.wav', 'D_F1001-1.wav', 'D_F2001.wav', 'D_F2001_a.wav', 'D_S00_06-1.wav', 'ND1_0001.wav', '^(ND\\d+)_\\d+\\.wav$', '^D_([A-Z]\\d+)\\.wav$', '_', '__main__', 'abcd', 'combined', 'float32', 'malayalam', 'sinc_interp_hann', 'tamil']

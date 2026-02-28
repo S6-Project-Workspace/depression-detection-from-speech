@@ -96,7 +96,15 @@ class AudioNormalizer:
         """
         # Step 1: Resample to 16kHz if needed
         if orig_sr != self.config.sampling_rate:
-            resampler = self._get_resampler(orig_sr)
+            if orig_sr not in self._resamplers:
+                self._resamplers[orig_sr] = Resample(
+                    orig_freq=orig_sr,
+                    new_freq=self.config.sampling_rate,
+                    lowpass_filter_width=self.config.lowpass_filter_width,
+                    rolloff=self.config.rolloff,
+                    resampling_method="sinc_interp_hann"
+                )
+            resampler = self._resamplers[orig_sr]
             waveform = resampler(waveform)
         
         # Step 2: Convert stereo to mono by averaging channels

@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/trainer.py
-# hypothesis_version: 6.150.2
-
-[0.0, 1e-08, 0.001, 0.25, 0.5, 2.0, '=', 'LayerNorm.weight', '__dataclass_fields__', '__main__', 'attention_mask', 'best_model.pt', 'best_val_f1', 'bias', 'class_weights', 'combined', 'config', 'cuda', 'cyclic', 'ecapa', 'epoch', 'f1_depressed', 'f1_non_depressed', 'final_epoch', 'final_model.pt', 'freeze_epochs', 'input_values', 'label', 'labels', 'layer_norm.weight', 'loss', 'lr', 'macro', 'macro_f1', 'max', 'mean', 'mel_spectrogram', 'model_state_dict', 'none', 'num_subjects', 'optimizer_state_dict', 'params', 'precision', 'predictions', 'probabilities', 'recall', 'scheduler_state_dict', 'ssl', 'subject_f1_depressed', 'subject_macro_f1', 'training_history', 'triangular2', 'waveform', 'weight_decay']

@@ -195,13 +195,16 @@ class EnhancedMultimodalTrainer(MultimodalTrainer):
         """
         prepared = super()._prepare_batch(batch)
         
-        # Add linguistic features if available
-        if 'linguistic_features' in batch:
-            prepared['linguistic_features'] = batch['linguistic_features'].to(self.device)
-        
         # Add raw text for on-the-fly linguistic analysis if needed
         if 'text_raw' in batch:
-            prepared['text_raw'] = batch['text_raw']
+            # text_raw should be a list of strings, not a tensor
+            if isinstance(batch['text_raw'], list):
+                prepared['text_raw'] = batch['text_raw']
+            elif isinstance(batch['text_raw'], str):
+                prepared['text_raw'] = [batch['text_raw']]
+            else:
+                # It's the 'text' field from the batch
+                prepared['text_raw'] = batch.get('text', [])
         
         return prepared
     
@@ -221,7 +224,7 @@ class EnhancedMultimodalTrainer(MultimodalTrainer):
         """
         has_audio = 'audio_input' in inputs
         has_text = 'text_input_ids' in inputs
-        has_linguistic = 'linguistic_features' in inputs or 'text_raw' in inputs
+        has_linguistic = 'text_raw' in inputs
         
         # Determine the best forward mode based on available inputs
         if has_audio and has_text and has_linguistic:
@@ -230,13 +233,12 @@ class EnhancedMultimodalTrainer(MultimodalTrainer):
                 audio_input=inputs['audio_input'],
                 text_input_ids=inputs['text_input_ids'],
                 text_attention_mask=inputs['text_attention_mask'],
-                linguistic_features=inputs.get('linguistic_features'),
                 text_raw=inputs.get('text_raw'),
                 audio_attention_mask=inputs.get('audio_attention_mask')
             )
         elif has_audio and has_text:
             # Bimodal audio-text fallback
-            return self.model.forward_bimodal_audio_text(
+            return self.model.forward_audio_text(
                 audio_input=inputs['audio_input'],
                 text_input_ids=inputs['text_input_ids'],
                 text_attention_mask=inputs['text_attention_mask'],
@@ -244,18 +246,16 @@ class EnhancedMultimodalTrainer(MultimodalTrainer):
             )
         elif has_audio and has_linguistic:
             # Bimodal audio-linguistic fallback
-            return self.model.forward_bimodal_audio_linguistic(
+            return self.model.forward_audio_linguistic(
                 audio_input=inputs['audio_input'],
-                linguistic_features=inputs.get('linguistic_features'),
                 text_raw=inputs.get('text_raw'),
                 audio_attention_mask=inputs.get('audio_attention_mask')
             )
         elif has_text and has_linguistic:
             # Bimodal text-linguistic fallback
-            return self.model.forward_bimodal_text_linguistic(
+            return self.model.forward_text_linguistic(
                 text_input_ids=inputs['text_input_ids'],
                 text_attention_mask=inputs['text_attention_mask'],
-                linguistic_features=inputs.get('linguistic_features'),
                 text_raw=inputs.get('text_raw')
             )
         elif has_audio:
@@ -273,7 +273,6 @@ class EnhancedMultimodalTrainer(MultimodalTrainer):
         elif has_linguistic:
             # Linguistic-only fallback
             return self.model.forward_linguistic_only(
-                linguistic_features=inputs.get('linguistic_features'),
                 text_raw=inputs.get('text_raw')
             )
         else:

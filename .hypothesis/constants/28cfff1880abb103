@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/text_model.py
-# hypothesis_version: 6.150.2
-
-['__main__', 'attention_mask', 'combined', 'cpu', 'input_ids', 'model_state_dict', 'pt']

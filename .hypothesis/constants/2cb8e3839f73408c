@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/asr_pipeline.py
-# hypothesis_version: 6.150.2
-
-[0.0, 0.1, 0.5, 0.8, 1.0, 1000, 16000, 32767, '.flac', '.m4a', '.mp3', '.ogg', '.wav', 'ASR model not loaded', 'TranscriptResult', '__main__', '_transcript.json', 'audio', 'audio_file', 'by_class', 'by_language', 'chunks', 'combined', 'confidence', 'cpu', 'cuda', 'depressed', 'end_time', 'error', 'float32', 'label', 'language', 'malayalam', 'ml', 'morphemes', 'mps', 'non_depressed', 'normalized_text', 'openai/whisper-base', 'pt', 'r', 'segments', 'speaker_id', 'start_time', 'ta', 'tamil', 'task', 'text', 'timestamp', 'total', 'transcribe', 'transcript', 'transcripts', 'utf-8', 'w']

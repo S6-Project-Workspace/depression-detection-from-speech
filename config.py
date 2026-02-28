@@ -389,8 +389,11 @@ class FusionConfig:
     Reference: Multimodal NLP Upgrade - Requirement 5
     """
     # Input embedding dimensions
-    audio_embedding_dim: int = 192  # ECAPA-TDNN default, or 768 for Wav2Vec2
+    audio_embedding_dim: int = 1536  # Wav2Vec2 with attentive pooling (768*2)
     text_embedding_dim: int = 768   # MuRIL
+    
+    # Linguistic features
+    linguistic_feature_dim: int = 50  # From linguistic analyzer
     
     # Fusion MLP architecture
     fusion_hidden_dim: int = 512

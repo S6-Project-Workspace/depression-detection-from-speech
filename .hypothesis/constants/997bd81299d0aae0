@@ -1,4 +1,0 @@
-# file: /Users/keerthivasan/NLP/streaming/session_manager.py
-# hypothesis_version: 6.150.2
-
-[0.0, 0.1, 0.3, 0.5, 0.6, 1.0, 300, 1000, 'HIGH', 'LOW', 'alert_system', 'audio_handler', 'buffer_manager', 'cuda', 'current_risk_score', 'data_points', 'enhanced', 'global_alerts', 'high', 'low', 'max_sessions', 'moderate', 'r', 'risk_level', 'risk_monitor', 'rolling_average', 'session_data', 'sessions', 'stream_processor', 'total_completed', 'total_created', 'total_sessions', 'trend_slope', 'w']

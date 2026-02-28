@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLP Web Interface - Multimodal Depression Detection</title>
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div id="app" class="app-container">
+        <!-- Mobile Menu Toggle -->
+        <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle navigation">
+            <span class="hamburger-line"></span>
+            <span class="hamburger-line"></span>
+            <span class="hamburger-line"></span>
+        </button>
+        
+        <header class="header">
+            <div class="header-content">
+                <div class="header-text">
+                    <h1>NLP Web Interface</h1>
+                    <p>Advanced Linguistic Analysis & Real-time Processing</p>
+                </div>
+                <div class="header-status">
+                    <div class="connection-status" id="connection-status">
+                        <span class="status-indicator"></span>
+                        <span class="status-text">Connected</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+        <nav class="navigation" id="navigation">
+            <div class="nav-container">
+                <button class="nav-btn active" data-section="audio" aria-label="Real-time Audio Processing">
+                    <span class="nav-icon">🎤</span>
+                    <span class="nav-text">Real-time Audio</span>
+                </button>
+                <button class="nav-btn" data-section="upload" aria-label="File Upload and Batch Processing">
+                    <span class="nav-icon">📁</span>
+                    <span class="nav-text">File Upload</span>
+                </button>
+                <button class="nav-btn" data-section="metrics" aria-label="Model Performance Metrics">
+                    <span class="nav-icon">📊</span>
+                    <span class="nav-text">Model Metrics</span>
+                </button>
+                <button class="nav-btn" data-section="sessions" aria-label="Session Management">
+                    <span class="nav-icon">📋</span>
+                    <span class="nav-text">Sessions</span>
+                </button>
+            </div>
+        </nav>
+        
+        
+        <main class="main-content">
+            <!-- Progress Bar for Global Operations -->
+            <div class="global-progress" id="global-progress">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <div class="progress-text" id="progress-text">Processing...</div>
+            </div>
+            
+            <!-- Audio Processing Section -->
+            <section id="audio-section" class="content-section active">
+                <div class="section-header">
+                    <h2>Real-time Audio Processing</h2>
+                    <p>Capture and analyze speech in real-time with advanced NLP techniques</p>
+                </div>
+                
+                <div class="audio-controls-container">
+                    <div class="audio-controls">
+                        <div class="control-group">
+                            <button id="start-recording" class="btn btn-primary btn-large">
+                                <span class="btn-icon">🎤</span>
+                                Start Recording
+                            </button>
+                            <button id="stop-recording" class="btn btn-secondary btn-large" disabled>
+                                <span class="btn-icon">⏹️</span>
+                                Stop Recording
+                            </button>
+                        </div>
+                        
+                        <div class="audio-quality-panel">
+                            <div class="quality-header">
+                                <span class="quality-label">Audio Quality</span>
+                                <div class="quality-status" id="quality-status">
+                                    <span class="quality-icon"></span>
+                                    <span class="quality-text">Ready</span>
+                                </div>
+                            </div>
+                            <div class="quality-indicator" id="quality-indicator">
+                                <div class="quality-bar"></div>
+                            </div>
+                            <div class="audio-levels" id="audio-levels">
+                                <!-- Audio level bars will be generated dynamically -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Status Indicators -->
+                    <div class="status-indicator-group">
+                        <div class="status-item">
+                            <div class="status-dot" id="microphone-status"></div>
+                            <span class="status-text">Microphone</span>
+                            <button class="help-tooltip">
+                                <span class="help-tooltip-trigger">?</span>
+                                <div class="help-tooltip-content">
+                                    Click to check microphone permissions and troubleshoot issues
+                                </div>
+                            </button>
+                        </div>
+                        <div class="status-item">
+                            <div class="status-dot online" id="connection-status-dot"></div>
+                            <span class="status-text">Connection</span>
+                        </div>
+                        <div class="status-item">
+                            <div class="status-dot" id="processing-status"></div>
+                            <span class="status-text">Processing</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Troubleshooting Panel (initially hidden) -->
+                <div class="troubleshooting-panel" id="audio-troubleshooting" style="display: none;">
+                    <div class="troubleshooting-header">
+                        <span class="troubleshooting-icon">🔧</span>
+                        <span class="troubleshooting-title">Audio Troubleshooting</span>
+                    </div>
+                    <ul class="troubleshooting-steps">
+                        <li class="troubleshooting-step">
+                            <div class="step-number">1</div>
+                            <div class="step-content">
+                                Check that your microphone is connected and working properly
+                            </div>
+                        </li>
+                        <li class="troubleshooting-step">
+                            <div class="step-number">2</div>
+                            <div class="step-content">
+                                Ensure microphone permissions are granted in your browser
+                            </div>
+                        </li>
+                        <li class="troubleshooting-step">
+                            <div class="step-number">3</div>
+                            <div class="step-content">
+                                Close other applications that might be using the microphone
+                            </div>
+                        </li>
+                        <li class="troubleshooting-step">
+                            <div class="step-number">4</div>
+                            <div class="step-content">
+                                Try refreshing the page and granting permissions again
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="transcription-container">
+                    <div class="transcription-header">
+                        <h3>Live Transcription</h3>
+                        <div class="transcription-controls">
+                            <button class="btn btn-small" id="clear-transcription">Clear</button>
+                            <button class="btn btn-small" id="export-transcription">Export</button>
+                        </div>
+                    </div>
+                    <div class="transcription-area">
+                        <div id="transcription-text" class="transcription-text">
+                            <div class="transcription-placeholder">
+                                <span class="placeholder-icon">🎙️</span>
+                                <p>Start recording to see live transcription...</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="analysis-container">
+                    <div class="analysis-header">
+                        <h3>Linguistic Analysis</h3>
+                        <div class="analysis-controls">
+                            <button class="btn btn-small" id="refresh-analysis">Refresh</button>
+                            <button class="btn btn-small" id="export-analysis">Export Results</button>
+                            <button class="btn btn-small" id="expand-all-results">Expand All</button>
+                        </div>
+                    </div>
+                    
+                    <div class="analysis-results enhanced-tabs" id="analysis-tabs">
+                        <div class="enhanced-tab-nav">
+                            <button class="enhanced-tab-btn active" data-tab="pos" aria-label="Part-of-Speech Tagging">
+                                <span class="tab-icon">🏷️</span>
+                                <span class="tab-text">POS Tags</span>
+                                <span class="enhanced-tab-badge" id="pos-count">0</span>
+                            </button>
+                            <button class="enhanced-tab-btn" data-tab="ner" aria-label="Named Entity Recognition">
+                                <span class="tab-icon">🎯</span>
+                                <span class="tab-text">Named Entities</span>
+                                <span class="enhanced-tab-badge" id="ner-count">0</span>
+                            </button>
+                            <button class="enhanced-tab-btn" data-tab="dep" aria-label="Dependency Parsing">
+                                <span class="tab-icon">🌳</span>
+                                <span class="tab-text">Dependencies</span>
+                                <span class="enhanced-tab-badge" id="dep-count">0</span>
+                            </button>
+                            <button class="enhanced-tab-btn" data-tab="sentiment" aria-label="Sentiment Analysis">
+                                <span class="tab-icon">😊</span>
+                                <span class="tab-text">Sentiment</span>
+                                <span class="enhanced-tab-badge" id="sentiment-confidence">0%</span>
+                            </button>
+                        </div>
+                        
+                        <div class="enhanced-tab-content">
+                            <div id="pos-tab" class="enhanced-tab-pane active">
+                                <div class="tab-loading" id="pos-loading">
+                                    <div class="loading-spinner"></div>
+                                    <p>Analyzing part-of-speech tags...</p>
+                                </div>
+                                
+                                <div class="collapsible-section" id="pos-results-section">
+                                    <div class="collapsible-header">
+                                        <div class="collapsible-title">
+                                            <span class="collapsible-icon">🏷️</span>
+                                            POS Tagging Results
+                                        </div>
+                                        <button class="collapsible-toggle">▼</button>
+                                    </div>
+                                    <div class="collapsible-content">
+                                        <div class="collapsible-body">
+                                            <div id="pos-visualization" class="visualization-container"></div>
+                                            
+                                            <div class="stats-grid" id="pos-stats">
+                                                <div class="stat-item">
+                                                    <div class="stat-value" id="pos-total-tokens">0</div>
+                                                    <div class="stat-label">Total Tokens</div>
+                                                </div>
+                                                <div class="stat-item">
+                                                    <div class="stat-value" id="pos-unique-tags">0</div>
+                                                    <div class="stat-label">Unique Tags</div>
+                                                </div>
+                                                <div class="stat-item">
+                                                    <div class="stat-value" id="pos-avg-confidence">0%</div>
+                                                    <div class="stat-label">Avg Confidence</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="ner-tab" class="enhanced-tab-pane">
+                                <div class="tab-loading" id="ner-loading">
+                                    <div class="loading-spinner"></div>
+                                    <p>Extracting named entities...</p>
+                                </div>
+                                
+                                <div class="collapsible-section" id="ner-results-section">
+                                    <div class="collapsible-header">
+                                        <div class="collapsible-title">
+                                            <span class="collapsible-icon">🎯</span>
+                                            Named Entity Recognition Results
+                                        </div>
+                                        <button class="collapsible-toggle">▼</button>
+                                    </div>
+                                    <div class="collapsible-content">
+                                        <div class="collapsible-body">
+                                            <div id="ner-visualization" class="visualization-container"></div>
+                                            
+                                            <div class="search-filter-bar">
+                                                <input type="text" class="search-input" placeholder="Search entities..." data-target=".ner-entity-item">
+                                                <div class="filter-dropdown" data-target=".ner-entity-item">
+                                                    <button class="btn btn-small filter-dropdown-btn">All Types</button>
+                                                    <div class="filter-dropdown-content">
+                                                        <button class="filter-option active" data-value="all">All Types</button>
+                                                        <button class="filter-option" data-value="PERSON">Person</button>
+                                                        <button class="filter-option" data-value="ORG">Organization</button>
+                                                        <button class="filter-option" data-value="LOC">Location</button>
+                                                        <button class="filter-option" data-value="MISC">Miscellaneous</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div id="ner-entities-list" class="entities-list">
+                                                <!-- Entity items will be populated here -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="dep-tab" class="enhanced-tab-pane">
+                                <div class="tab-loading" id="dep-loading">
+                                    <div class="loading-spinner"></div>
+                                    <p>Parsing dependencies...</p>
+                                </div>
+                                
+                                <div class="collapsible-section" id="dep-results-section">
+                                    <div class="collapsible-header">
+                                        <div class="collapsible-title">
+                                            <span class="collapsible-icon">🌳</span>
+                                            Dependency Parsing Results
+                                        </div>
+                                        <button class="collapsible-toggle">▼</button>
+                                    </div>
+                                    <div class="collapsible-content">
+                                        <div class="collapsible-body">
+                                            <div id="dependency-visualization" class="visualization-container"></div>
+                                            
+                                            <div class="expandable-content collapsed" id="dep-details">
+                                                <div id="dependency-table-container">
+                                                    <!-- Dependency table will be populated here -->
+                                                </div>
+                                                <div class="expand-overlay">
+                                                    <button class="expand-button">Show More</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="sentiment-tab" class="enhanced-tab-pane">
+                                <div class="tab-loading" id="sentiment-loading">
+                                    <div class="loading-spinner"></div>
+                                    <p>Analyzing sentiment...</p>
+                                </div>
+                                
+                                <div class="collapsible-section" id="sentiment-results-section">
+                                    <div class="collapsible-header">
+                                        <div class="collapsible-title">
+                                            <span class="collapsible-icon">😊</span>
+                                            Sentiment Analysis Results
+                                        </div>
+                                        <button class="collapsible-toggle">▼</button>
+                                    </div>
+                                    <div class="collapsible-content">
+                                        <div class="collapsible-body">
+                                            <div id="sentiment-visualization" class="visualization-container"></div>
+                                            
+                                            <div class="result-card" id="sentiment-summary">
+                                                <div class="result-card-header">
+                                                    <div class="result-card-title">
+                                                        <span>📊</span>
+                                                        Sentiment Summary
+                                                    </div>
+                                                    <div class="result-card-actions">
+                                                        <button class="btn btn-small" data-action="copy">Copy</button>
+                                                    </div>
+                                                </div>
+                                                <div class="result-card-body" id="sentiment-summary-content">
+                                                    <!-- Sentiment summary will be populated here -->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            
+            <!-- File Upload Section -->
+            <section id="upload-section" class="content-section">
+                <div class="section-header">
+                    <h2>File Upload & Batch Processing</h2>
+                    <p>Upload audio or text files for comprehensive linguistic analysis</p>
+                </div>
+                
+                <div class="upload-container">
+                    <div class="upload-area" id="upload-area">
+                        <div class="upload-zone">
+                            <input type="file" id="file-input" accept=".wav,.mp3,.txt" multiple>
+                            <label for="file-input" class="upload-label">
+                                <div class="upload-icon">📁</div>
+                                <div class="upload-text">
+                                    <h4>Choose files or drag and drop</h4>
+                                    <p>Supports: WAV, MP3, TXT files (Max 10MB each)</p>
+                                </div>
+                            </label>
+                        </div>
+                        
+                        <div class="upload-options">
+                            <div class="option-group">
+                                <label class="checkbox-label">
+                                    <input type="checkbox" id="auto-analyze" checked>
+                                    <span class="checkmark"></span>
+                                    Auto-analyze uploaded files
+                                </label>
+                            </div>
+                            <div class="option-group">
+                                <label class="checkbox-label">
+                                    <input type="checkbox" id="save-results" checked>
+                                    <span class="checkmark"></span>
+                                    Save results to session
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="upload-queue" id="upload-queue">
+                        <!-- File upload items will be added here dynamically -->
+                    </div>
+                    
+                    <div id="upload-progress" class="progress-container">
+                        <!-- Progress bars for individual files will be added here -->
+                    </div>
+                </div>
+                
+                <div id="batch-results" class="batch-results">
+                    <div class="results-header">
+                        <h3>Batch Processing Results</h3>
+                        <div class="results-controls">
+                            <button class="btn btn-small" id="export-batch">Export All</button>
+                            <button class="btn btn-small" id="clear-batch">Clear Results</button>
+                        </div>
+                    </div>
+                    <div class="results-grid" id="results-grid">
+                        <!-- Results will be populated here -->
+                    </div>
+                </div>
+            </section>
+            
+            
+            <!-- Metrics Section -->
+            <section id="metrics-section" class="content-section">
+                <div class="section-header">
+                    <h2>Model Performance Metrics</h2>
+                    <p>Real-time monitoring of model accuracy and system performance</p>
+                </div>
+                
+                <div class="metrics-overview">
+                    <div class="metrics-grid">
+                        <div class="metric-card primary">
+                            <div class="metric-icon">🎯</div>
+                            <div class="metric-content">
+                                <h4>Current Accuracy</h4>
+                                <div class="metric-value" id="current-accuracy">
+                                    <span class="value">95.2</span>
+                                    <span class="unit">%</span>
+                                </div>
+                                <div class="metric-trend positive">↑ 2.1%</div>
+                            </div>
+                        </div>
+                        
+                        <div class="metric-card secondary">
+                            <div class="metric-icon">⚡</div>
+                            <div class="metric-content">
+                                <h4>F1 Score</h4>
+                                <div class="metric-value" id="f1-score">
+                                    <span class="value">0.94</span>
+                                </div>
+                                <div class="metric-trend positive">↑ 0.03</div>
+                            </div>
+                        </div>
+                        
+                        <div class="metric-card tertiary">
+                            <div class="metric-icon">⏱️</div>
+                            <div class="metric-content">
+                                <h4>Processing Latency</h4>
+                                <div class="metric-value" id="latency">
+                                    <span class="value">1.8</span>
+                                    <span class="unit">s</span>
+                                </div>
+                                <div class="metric-trend negative">↑ 0.2s</div>
+                            </div>
+                        </div>
+                        
+                        <div class="metric-card quaternary">
+                            <div class="metric-icon">🔄</div>
+                            <div class="metric-content">
+                                <h4>Active Sessions</h4>
+                                <div class="metric-value" id="active-sessions">
+                                    <span class="value">3</span>
+                                </div>
+                                <div class="metric-trend neutral">—</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="charts-section">
+                    <div class="charts-container">
+                        <div class="chart-wrapper">
+                            <div class="chart-header">
+                                <h4>Training Progress</h4>
+                                <div class="chart-controls">
+                                    <select class="chart-select" id="training-timeframe">
+                                        <option value="1h">Last Hour</option>
+                                        <option value="24h" selected>Last 24 Hours</option>
+                                        <option value="7d">Last 7 Days</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="chart-loading" id="training-chart-loading">
+                                <div class="loading-spinner"></div>
+                                <p>Loading training data...</p>
+                            </div>
+                            <canvas id="training-chart"></canvas>
+                        </div>
+                        
+                        <div class="chart-wrapper">
+                            <div class="chart-header">
+                                <h4>Model Comparison</h4>
+                                <div class="chart-controls">
+                                    <button class="btn btn-small" id="refresh-comparison">Refresh</button>
+                                </div>
+                            </div>
+                            <div class="chart-loading" id="comparison-chart-loading">
+                                <div class="loading-spinner"></div>
+                                <p>Loading comparison data...</p>
+                            </div>
+                            <canvas id="comparison-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            
+            <!-- Sessions Section -->
+            <section id="sessions-section" class="content-section">
+                <div class="section-header">
+                    <h2>Session Management</h2>
+                    <p>View and manage your analysis sessions and results</p>
+                </div>
+                
+                <div class="sessions-controls">
+                    <div class="search-filter">
+                        <input type="text" class="search-input" id="session-search" placeholder="Search sessions...">
+                        <select class="filter-select" id="session-filter">
+                            <option value="all">All Sessions</option>
+                            <option value="active">Active</option>
+                            <option value="completed">Completed</option>
+                            <option value="error">Error</option>
+                        </select>
+                    </div>
+                    <div class="session-actions">
+                        <button class="btn btn-primary" id="new-session">New Session</button>
+                        <button class="btn btn-secondary" id="export-sessions">Export All</button>
+                    </div>
+                </div>
+                
+                <div class="sessions-container">
+                    <div id="sessions-list" class="sessions-list">
+                        <!-- Sessions will be populated here -->
+                    </div>
+                    
+                    <div class="sessions-pagination" id="sessions-pagination">
+                        <!-- Pagination controls will be added here -->
+                    </div>
+                </div>
+            </section>
+        </main>
+        
+        <!-- Enhanced Loading Overlay -->
+        <div id="loading-overlay" class="loading-overlay">
+            <div class="loading-content">
+                <div class="loading-spinner large"></div>
+                <h3 id="loading-title">Processing...</h3>
+                <p id="loading-message">Please wait while we process your request</p>
+                <div class="loading-progress">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="loading-progress-fill"></div>
+                    </div>
+                    <div class="progress-percentage" id="loading-percentage">0%</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Enhanced Error Modal -->
+        <div id="error-modal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>⚠️ Error Occurred</h3>
+                    <button class="modal-close" id="error-modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <p id="error-message">An unexpected error occurred.</p>
+                    <div class="error-details" id="error-details">
+                        <!-- Error details and guidance will be populated here -->
+                    </div>
+                    
+                    <!-- Diagnostic Information (collapsible) -->
+                    <div class="collapsible-section" id="diagnostic-section" style="margin-top: var(--spacing-lg);">
+                        <div class="collapsible-header">
+                            <div class="collapsible-title">
+                                <span class="collapsible-icon">🔍</span>
+                                Technical Details
+                            </div>
+                            <button class="collapsible-toggle">▼</button>
+                        </div>
+                        <div class="collapsible-content">
+                            <div class="collapsible-body">
+                                <div class="diagnostic-info" id="diagnostic-info">
+                                    <div class="diagnostic-info-header">System Information</div>
+                                    <div class="diagnostic-item">
+                                        <span class="diagnostic-label">Browser:</span>
+                                        <span class="diagnostic-value" id="browser-info">Loading...</span>
+                                    </div>
+                                    <div class="diagnostic-item">
+                                        <span class="diagnostic-label">Connection:</span>
+                                        <span class="diagnostic-value" id="connection-info">Loading...</span>
+                                    </div>
+                                    <div class="diagnostic-item">
+                                        <span class="diagnostic-label">Timestamp:</span>
+                                        <span class="diagnostic-value" id="error-timestamp">Loading...</span>
+                                    </div>
+                                </div>
+                                
+                                <div class="error-recovery-actions">
+                                    <button class="recovery-action" id="export-error-report">
+                                        <span class="recovery-action-icon">📋</span>
+                                        Export Error Report
+                                    </button>
+                                    <button class="recovery-action" id="clear-cache">
+                                        <span class="recovery-action-icon">🗑️</span>
+                                        Clear Cache
+                                    </button>
+                                    <button class="recovery-action" id="reload-page">
+                                        <span class="recovery-action-icon">🔄</span>
+                                        Reload Page
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" id="error-retry">Retry</button>
+                    <button class="btn btn-secondary" id="error-dismiss">Dismiss</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Success Toast -->
+        <div id="success-toast" class="toast success">
+            <div class="toast-content">
+                <span class="toast-icon">✅</span>
+                <span class="toast-message" id="success-message">Operation completed successfully!</span>
+            </div>
+            <button class="toast-close" id="success-toast-close">&times;</button>
+        </div>
+        
+        <!-- Warning Toast -->
+        <div id="warning-toast" class="toast warning">
+            <div class="toast-content">
+                <span class="toast-icon">⚠️</span>
+                <span class="toast-message" id="warning-message">Warning message</span>
+            </div>
+            <button class="toast-close" id="warning-toast-close">&times;</button>
+        </div>
+    </div>
+    
+    <script src="/static/js/audio-capture.js"></script>
+    <script src="/static/js/visualization.js"></script>
+    <script src="/static/js/websocket-client.js"></script>
+    <script src="/static/js/result-display.js"></script>
+    <script src="/static/js/error-handler.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html>
