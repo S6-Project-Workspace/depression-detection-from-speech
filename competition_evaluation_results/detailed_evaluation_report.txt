@@ -1,0 +1,159 @@
+ACL 2026 DravidianLangTech Competition - Audio Model Evaluation
+======================================================================
+
+COMPETITION DETAILS:
+- Task: Depression Detection from Malayalam and Tamil Speech
+- Tamil Test Samples: 160
+- Malayalam Test Samples: 200
+- Evaluation Metrics: Macro-averaged Precision, Recall, F1-Score
+
+MODEL RANKINGS (by Overall F1-Score):
+--------------------------------------------------
+ 1. SSL WavLM (Final)                   F1: 1.0000
+ 2. SSL Fold 0 (Training)               F1: 1.0000
+ 3. SSL Fold 2 (Training)               F1: 1.0000
+ 4. ECAPA-TDNN (Final)                  F1: 0.3355
+ 5. ECAPA Fold 0 (Training)             F1: 0.3355
+ 6. ECAPA Fold 1 (Training)             F1: 0.3355
+ 7. ECAPA Fold 2 (Training)             F1: 0.3355
+ 8. SSL Fold 1 (Training)               F1: 0.3355
+
+
+DETAILED RESULTS:
+==================================================
+
+ECAPA-TDNN (Final)
+------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 0.2500
+  Macro Recall: 0.5000
+  Macro F1: 0.3333
+  Accuracy: 0.5000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 0.2550
+  Macro Recall: 0.5000
+  Macro F1: 0.3377
+  Accuracy: 0.5100
+
+SSL WavLM (Final)
+-----------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 1.0000
+  Macro Recall: 1.0000
+  Macro F1: 1.0000
+  Accuracy: 1.0000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 1.0000
+  Macro Recall: 1.0000
+  Macro F1: 1.0000
+  Accuracy: 1.0000
+
+ECAPA Fold 0 (Training)
+-----------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 0.2500
+  Macro Recall: 0.5000
+  Macro F1: 0.3333
+  Accuracy: 0.5000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 0.2550
+  Macro Recall: 0.5000
+  Macro F1: 0.3377
+  Accuracy: 0.5100
+
+ECAPA Fold 1 (Training)
+-----------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 0.2500
+  Macro Recall: 0.5000
+  Macro F1: 0.3333
+  Accuracy: 0.5000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 0.2550
+  Macro Recall: 0.5000
+  Macro F1: 0.3377
+  Accuracy: 0.5100
+
+ECAPA Fold 2 (Training)
+-----------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 0.2500
+  Macro Recall: 0.5000
+  Macro F1: 0.3333
+  Accuracy: 0.5000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 0.2550
+  Macro Recall: 0.5000
+  Macro F1: 0.3377
+  Accuracy: 0.5100
+
+SSL Fold 0 (Training)
+---------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 1.0000
+  Macro Recall: 1.0000
+  Macro F1: 1.0000
+  Accuracy: 1.0000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 1.0000
+  Macro Recall: 1.0000
+  Macro F1: 1.0000
+  Accuracy: 1.0000
+
+SSL Fold 1 (Training)
+---------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 0.2500
+  Macro Recall: 0.5000
+  Macro F1: 0.3333
+  Accuracy: 0.5000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 0.2550
+  Macro Recall: 0.5000
+  Macro F1: 0.3377
+  Accuracy: 0.5100
+
+SSL Fold 2 (Training)
+---------------------
+
+Tamil:
+  Samples: 160
+  Macro Precision: 1.0000
+  Macro Recall: 1.0000
+  Macro F1: 1.0000
+  Accuracy: 1.0000
+
+Malayalam:
+  Samples: 200
+  Macro Precision: 1.0000
+  Macro Recall: 1.0000
+  Macro F1: 1.0000
+  Accuracy: 1.0000

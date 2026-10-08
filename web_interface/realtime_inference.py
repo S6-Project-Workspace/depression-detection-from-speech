@@ -52,17 +52,15 @@ class RealtimeInference:
             if self.model_loader.text_model is None or self.model_loader.tokenizer is None:
                 return {'error': 'Text model not loaded'}
             
-            # Tokenize
-            encoding = self.model_loader.tokenizer(
+            # Tokenize using the wrapper's tokenize method
+            encoded = self.model_loader.tokenizer.tokenize(
                 text,
                 max_length=512,
-                padding='max_length',
-                truncation=True,
                 return_tensors='pt'
             )
             
-            input_ids = encoding['input_ids'].to(self.device)
-            attention_mask = encoding['attention_mask'].to(self.device)
+            input_ids = encoded['input_ids'].to(self.device)
+            attention_mask = encoded['attention_mask'].to(self.device)
             
             # Predict
             with torch.no_grad():
@@ -123,41 +121,81 @@ class RealtimeInference:
             if self.model_loader.enhanced_model is None:
                 return {'error': 'Enhanced model not loaded'}
             
-            # Prepare inputs
-            audio_input = None
-            text_input_ids = None
-            text_attention_mask = None
-            text_raw = None
+            # Determine which modalities are available
+            has_audio = audio_array is not None
+            has_text = text is not None and text.strip()
             
-            if audio_array is not None:
+            if not has_audio and not has_text:
+                return {'error': 'At least one modality (audio or text) required'}
+            
+            # Prepare inputs based on available modalities
+            if has_audio and has_text:
+                # Full multimodal: audio + text + linguistic
                 audio_tensor = torch.from_numpy(audio_array).float()
                 if audio_tensor.dim() == 1:
                     audio_tensor = audio_tensor.unsqueeze(0)
                 audio_input = audio_tensor.to(self.device)
-            
-            if text is not None and text.strip():
-                # Tokenize
-                encoding = self.model_loader.tokenizer(
+                
+                # Tokenize text
+                encoded = self.model_loader.tokenizer.tokenize(
                     text,
                     max_length=512,
-                    padding='max_length',
-                    truncation=True,
                     return_tensors='pt'
                 )
-                text_input_ids = encoding['input_ids'].to(self.device)
-                text_attention_mask = encoding['attention_mask'].to(self.device)
+                text_input_ids = encoded['input_ids'].to(self.device)
+                text_attention_mask = encoded['attention_mask'].to(self.device)
                 text_raw = [text]
-            
-            # Predict
-            with torch.no_grad():
-                logits = self.model_loader.enhanced_model(
-                    audio_input=audio_input,
-                    text_input_ids=text_input_ids,
-                    text_attention_mask=text_attention_mask,
-                    text_raw=text_raw
+                
+                # Full forward pass
+                with torch.no_grad():
+                    logits = self.model_loader.enhanced_model(
+                        audio_input=audio_input,
+                        text_input_ids=text_input_ids,
+                        text_attention_mask=text_attention_mask,
+                        text_raw=text_raw
+                    )
+                
+                modalities_used = {'audio': True, 'text': True, 'linguistic': True}
+                
+            elif has_text:
+                # Text + linguistic only
+                encoded = self.model_loader.tokenizer.tokenize(
+                    text,
+                    max_length=512,
+                    return_tensors='pt'
                 )
-                probabilities = torch.softmax(logits, dim=1)[0]
-                prediction = torch.argmax(logits, dim=1)[0]
+                text_input_ids = encoded['input_ids'].to(self.device)
+                text_attention_mask = encoded['attention_mask'].to(self.device)
+                text_raw = [text]
+                
+                # Use text+linguistic forward method
+                with torch.no_grad():
+                    logits = self.model_loader.enhanced_model.forward_text_linguistic(
+                        text_input_ids=text_input_ids,
+                        text_attention_mask=text_attention_mask,
+                        text_raw=text_raw
+                    )
+                
+                modalities_used = {'audio': False, 'text': True, 'linguistic': True}
+                
+            else:
+                # Audio only
+                audio_tensor = torch.from_numpy(audio_array).float()
+                if audio_tensor.dim() == 1:
+                    audio_tensor = audio_tensor.unsqueeze(0)
+                audio_input = audio_tensor.to(self.device)
+                
+                # Use audio-only forward method
+                with torch.no_grad():
+                    logits = self.model_loader.enhanced_model.forward_audio_only(
+                        audio_input=audio_input
+                    )
+                
+                modalities_used = {'audio': True, 'text': False, 'linguistic': False}
+            
+            # Process logits
+            probabilities = torch.softmax(logits, dim=1)[0]
+            prediction = torch.argmax(logits, dim=1)[0]
             
             return {
                 'model': 'enhanced',
@@ -168,11 +206,7 @@ class RealtimeInference:
                     'non_depressed': float(probabilities[0].cpu()),
                     'depressed': float(probabilities[1].cpu())
                 },
-                'modalities_used': {
-                    'audio': audio_input is not None,
-                    'text': text_input_ids is not None,
-                    'linguistic': text_raw is not None
-                }
+                'modalities_used': modalities_used
             }
         except Exception as e:
             logger.error(f"Error in enhanced prediction: {e}")

@@ -1,0 +1,100 @@
+{
+  "sr_only_train": {
+    "accuracy": 0.9072501632919661,
+    "macro_precision": 0.9325095057034221,
+    "macro_recall": 0.8856682769726247,
+    "macro_f1": 0.899266981744046
+  },
+  "sr_only_train_Tamil": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "sr_only_train_Malayalam": {
+    "accuracy": 0.8317535545023697,
+    "macro_f1": 0.8219546834796148
+  },
+  "sr_only_test": {
+    "accuracy": 0.9,
+    "macro_precision": 0.9174311926605505,
+    "macro_recall": 0.898876404494382,
+    "macro_f1": 0.8987499999999999
+  },
+  "sr_only_test_Tamil": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "sr_only_test_Malayalam": {
+    "accuracy": 0.82,
+    "macro_f1": 0.8125
+  },
+  "RandomForest_cv": {
+    "mean_f1": 1.0,
+    "std_f1": 0.0,
+    "folds": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "RandomForest_test": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        182,
+        0
+      ],
+      [
+        0,
+        178
+      ]
+    ]
+  },
+  "RandomForest_test_Tamil": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "RandomForest_test_Malayalam": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "SVM-RBF_cv": {
+    "mean_f1": 1.0,
+    "std_f1": 0.0,
+    "folds": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "SVM-RBF_test": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        182,
+        0
+      ],
+      [
+        0,
+        178
+      ]
+    ]
+  },
+  "SVM-RBF_test_Tamil": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "SVM-RBF_test_Malayalam": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  }
+}

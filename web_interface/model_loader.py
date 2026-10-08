@@ -60,7 +60,7 @@ class ModelLoader:
                 return False
             
             self.text_model = create_muril_model(self.config.text_model)
-            checkpoint = torch.load(model_path, map_location=self.device)
+            checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
             self.text_model.load_state_dict(checkpoint['model_state_dict'])
             self.text_model = self.text_model.to(self.device)
             self.text_model.eval()
@@ -81,7 +81,7 @@ class ModelLoader:
                 return False
             
             self.audio_model = create_ssl_model(self.config)
-            checkpoint = torch.load(model_path, map_location=self.device)
+            checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
             self.audio_model.load_state_dict(checkpoint['model_state_dict'])
             self.audio_model = self.audio_model.to(self.device)
             self.audio_model.eval()
@@ -129,8 +129,8 @@ class ModelLoader:
                 config=enhanced_config
             )
             
-            # Load checkpoint
-            checkpoint = torch.load(model_path, map_location=self.device)
+            # Load checkpoint (weights_only=False for compatibility with older checkpoints)
+            checkpoint = torch.load(model_path, map_location=self.device, weights_only=False)
             self.enhanced_model.load_state_dict(checkpoint['model_state_dict'])
             self.enhanced_model = self.enhanced_model.to(self.device)
             self.enhanced_model.eval()

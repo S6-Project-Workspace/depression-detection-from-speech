@@ -125,3 +125,6 @@ figures/
 
 # Submission artifacts
 submissions/
+
+# Large archives (GitHub rejects >100 MB; keep local / share via Drive or Git LFS)
+*.zip
