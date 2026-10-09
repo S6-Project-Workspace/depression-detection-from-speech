@@ -1,0 +1,14 @@
+{
+ "raw16k|Malayalam|noise_floor_only_AUC": 0.9859954878736604,
+ "raw16k|Malayalam|speech_frames_only_AUC": 0.971456570783982,
+ "raw16k|Tamil|noise_floor_only_AUC": 0.9482690097682436,
+ "raw16k|Tamil|speech_frames_only_AUC": 0.6075967247653706,
+ "norm_v1|Malayalam|noise_floor_only_AUC": 0.7828637901861252,
+ "norm_v1|Malayalam|speech_frames_only_AUC": 0.9937944162436547,
+ "norm_v1|Tamil|noise_floor_only_AUC": 0.9136899061482475,
+ "norm_v1|Tamil|speech_frames_only_AUC": 0.9078912085807316,
+ "norm_v2_nfe|Malayalam|noise_floor_only_AUC": 0.8125423011844332,
+ "norm_v2_nfe|Malayalam|speech_frames_only_AUC": 0.9942498589960519,
+ "norm_v2_nfe|Tamil|noise_floor_only_AUC": 0.8939020302624019,
+ "norm_v2_nfe|Tamil|speech_frames_only_AUC": 0.8948549128519441
+}

@@ -1,0 +1,86 @@
+{
+  "A_descriptives": {
+    "Tamil_y0": {
+      "n": 920,
+      "dur_mean": 2.494532314311594,
+      "dur_std": 0.7500731622882527,
+      "zcr_resamp": 0.04666279226109597,
+      "zcr_norm": 0.06440804781753484,
+      "frac_16k": 0.0
+    },
+    "Tamil_y1": {
+      "n": 454,
+      "dur_mean": 6.520511150881058,
+      "dur_std": 1.274029753051187,
+      "zcr_resamp": 0.06540738402927482,
+      "zcr_norm": 0.0700327226392859,
+      "frac_16k": 1.0
+    },
+    "Malayalam_y0": {
+      "n": 900,
+      "dur_mean": 4.202683958333334,
+      "dur_std": 1.4264753933033973,
+      "zcr_resamp": 0.044003305998817924,
+      "zcr_norm": 0.06725431064999503,
+      "frac_16k": 0.0
+    },
+    "Malayalam_y1": {
+      "n": 788,
+      "dur_mean": 5.298063187394248,
+      "dur_std": 1.159461231414558,
+      "zcr_resamp": 0.10001487194961768,
+      "zcr_norm": 0.08522730408912382,
+      "frac_16k": 0.6395939086294417
+    }
+  },
+  "B_metadata_only": {
+    "Tamil_sr_only": {
+      "cv_acc": 1.0,
+      "test_acc": 1.0
+    },
+    "Tamil_duration_only": {
+      "cv_acc": 0.9803583278035832,
+      "test_acc": 0.96875
+    },
+    "Tamil_sr+duration": {
+      "cv_acc": 1.0,
+      "test_acc": 1.0
+    },
+    "Malayalam_sr_only": {
+      "cv_acc": 0.8317419626709743,
+      "test_acc": 0.82
+    },
+    "Malayalam_duration_only": {
+      "cv_acc": 0.7263129246922901,
+      "test_acc": 0.68
+    },
+    "Malayalam_sr+duration": {
+      "cv_acc": 0.847739364037013,
+      "test_acc": 0.855
+    }
+  },
+  "C_ablation_bal_acc_LR_5foldCV": {
+    "Tamil_all_features": 0.9923674151935022,
+    "Tamil_minus_metadata_correlated": 0.9797230185273662,
+    "Malayalam_all_features": 1.0,
+    "Malayalam_minus_metadata_correlated": 1.0
+  },
+  "D_matched_condition": {
+    "n_depressed_48k": 284,
+    "n_nondepressed_48k": 900,
+    "tamil_has_matched_condition": false,
+    "LR_groupcv_bal_acc_resamp": 1.0,
+    "LR_groupcv_bal_acc_norm": 1.0
+  },
+  "E_leakage": {
+    "md5_overlap": 0,
+    "filename_overlap_within_language": 0,
+    "duplicate_md5_inside_train": 1
+  },
+  "leak_test_handcrafted": {
+    "resamp_LR_predict_native_sr_auc": 0.9998259339766733,
+    "resamp_RF_predict_native_sr_auc": 0.9998262984193156,
+    "norm_LR_predict_native_sr_auc": 0.9986428432759242,
+    "norm_RF_predict_native_sr_auc": 0.9989036196479079
+  }
+}

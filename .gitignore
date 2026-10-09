@@ -128,3 +128,8 @@ submissions/
 
 # Large archives (GitHub rejects >100 MB; keep local / share via Drive or Git LFS)
 *.zip
+
+# regenerable pipeline caches (windows / embeddings, ~2 GB)
+final_pipeline/cache/
+final_pipeline/model/*.joblib.bak
+__pycache__/

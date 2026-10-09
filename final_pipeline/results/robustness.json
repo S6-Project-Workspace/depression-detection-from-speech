@@ -1,0 +1,322 @@
+[
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9916966786714685,
+  "bal_acc": 0.8774509803921569,
+  "macro_f1": 0.8736065117925125,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9996998799519807,
+  "bal_acc": 0.9899959983993598,
+  "macro_f1": 0.9899959983993598,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9918750000000001,
+  "bal_acc": 0.89375,
+  "macro_f1": 0.8925368416893841,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9886954781912765,
+  "bal_acc": 0.8380352140856342,
+  "macro_f1": 0.8319370527870439,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.9993997599039616,
+  "bal_acc": 0.9795918367346939,
+  "macro_f1": 0.9799679487179487,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 0.9846938775510203,
+  "macro_f1": 0.9849816024630171,
+  "features": "WavLM-L6",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.999375,
+  "bal_acc": 0.89375,
+  "macro_f1": 0.8925368416893841,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.889375,
+  "bal_acc": 0.8125,
+  "macro_f1": 0.8088867654085046,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.9984375000000001,
+  "bal_acc": 0.9375,
+  "macro_f1": 0.9372549019607843,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.97640625,
+  "bal_acc": 0.89375,
+  "macro_f1": 0.89354624085163,
+  "features": "WavLM-L6",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.8194277711084434,
+  "bal_acc": 0.7455982392957183,
+  "macro_f1": 0.7449426120877197,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9998999599839936,
+  "bal_acc": 0.9948979591836735,
+  "macro_f1": 0.9949968730456535,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.7046875,
+  "bal_acc": 0.58125,
+  "macro_f1": 0.49220785372554593,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 1.0,
+  "bal_acc": 1.0,
+  "macro_f1": 1.0,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.99234375,
+  "bal_acc": 0.95625,
+  "macro_f1": 0.95623461373139,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.901860744297719,
+  "bal_acc": 0.7144857943177271,
+  "macro_f1": 0.6942897696255049,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.6596638655462185,
+  "bal_acc": 0.578031212484994,
+  "macro_f1": 0.49286472461375164,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.9068627450980392,
+  "bal_acc": 0.7967186874749901,
+  "macro_f1": 0.7933030177759405,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9164665866346537,
+  "bal_acc": 0.8277310924369747,
+  "macro_f1": 0.8270776116366596,
+  "features": "HAND54",
+  "train": "Tamil",
+  "test": "Malayalam",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.79953125,
+  "bal_acc": 0.675,
+  "macro_f1": 0.6555721145885081,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.69234375,
+  "bal_acc": 0.625,
+  "macro_f1": 0.6240601503759399,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": false,
+  "test_view": "chanrand"
+ },
+ {
+  "auc": 0.96265625,
+  "bal_acc": 0.89375,
+  "macro_f1": 0.8937458494472441,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "clean"
+ },
+ {
+  "auc": 0.9259374999999999,
+  "bal_acc": 0.84375,
+  "macro_f1": 0.8436950490406784,
+  "features": "HAND54",
+  "train": "Malayalam",
+  "test": "Tamil",
+  "augmented_training": true,
+  "test_view": "chanrand"
+ }
+]
