@@ -94,12 +94,13 @@ LOSO = each fold holds out one depressed source **and** one non-depressed source
 | HAND54 | 0.983 / 0.999 | 1.000 (1.000) | 0.944 | 0.902 | 0.800 |
 | WavLM-base L6 | 0.999 / 1.000 | 1.000 (1.000) | 0.966 | 1.000 | 0.999 |
 | XLSR-53 L12 | 0.997 / 1.000 | 1.000 (1.000) | 0.988 | 1.000 | 1.000 |
+| ECAPA-TDNN (192-d) | 0.950 / 0.993 | 0.995 (0.995) | 0.934 | 1.000 | 0.996 |
 
 (Full grid incl. SVM, nuisance projection, ECAPA, oracle-best layer: `results/results_table.md`.)
 Layer scan (`results/fig_layerscan.png`): **every layer** of WavLM (min AUC 1.000) and XLSR-53 (min 0.998) already separates the classes — even layer 1, which is essentially signal-level.
 
 ### 4.5 ECAPA-TDNN note
-ECAPA (192-d, SpeechBrain VoxCeleb) is trained for speaker identity, which is exactly the property that encodes the recording environment. See `results/results_table.md` for its row if extraction finished; if the row is absent it was still running when this document was written — `python3 03b_ecapa.py && python3 05_evaluate.py` completes it.
+ECAPA (192-d, SpeechBrain VoxCeleb) is trained for speaker identity — exactly the property that encodes the recording environment. It is the *weakest* of the learned representations in source-held-out Malayalam (bal-acc 0.95 LR / 0.85–0.91 SVM+projection, AUC still 0.99) but still ≈ 1.00 on the organiser test and cross-lingual, i.e. it also reads the recording campaign. Row included in the table above and in `results/results_table.md`.
 
 ### 4.6 What this means
 * High scores are **not** evidence of acoustic depression detection. They are evidence that depressed and non-depressed recordings were collected in different recording set-ups, and that every representation (even a 54-number hand-crafted vector) can read that set-up.
